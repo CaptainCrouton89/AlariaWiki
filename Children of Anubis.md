@@ -16,3 +16,10 @@ Dog creatures, keep the dead dead, judge souls, very lawful.
 
 ### Aspects
 I am not afraid of death
+
+### Weigher of Souls
+Passive ability.
+As an action, you may place your hand on a creature’s chest to weigh their soul. When you do so, you learn:
+The weight of the creature’s soul. If it is heavier than a feather, than the creature is unjust, and deceitful. If it is lighter, than the opposite.
+What the last deceitful thing the creature said was.
+
