@@ -18,6 +18,11 @@
 - [Keletus](Keletus)
 - [Chimea](Chimea)
 - [New Chimea](New Chimea)
+- [Jeh Bli](Jeh Bli)
+- [Xoth](Xoth)
+- [Zelidia](Zelidia)
+- [Mueras](Mueras)
+- [Kurayt](Kurayt)
 
 # City States
 
