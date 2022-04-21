@@ -9,6 +9,7 @@
 - [Gnomes](Gnomes)
 - [Danaki](Danaki)
 - [Kor](Kor)
+- [Pixies](Pixies)
 
 # Other Races
 - [Ix Tyrann](Ix Tyrann)
