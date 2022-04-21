@@ -11,7 +11,7 @@
 - [Kor](Kor)
 
 # Other Races
-- [Ix Tyrann](IxTyrann)
+- [Ix Tyrann](Ix Tyrann)
 - [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
 - [Skaag](Skaag)
