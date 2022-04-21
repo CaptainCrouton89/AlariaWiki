@@ -25,6 +25,13 @@
 - [Kurayt](Kurayt)
 
 # City States
+- [Al Maqlubah](Al Maqlubah)
+- [Dar Qisu](Dar Qisu)
+- [Al Iwash](Al Iwash)
+- [El Djele](El Djele)
+- [Üod](Üod)
+- [Blvnird](Blvnird)
+- [Melaia](Melaia)
 
 # Other Peoples
 - Scorpion wanderers
