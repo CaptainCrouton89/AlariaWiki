@@ -1,1 +1,1 @@
-see [Shazuihn](Shazuihn (race)
+see [Shazuihn](Shazuihn (race))
