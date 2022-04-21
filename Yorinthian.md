@@ -1,7 +1,8 @@
 The Nabuyen are icy cold, cruel, and have corrupted ideas about the world. They live in the glaciers of Hannoweir, where they server their dragon goddess Nabuhe. All ultimately serve mother winter, whose code of tenets they follow strictly.
-Aspects
-Cold-hearted
-Myself and my beliefs are superior
-Winter Magic
-Major ability.
+### Aspects
+- Cold-hearted
+- Myself and my beliefs are superior
+
+### Winter Magic
+#### Major ability.
 By calling on the magic of your winter patron, you may cast winter magic. You may use your action to cast Grasp of the Ice Witch or Chilling Wind. For the next minute, whenever you hit an enemy with a melee weapon, you inflict one level of slowed.
