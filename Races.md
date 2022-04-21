@@ -1,7 +1,7 @@
 # [Humans](http://www.google.fr/ "Named link title")
 stuff
 
-# [[Elves]]
+# [Elves](http://localhost:5501/Elves)
 stuff
 
 # [[Dwarves]]
