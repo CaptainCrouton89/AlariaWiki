@@ -2,6 +2,6 @@
 - [Hedroscobbi (Black Orcs)](Hedroscobbi)
 - [Glivornaxi (Gray Orcs)](Glivornaxi)
 - [Tarni (Dark Eye Orcs)](Tarni)
-- [Shazhuin (Boar Riders)](Shazhuin)
+- [Shazuihn (Boar Riders)](Shazuihn)
 - [Uihonai (Wooden Men)](Uihonai)
 - [Griebi (Lake Men)](Griebi)
