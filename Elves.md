@@ -1,7 +1,10 @@
+Descendents of [Druids](Druids)
+
 # Types
-- Amverela (High Elves)
-- Vyko (Starling, Planar Elves)
-- Eloweir (Sea Elves)
-- Teflin (Blood Elves)
-- Caerine (Wood Elves)
-- Zaelian (Moon Elves)
+- [Amverela (High Elves)](Amverela)
+- [Vyko (Starling, Planar Elves)](Vyko)
+- [Eloweir (Sea Elves)](Eloweir)
+- [Teflin (Blood Elves)](Teflin)
+- [Caerine (Wood Elves)](Caerine)
+- [Zaelian (Moon Elves)](Zaelian)
+- [Pika (Bone Elves)](Pika)
