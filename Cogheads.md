@@ -9,6 +9,7 @@ Unfinished.
 ### Tinkerer
 #### Passive ability.
 Through tinkering and contraption building, you have found a way to improve on your body’s natural features. Choose one of the following modifications from the list below.
+
 - Spectacles. By switching out lenses on these glasses, you can see 
 	much more than otherwise. The first lens grants you infrared vision, out to 90 feet. 
     	The second  inverts light, making the dark into light and the light into dark. Dimly lit spaces remain dim. The third is a telescopic lens that lets you see as though you were 10 times closer.
