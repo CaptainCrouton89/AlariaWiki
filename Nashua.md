@@ -1,0 +1,1 @@
+Controlled by [Ix Tyrann](Ix Tyrann) and [Sylthik](Sylthik). Constantly at war with its neighbors [Trømgarr](Trømgarr) and [Gorath](Gorath).
