@@ -1,1 +1,3 @@
-asdf
+# Types
+- [Zelidia](Zelidia)
+- [Ianovko](Ianovko)
