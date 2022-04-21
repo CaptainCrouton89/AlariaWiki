@@ -1,6 +1,6 @@
 # Handy Links
-- [Races](http://localhost:5501/Races)
-- [Countries](http://localhost:5501/Elves)
+- [Races](Races)
+- [Countries](Elves)
 
 # How to use the wiki
 You can learn more on how to use the wiki [here](How to use the wiki)
