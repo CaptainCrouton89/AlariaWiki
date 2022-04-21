@@ -7,3 +7,4 @@
 - [Yorinthian (Winter Dwarves)](http://localhost:5501/Yorinthian)
 - [Geldling (Golden Eyes, Gold Dwarves](http://localhost:5501/Geldling)
 - [Strømgodden (Battle Dwarves](http://localhost:5501/Strømgodden)
+- [Aureum (Sun Dwarves)](http://localhost:5501/Aureum)
