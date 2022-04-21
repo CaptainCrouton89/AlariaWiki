@@ -5,6 +5,7 @@ stuff
 
 ## Major feature 2
 stuff
+
 # Subclasses
 
 ## Highborn
