@@ -23,3 +23,21 @@ As an action, you may place your hand on a creature’s chest to weigh their sou
 The weight of the creature’s soul. If it is heavier than a feather, than the creature is unjust, and deceitful. If it is lighter, than the opposite.
 What the last deceitful thing the creature said was.
 
+## Subclasses
+### Servant
+Servants of Anubis are loyal to their patron, Anubis himself. They seek to uphold his law, and in doing so, uphold what they see as the natural law of the universe. They are famous for taking down prominent liches, revenants, and other undead. Most carry silvered weapons, and will not hesitate to use them to perform their duties.
+
+#### Aspects
+- The dead must be dead
+
+Ward of Anubis
+Major ability.
+Roll your heart die nine times. Undead creatures within 45 feet take damage equal to the total result. For the next minute, undead creatures cannot move towards you.
+
+### Foresaken
+Use powers for less good terms
+Aspects
+I have no master!
+Ammut’s Justice
+Major ability.
+You begin to feed a still living person’s soul to Ammut. You may spend an action to cause a creature that you are touching to lose one level of its heart die. The creature must be either asleep, tied up, or in some other way completely incapacitated. Simply being restrained is not enough. 
