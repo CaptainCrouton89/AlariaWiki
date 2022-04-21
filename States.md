@@ -23,6 +23,11 @@
 - [Zelidia](Zelidia)
 - [Mueras](Mueras)
 - [Kurayt](Kurayt)
+- [Glivornax](GLivornax)
+- [Tarn](Tarn)
+- [Uhionai](Uhionai)
+- [Grieb](Grieb)
+- [Shazuihn](Shazuihn (state)]
 
 # City States
 - [Al Maqlubah](Al Maqlubah)
