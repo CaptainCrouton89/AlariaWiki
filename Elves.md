@@ -1,3 +1,7 @@
 # Types
 - Amverela (High Elves)
-- Caereen (Wood Elves)
+- Vyko (Starling, Planar Elves)
+- Eloweir (Sea Elves)
+- Teflin (Blood Elves)
+- Caerine (Wood Elves)
+- Zaelian (Moon Elves)
