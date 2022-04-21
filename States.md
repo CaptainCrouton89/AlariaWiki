@@ -27,7 +27,7 @@
 - [Tarn](Tarn)
 - [Uhionai](Uhionai)
 - [Grieb](Grieb)
-- [Shazuihn](Shazuihn (state))
+- [Shazuihn](Shazuihn)
 
 # City States
 - [Al Maqlubah](Al Maqlubah)
