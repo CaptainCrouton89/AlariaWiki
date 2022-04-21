@@ -19,6 +19,6 @@
 - [Rusalka](Rusalka)
 - [Satyr](Satyr)
 - [Krell](Krell)
-- [Children of Anubis](Children Of Anubis)
+- [Children of Anubis](Children of Anubis)
 - [Revenants](Revenants)
 - [Ghouls](Ghouls)
