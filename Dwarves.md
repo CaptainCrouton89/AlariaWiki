@@ -5,5 +5,5 @@
 - [Grendel (Chord Dwarves)](http://localhost:5501/Grendel)
 - [Verucan (Fireling, Volcanic Dwarves](http://localhost:5501/Verucan)
 - [Yorinthian (Winter Dwarves)](http://localhost:5501/Yorinthian)
-- [Geldlings (Golden Eyes, Gold Dwarves](http://localhost:5501/Geldlings)
+- [Geldling (Golden Eyes, Gold Dwarves](http://localhost:5501/Geldling)
 - [Strømgodden (Battle Dwarves](http://localhost:5501/Strømgodden)
