@@ -1,4 +1,4 @@
-# Handy Links
+# Frequently Visited
 - [Races](Races)
 - [States](States)
 - [Geography](Geography)
