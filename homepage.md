@@ -1,6 +1,6 @@
 # Handy Links
 - [Races](Races)
-- [Countries](Elves)
+- [Countries](Countries)
 
 # How to use the wiki
 You can learn more on how to use the wiki [here](How to use the wiki)
