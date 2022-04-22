@@ -29,7 +29,7 @@
 - [Grieb](Grieb)
 - [Shazuihn](Shazuihn)
 - [Qet Yemani](Qet Yemani)
-- [place]
+- [Movasi]
 
 # City States
 - [Al Maqlubah](Al%20Maqlubah)

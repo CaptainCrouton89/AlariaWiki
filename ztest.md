@@ -1,4 +1,11 @@
-[unlinked link] ad asd ads 
-[unlinked link f3 13 2] ad 
-[athint](asdf as)
-ads asdf [asd][unlinked link]
+dwarf
+Dwarf
+dwarven
+Dwarven
+dwarves
+Dwarves [dwarves](dwarf)
+Zintacas
+Elf
+elves
+Xoth  asd adsf ads da
+asd elven.
