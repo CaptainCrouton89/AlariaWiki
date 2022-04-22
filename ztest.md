@@ -1,34 +1,6 @@
-[dwarf](Dwarves)
-[Dwarf](Dwarves)
-[dwarven](Dwarves)
-[Dwarven](Dwarves)
-[dwarves](Dwarves)
-[Dwarves](Dwarves) [dwarves](dwarf)
-[Zintacas](Zintacas)
-[Elf](Elves)
-[elves](Elves)
-[Xoth](Xoth)  asd adsf ads da
-asd [elven](Elves).
-[Court](Court)
-[elves](Elves) 
-[Vyko](Vyko)
-[Races](Races) 
-[races](Races) 
-[vyko](Vyko) 
-[races](Races)
-[races](Races)
-[gizzard](gizzard)
-[too many fucking things](too many fucking things)
-[However, they now have commas]
-
-[races](Races)
-[races](Races)
-[races](Races)
-[races](Races)
-[vyko](Vyko)
-[races](Races)
-[races](Races)
-[vyko](Vyko)
-[elves](Elves)
-[elf](Elves)
-[zintacas](zintacas)
+Zintacas
+race
+[racer]
+[This is fast]
+Waddles
+elven doomsday [launcher]
