@@ -1,4 +1,4 @@
-&plains, &majorLandFeature, 
+Tags: plains, majorLandFeature, 
 
 See [Clueanda](Clueanda)
 
