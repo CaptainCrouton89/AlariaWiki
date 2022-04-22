@@ -55,8 +55,11 @@ Tags: [state](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
