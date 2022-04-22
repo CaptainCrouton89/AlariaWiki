@@ -2,7 +2,7 @@ Tags: race
 
 Links: [Races](Races)
 
-Many [races](Races) exist
+Yeah, lots of [Beastmen] here lol
 
 ## Major feature
 stuff
