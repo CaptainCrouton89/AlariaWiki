@@ -1,0 +1,1 @@
+Iylovia : [Gyv](Gyv) - Silver haired, telepathic humans. Aristocracy, where strongest mind controllers are at the top. Cutthroat society.
