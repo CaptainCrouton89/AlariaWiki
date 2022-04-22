@@ -28,6 +28,7 @@
 - [Uhionai](Uhionai)
 - [Grieb](Grieb)
 - [Shazuihn](Shazuihn)
+- [Qet Yemani](Qet Yemani)
 
 # City States
 - [Al Maqlubah](Al%20Maqlubah)
