@@ -12,13 +12,13 @@
 - [Pixies](Pixies)
 
 # Other Races
-- [Ix Tyrann](Ix Tyrann)
+- [Ix Tyrann](Ix%20Tyrann)
 - [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
 - [Skaag](Skaag)
 - [Rusalka](Rusalka)
 - [Satyr](Satyr)
 - [Krell](Krell)
-- [Children of Anubis](Children of Anubis)
+- [Children of Anubis](Children%20of%20Anubis)
 - [Revenants](Revenants)
 - [Ghouls](Ghouls)
