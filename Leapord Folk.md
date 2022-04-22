@@ -1,4 +1,6 @@
-Tags: Race
+Tags: race
+
+Links: [Races](Races)
 
 ## Major feature
 stuff
