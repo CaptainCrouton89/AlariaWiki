@@ -3,7 +3,6 @@ Tags: [state](States)
 ## Government & Peoples
 
 **Government Type**:
-
 **Primary Inhabitants**: 
 
 **Population**: 
