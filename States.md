@@ -17,7 +17,7 @@
 - [Kazül](Kazül)
 - [Keletus](Keletus)
 - [Chimea](Chimea)
-- [New Chimea](New+Chimea)
+- [New Chimea](New%20Chimea)
 - [Jeh Bli](Jeh Bli)
 - [Xoth](Xoth)
 - [Zelidia](Zelidia)
