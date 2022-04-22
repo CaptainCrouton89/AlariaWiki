@@ -1,0 +1,1 @@
+Elowensi: Sea elves, renown for poison, soldiers, water magical attunement, quality democracy
