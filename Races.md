@@ -7,8 +7,8 @@
 - [Orcs](Orcs)
 - [Goblins](Goblins)
 - [Gnomes](Gnomes)
-- [Danaki](Danaki)
-- [Kor](Kor)
+- [Minotaur](Minotaur)
+- [Leapord Folk](Leapord Folk)
 - [Pixies](Pixies)
 
 # Other Races

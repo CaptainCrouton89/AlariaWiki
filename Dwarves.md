@@ -1,7 +1,7 @@
 # Types
 - [Uline (Chain Dwarves)](Uline)
 - [Drasnian (Stout Dwarves)](Drasnian)
-- [Glorin (Goldeye Dwarves)](Glorin)
+- [Glorindian (Goldeye Dwarves)](Glorindian)
 - [Hestrube (Graylings, Stone Dwarves)](Hestrube)
 - [Grendel (Chord Dwarves)](Grendel)
 - [Verucan (Fireling, Volcanic Dwarves](Verucan)
