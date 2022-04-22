@@ -9,14 +9,14 @@
 - [Kyorda](Kyorda)
 - [Lethos](Lethos)
 - [Nashua](Nashua)
-- [Trømgarr](Trømgarr)
+- [[Trømgar](Trømgar)r](Trømgarr)
 - [Øsmil](Øsmil)
 - [Old Tolaria](Old%20Tolaria)
 - [Azawahasi](Azawahasi)
 - [Zintacas](Zintacas)
 - [Kazül](Kazül)
 - [Keletus](Keletus)
-- [Chimea](Chimea)
+- [[Chime](Chime)a](Chimea)
 - [New Chimea](New%20Chimea)
 - [Jeh Bli](Jeh%20Bli)
 - [Xoth](Xoth)
@@ -29,7 +29,7 @@
 - [Grieb](Grieb)
 - [Shazuihn](Shazuihn)
 - [Qet Yemani](Qet Yemani)
-- Movasi
+- [Movasi](Movasi)
 
 # City States
 - [Al Maqlubah](Al%20Maqlubah)
