@@ -1,1 +1,1 @@
-THis is zintacas
+THis is an [elf](Elves) and he is cute.
