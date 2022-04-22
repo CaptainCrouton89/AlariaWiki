@@ -1,6 +1,6 @@
 Tags: state
 
-Links: [States]
+Links: [States](States)
 
 ## Government & Peoples
 
@@ -15,7 +15,7 @@ Links: [States]
 **Core Values**: 
 
 - 
-[pesky link 2]
+
 
 ## Economy
 
@@ -28,7 +28,7 @@ Links: [States]
 **Primary Imports**: 
 
 - 
-[other link]
+
 
 ## Military
 
