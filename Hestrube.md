@@ -1,3 +1,7 @@
+Tags: race
+
+Links: [Races](Races)
+
 Made of stone, can pass through it like water.
 You gain an advanced attunement to stone.
 Generally live in colonies. Eat stone. 
