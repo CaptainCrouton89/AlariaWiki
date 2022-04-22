@@ -2,6 +2,8 @@ Tags: race
 
 Links: [Races](Races)
 
+Many races exist
+
 ## Major feature
 stuff
 
