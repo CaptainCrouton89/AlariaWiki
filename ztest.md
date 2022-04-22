@@ -17,6 +17,9 @@ asd [elven](Elves).
 [vyko](Vyko) 
 [races](Races)
 [races](Races)
+[gizzard](gizzard)
+[too many fucking things](too many fucking things)
+[However, they now have commas]
 
 [races](Races)
 [races](Races)
@@ -28,4 +31,4 @@ asd [elven](Elves).
 [vyko](Vyko)
 [elves](Elves)
 [elf](Elves)
-[zintacas](Zintacas)
+[zintacas](zintacas)
