@@ -2,7 +2,7 @@ Tags: race
 
 Links: [Races](Races)
 
-Many races exist
+Many [races](Races) exist
 
 ## Major feature
 stuff
