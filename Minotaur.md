@@ -18,5 +18,5 @@ Tags: [race](Races)
 
 ## Sub[races](Races)
 
-- [Danak](Danak)
+- [Danaki](Danaki)
 - [Lorean](Lorean)
