@@ -1,108 +1,69 @@
----
-title: Features
-author: Linbreux
----
-<!--Not used-->
+Tags: state
 
-# Footnotes
-```
-Here is a footnote reference,[^1] and another.
+## Government & Peoples
 
-[^1]: Here is the footnote.
-```
+**Government Type**:
 
-Here is a footnote reference,[^1] and another.
+**Primary Inhabitants**: 
 
-[^1]: Here is the footnote.
+**Population**: 
 
-```
-Here is an inline note.^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
-```
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
 
-Here is an inline note.^[Inlines notes are easier to write, since
-you don't have to pick an identifier and move down to type the
-note.]
+**Core Values**: 
 
-```
-(@good)  This is a good example.
-
-As (@good) illustrates, ...
-
-```
-
-(@good)  This is a good example.
-
-As (@good) illustrates, ...
-
-# Split lists
-
-```
-1.  one
-2.  two
-3.  three
-
-<!-- -->
-
-1.  uno
-2.  dos
-3.  tres
-```
-1.  one
-2.  two
-3.  three
+- 
 
 
-<!-- -->
+## Economy
 
-1.  uno
-2.  dos
-3.  tres
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
 
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
 
-## Change image size
-```
-![](https://i.ibb.co/Dzp0SfC/download.jpg){width="50%"}
-```
-![](https://i.ibb.co/Dzp0SfC/download.jpg){width="50%"}
+**Primary Exports**: 
 
-## References
+**Primary Imports**: 
 
-For references we use [pandoc-xnos](https://github.com/tomduck/pandoc-xnos)
-
-### Images
-
-```
-![This is a landscape](https://i.ibb.co/Dzp0SfC/download.jpg){#fig:id width="50%"}
-
-As show in @fig:id theire is a nice landscape
-```
-![This is a landscape](https://i.ibb.co/Dzp0SfC/download.jpg){#fig:landscape width="50%"}
+- 
 
 
-As show in @fig:landscape theire is a nice landscape
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
 
 
-## Math
-```
-$y = mx + b$ {#eq:id}
+## Geography
 
-This is visible in @eq:id
-```
-$y = mx + b$ {#eq:id}
+**Location**: 
 
-This is visible in @eq:id
+**Biomes**: 
 
-## Etc
+**Named Entities**:
 
-This is also possible for tables and sections. Same princip but with
+**Rivers & Lakes**: 
 
-```
-{#tbl:id} (for tables)
-{#sec:2} (for sections)
-```
+**Adjacent Waters**: 
 
-# Pandoc
 
-All default pandoc features are supported with the extend of mathjax and pandoc-xnos.
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

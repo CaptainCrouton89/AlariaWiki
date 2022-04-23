@@ -1,3 +1,69 @@
-See [Orcs](Orcs)
+Tags: state
 
-Uhionai: The Wooden Men: Bloodline tied into tree—you become tree, and then are reborn. Walking forests, strong bark skin when in tree form, live for centuries, and tons of wisdom. They can only grow in special soil however, so always have to return home. Weapons made from their wood are absurdly powerful (sentient, etc). 
+## Government & Peoples
+
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

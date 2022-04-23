@@ -1,7 +1,5 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
 **Government Type**:

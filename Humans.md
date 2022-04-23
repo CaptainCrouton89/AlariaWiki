@@ -1,10 +1,69 @@
-- [Oznak (Sandymen)](Oznak)
-- [Tikhaya (Wisened Ones)](Tikhaya)
-- [Vyanoweir (Dark Ones)](Vyanoweir)
-- [Jae-Kai (Jae-Kai Entanglers)](Jae-Kai)
-- [Drachma (Shantymen)](Drachma)
-- [Neth (Frosthearts)](Neth)
-- [Ulvsjael (Wolfmen)](Ulvsjael)
-- [Sharabha (Lionfolk)](Sharabha)
-- [Naga (Dragonborn)](Naga)
-- [Gyv (Mind Ripper)](Gyv)
+Tags: state
+
+## Government & Peoples
+
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

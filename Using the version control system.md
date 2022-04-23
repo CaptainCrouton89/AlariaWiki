@@ -1,30 +1,69 @@
-## Git
+Tags: state
 
-We use git as a version control system. Everytime you save a file it will commit it to git. You could also use the cli to add and commit files, make sure you are in the "wiki" folder, if you are still in the "wikmd" folder you are using the wrong git folder. 
+## Government & Peoples
 
-```
-git add . (or the specific file)
-git commit -m "your message" (default date of today)
-```
+**Government Type**:
 
-or you could just go to the homepage of the wiki, this will do all these automatic.
+**Primary Inhabitants**: 
 
-## How to go to previous file?
+**Population**: 
 
-cd inside 'wikmd/wiki'
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
 
-Find the version you would like to revert to.
+**Core Values**: 
 
-```
-git log -p file.md
-```
+- 
 
-This will give you a long commit string. Copy the first part of it. (for example b4b580411b)
 
-Modify the file
+## Economy
 
-```
-git checkout b4b580411b -- file.md
-```
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
 
-Now reload the homepage or use [git](#git) 
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

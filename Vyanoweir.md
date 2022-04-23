@@ -1,13 +1,69 @@
-Core Concept: Life is meaningless for survival of whole. Ritual casters—regularly sacrifice each other for good of society. Life after death is sacred. Believe in order to have good afterlife, one has to please gods well during mortal life, which is done through complex set of daily routines and customs. Once were incredibly militant empire, but it collapsed for unknown reasons? Gray skin, tattooed, not very readable by others, though they have their own complex social code
+Tags: state
 
-### Aspects
-All for one, one for all
-Pain means nothing
+## Government & Peoples
 
-### Deoric Ancestry
-Passive ability.
-You may read, write, and speak Deoric, and oath talents cost 2 less XP to take.
+**Government Type**:
 
-### Ritual Casters
-Passive ability.
-You do not need an altar, pentacle, or any other preparations or equipment to cast rituals, and you have advantage on checks to perform rituals.
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

@@ -1,8 +1,69 @@
-Blood is sacred?
-Curse running through veins
-Skin is reddish, terrifying
+Tags: state
 
-Have to let blood to prevent curse from being too powerful? The curse builds up in veins.
-The less health you have, the more damage you deal? the bigger the bonus? 
+## Government & Peoples
 
-Let blood to relieve curse. Old deoric enchantment—exchange immortality for curse. As curse builds up, if it gets too high, you just die, so you need to sacrifice hp to relieve it. In exchange, you get power. The lower your health is (through your own blood letting only?), the more power you have. 
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

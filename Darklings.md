@@ -1,3 +1,69 @@
-Live in [Lethos](http://localhost:5501/Lethos)
+Tags: state
 
-pitch black, dark skinned goblins. Magical attunement with darkness. Super creepy, live in villages, eat rodents + bats. They will fuck you up in the dark. Their darkness attunement is stronger, and can’t be seen through except by them, and can’t be overpowered except by magical light. The druids also live here, pocketed away in hermit cottages. Druids are the forefathers of the elves—longer ears, dying out, paler, much stronger nature magic. 
+## Government & Peoples
+
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

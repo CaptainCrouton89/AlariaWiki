@@ -1,16 +1,69 @@
-Tags: race, state
+Tags: state
 
-Links: [Races](Races), [States](States)
+## Government & Peoples
 
-Multi-armed, long lived, completely independent with no family (spawn asexually).
-Multiple arms allow for multiple actions and stuff
-Don’t sleep, just meditate. Alien perspective view on the world due to very undeveloped sense of empathy. Still understand good and bad, but no “natural” empathy. 
-Aspects
-Apathetic to mortal concerns
-Eternally solitary
-Two Pairs of Arms
-Passive ability.
-You have two sets of arms. You may take an additional interact action each turn, and may do anything else that extra arms would allow you to do, such as wielding heavy weapons, and grappling additional targets.
-Meditative
-Passive ability.
-You don’t need to sleep. Instead, you can meditate for four hours and gain an equivalent amount of rest. While meditating, you have disadvantage on all ability checks, but remain aware of your surroundings.
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

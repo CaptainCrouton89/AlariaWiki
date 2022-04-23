@@ -1,7 +1,5 @@
 Tags: state
 
-Links: [States]
-
 ## Government & Peoples
 
 **Government Type**:
@@ -15,7 +13,7 @@ Links: [States]
 **Core Values**: 
 
 - 
-[pesky link 2]
+
 
 ## Economy
 
@@ -28,7 +26,7 @@ Links: [States]
 **Primary Imports**: 
 
 - 
-[other link]
+
 
 ## Military
 

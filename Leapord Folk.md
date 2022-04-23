@@ -1,30 +1,69 @@
-Tags: [race](Races)
+Tags: state
 
-Links: [Races](Races)
+## Government & Peoples
 
-Yeah, lots of [Beastmen](Beastmen) here lol
+**Government Type**:
 
-## Major feature
-stuff
+**Primary Inhabitants**: 
 
-## Major feature 2
-stuff
+**Population**: 
 
-# Subclasses
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
 
-## Highborn
-description stuff
+**Core Values**: 
 
-### Ability 1
-stuff
+- 
 
-### Ability 2
-stuff
 
-## Lowborn 
-description stuff
+## Economy
 
-### Ability 1 ###
-stuff
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
 
-### Ability 2 ###
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

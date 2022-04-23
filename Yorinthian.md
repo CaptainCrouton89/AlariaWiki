@@ -1,8 +1,69 @@
-The Nabuyen are icy cold, cruel, and have corrupted ideas about the world. They live in the glaciers of Hannoweir, where they server their dragon goddess Nabuhe. All ultimately serve mother winter, whose code of tenets they follow strictly.
-### Aspects
-- Cold-hearted
-- Myself and my beliefs are superior
+Tags: state
 
-### Winter Magic
-#### Major ability.
-By calling on the magic of your winter patron, you may cast winter magic. You may use your action to cast Grasp of the Ice Witch or Chilling Wind. For the next minute, whenever you hit an enemy with a melee weapon, you inflict one level of slowed.
+## Government & Peoples
+
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
+- 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+

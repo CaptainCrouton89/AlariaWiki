@@ -1,45 +1,69 @@
-# States
-- [Adron](Adron)
-- [Tornia](Tornia)
-- [Sylke](Sylke)
-- [Joswik](Joswik)
-- [Myorna](Myorna)
-- [Gorath](Gorath)
-- [Kyagos](Kyagos)
-- [Kyorda](Kyorda)
-- [Lethos](Lethos)
-- [Nashua](Nashua)
-- [[Trømgar](Trømgar)r](Trømgarr)
-- [Øsmil](Øsmil)
-- [Old Tolaria](Old%20Tolaria)
-- [Azawahasi](Azawahasi)
-- [Zintacas](Zintacas)
-- [Kazül](Kazül)
-- [Keletus](Keletus)
-- [[Chime](Chime)a](Chimea)
-- [New Chimea](New%20Chimea)
-- [Jeh Bli](Jeh%20Bli)
-- [Xoth](Xoth)
-- [Zelidia](Zelidia)
-- [Mueras](Mueras)
-- [Kurayt](Kurayt)
-- [Glivornax](Glivornax)
-- [Tarn](Tarn)
-- [Uhionai](Uhionai)
-- [Grieb](Grieb)
-- [Shazuihn](Shazuihn)
-- [Qet Yemani](Qet Yemani)
-- [Movasi](Movasi)
+Tags: state
 
-# City States
-- [Al Maqlubah](Al%20Maqlubah)
-- [Dar Qisu](Dar%20Qisu)
-- [Al Iwash](Al%20Iwash)
-- [El Djele](El%20Djele)
-- [Üod](Üod)
-- [Blvnird](Blvnird)
-- [Melaia](Melaia)
+## Government & Peoples
 
-# Other Peoples
-- Scorpion wanderers
+**Government Type**:
+
+**Primary Inhabitants**: 
+
+**Population**: 
+
+**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+
+**Core Values**: 
+
 - 
+
+
+## Economy
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+
+**Primary Exports**: 
+
+**Primary Imports**: 
+
+- 
+
+
+## Military
+
+**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+
+**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+
+**Enrollment**: [Voluntary, Mandatory]
+
+- 
+
+
+## Geography
+
+**Location**: 
+
+**Biomes**: 
+
+**Named Entities**:
+
+**Rivers & Lakes**: 
+
+**Adjacent Waters**: 
+
+
+## Political Geography
+
+**Capital**: 
+**Cities**: 
+**Towns**: 
+**Villages**: 
+
+
+## Primary Conflicts
+
+- 
+
+
+## History
+
