@@ -1,5 +1,5 @@
 [Goblins](Goblins)
-Coghead
+[Cogheads](Cogheads)
 
 Machinery/gears, contraptions. Have augmented your body with machinery in some way. Eye, arms, boots, pack, arm-tool, saw, wings. 
 Unfinished.
