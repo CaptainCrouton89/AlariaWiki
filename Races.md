@@ -1,17 +1,17 @@
-# Major Races
+# Major [Races](Races)
 - [Humans](Humans)
 - [Elves](Elves)
 - [Dwarves](Dwarves)
 
-# Minor Races
+# Minor [Races](Races)
 - [Orcs](Orcs)
 - [Goblins](Goblins)
 - [Gnomes](Gnomes)
 - [Minotaur](Minotaur)
-- [Leapord Folk](Leapord Folk)
+- [Leapord Folk](Leapord%20Folk)
 - [Pixies](Pixies)
 
-# Other Races
+# Other [Races](Races)
 - [Ix Tyrann](Ix%20Tyrann)
 - [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
