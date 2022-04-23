@@ -1,6 +1,22 @@
-Zintacas
-race
-[racer]
-[This is fast]
-Waddles
-elven doomsday [launcher]
+Tags: [race](Races)
+
+## Overview
+
+
+
+## Physical Appearance
+
+
+
+## Cultural Overview
+
+
+
+## History
+
+
+
+## Subraces
+
+- [Danaki](Danaki)
+- [Lorean](Lorean)

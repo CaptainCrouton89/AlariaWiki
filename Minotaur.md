@@ -16,7 +16,7 @@ Tags: [race](Races)
 
 
 
-## Sub[races](Races)
+## Subraces
 
 - [Danaki](Danaki)
 - [Lorean](Lorean)
