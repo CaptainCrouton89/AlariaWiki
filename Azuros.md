@@ -1,4 +1,4 @@
-Tags: [state](States)
+Tags: state
 
 ## Government & Peoples
 
@@ -55,8 +55,11 @@ Tags: [state](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
