@@ -40,6 +40,7 @@
 - [Üod](Üod)
 - [Blvnird](Blvnird)
 - [Melaia](Melaia)
+- [Solhalven](Solhalven)
 
 # Other Peoples
 - Scorpion wanderers
