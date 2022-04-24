@@ -2,15 +2,15 @@ Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Humans](Humans), [Naga](Naga), [Aureum](Aureum)
 
-**Population**: 
+**Population**: 200,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Stable
 
-**Core Values**: 
+**Core Values**: Strength, expansion, wealth, ambition
 
 - 
 
@@ -65,7 +65,8 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- 
+- [Chimea](Chimea) is currently waging a vicious war in [New Chimea](New Chimea), trying to destroy the [elves](Elves) in [Vystrilik](Vystrilik) in the south, while keeping the [Ix Tyrann](Ix Tyrann) at bay in the north.
+- At home, they are trying to keep a rebellious Aureum population under control. After conquering their territory and enveloping many of their people, the [dwarves](Dwarves) wish to revolt.
 
 
 ## History
