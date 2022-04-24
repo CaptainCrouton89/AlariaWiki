@@ -16,7 +16,7 @@
 - [Zintacas](Zintacas)
 - [Kazül](Kazül)
 - [Keletus](Keletus)
-- [[Chime](Chime)a](Chimea)
+- Chimea
 - [New Chimea](New%20Chimea)
 - [Jeh Bli](Jeh%20Bli)
 - [Xoth](Xoth)
