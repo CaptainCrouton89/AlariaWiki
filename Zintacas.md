@@ -1,10 +1,8 @@
-Tags: state
-
-Links: [States]
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: 
 
 **Primary Inhabitants**: 
 
@@ -15,7 +13,6 @@ Links: [States]
 **Core Values**: 
 
 - 
-[pesky link 2]
 
 ## Economy
 
@@ -28,7 +25,6 @@ Links: [States]
 **Primary Imports**: 
 
 - 
-[other link]
 
 ## Military
 
@@ -57,8 +53,11 @@ Links: [States]
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
