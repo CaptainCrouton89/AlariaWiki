@@ -18,5 +18,5 @@ Tags: [race](Races)
 
 ## Subraces
 
-- Sylzar
+- [Silzar](Silzar)
 - 
