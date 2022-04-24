@@ -66,7 +66,7 @@ Tags: [state](States)
 ## Primary Conflicts
 
 - [Chimea](Chimea) is currently waging a vicious war in [New Chimea](New Chimea), trying to destroy the [elves](Elves) in [Vystrilik](Vystrilik) in the south, while keeping the [Ix Tyrann](Ix Tyrann) at bay in the north.
-- At home, they are trying to keep a rebellious Aureum population under control. After conquering their territory and enveloping many of their people, the [dwarves](Dwarves) wish to revolt.
+- At home, they are trying to keep a rebellious [Aureum](Aureum) population under control. After conquering their territory and enveloping many of their people, the [dwarves](Dwarves) wish to revolt.
 
 
 ## History
