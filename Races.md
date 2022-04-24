@@ -14,6 +14,7 @@
 
 # Other [Races](Races)
 - [Ix Tyrann](Ix Tyrann)
+- Gyve
 - [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
 - [Skaag](Skaag)
@@ -23,3 +24,4 @@
 - [Children of Anubis](Children of Anubis)
 - [Revenants](Revenants)
 - [Ghouls](Ghouls)
+- [Dwelyn](Dwelyn)

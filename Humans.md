@@ -7,4 +7,4 @@
 - [Ulvsjael (Wolfmen)](Ulvsjael)
 - [Sharabha (Lionfolk)](Sharabha)
 - [Naga (Dragonborn)](Naga)
-- [Gyv (Mind Ripper)](Gyv)
+- [Husakas](Husakas)
