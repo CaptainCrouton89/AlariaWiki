@@ -19,4 +19,4 @@ Tags: [race](Races)
 ## Subraces
 
 - [Silzar](Silzar)
-- 
+- [Groyza](Groyza)
