@@ -1,12 +1,12 @@
-Tags: race, elf, orc
+Tags: [race](Races), [elf](Elves), [orc](Orcs)
 
 ## Overview
 
-Dwelyn - Dark greenish skinned half elf, half orc race. Necromancy, gardens (entertained—life from death, death from life), magnificent cathedrals built into the trees and gardens.
+[Dwelyn](Dwelyn) - half elf, half orc [race](Races)
 
 ## Physical Appearance
 
-
+Dark greenish skinned 
 
 ## Cultural Overview
 
