@@ -2,7 +2,7 @@ Tags: [race](Races), [elf](Elves), [orc](Orcs)
 
 ## Overview
 
-[Dwelyn](Dwelyn) - half elf, half orc [race](Races)
+[Dwelyn](Dwelyn) - half [elf](Elves), half [orc](Orcs) [race](Races). Primarily reside in [Rilyn](Rilyn).
 
 ## Physical Appearance
 
