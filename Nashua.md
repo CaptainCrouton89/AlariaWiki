@@ -1,12 +1,12 @@
 Tags: state
 
-Links: [States](States)
+Ix Tyrann + Sylthik: Sylthik overlords, power hungry combo with blood thirsty ix tyrant. Fighting on both fronts. Sylthik prepare concoctions that are fed to the ix tyrann. Gorath is encroaching.
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Ix Tyrann, Sylthik
 
 **Population**: 
 

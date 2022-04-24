@@ -4,7 +4,7 @@ Tags: state
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Strømgodden dwarves
 
 **Population**: 
 
