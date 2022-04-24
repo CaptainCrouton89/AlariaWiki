@@ -1,16 +1,14 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Humans](Humans)
 
-**Population**: 
+**Population**: 20,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Unstable
 
 **Core Values**: 
 
@@ -19,24 +17,24 @@ Links: [States](States)
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: Plunder from captured [Vystrilik](Vystrilik) towns
 
-**Primary Imports**: 
+**Primary Imports**: Soldiers
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very Low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
 - 
 
@@ -45,7 +43,7 @@ Links: [States](States)
 
 **Location**: 
 
-**Biomes**: 
+**Biomes**: Jungle
 
 **Named Entities**:
 
@@ -57,14 +55,18 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Currently at war with Vystrilik.
+- Upset with their subjugated position towards [Chimea](Chimea). Those in power feel snubbed, and wish to control their new country themselves.
 
 
 ## History
