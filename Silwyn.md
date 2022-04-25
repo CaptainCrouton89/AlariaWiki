@@ -1,45 +1,46 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Silzar](Silzar)
 
-**Population**: 
+**Population**: 20,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Somewhat Stable
 
-**Core Values**: 
+**Core Values**: Kindness, strength, toughness, grit, connection to the plains
 
 - 
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very Small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Somewhat Developed
 
-**Primary Exports**: 
+**Primary Exports**: Cannons
 
-**Primary Imports**: 
+**Primary Imports**: Metals, gunpowder
 
-- 
+- The Silzar are competent craftsmen, and are the only ones who build and use cannons
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- The Silzar employ elephants in their raids. All it takes is a dozen Silzar on elephants to destroy a village and make off with the loot
+- [Silwyn](Silwyn) makes most of its money from raids performed on [Ilyovia](Ilyovia). They wear special ear protection and rely on the trumpeting elephants to drown out the suggestions made by the [Gyv](Gyv).
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,17 +53,22 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Silwyn and [Ilyovia](Ilyovia) are in a nigh-constant state of war, as the Silzar make raids, and the Gyv try to fend them off.
+- The struggle to procure new cannons and more gunpowder are eternal. There are never enough resources, and everything they steal goes into trading for iron.
+- Some people want to make an alliance with the Gyv.
 
 
 ## History
