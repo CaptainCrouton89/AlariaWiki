@@ -5,4 +5,6 @@ A [planar stack](Planar Stack) consists of a series of [planes](Planes), clumped
 ## Major Planar Stacks
 - [Alaria](Alaria)
 - [Epyphiozath](Epyphiozath)
+
+## Minor Planar Stacks
 - [Instruxofinum](Instruxofinum)
