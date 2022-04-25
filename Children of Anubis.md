@@ -1,7 +1,5 @@
 Tags: [race](Races)
 
-Links: [Races](Races)
-
 Anubis is one of several servants of Kahz, Lord of Malstaris. Anubis is in charge of ensuring that the shadows of the dead make it to Malstaris, and stay there, as well as weighing their souls for determining whether they enter the Gardens of Glyss—a paradise in Kahz’s palace—or the Black Wastes—the name given to everything beyond. 
 
 Long ago, while on a trip to the material plane, Anubis had children with a mortal on the material plane, who then gave birth to the first [children of Anubis](Children of Anubis). Every [child of Anubis](Children of Anubis) passes on their heritage to their children, and thus the bloodline does not wane.
@@ -32,5 +30,5 @@ What the last deceitful thing the creature said was.
 - [Servants of Anubis](Servants of Anubis)
 - [Foresaken](Foresaken)
 
-### Foresaken
+### [Foresaken](Foresaken)
 
