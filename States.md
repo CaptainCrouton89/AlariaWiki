@@ -31,8 +31,9 @@
 - [Qet Yemani](Qet Yemani)
 - [Movasi](Movasi)
 - [Ilyovia](Ilyovia)
-- Ta Linn
-- 
+- [Ta Linn](Ta Linn)
+- [Tamadrez](Tamadrez)
+
 
 # Citystates
 - [Al Maqlubah](Al%20Maqlubah)
@@ -43,8 +44,8 @@
 - [Blvnird](Blvnird)
 - [Melaia](Melaia)
 - [Solhalven](Solhalven)
-- Maun
-- 
+- [Maun](Maun)
+- [Wisgarrd](Wisgarrd)
 
 # Other Peoples
 - Scorpion wanderers
