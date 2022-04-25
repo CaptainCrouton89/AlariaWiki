@@ -8,4 +8,4 @@
 - [Sharabha (Lionfolk)](Sharabha)
 - [Naga (Dragonborn)](Naga)
 - [Husakas](Husakas)
-- 
+- [The Guiltless](The Guiltless)
