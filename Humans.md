@@ -9,3 +9,4 @@
 - [Naga (Dragonborn)](Naga)
 - [Husakas](Husakas)
 - [The Guiltless](The Guiltless)
+- [Shontobi](Shontobi)
