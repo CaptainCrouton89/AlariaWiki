@@ -1,4 +1,4 @@
-Tags: [planes](Planes)
+Tags: [planes](Planes), [planar stack](Planar Stack)
 
 ## Glyssen
 
