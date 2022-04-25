@@ -4,7 +4,7 @@
 - [Forests](Forests)
 - [Plains](Plains)
 
-## Land [Features](Features)
+## Land Features
 
 - [Major Land Features](Major Land Features)
 
