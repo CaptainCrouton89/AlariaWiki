@@ -14,7 +14,11 @@
 
 # Other [Races](Races)
 - [Ix Tyrann](Ix Tyrann)
-- Gyve
+- [Gyv](Gyv)
+- [Kendrel](Kendrel)
+- [Nyolci](Nyolci)
+- [Lyzine](Lyzine)
+- [Chargon](Chargon)
 - [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
 - [Skaag](Skaag)
