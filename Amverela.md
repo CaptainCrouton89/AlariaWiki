@@ -1,1 +1,1 @@
-[Elves](Elves)
+Tags: [race](Races), [elf](Elves)
