@@ -2,6 +2,7 @@
 - [Races](Races)
 - [States](States)
 - [Geography](Geography)
+- [Traveling Encounters](Traveling Encounters)
 
 # [How to use the wiki](How to use the wiki)
 You can learn more on [how to use the wiki](How to use the wiki) [here](How to use the wiki)
