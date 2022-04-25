@@ -33,6 +33,7 @@
 - [Ilyovia](Ilyovia)
 - [Ta Linn](Ta Linn)
 - [Tamadrez](Tamadrez)
+- [Ubrik](Ubrik)
 
 
 # Citystates
