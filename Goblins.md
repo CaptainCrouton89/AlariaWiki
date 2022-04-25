@@ -4,4 +4,5 @@
 - [Etherweavers](Etherweavers)
 - [Darklings](Darklings)
 - [Ruddings](Ruddings)
-- [Red Devils](Red%20Devils)
+- [Red Devils](Red Devils)
+- [Blitzling](Blitzling)
