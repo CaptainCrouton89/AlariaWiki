@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 Links: [States](States)
 
@@ -6,22 +6,23 @@ Links: [States](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Shontobi](Shontobi)
 
-**Population**: 
+**Population**: 600,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Unstable
 
-**Core Values**: 
+**Core Values**: Cunning, tactical prowess, sharp mindedness, courage, bravery, honor, family, tradition
 
-- 
+- Powerful family houses dominate the government. Each family may control several nearby towns or villages.
+- Nobility and being a competent fighter are tightly tied together.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Somewhat Developed
 
 **Primary Exports**: 
 
@@ -32,20 +33,20 @@ Links: [States](States)
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- Although their military is quite large, it is fragmented between the houses, which are frequently at war with each other.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
-**Biomes**: 
+**Biomes**: Plains, desert
 
 **Named Entities**:
 
@@ -54,17 +55,21 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Most of the conflict within [Shyona](Shyona) is from within—power struggles across the houses
+- Occasionally, houses fragment as brothers, jealous for their eldest brother's inheritance, backstab each other, bringing great shame to their families
 
 
 ## History
