@@ -1,0 +1,1 @@
+Planes are scattered throughout the universe, in clumps called "[Planar Stacks](Planar Stack)"
