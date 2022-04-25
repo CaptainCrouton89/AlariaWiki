@@ -1,3 +1,4 @@
+# header
 Tags: [state](States)
 
 ## Government & Peoples
@@ -25,7 +26,7 @@ Tags: [state](States)
 
 **Primary Imports**: Metals, gunpowder
 
-- The Silzar are competent craftsmen, and are the only ones who build and use cannons
+- The [Silzar](Silzar) are competent craftsmen, and are the only ones who build and use cannons
 
 
 ## Military
@@ -66,7 +67,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- Silwyn and [Ilyovia](Ilyovia) are in a nigh-constant state of war, as the Silzar make raids, and the Gyv try to fend them off.
+- [Silwyn](Silwyn) and [Ilyovia](Ilyovia) are in a nigh-constant [state](States) of war, as the Silzar make raids, and the [Gyv](Gyv) try to fend them off.
 - The struggle to procure new cannons and more gunpowder are eternal. There are never enough resources, and everything they steal goes into trading for iron.
 - Some people want to make an alliance with the Gyv.
 
