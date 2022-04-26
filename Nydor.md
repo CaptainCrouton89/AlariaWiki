@@ -1,6 +1,6 @@
 Tags: [race](Races), [dwarf](Dwarves)
 
-Break away sect from the sun [dwarves](Dwarves). Worshipped the darkness and all that it brought. 
+Break away sect from the [Aureum](Aureum). Worshipped the darkness and all that it brought. 
 
 Slavers, huge hellish forges. Have tusks, dark ashen skin, hair that's never cut.
 
