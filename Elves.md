@@ -1,3 +1,5 @@
+Tags: [race](Races)
+
 Descendents of [Druids](Druids)
 
 # Types
