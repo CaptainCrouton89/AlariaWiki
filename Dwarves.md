@@ -1,3 +1,5 @@
+Tags: [race](Races)
+
 # Types
 - [Uline (Chain Dwarves)](Uline)
 - [Drasnian (Stout Dwarves)](Drasnian)

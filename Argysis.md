@@ -1,44 +1,43 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Uline
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very Stable
 
-**Core Values**: 
+**Core Values**: Family, tradition, strength, spartan lifestyle
 
-- 
+- Living without pleasure is viewed as incredibly dignifiying and noble. To sacrifice is the utmost honor.
+- Gift giving is a critical component of Agrysisean society.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Metal smithing, iron, admantium
 
-**Primary Imports**: 
+**Primary Imports**: Chemicals, textiles
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- An  elite force within the military are known as axe-bearers. The axe-bearers are an elite force of dwarves, known for being able to break any siege. They are highly capable of tunneling and underground combat.
 
 
 ## Geography
@@ -57,14 +56,18 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- The [Hephakean](Hephake) dragon destroyed Argysisean sibling colony—Hephake.
+- Progress and development has slowed due to the oppressive pressure to remain in tradition rather than innovate.
 
 
 ## History

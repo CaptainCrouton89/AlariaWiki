@@ -1,44 +1,44 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Sedentary tribes
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Enti
 
-**Population**: 
+**Population**: 90,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Somewhat stable
 
-**Core Values**: 
+**Core Values**: Raw strength, dominance, athleticism
 
-- 
+- Dozens of enti tribes live across Atyeska, in constantly shifting territories. Battle is not uncommon, and taking prisoners is customary.
+- Prisoners become slaves to the tribe, and are treated not inhumanely. They grow up in a tribe, and die in the tribe, and have relatively safe lives.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: Pelts, animal products
 
-**Primary Imports**: 
+**Primary Imports**: Technology
 
-- 
+- The Atyeska economy is primarily centered around trade. Lianthan Currency is worth very little here.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Medium
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- Although a significant portion of Atyeskans are members of the military, since they are not under one cohesive nation, that military is not united, and therefore significantly less powerful.
+- Joining the military is not mandatory, but expected
 
 
 ## Geography
@@ -57,14 +57,17 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Although Atyeskan tribes are always at war with each other, the enti along the western border are stuck fighting a second war against the Danaki.ddddf.
 
 
 ## History
