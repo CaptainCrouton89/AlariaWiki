@@ -1,7 +1,5 @@
 Tags: race, state
 
-Links: [Races](Races), [States](States)
-
 Multi-armed, long lived, completely independent with no family (spawn asexually).
 Multiple arms allow for multiple actions and stuff
 Don’t sleep, just meditate. Alien perspective view on the world due to very undeveloped sense of empathy. Still understand good and bad, but no “natural” empathy. 

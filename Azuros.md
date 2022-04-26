@@ -1,44 +1,45 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Theocracy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Humans
 
-**Population**: 
+**Population**: 8,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very Stable
 
-**Core Values**: 
+**Core Values**: Discipline, silence, respect, abstinance from pleasure
 
-- 
+- Various subsects of the Shogi Monastery practice there in different monk groups. Each is managed by a head monk, who is part of the [Council of the Silent Elders](Council of the Silent Elders) which looks over the mountain. 
+- Families are raised in simple stone houses built on the side of the mountain.
+- A large percentage of the population have attunements to air, due to the high altitude of the mountains and powerful winds that blow by.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: Air elemental masters
 
-**Primary Imports**: 
+**Primary Imports**: None
 
-- 
+- Azuros is little more than a couple villages, so there is little economy to speak of.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: NOne
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: n/a
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Forbidden
 
-- 
+- The Azuros monks forbid violence. To become involved in a physical atercation is shameful. 
+- There is little wealth to steal from the Azuros, and so no one does.
 
 
 ## Geography
@@ -57,14 +58,17 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Traveling to Azuros is like traveling back in time. Azuros interacts so little with the rest of the world that it has somewhat fallen behind.
 
 
 ## History

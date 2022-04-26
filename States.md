@@ -34,6 +34,7 @@
 - [Ta Linn](Ta Linn)
 - [Tamadrez](Tamadrez)
 - [Ubrik](Ubrik)
+- [Atriik](Atriik)
 
 
 # Citystates

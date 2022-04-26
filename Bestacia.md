@@ -1,44 +1,42 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Democratic republic
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Goshwen, Ghouls
 
-**Population**: 
+**Population**: 30,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Freedom, invention, independence, gratitude
 
-- 
+- Bestacia boasts one of the happiest populations on Alaria. There is plentiful food, rewarding lifestyles, and gratitude abound.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Research, inventions
 
-**Primary Imports**: 
+**Primary Imports**: A little bit of nearly everything
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- The Bestacia military suffers from severe undefunding.
 
 
 ## Geography
