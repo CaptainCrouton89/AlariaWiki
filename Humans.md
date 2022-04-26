@@ -1,3 +1,5 @@
+Tags: [race](Races)
+
 - [Oznak (Sandymen)](Oznak)
 - [Tikhaya (Wisened Ones)](Tikhaya)
 - [Vyanoweir (Dark Ones)](Vyanoweir)
