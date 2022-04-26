@@ -9,4 +9,5 @@ A [planar stack](Planar Stack) consists of a series of [planes](Planes), clumped
 - [Instruxofinum](Instruxofinum)
 
 ## Minor Planar Stacks
+
 - 
