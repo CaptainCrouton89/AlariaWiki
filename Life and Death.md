@@ -1,4 +1,4 @@
-A creature’s life is dictated by the health and union of their [soul](Life and Death), [shadow](Life and Death), and [spirit](Life and Death). At the center of their being is their spirit, which is the spark of free will and personality that defines who they are. Wrapped on either side are the soul and shadow, the astral and malstaric counterbalances of the spirit, which together give life and movement to the spirit they are bound to. While still critical to life, they do not define who the person is.
+A creature’s life is dictated by the health and union of their [soul](Life and Death), [shadow](Life and Death), and [spirit](Life and Death). At the center of their being is their [spirit](Life and Death), which is the spark of free will and personality that defines who they are. Wrapped on either side are the [soul](Life and Death) and [shadow](Life and Death), the astral and malstaric counterbalances of the spirit, which together give life and movement to the spirit they are bound to. While still critical to life, they do not define who the person is.
 
 ## Astral & Malstaric Thread
 
@@ -8,10 +8,11 @@ If the thread is not broken but still damaged, it can nevertheless have serious 
 
 ## Beings In Between
 
-Various names are given to the creatures with different combinations of soul, shadow, and spirit. 
+Various names are given to the creatures with different combinations of soul, shadow, and [spirit](Life and Death). 
 
 - [Revenants](Revenants)
 - [Ghosts](Ghosts)
-- Undead
-- Specters
-- Liches
+- [Shades](Shades)
+- [Undead](Undead)
+- [Specters](Specters)
+- [Liches](Liches)
