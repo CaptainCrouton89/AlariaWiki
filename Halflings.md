@@ -1,4 +1,4 @@
 - [Fieri](Fieri)
 - [Dengar](Dengar)
 - [Wispen](Wispen)
-- [Pindu](Pindu)
+- [Shaoli](Shaoli)
