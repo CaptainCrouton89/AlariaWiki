@@ -1,8 +1,8 @@
-Tags: race
+Tags: [race](Races)
 
 ## Overview
 
-Dream dwarves, also nightmare dwarven cult within. Reside in [Movasi](Movasi)
+Dream [dwarves](Dwarves), also nightmare [dwarven](Dwarves) cult within. Reside in [Movasi](Movasi)
 
 ## Physical Appearance
 
