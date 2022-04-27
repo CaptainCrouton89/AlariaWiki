@@ -1,44 +1,44 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Democracy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Lorean minotaur
 
-**Population**: 
+**Population**: 60,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Somewhat stable
 
-**Core Values**: 
+**Core Values**: Might, cunning, sailing skill
 
-- 
+- A new king is chosen every decade, elected by the population. There are no restrictions on who can become king, only that you step down after 10 years.
+- Some kingships are incredible profitable, while some are disasterous
+- Sailing is a massive aspect of Keletan life, and from a young age, minotaur will venture out at sea in even the nastiest storms.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Sea products
 
-**Primary Imports**: 
+**Primary Imports**: Wood and ships
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- Keletus' standing army is small and moderately skilled, but they produce the best naval officers in the world.
 
 
 ## Geography
@@ -57,14 +57,17 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Relations between Keletus and Vetryl are steadily deteriorating, as the Keletan king blatantly disregards the Vetrylian requests for cleared shipping lanes.
 
 
 ## History
