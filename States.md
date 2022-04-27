@@ -16,6 +16,7 @@
 - [Zintacas](Zintacas)
 - [Kazül](Kazül)
 - [Keletus](Keletus)
+- [Atyeska](Atyeska)
 - [Chimea](Chimea)
 - [New Chimea](New%20Chimea)
 - [Jeh Bli](Jeh%20Bli)
