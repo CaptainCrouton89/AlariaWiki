@@ -1,16 +1,14 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: House of Nobles and House of Commerce
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Belenstrope](Belenstrope)
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very Stable
 
 **Core Values**: 
 
