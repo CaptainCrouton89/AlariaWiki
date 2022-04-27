@@ -36,7 +36,7 @@ Tags: state
 
 **Enrollment**: Voluntary
 
-- The Bestacia military suffers from severe undefunding.
+- The Bestacia military is a pitiful group—most want goshwen want nothing to do with war and fighting, and would instead prefer to stay home and work on some new invention.
 
 
 ## Geography
@@ -55,14 +55,17 @@ Tags: state
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Although Bestacia produces many great minds, competition for acclaim has led to intellectual sabotage, with Goshwen stealing research and developments from each other.
 
 
 ## History
