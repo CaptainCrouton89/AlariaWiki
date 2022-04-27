@@ -1,45 +1,45 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Democracy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Uline](Uline)
 
-**Population**: 
+**Population**: 30,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very unstable
 
-**Core Values**: 
+**Core Values**: Wealth, honor, determination, grit
 
-- 
+- Class ranking is determined by how much land you own. At the top are the few [dwarves](Dwarves) who own the majority of land, and at the bottom are the [dwarves](Dwarves) who own no land, but have to work the land in order to pay off their debts and survive.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Somwhat developed
 
-**Primary Exports**: 
+**Primary Exports**: Metals
 
-**Primary Imports**: 
+**Primary Imports**: Food, luxury items for the rich
 
-- 
+- The lifestyles of the rich is vastly different from the poor—while the rich enjoy cushy lives, the peasants live in relative destitution.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- The [Ubrik](Ubrik) military consists of concripted peasants, enlisted by the nobility. They have very little desire to fight.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -65,7 +65,8 @@ Tags: state
 
 ## Primary Conflicts
 
-- 
+- Ubrik has been horribly fragmented by the discovery of [Slick Silver](Slick Silver), which has driven many of the dwarves insane and into cannabilistic rages. The Ubrik have fled south, but the dwarves left behind continue to terrorize the surrounding country side.
+- Gross wealth disparity among the Ubrik, including somewhat cruel work practices, has led to a lot of tension between the upper and lower classes in Ubrik.
 
 
 ## History

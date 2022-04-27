@@ -1,6 +1,6 @@
 Tags: [race](Races)
 
-Descendents of the [Druids](Druids). 
+Descendents of the [druids](Druids). 
 
 # Types
 - [Amverela (High Elves)](Amverela)
