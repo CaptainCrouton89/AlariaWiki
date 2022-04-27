@@ -7,6 +7,7 @@
 - [Orcs](Orcs)
 - [Goblins](Goblins)
 - [Gnomes](Gnomes)
+- [Halflings](Halflings)
 - [Minotaur](Minotaur)
 - [Leapord Folk](Leapord Folk)
 - [Ogres](Ogres)
