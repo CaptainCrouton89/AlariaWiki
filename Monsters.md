@@ -1,1 +1,3 @@
-- Stone Titans
+- [Stone Titans](Stone Titans)
+- Vampire [Gnomes](Gnomes)
+- 
