@@ -1,12 +1,12 @@
 # Major [Daemons](Daemons)
 
 | [Daemon](Daemons)         | Domains              |
-| -------------- | -------------------- |
-| [Mjulya](Mjulya)       | 
+| ------------------------- | -------------------- |
+| [Mjulya](Mjulya)          | Goodwill, help       |
 | [Guthry](Guthry)
 | [Dezzy](Dezzy)
 | [Hevdarr](Hevdarr)
 
-# Minor Daemons
+# Minor [Daemons](Daemons)
 
 - Tal
