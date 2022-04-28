@@ -1,44 +1,44 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Stongman tribes
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Ulvsjael
 
-**Population**: 
+**Population**: 3,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Stable
 
-**Core Values**: 
+**Core Values**: Loyalty, heritage, strength
 
-- 
+- Numerous, nomadic tribes or "packs" dot the landscape.
+- Pack leadership is determined by strength and leadership skill. Dynamics within a tribe mimic those within a wolfpack.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: Animal products
 
-**Primary Imports**: 
+**Primary Imports**: Beads, trinkets
 
-- 
+- Outsiders rarely enter Qet Yemani, and the Ulvsjael rarely trade. However, colorful beads that can be braided into one's coat of fur are seen as symbols of wealth and power, and are popular.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- Nearly everyone is capable of fighting, so their entire population doubles as their army.
+- There is no discipline or unity across tribes, and they have never had to fight together for a common cause.
 
 
 ## Geography
@@ -57,14 +57,18 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Although infighting is infrequent, skirmishes against the Da Trang are somewhat common.
+- An Ulvsjael man who had left the jungle has now come back. He has quickly taken over a pack, and his pack is growing. He seems to be magically powerful.
 
 
 ## History

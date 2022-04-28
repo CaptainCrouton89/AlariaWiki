@@ -1,44 +1,44 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Scattered tribes
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Ix Tyrann
 
-**Population**: 
+**Population**: 4,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very unstable
 
-**Core Values**: 
+**Core Values**: Predatorship, might makes right, killing
 
-- 
+- The Ix Tyrann are a vicious group, known to eviscerate outsiders who somehow wander into one of their villages.
+- Small villages are managed by a strongman chief, who took their position because they managed to kill the previous guy. As chief, you can boss people around until someone else kills you and takes your place.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: None
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: None
 
-**Primary Imports**: 
+**Primary Imports**: None
 
-- 
+- There is no economy to speak of.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Medium
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- Nearly anyone who can fight, wants to fight. 
+- The Ix Tyrann have no organized fighting whatsoever, but what they lack in discipline, they make up for in savagery. They are some of the most efficient killers in Alaria.
 
 
 ## Geography
@@ -57,14 +57,18 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- The Ix Tyrann are struggling to fend off their eastern border with New Chimea, which has given up on Vystrilik and decided to move north instead.
+- It is unclear if the Ix Tyrann will be able to unite in time to keep the Chimeans out.
 
 
 ## History
