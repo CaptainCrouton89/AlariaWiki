@@ -2,7 +2,7 @@ Tags: [race](Races), [elf](Elves)
 
 ## Overview
 
-The [Kuzagt](Kuzagt), also known as Bone [Elves](Elves), are tall, spindly [elves](Elves) known for their enslavement of [humans](Humans). 
+The [Kuzagt](Kuzagt), also known as Bone [Elves](Elves), are tall, spindly [elves](Elves) known for their enslavement of [humans](Humans). They are closely related to the Amverela.
 
 ## Physical Appearance
 
