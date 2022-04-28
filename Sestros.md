@@ -1,18 +1,16 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Shaolin](Shaolin)
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Glory, the graces of their god [Talressses](Talressses), 
 
 - 
 
@@ -41,7 +39,7 @@ Links: [States](States)
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +52,7 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

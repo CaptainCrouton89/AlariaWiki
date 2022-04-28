@@ -2,4 +2,4 @@
 - [Fieri](Fieri)
 - [Dengar](Dengar)
 - [Wispen](Wispen)
-- [Shaoli](Shaoli)
+- [Shaolin](Shaolin)
