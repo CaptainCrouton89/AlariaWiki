@@ -10,3 +10,4 @@ Descendents of the [druids](Druids).
 - [Caerine (Wood Elves)](Caerine)
 - [Zaelian (Moon Elves)](Zaelian)
 - [Kuzagt (Bone Elves)](Kuzagt)
+- [Nemo (Wandering Ones)](Nemo)
