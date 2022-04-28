@@ -19,12 +19,12 @@
 # Beastmen
 
 - [Minotaur](Minotaur)
-- [Ix Tyrann](Ix Tyrann)
+- [Ix Tyrann (Lizardfolk)](Ix Tyrann)
 - [Sylthik](Sylthik)
 - [Children of Anubis](Children of Anubis)
 - [Skaag (Ratfolk)](Skaag)
 - [Satyr](Satyr)
-- [Koren](Koren)
+- [Koren (Leapordfolk)](Koren)
 - [Lyzine (Spiderlings)](Lyzine)
 - [Krell (Buggers)](Krell)
 - [Kendrel (Triton)](Kendrel)
