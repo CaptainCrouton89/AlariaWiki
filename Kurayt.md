@@ -1,47 +1,47 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Aristocracy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Nuun](Nuun)
 
-**Population**: 
+**Population**: 200,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Divine approval, justice, eye for an eye
 
-- 
+- [Kurayt](Kurayt) must always be controlled jointly between one blue-eye, and one golden-born. Together, they balance each other out, and provide equilibrium to the country. Each has a paragon level in fire or water.
+- The Nuunish blue-king wears a crown granting him the ability to produce drinkable water with his attunement.
+- The Nuunish gold-king wears a crown granting him the ability to moderate the heat in a 100 mile radius.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Glass, information
 
-**Primary Imports**: 
+**Primary Imports**: Animal products, wood
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- Kurayt relies heavily on its extreme climate to deter invaders. This has been successful in the past.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,17 +54,20 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Honor is a dying virtue in [Kurayt](Kurayt).
 
 
 ## History

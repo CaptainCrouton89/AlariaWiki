@@ -1,44 +1,44 @@
 Tags: state
 
-Links: [States](States)
-
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Confederacy of city states
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Sylthik, Drasnian slaves
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Somewhat stable
 
-**Core Values**: 
+**Core Values**: Discipline, influence, societal rank, power
 
-- 
+- Rank in Kyagos is determined by the number of scars on one's cheeks; the king has five scars on each cheek, while lowly residents have none. 
+- Non-sylthik races are viewed as sub-sentient, and undeserving of even the slightest decency, concern. 
+- Those who enter Kyagos are given handkerchiefs to be wrapped around their knecks to be marked as outsiders. They are under the rank of any resident, and have no rights while within the cities.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Gems, jewels, metals
 
-**Primary Imports**: 
+**Primary Imports**: Drasnian dwarves from Tamadrez
 
-- 
+- Kyagos' entire economy rests on the shoulders of their massive slave population that works in the mines. Nowhere is this more prevalant than in Syvlius, the largest city, nested on Syvlius mountain.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- If you are not talented enough to do anything else, you are enlisted in the military. Few wish to enter, as it pays poorly, and holds very little respect within the population.
 
 
 ## Geography
@@ -57,14 +57,20 @@ Links: [States](States)
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- The lower class do not love their subjugated position within Kyagos society.
+- Many dislike the disrespect they receive from their superiors.
+- The Drasnians rarely rebel, but they vastly outnumber the Kyagos armies.
+- For decades, Kyagos has been at war with the [Dead Moon Tribe], which lives in the outer jungle. Very little has happened in this time, as both entities remain failry incapable of or unwilling to inflict serious damage on one another.
 
 
 ## History
