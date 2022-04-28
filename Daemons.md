@@ -1,12 +1,14 @@
 # Major [Daemons](Daemons)
 
-| [Daemon](Daemons)         | Domains              |
-|---------------------------|----------------------|
+| [Daemon](Daemons)    | Domains              | 
+|----------------------|----------------------|
 | [Mjulya](Mjulya) | Goodwill, help 
 | [Guthry](Guthry) | Hunting, tracking 
 | [Dezzy](Dezzy) | Exploration, [planes](Planes) 
-| [Hevdarr](Hevdarr)        | Warmth, comfort      
+| [Hevdarr](Hevdarr) | Warmth, comfort      
 
 # Minor [Daemons](Daemons)
 
-- Tal
+| [Daemon](Daemons)         | Worshippers     |
+|---------------------------|-----------------|
+| [Talresses](Talresses) | [Shailin](Shailin)
