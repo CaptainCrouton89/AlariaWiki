@@ -5,5 +5,6 @@
 - [Uihonaii (Wooden Men)](Uihonaii)
 - [Shazuihni (Boar Riders)](Shazuihni)
 - [Griebi (Lake Men)](Griebi)
-- [Enti](Enti)
+- [Enti (Northmen)](Enti)
 - [Tytheri (Blood Orcs)](Tytheri)
+- [Pai'i (Divine Orcs)](Pai'i)
