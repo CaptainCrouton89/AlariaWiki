@@ -2,41 +2,39 @@ Tags: state
 
 ## Government & Peoples
 
-**Government Type**: Nobility
+**Government Type**: Monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Nemo
 
-**Population**: 
+**Population**: 2,500
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Isolation, absolutes
 
-- 
+- The Nemo are trapped within Eros, bound to the forest from which they gleaned their eternal life. The Nemo are bitter, and shun outsiders.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: None
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: None
 
-**Primary Exports**: 
+**Primary Exports**: None
 
-**Primary Imports**: 
+**Primary Imports**: None
 
-- 
+- The Nemo lack any corporeal bodies, but their souls remain. They cannot produce anything tangible, and can only trade knowledge.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: None
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: n/a
 
-**Enrollment**: [Voluntary, Mandatory]
-
-- 
+**Enrollment**: n/a
 
 
 ## Geography
@@ -55,14 +53,20 @@ Tags: state
 ## Political Geography
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- The Nemo hate worldly possessions, food, and anything else that outsiders bring, as it reminds them of what they have lost
+- Despite their downfall being attributed to their own pride, the Nemo view it as a tragic injustice, and not their fault. This bitterness towards the outsider world affects many of their relations.
+- Few people wish to take control over the forests, as they are haunted by the souls of the Nemo.
+- Some of the Nemo wish to have their forest destroyed, so they can finally be set free.
 
 
 ## History
