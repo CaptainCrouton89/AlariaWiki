@@ -3,9 +3,9 @@
 | [Daemon](Daemons)         | Domains              |
 | ------------------------- | -------------------- |
 | [Mjulya](Mjulya)          | Goodwill, help       |
-| [Guthry](Guthry)
-| [Dezzy](Dezzy)
-| [Hevdarr](Hevdarr)
+| [Guthry](Guthry)          | Hunting, tracking    |
+| [Dezzy](Dezzy)            | Exploration, [planes](Planes)  |
+| [Hevdarr](Hevdarr)        | Warmth, comfort      |
 
 # Minor [Daemons](Daemons)
 
