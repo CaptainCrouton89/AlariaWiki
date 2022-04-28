@@ -24,7 +24,7 @@
 - [Children of Anubis](Children of Anubis)
 - [Skaag (Ratfolk)](Skaag)
 - [Satyr](Satyr)
-- [Leapord Folk](Leapord Folk)
+- [Koren](Koren)
 - [Lyzine (Spiderlings)](Lyzine)
 - [Krell (Buggers)](Krell)
 - [Kendrel (Triton)](Kendrel)
