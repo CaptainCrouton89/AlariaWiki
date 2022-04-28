@@ -9,6 +9,6 @@
 
 # Minor [Daemons](Daemons)
 
-| [Daemon](Daemons)         | Worshippers     |
-|---------------------------|-----------------|
+| [Daemon](Daemons)    | Worshippers          |
+|----------------------|----------------------|
 | [Talresses](Talresses) | [Shailin](Shailin)
