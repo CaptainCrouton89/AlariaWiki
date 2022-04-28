@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Monarchy
 
-**Primary Inhabitants**: Nemo
+**Primary Inhabitants**: [Nemo](Nemo)
 
 **Population**: 2,500
 
@@ -12,7 +12,7 @@ Tags: state
 
 **Core Values**: Isolation, absolutes
 
-- The Nemo are trapped within Eros, bound to the forest from which they gleaned their eternal life. The Nemo are bitter, and shun outsiders.
+- The Nemo are trapped within [Eros](Eros), bound to the [forest](Forests) from which they gleaned their eternal life. The Nemo are bitter, and shun outsiders.
 
 
 ## Economy
@@ -37,7 +37,7 @@ Tags: state
 **Enrollment**: n/a
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -50,7 +50,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -65,8 +65,8 @@ Tags: state
 
 - The Nemo hate worldly possessions, food, and anything else that outsiders bring, as it reminds them of what they have lost
 - Despite their downfall being attributed to their own pride, the Nemo view it as a tragic injustice, and not their fault. This bitterness towards the outsider world affects many of their relations.
-- Few people wish to take control over the forests, as they are haunted by the souls of the Nemo.
-- Some of the Nemo wish to have their forest destroyed, so they can finally be set free.
+- Few people wish to take control over the [forests](Forests), as they are haunted by the souls of the Nemo.
+- Some of the Nemo wish to have their [forest](Forests) destroyed, so they can finally be set free.
 
 
 ## History
