@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: [Shaolin](Shaolin)
+**Primary Inhabitants**: [Shailin](Shailin)
 
 **Population**: 100,000
 
