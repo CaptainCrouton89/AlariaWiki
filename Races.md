@@ -1,34 +1,39 @@
-# Major [Races](Races)
+# Humanoids
+
 - [Humans](Humans)
 - [Elves](Elves)
 - [Dwarves](Dwarves)
-
-# Minor [Races](Races)
 - [Orcs](Orcs)
 - [Goblins](Goblins)
 - [Gnomes](Gnomes)
 - [Halflings](Halflings)
-- [Minotaur](Minotaur)
-- [Leapord Folk](Leapord Folk)
 - [Ogres](Ogres)
 - [Pixies](Pixies)
-
-# Other [Races](Races)
-- [Ix Tyrann](Ix Tyrann)
-- [Gyv](Gyv)
-- [Kendrel](Kendrel)
-- [Nyolci](Nyolci)
-- [Lyzine](Lyzine)
-- [Chargon](Chargon)
-- [Sylthik](Sylthik)
 - [Trollkin](Trollkin)
-- [Skaag](Skaag)
 - [Rusalka](Rusalka)
-- [Satyr](Satyr)
-- [Krell](Krell)
-- [Children of Anubis](Children of Anubis)
-- [Revenants](Revenants)
-- [Ghouls](Ghouls)
-- [Dwelyn](Dwelyn)
+- [Dwelyn)](Dwelyn)
+- [Gyv](Gyv)
 - [Tracers](Tracers)
 - [Ayblek](Ayblek)
+
+# Beastmen
+
+- [Minotaur](Minotaur)
+- [Ix Tyrann](Ix Tyrann)
+- [Sylthik](Sylthik)
+- [Children of Anubis](Children of Anubis)
+- [Skaag (Ratfolk)](Skaag)
+- [Satyr](Satyr)
+- [Leapord Folk](Leapord Folk)
+- [Lyzine (Spiderlings)](Lyzine)
+- [Krell (Buggers)](Krell)
+- [Kendrel (Triton)](Kendrel)
+- [Chargon (Moray)](Chargon)
+- [Nyolci](Nyolci)
+
+
+# [Undead](Undead) and Supernatural
+
+- [Deva](Deva)
+- [Revenants](Revenants)
+- [Ghouls](Ghouls)
