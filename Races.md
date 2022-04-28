@@ -11,7 +11,7 @@
 - [Pixies](Pixies)
 - [Trollkin](Trollkin)
 - [Rusalka](Rusalka)
-- [Dwelyn)](Dwelyn)
+- [Dwelyn](Dwelyn)
 - [Gyv](Gyv)
 - [Tracers](Tracers)
 - [Ayblek](Ayblek)
