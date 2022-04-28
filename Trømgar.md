@@ -4,13 +4,13 @@ Tags: state
 
 **Government Type**:
 
-**Primary Inhabitants**: Strømgodden dwarves
+**Primary Inhabitants**: Strømgodden
 
-**Population**: 
+**Population**: 50,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Sacrifice, fury, glory, battle, bravery, having a "full heart"
 
 - 
 
