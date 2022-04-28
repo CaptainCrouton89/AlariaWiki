@@ -11,4 +11,4 @@
 
 | [Daemon](Daemons)    | Worshippers          | 
 |----------------------|----------------------|
-| [Talresses](Talresses) | [Shailin](Shailin)
+| [Talresses](Talresses) | [Shailin](Shailin) |
