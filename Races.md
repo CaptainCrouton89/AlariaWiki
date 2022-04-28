@@ -32,7 +32,7 @@
 - [Nyolci](Nyolci)
 
 
-# [Undead](Undead) and Supernatural
+# Supernatural
 
 - [Deva](Deva)
 - [Revenants](Revenants)
