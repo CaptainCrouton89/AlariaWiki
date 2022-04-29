@@ -1,3 +1,7 @@
+## Continents
+- [Clueanda](Clueanda)
+- [Ve](Ve)
+
 ## Biomes
 
 - [Jungles](Jungles)
