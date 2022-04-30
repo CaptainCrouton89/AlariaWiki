@@ -2,7 +2,7 @@ Tags: [race](Races)
 
 ## Overview
 
-Super manipulative, capable of mild mind control. Live in Eylovia.
+Super manipulative, capable of mild mind control. Live in [Iylovia](Iylovia).
 
 ## Physical Appearance
 
