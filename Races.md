@@ -30,6 +30,7 @@
 - [Kendrel (Triton)](Kendrel)
 - [Chargon (Moray)](Chargon)
 - [Nyolci](Nyolci)
+- [Troenka](Troenka)
 
 
 # Supernatural
