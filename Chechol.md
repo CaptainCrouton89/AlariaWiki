@@ -1,3 +1,3 @@
 Tags: [state](States)
 
-Inhabited by [minotaur](Minotaur).
+Inhabited by [rentar](Rentar).
