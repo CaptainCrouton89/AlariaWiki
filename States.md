@@ -6,6 +6,7 @@
 - [Myorna](Myorna)
 - [Gorath](Gorath)
 - [Kyagos](Kyagos)
+- [Aal Salma](Aal Salma)
 - [Kyorda](Kyorda)
 - [Lethos](Lethos)
 - [Nashua](Nashua)
