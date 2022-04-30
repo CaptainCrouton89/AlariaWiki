@@ -32,9 +32,13 @@
 - [Nyolci](Nyolci)
 - [Troenka](Troenka)
 
-
 # Supernatural
 
 - [Deva](Deva)
 - [Revenants](Revenants)
 - [Ghouls](Ghouls)
+
+# Monstrous
+
+- [Giants](Giants)
+- [Cyclops](Cyclops)
