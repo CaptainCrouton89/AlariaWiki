@@ -1,3 +1,3 @@
 Tags: [state](States)
 
-Inhabited by [rentar](Rentar).
+Inhabited by [Rentar](Rentar).
