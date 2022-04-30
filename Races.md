@@ -22,6 +22,7 @@
 - [Ix Tyrann (Lizardfolk)](Ix Tyrann)
 - [Sylthik](Sylthik)
 - [Children of Anubis](Children of Anubis)
+- [Chulpe](Chulpe)
 - [Skaag (Ratfolk)](Skaag)
 - [Satyr](Satyr)
 - [Koren (Leapordfolk)](Koren)
