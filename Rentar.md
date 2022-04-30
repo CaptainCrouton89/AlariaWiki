@@ -2,7 +2,7 @@ Tags: [race](Races), [minotaur](Minotaur)
 
 ## Overview
 
-Spiritual, peaceful.
+Spiritual, peaceful. Reside in [Chechol](Chechol).
 
 ## Physical Appearance
 
