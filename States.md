@@ -11,6 +11,7 @@
 - [Nashua](Nashua)
 - [Grustos](Grustos)
 - [Trømgar](Trømgar)
+- [Mosoyevo](Mosoyevo)
 - [Øsmil](Øsmil)
 - [Old Tolaria](Old%20Tolaria)
 - [Azawahasi](Azawahasi)
