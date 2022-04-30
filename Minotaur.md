@@ -20,3 +20,4 @@ Tags: [race](Races)
 
 - [Danaki](Danaki)
 - [Lorean](Lorean)
+- [Rentar](Rentar)
