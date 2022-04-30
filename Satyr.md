@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 ## Overview
 
@@ -18,4 +18,5 @@ Tags: race
 
 ## Subraces
 
-- 
+- [Lesser Satyr](Lesser Satyr)
+- [Greater Satyr](Greater Satyr)
