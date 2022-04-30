@@ -1,0 +1,1 @@
+Home to many [naga](Naga). Similar to [Anarak](Anarak), less evil though. 
