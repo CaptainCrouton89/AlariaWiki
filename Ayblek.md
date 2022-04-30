@@ -1,4 +1,4 @@
-Tags: race, state
+Tags: [race](Races), [state](States)
 
 Multi-armed, long lived, completely independent with no family (spawn asexually).
 Multiple arms allow for multiple actions and stuff
@@ -12,3 +12,5 @@ You have two sets of arms. You may take an additional interact action each turn,
 Meditative
 Passive ability.
 You don’t need to sleep. Instead, you can meditate for four hours and gain an equivalent amount of rest. While meditating, you have disadvantage on all ability checks, but remain aware of your surroundings.
+
+![Ayblek Shamman](/img/954fb7902989b5c7b13f95ac4db48b0b.jpg)
