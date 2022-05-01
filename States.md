@@ -7,6 +7,7 @@
 - [Gorath](Gorath)
 - [Kyagos](Kyagos)
 - [Aal Salma](Aal Salma)
+- [Shykasas](Shykasas)
 - [Kyorda](Kyorda)
 - [Lethos](Lethos)
 - [Nashua](Nashua)
