@@ -6,3 +6,4 @@
 - [Factions](Factions)
 - [Monsters](Monsters)
 - [Daemons](Daemons)
+- [NPCs](NPCs)
