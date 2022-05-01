@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Republic
 
-**Primary Inhabitants**: Humans
+**Primary Inhabitants**: [Humans](Humans)
 
 **Population**: 100,000
 
@@ -12,7 +12,7 @@ Tags: state
 
 **Core Values**: Purity, law, order
 
-- All varieties of Deoric magic is banned in Camaran. It is seen as corrupting. If seen with hand magic, your hand is cut off. Elemental magic is perimtted.
+- All varieties of [Deoric](Deoric) [magic](Magic) is banned in [Camaran](Camaran). It is seen as corrupting. If seen with hand magic, your hand is cut off. Elemental magic is perimtted.
 - The High Camarik Council makes all laws and determines policy in Camaran
 
 
@@ -27,7 +27,7 @@ Tags: state
 **Primary Imports**: Raw materials
 
 - Camaran has a highly educated and industrious population, and are the source of many non-magical manufactured goods used all over the world.
-- Some of the best schools are located in Camaran, and although strict, they are rigorous. 
+- Some of the best schools are located in [Camaran](Camaran), and although strict, they are rigorous. 
 
 
 ## Military
@@ -41,7 +41,7 @@ Tags: state
 - The Camarik military is not particularly powerful, but their population is substantial, and they are capable of raising a large army quickly, should they need so.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
