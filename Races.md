@@ -31,7 +31,7 @@
 - [Kendrel (Triton)](Kendrel)
 - [Chargon (Moray)](Chargon)
 - [Nyolci](Nyolci)
-- [Tuktuk](Tuktuk)
+- [Tuktuk (Turtlekin)](Tuktuk)
 - [Alekroin](Alekroin)
 - [Troenka](Troenka)
 
