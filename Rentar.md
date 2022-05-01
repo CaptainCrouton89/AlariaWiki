@@ -2,7 +2,7 @@ Tags: [race](Races), [minotaur](Minotaur)
 
 ## Overview
 
-Spiritual, peaceful. Reside in [Chechol](Chechol).
+Spiritual, peaceful. Reside in [Chechol](Chechol). Religious. Can be transformed into the Red Army by the lich [Gynor the Conquerer](Gynor the Conquerer). They have no idea they are under his thumb.
 
 ## Physical Appearance
 
