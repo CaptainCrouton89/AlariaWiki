@@ -1,47 +1,48 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Oligarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Drachma](Drachma)
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Stable
 
-**Core Values**: 
+**Core Values**: Style, instincts, cunning
 
-- 
+- [Mueras](Mueras) is governed my merchant-kings who have powerful monopolies over the trades of different goods. The top merchants have positions on the council—a coveted position.
+- Assassinating competing merchant kings is not uncommon, though the merchant-kings are so powerful it is nearly impossible.
+- Many of the cities are built into the cliff-sides along the coast.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Fish, sea products
 
-**Primary Imports**: 
+**Primary Imports**: Everything
 
-- 
+- The reach of the Mueras economy stretches across the world. 
+- [Mueras](Mueras) lacks astral airways above, but makes up for them with its prime maritime location.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Medium
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Medium
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- The Mueran military is moderately powerful, though is rivaled by the individual merchant-king military fleets.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,11 +55,14 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
