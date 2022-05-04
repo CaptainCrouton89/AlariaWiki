@@ -4,6 +4,12 @@ Tags: [race](Races), [elf](Elves)
 
 The [Kuzagt](Kuzagt), also known as Bone [Elves](Elves), are tall, spindly [elves](Elves) known for their enslavement of [humans](Humans). They are closely related to the Amverela.
 
+Wear robes made of human leather. Huge human slave camps. Inhabit the salt flats. Drink special fermented blood. Have bone protrusions coming from their cheeks, super skull-like heads. Jewels embedded into their skulls denominating rank. Oligarchy, with council.
+
+Also known as bone elves.
+
+Reside in Bonnetaz
+
 ## Physical Appearance
 
 Kuzagt have high cheekbones with strange, bony protrusions coming from them. Their features are more angular than other [elves](Elves), and they have more slanted eyes.
