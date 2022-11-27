@@ -45,7 +45,7 @@ Culturally very against confrontation. Disagreements are settled by gift giving.
 - 
 
 
-## [Geography](Geography)
+## Geography
 
 **Location**: 
 
@@ -58,7 +58,7 @@ Culturally very against confrontation. Disagreements are settled by gift giving.
 **Adjacent Waters**: 
 
 
-## Political [Geography](Geography)
+## Political Geography
 
 **Capital**: 
 
