@@ -8,28 +8,11 @@ In the very middle is the Material Plane—a world of kingdoms and conquest and 
 
 "Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the Astral Plane, it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. On its flip side is [Vindumor](Vindumor), where...
 
-In addition to these planes, there are nine planes of the primary elements, known as the [elemental planes](elemental planes), each thinly overlayed on the top sides of the three main layers. 
+In addition to these planes, there are nine planes of the primary elements, known as the [elemental planes](Elemental Planes), each thinly overlayed on the top sides of the three main layers. 
 
 Lastly, there are two very faint planes that overlay all of the rest of the planes—the [Ethereal](Ethereal Plane) and [Nethereal](Nethereal Plane) Planes. Physical objects do not exist in these planes, but elements of ones spirit, among other types of energy, can be found on these planes. 
 
 # Geography of the Planes
-
-
-
-# Elemental Planes
-
-Those layers are:
-
-- [Yolus](Yolus) (Fire)
-- [Sulus](Sulus) (Air)
-- [Golus](Golus) (Earth)
-- [Pelus](Pelus) (Water)
-- [Vulus](Vulus) (Darkness)
-- [Kunus](Kunus) (Light)
-- [Nilus](Nilus) (Void)
-- [Izzus](Izzus) (Time)
-
-Along certain lines across the land, these elemental planes bend much closer to the Material Plane. Those lines on which they bend closer are known as Leylines, and are locations where elemental magic relying on the corresponding element will be much more potent.
 
 ## [Maps](Maps)
 
@@ -38,13 +21,3 @@ Each layer is also connected at their borders. Traveling to the far West or East
 ## Psyic Energy
 
 Psyic energy makes up the space between the planar layers of [Alaria](Alaria). It is an ever-present, omnipresent, swirling mass of the thoughts of all life within the [planar stack](Planar Stack). Through special practice or natural ability, this energy can be harnessed to perform [magic](Magic) on [Alaria](Alaria). 
-
-# Central Layer
-
-Travel there is theorized to be possible, but all who try never return.
-
-# Elemental Layers
-
-All of the primary elements of the world each make up a layer, thinly placed in between the material [planes](Planes) (astral, malstaric, material realm) and the immaterial [planes](Planes) (ethereal, nethereal, Celestian). Things and creatures with higher attunement to these other layers cause the layers to spill down and into the visible world, affecting the material [planes](Planes). The layers closer to the material [planes](Planes) are more accessible to those on the material [planes](Planes), whereas the elemental layers closer to Celesté and the other immaterial [planes](Planes) are more accessible to those inhabitants instead.
-
-[Leylines](Leylines) are cracks in the planes where individual elemental [planes](Planes) spill through much closer to the material plane. Thes are areas of much stronger elemental power. Elemental [magic](Magic) performed on leylines is always more fantastic.
