@@ -19,7 +19,7 @@ Links: [States](States)
 - Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
  is a famous saying among [Naga](Naga) elders. 
 
-- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A Naga without honor is no Naga at all
+- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no Naga at all
  is a famous saying among Naga elders. 
 
 
@@ -88,4 +88,4 @@ Links: [States](States)
 
 ![Adronic countryside](/img/Adron.jpg)
 
-[Adron](Adron) used to raise dragons, and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.
+[Adron](Adron) used to raise [dragons](Dragons), and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.

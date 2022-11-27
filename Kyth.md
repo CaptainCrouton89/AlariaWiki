@@ -4,4 +4,4 @@ The [Kyth](Kyth) are spectral ghost-like creatures that inhabit the [Nirvanis Mo
 
 The [Kyth](Kyth) have some intelligence, but no empathy. They can communicate vague images telepathically, and use this to terrify and confuse their prey. For example, they may create the image of a collapsing mountian in the path of the only escape, hopefully deterring their prey from escaping along the best route.
 
-The Kyth are unkillable without silvered weapons.
+The [Kyth](Kyth) are unkillable without silvered weapons.

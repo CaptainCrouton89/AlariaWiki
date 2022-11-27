@@ -38,7 +38,7 @@ This marked the end of the second eon. The dead titan bodies that remain on [Ala
 
 ## The Gaeaic Eon: 120,000,000–7,210 years ago
 
-Back in [Alaria](Alaria), the influx of Ezz drove the [spirit](Life and Death) plane away from the [soul](Life and Death) and [shadow](Life and Death) [planes](Planes), creating the additional plane we have today, Celesté. Many creatures died with the titans, but many others survived, acclimating to the new mixed atmosphere. This new planar atmosphere is now known as the substrate in which psyic energy can flow. This gave new life, thought, and diversity to life on [Alaria](Alaria), and also marked the beginning of the third eon.
+Back in [Alaria](Alaria), the influx of Ezz drove the [spirit](Life and Death) plane away from the [soul](Life and Death) and [shadow](Life and Death) [planes](Planes), creating the additional plane we have today, [Celesté](Celesté). Many creatures died with the titans, but many others survived, acclimating to the new mixed atmosphere. This new planar atmosphere is now known as the substrate in which psyic energy can flow. This gave new life, thought, and diversity to life on [Alaria](Alaria), and also marked the beginning of the third eon.
 
 ### Gaea is Born: 120 million years ago
 
@@ -50,13 +50,13 @@ Gaea also created all manners of life. The mammoths of the northern [plains](Pla
 
 Along with Gaea came the [druids](Druids)—an ancient [race](Races) of beings so in touch with nature that they were believed to be incarnations of the wilderness and life itself. The [druids](Druids) do not belong to Gaea, like nearly every other creature born in this period, but work along side her. Often, their interests align, but not always.
 
-The druids build small villages wherever there was life on [Alaria](Alaria). They took care of the land, and worked powerful [magic](Magic) to control it. Little is known about the type of [magic](Magic) they possess, but it is not [Kethic](Kethic Elementalism) nor [Deoric](Deoric). 
+The [druids](Druids) build small villages wherever there was life on [Alaria](Alaria). They took care of the land, and worked powerful [magic](Magic) to control it. Little is known about the type of [magic](Magic) they possess, but it is not [Kethic](Kethic Elementalism) nor [Deoric](Deoric). 
 
 ### The Reign of Dragons: 100–2.5 million years ago
 
 Of her three children, [Nagatayora](Nagatayora) was the eldest and proudest, and the species he spawned would prove to become the most powerful creatures since the Age of Titans. During this time, [dragons](Dragons) covered all six [planes](Planes) of [Alaria](Alaria), securely at the top of the social and natural food chain.
 
-[Ulvma](Ulvma) and Shara also became the first of their species, and populated the [forests](Forests) and [plains](Plains) of Alaria.
+[Ulvma](Ulvma) and Shara also became the first of their species, and populated the [forests](Forests) and [plains](Plains) of [Alaria](Alaria).
 
 #### The Walk of Elves: 10 million years ago
 
@@ -86,7 +86,7 @@ As everything died, and ice age set in, the small pockets of surviving civilizat
 
 ### The Age of Craggus: 45,000–30,000 years ago
 
-The Age of Craggus began when Craggus, a young man, survived a journey to Celesté with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair.
+The Age of Craggus began when Craggus, a young man, survived a journey to [Celesté](Celesté) with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair.
 
 #### The Rise of the King: 45,000 years ago
 
@@ -94,7 +94,7 @@ Over the next thousand years, Craggus’ name became more and more known, and wi
 
 #### Craggus’ Reign: 45,000–30,000 years ago
 
-The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of Celesté. Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in Celesté, Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. 
+The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in Celesté, Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. 
 
 ### The Lost Ages: 30,000–7,210 years ago
 

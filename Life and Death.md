@@ -2,7 +2,7 @@ A creature’s life is dictated by the health and union of their [soul](Life and
 
 ## Astral & Malstaric Thread
 
-Binding the [soul](Life and Death) and [shadow](Life and Death) to the [spirit](Life and Death) is a creature’s astral and malstaric thread. If this thread is broken, the creature dies, and their newly freed [soul](Life and Death) and [shadow](Life and Death) float up and sink down to the [Astral Plane](Astral Plane) and [Malstaris](Malstaris) respectively, while their [spirit](Life and Death) fades to Celesté.
+Binding the [soul](Life and Death) and [shadow](Life and Death) to the [spirit](Life and Death) is a creature’s astral and malstaric thread. If this thread is broken, the creature dies, and their newly freed [soul](Life and Death) and [shadow](Life and Death) float up and sink down to the [Astral Plane](Astral Plane) and [Malstaris](Malstaris) respectively, while their [spirit](Life and Death) fades to [Celesté](Celesté).
 
 If the thread is not broken but still damaged, it can nevertheless have serious effects on the life of that being. It can make one weaker to effects that would dominate ones [spirit](Life and Death), and having part of the thread break completely could cause your [soul](Life and Death) or [shadow](Life and Death) to leave completely, sapping one of most of their life and energy. 
 

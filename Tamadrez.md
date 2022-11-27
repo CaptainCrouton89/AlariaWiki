@@ -1,6 +1,6 @@
 Tags: [state](States)
 
-[Tamadrez](Tamadrez) is a suffering country, in a brutal diplomatic balance with [Gorath](Gorath). In the south, Gorathi slavers pick up thousands of [Drasnian](Drasnian) [dwarves](Dwarves) a year. These [dwarves](Dwarves) have been sold into slavery by their very own people. Those that flee north are denied into the northern towns due to a treaty between Gorath and Tamadrez that forbids the Northerners from accepting slaves from the south, in exchange for not being invaded by Gorath. 
+[Tamadrez](Tamadrez) is a suffering country, in a brutal diplomatic balance with [Gorath](Gorath). In the south, Gorathi slavers pick up thousands of [Drasnian](Drasnian) [dwarves](Dwarves) a year. These [dwarves](Dwarves) have been sold into slavery by their very own people. Those that flee north are denied into the northern towns due to a treaty between [Gorath](Gorath) and [Tamadrez](Tamadrez) that forbids the Northerners from accepting slaves from the south, in exchange for not being invaded by Gorath. 
 
 Many in the north turn a blind eye to the slaves, but the threat of [Gorath](Gorath) invasion is very real and terrifying, so open dismissal of the treaty could spell disaster for Tamadrez. Once, several years ago, a northern town was found to be harboring hundreds of escaped slaves. A Gorathi warship came by and firebombed the entire city to ash, killing thousands.
 

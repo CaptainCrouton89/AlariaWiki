@@ -10,4 +10,4 @@ Long periods of time spent in [Malstaris](Malstaris) can cause strange interacti
 
 Strange creatures have made [Malstaris](Malstaris) their home, including Devourers, Mind Fiends, and Voids. 
 
-High above Malstaris is [Nydus, the Black Sun](Nydus, the Black Sun), spilling heavy darkness across the land.
+High above [Malstaris](Malstaris) is [Nydus, the Black Sun](Nydus, the Black Sun), spilling heavy darkness across the land.

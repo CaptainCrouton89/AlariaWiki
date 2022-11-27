@@ -6,7 +6,7 @@ Super religious, lots of complicated rituals. Formidable opponents—lots of wea
 
 **Government Type**:
 
-**Primary Inhabitants**: Uline Dwarves
+**Primary Inhabitants**: [Uline](Uline) [Dwarves](Dwarves)
 
 **Population**: 
 
@@ -38,8 +38,8 @@ Super religious, lots of complicated rituals. Formidable opponents—lots of wea
 
 **Enrollment**: Mandatory
 
-- The Xoth military is reknown for its heavy use of magic and the aid of Daemons.
-- The military is one of most disciplined of all of Alaria, and religion plays an enormous role in its function
+- The [Xoth](Xoth) military is reknown for its heavy use of [magic](Magic) and the aid of [Daemons](Daemons).
+- The military is one of most disciplined of all of [Alaria](Alaria), and religion plays an enormous role in its function
 
 
 ## [Geography](Geography)

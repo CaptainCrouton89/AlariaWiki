@@ -1,6 +1,6 @@
 Tags: [region](Regions)
 
-Stretching all the way across the material plane, [Zylogmus Eternus](Zylogmus Eternus) is the "infinite labrynth". Houseing all manners of horrors, and plagued by a terrible curse, [Zylogmus Eternus](Zylogmus Eternus) is one of the worst places you can possibly find yourself.
+Stretching all the way across the [material plane](Material Plane), [Zylogmus Eternus](Zylogmus Eternus) is the "infinite labrynth". Houseing all manners of horrors, and plagued by a terrible curse, [Zylogmus Eternus](Zylogmus Eternus) is one of the worst places you can possibly find yourself.
 
 [Zylogmus Eternus](Zylogmus Eternus) is an enormous maze of corridors and tunnels spanning thousands of miles, built on the lower surface of the Material Plane. It has undergone countless modifications and iterations over the eons, and is a hodgepodge of new and old. [Factions](Factions) control various parts of this megadungeon, vying for power, but their borders are constantly shifting, as the fight for territory is fought nearly ceaselessly. Dividing all of it is an invisible grid. Nobody knows exactly where the grid lines pass through, but once every month, a random person from within that grid doesn’t wake up that night, dying painlessly in their sleep. If someone is sacrificed (burned alive) in one of the eternally burning braziers scattered through the labyrinth, that grid square can avoid having a random person killed. 
 

@@ -67,7 +67,7 @@ Tags: [state](States)
 ## Primary Conflicts
 
 - [Argysis](Argysis) is locked in a currently bloodless war of vengeance with [Anarak](Anarak). Neither can commit to a full war against any other neighbor till the other is removed, but neither is strong enough to remove the other. [Argysis](Argysis) is weaker, but is fortified in the [mountain](Mountains), so cannot be pried out. [Anarak](Anarak) is stronger, but hundreds of miles of burnable farmland.
-- [Argysis](Argysis) wants to take over Hephake, which used to be its sibling kingdom, but cannot leave Argysis ungaurded.
+- [Argysis](Argysis) wants to take over Hephake, which used to be its sibling kingdom, but cannot leave [Argysis](Argysis) ungaurded.
 
 
 ## History

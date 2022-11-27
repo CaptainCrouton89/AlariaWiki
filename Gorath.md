@@ -36,7 +36,7 @@ Tags: [state](States)
 
 **Enrollment**: Mandatory
 
-- The Gorath empire's military is shockingly high quality considering its massive size. Highly strict discipline in the military is the biggest contributor to its success.
+- The [Gorath](Gorath) empire's military is shockingly high quality considering its massive size. Highly strict discipline in the military is the biggest contributor to its success.
 - Whenever Gorath envelops another country, its military is swallowed up by Gorath, and form an auxhilary branch of the military. This is Gorath's greatest strength—adding its conquered enemies' troops to its own.
 - The [Gorath](Gorath) empire's military is shockingly high quality considering its massive size. Highly strict discipline in the military is the biggest contributor to its success.
 - Whenever [Gorath](Gorath) envelops another country, its military is swallowed up by [Gorath](Gorath), and form an auxhilary branch of the military. This is Gorath's greatest strength—adding its conquered enemies' troops to its own. 

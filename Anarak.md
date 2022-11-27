@@ -69,7 +69,7 @@ Tags: [state](States)
 
 - [Anarak](Anarak) is gearing up for a land war against Drasnia.
 - [Tepheranos](Tepheranos) longs for the wealth of [Argysis](Argysis) or even Hephake, but so long as his brother [Rothogomos](Rothogomos) resides in the Argysisean [mountain](Mountains), he cannot leave [Anarak](Anarak) for fear of retaliation.
-- Underground dissent for Tepheranos is a constantly spreading, despite the dragon’s best efforts.
+- Underground dissent for [Tepheranos](Tepheranos) is a constantly spreading, despite the dragon’s best efforts.
 - The Griselian [goblins](Goblins) are terrorizing villagers in the South.
 
 

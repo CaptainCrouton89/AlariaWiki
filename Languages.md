@@ -50,15 +50,15 @@ Gorathi is spoken primarily by natives of [Gorath](Gorath), but as [Gorath](Gora
 
 Ylindian is spoken by much of [Upoceax](Upoceax), the [Free Isles](Free Isles), and western [Aboyuinzu](Aboyuinzu). 
 
-# Minor Languages
+# Minor [Languages](Languages)
 
 ## [Elven](Elves)
 
-Many of the [elves](Elves) still speak their own dialects of [Elven](Elves), which stemmed from Druidic. Most [elves](Elves) can roughly understand each other when speaking in their native elven tongue, if they have one.
+Many of the [elves](Elves) still speak their own dialects of [Elven](Elves), which stemmed from Druidic. Most [elves](Elves) can roughly understand each other when speaking in their native [elven](Elves) tongue, if they have one.
 
 ## [Dwarven](Dwarves)
 
-Unlike elven, [dwarven](Dwarves) tongues have mostly died out, as the [dwarves](Dwarves) pick up the languages of their neighboring trade partners. However, some locations still exist where various dialects of dwarven are still spoken.
+Unlike elven, [dwarven](Dwarves) tongues have mostly died out, as the [dwarves](Dwarves) pick up the languages of their neighboring trade partners. However, some locations still exist where various dialects of [dwarven](Dwarves) are still spoken.
 
 ## Countries of Aboyuinzu
 

@@ -2,7 +2,7 @@ Tags: [race](Races)
 
 ## Overview
 
-Founded by the small colony of [dwarves](Dwarves) who traversed from Celesté back to the material plane. They are more in touch with the [daemons](Daemons), and they are capable of wielding each other's thoughts for [magic](Magic), but fragments of their true names are still known, putting them at enormous risk. For this reason, few [Einwissel](Einwissel) ever leave their colony, hidden deep within the mountains.
+Founded by the small colony of [dwarves](Dwarves) who traversed from [Celesté](Celesté) back to the [material plane](Material Plane). They are more in touch with the [daemons](Daemons), and they are capable of wielding each other's thoughts for [magic](Magic), but fragments of their true names are still known, putting them at enormous risk. For this reason, few [Einwissel](Einwissel) ever leave their colony, hidden deep within the mountains.
 
 ## Physical Appearance
 

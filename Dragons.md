@@ -10,7 +10,7 @@ This was erased, and I don't want to write it again :(, but the gist is that the
 
 # Types of [Dragons](Dragons)
 
-The following is a list of the different types of [dragons](Dragons). Not all dragons fit into their stereotype, but since a dragon's form changes over time to match its capabilities and personality, it's usually a good measuring stick.
+The following is a list of the different types of [dragons](Dragons). Not all [dragons](Dragons) fit into their stereotype, but since a dragon's form changes over time to match its capabilities and personality, it's usually a good measuring stick.
 
 **Black Dragons**
 

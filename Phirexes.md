@@ -73,4 +73,4 @@ Tags: [state](States)
 
 ## History
 
-Sixty years ago, the [Dengar](Dengar) lived in the swamp, in peace. They were close with many of the beasts of the marshes, and knew how to survive. Then, the gorgon Phendexelas arrived, and the fogs began. At first the fogs were not an issue, but slowly the beasts of the swamp were driven mad, and the [Dengar](Dengar) became affected. A city was built by the queen, and the Dengar fled to it, running from a swamp that had turned against them. The gorgon had solved a problem she had created, and now she was the queen of a city. 
+Sixty years ago, the [Dengar](Dengar) lived in the swamp, in peace. They were close with many of the beasts of the marshes, and knew how to survive. Then, the gorgon Phendexelas arrived, and the fogs began. At first the fogs were not an issue, but slowly the beasts of the swamp were driven mad, and the [Dengar](Dengar) became affected. A city was built by the queen, and the [Dengar](Dengar) fled to it, running from a swamp that had turned against them. The gorgon had solved a problem she had created, and now she was the queen of a city. 

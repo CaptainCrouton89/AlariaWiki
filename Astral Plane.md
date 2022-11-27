@@ -4,7 +4,7 @@ No [maps](Maps) chart these lands, as the islands, as their locations are consta
 
 Massive cities are built in these islands. 
 
-The Astral Sea is filled with beautiful shining lights, which are the stars on the material plane. The Astral Sea is nearly opaque, which is why the giant islands high in the sky are not visible. The [Astral Plane](Astral Plane) is lit up from above by [Aurus, the White Sun], which illuminates all souls on the [Astral Plane](Astral Plane), but cannot penetrate down to the material plane through the Astral Sea.
+The Astral Sea is filled with beautiful shining lights, which are the stars on the [material plane](Material Plane). The Astral Sea is nearly opaque, which is why the giant islands high in the sky are not visible. The [Astral Plane](Astral Plane) is lit up from above by [Aurus, the White Sun], which illuminates all souls on the [Astral Plane](Astral Plane), but cannot penetrate down to the material plane through the Astral Sea.
 
 The [soul](Life and Death) is slightly influenced by astral currents in the astral sea, and good ship captains can sense them to navigate astral currents well.
 
