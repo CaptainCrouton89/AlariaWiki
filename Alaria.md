@@ -4,13 +4,13 @@ The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria
 
 In the very middle is the Material Plane—a world of kingdoms and conquest and magic, dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies Celesté: the realm of daemons. It is a dream-like mirror image of the material plane. 
 
-"Above" the [Material Plane](Material Plane) is the Astral Plane. Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The Astral Plane is home to ghosts, and consists of small desert islands scattered throughout a vast ocean under a bright white sun. On the flip side of the Astral Plane is [Astraeva](Astraeva), where...
+"Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The Astral Plane is home to ghosts, and consists of small desert islands scattered throughout a vast ocean under a bright white sun. On the flip side of the Astral Plane is [Astraeva](Astraeva), where...
 
-"Below" the Material Plane is Malstaris—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the Astral Plane, it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. On its flip side is [Vindumor](Vindumor), where...
+"Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the Astral Plane, it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. On its flip side is [Vindumor](Vindumor), where...
 
-In addition to these planes, there are nine planes of the primary elements, each thinly overlayed on the top sides of the three main layers. 
+In addition to these planes, there are nine planes of the primary elements, known as the [elemental planes](elemental planes), each thinly overlayed on the top sides of the three main layers. 
 
-Lastly, there are two very faint planes that overlay all of the rest of the planes—the Ethereal and Nethereal Planes. Physical objects do not exist in these planes, but elements of ones spirit, among other types of energy, can be found on these planes. 
+Lastly, there are two very faint planes that overlay all of the rest of the planes—the [Ethereal](Ethereal Plane) and [Nethereal](Nethereal Plane) Planes. Physical objects do not exist in these planes, but elements of ones spirit, among other types of energy, can be found on these planes. 
 
 # Geography of the Planes
 
