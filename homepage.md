@@ -18,4 +18,4 @@ Welcome! This is the Almanac of [Alaria](Alaria)—a guide to the world of Alari
 
 A collection of different campaign ideas
 
-- Accidentally invading a sovereign country
+- [Accidentally invading a sovereign country](Campaign: Roule Invades)
