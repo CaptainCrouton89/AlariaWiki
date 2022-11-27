@@ -1,9 +1,35 @@
 Tags: [planes](Planes), [planar stack](Planar Stack)
 
+The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac. Within it lie several planes, stacked on top of each other. 
+
+In the very middle is the Material Plane—a world of kingdoms and conquest and magic, dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies Celesté: the realm of daemons. It is a dream-like mirror image of the material plane. 
+
+"Above" the Material Plane is the Astral Plane. Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The Astral Plane is home to ghosts, and consists of small desert islands scattered throughout a vast ocean under a bright white sun. On the flip side of the Astral Plane is [Astraeva](Astraeva), where...
+
+"Below" the Material Plane is Malstaris—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the Astral Plane, it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. On its flip side is [Vindumor](Vindumor), where...
+
+In addition to these planes, there are nine planes of the primary elements, each thinly overlayed on the top sides of the three main layers. 
+
+Lastly, there are two very faint planes that overlay all of the rest of the planes—the Ethereal and Nethereal Planes. Physical objects do not exist in these planes, but elements of ones spirit, among other types of energy, can be found on these planes. 
+
+# Geography of the Planes
+
+# Elemental Planes
+
+Those layers are:
+
+- [Yolus](Yolus) (Fire)
+- [Sulus](Sulus) (Air)
+- [Golus](Golus) (Earth)
+- [Pelus](Pelus) (Water)
+- [Vulus](Vulus) (Darkness)
+- [Kunus](Kunus) (Light)
+- [Nilus](Nilus) (Void)
+- [Izzus](Izzus) (Time)
+
+Along certain lines across the land, these elemental planes bend much closer to the Material Plane. Those lines on which they bend closer are known as Leylines, and are locations where elemental magic relying on the corresponding element will be much more potent.
 
 ## [Maps](Maps)
-
-The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac/wiki. Within it lie three layers, each consisting of a top side and bottom side: in the middle—the Material Realm and Celesté; above—the Ethereal Plane and [Astral Plane](Astral Plane); and below—the Nethereal Plane and [Malstaris](Malstaris). The flip side of each plane is its counterpart.
 
 Each layer is also connected at their borders. Traveling to the far West or East of any plane takes you to its flip side, while traveling to the far North or South takes you to the next or previous layer, or off the edge of the world if you are traveling North on the upper layer, or South on the lower layer. 
 
@@ -12,8 +38,6 @@ Each layer is also connected at their borders. Traveling to the far West or East
 Psyic energy makes up the space between the planar layers of [Alaria](Alaria). It is an ever-present, omnipresent, swirling mass of the thoughts of all life within the [planar stack](Planar Stack). Through special practice or natural ability, this energy can be harnessed to perform [magic](Magic) on [Alaria](Alaria). 
 
 # Central Layer
-
-Most of the drama of [Alaria](Alaria) occurs in the [planes](Planes) of the central layer—the material realm and Celesté.
 
 ### Material Plane
 
