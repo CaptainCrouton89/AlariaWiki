@@ -6,7 +6,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Halflings
 
 **Population**: 
 
