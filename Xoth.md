@@ -32,13 +32,14 @@ Super religious, lots of complicated rituals. Formidable opponents—lots of wea
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- The Xoth military is reknown for its heavy use of magic and the aid of Daemons.
+- The military is one of most disciplined of all of Alaria, and religion plays an enormous role in its function
 
 
 ## [Geography](Geography)
