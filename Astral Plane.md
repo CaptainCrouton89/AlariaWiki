@@ -9,3 +9,9 @@ The Astral Sea is filled with beautiful shining lights, which are the stars on t
 The [soul](Life and Death) is slightly influenced by astral currents in the astral sea, and good ship captains can sense them to navigate astral currents well.
 
 The [Astral Plane](Astral Plane) is illuminated by the [Aurus, the White Sun](Aurus, the White Sun) (counterpart to [Nydus, the Black Sun](Nydus, the Black Sun)). Souls are illuminated in its light.
+
+All souls of the living go to the Astral Plane upon death. The Astral Plane is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the the souls of the dead. Alisandre the Beautiful is the self declared queen of the souls, though dozens of other powerful figures of the Astral Plane vie for power.
+
+The mountainous underbelly of the ethereal plane can sometimes be seen from the material realm below. The entire underbelly is covered in colossal mountains which undergo [mountain](Mountains) shaking earthquakes every millennia or so. The rocks that break free and plummet to the material realm during these earthquakes provide the astral stones used for intercontinental travel, due to their strange buoyancy in air. 
+
+High above the Astral Sea is [Azus, the White Sun]. 
