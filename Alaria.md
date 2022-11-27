@@ -1,6 +1,8 @@
 Tags: [planes](Planes), [planar stack](Planar Stack)
 
-# [Alaria](Alaria)
+ The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac. Within it lie several planes, stacked on top of each other. 
+
+# Geography of the Planes
 
 In the very middle is the Material Plane—a world of kingdoms and conquest and magic, dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies [Celesté](Celesté): the realm of daemons. It is a dream-like mirror image of the material plane. 
 
@@ -12,12 +14,18 @@ In addition to these planes, there are nine planes of the primary elements, know
 
 Lastly, there are two very faint planes that overlay all of the rest of the planes—the [Ethereal](Ethereal Plane) and [Nethereal](Nethereal Plane) Planes. Physical objects do not exist in these planes, but elements of ones spirit, among other types of energy, can be found on these planes. 
 
-# Geography of the Planes
+## Planar Travel
 
-## [Maps](Maps)
+Many of the planes are physically connected to one another, although their connections do not always obey Euclidean laws of geometry. 
 
-Each layer is also connected at their borders. Traveling to the far West or East of any plane takes you to its flip side, while traveling to the far North or South takes you to the next or previous layer, or off the edge of the world if you are traveling North on the upper layer, or South on the lower layer. 
+Each plane is a square, meaning that each plane has four sides where the plane ends. Crossing any one of these borders results in flipping to the "opposite" side of that plane. For exmaple, if you were on the Material Plane, upon reaching the edge of the ocean, you could continue travling that direction but now be traveling back towards land (as though mirrored) and now in Celesté. 
 
-## Psyic Energy
+Likewise, traveling to the border north, south, west, or eastern border of Malstaris would take you to Vindumor. 
+
+Traveling between the Material Plane and the Astral Plane or Malstaris requires vertical distance, as opposed to horizontal. The sky of the Material Plane is the furthest abysses of the Astral sea. As you travel up higher and higher, the air becomes ocean, and eventually you reach the Astral Plane. Similarly, to reach Malstaris, one must travel up through the Crags of Geth in Phlethagoras until one eventually reaches the surface again, on Malstaris.
+
+Getting to the other planes is more difficult, and usually completely incompatible with one's survival. Although some people can channel power from the elemental planes, and others can see or dream on the Ethereal or Nethereal Planes, none can sustain spirit, soul, or shadow.
+
+# Psyic Energy
 
 Psyic energy makes up the space between the planar layers of [Alaria](Alaria). It is an ever-present, omnipresent, swirling mass of the thoughts of all life within the [planar stack](Planar Stack). Through special practice or natural ability, this energy can be harnessed to perform [magic](Magic) on [Alaria](Alaria). 
