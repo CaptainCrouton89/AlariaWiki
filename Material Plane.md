@@ -14,10 +14,6 @@ The top part of the material plane, consisting of the Surface and the Underrealm
 
 Countries bicker over land and resources, empires rise and fall, and life goes on. "Normal".
 
-#### [The Underrealms](The Underrealms)
-
-200 miles of earth below the surface. Filled with all manners of creatures and beasts.
-
 ### Ethereal/Nethereal Planes
 
 The ethereal plane is where you [soul](Life and Death) resides during your life. Some people are capable of seeing onto it, using learned or innate soul-sight. The plane is a misty, translucent husk of the material realm, where solids are nearly invisible, and other souls are brightly visible. 
