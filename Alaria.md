@@ -64,14 +64,6 @@ Willingly going to Celesté requires leaving your [shadow](Life and Death) and [
 
 [Deoric](Deoric) does not work on Celesté due to Ezzic interference, though many of its users reside there, using their knowledge to serve their followers back on the material plane. 
 
-# [Astral Plane](Astral Plane)
-
-All souls of the living go to the Astral Plane upon death. The Astral Plane is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the the souls of the dead. Alisandre the Beautiful is the self declared queen of the souls, though dozens of other powerful figures of the Astral Plane vie for power.
-
-The mountainous underbelly of the ethereal plane can sometimes be seen from the material realm below. The entire underbelly is covered in colossal mountains which undergo [mountain](Mountains) shaking earthquakes every millennia or so. The rocks that break free and plummet to the material realm during these earthquakes provide the astral stones used for intercontinental travel, due to their strange buoyancy in air. 
-
-High above the Astral Sea is [Azus, the White Sun]. 
-
 # Elemental Layers
 
 All of the primary elements of the world each make up a layer, thinly placed in between the material [planes](Planes) (astral, malstaric, material realm) and the immaterial [planes](Planes) (ethereal, nethereal, Celestian). Things and creatures with higher attunement to these other layers cause the layers to spill down and into the visible world, affecting the material [planes](Planes). The layers closer to the material [planes](Planes) are more accessible to those on the material [planes](Planes), whereas the elemental layers closer to Celesté and the other immaterial [planes](Planes) are more accessible to those inhabitants instead.
