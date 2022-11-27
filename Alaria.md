@@ -43,13 +43,6 @@ Psyic energy makes up the space between the planar layers of [Alaria](Alaria). I
 
 Travel there is theorized to be possible, but all who try never return.
 
-
-### [Astral Plane](Astral Plane)
-
-All souls of the living go to the [Astral Plane](Astral Plane) upon death. The [Astral Plane](Astral Plane) is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the the souls of the dead. *** is the self declared queen of the souls, though dozens of other powerful figures of the [Astral Plane](Astral Plane) vie for his position.
-
-The mountainous underbelly of the ethereal plane can sometimes be seen from the material realm below. The entire underbelly is covered in colossal mountains which undergo [mountain](Mountains) shaking earthquakes every millennia or so. The rocks that break free and plummet to the material realm during these earthquakes provide the astral stones used for intercontinental travel, due to their strange buoyancy in the Astral Sea. 
-
 # Elemental Layers
 
 All of the primary elements of the world each make up a layer, thinly placed in between the material [planes](Planes) (astral, malstaric, material realm) and the immaterial [planes](Planes) (ethereal, nethereal, Celestian). Things and creatures with higher attunement to these other layers cause the layers to spill down and into the visible world, affecting the material [planes](Planes). The layers closer to the material [planes](Planes) are more accessible to those on the material [planes](Planes), whereas the elemental layers closer to Celesté and the other immaterial [planes](Planes) are more accessible to those inhabitants instead.
