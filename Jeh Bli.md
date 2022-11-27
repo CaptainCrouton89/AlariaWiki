@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Xi'ivrach Orcs](Xi'ivrach)
 
 **Population**: 
 

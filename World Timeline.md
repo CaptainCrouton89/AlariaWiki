@@ -60,7 +60,7 @@ Of her three children, [Nagatayora](Nagatayora) was the eldest and proudest, and
 
 #### The Walk of Elves: 10 million years ago
 
-Although the druids never die of natural causes, they have slowly been killed off over time, such that only a few reside in [Alaria](Alaria) today. However, their legacy remains, as the [elves](Elves) were created by the druids, from the branches of trees, the stones and mud from the rivers that ran through Alaria, and the life from the druids. The [elves](Elves) were made in the druid's images, and share their pointed ears, slender forms, and graceful movement, and have similar appreciations for nature and beauty as the druids.
+Although the [druids](Druids) never die of natural causes, they have slowly been killed off over time, such that only a few reside in [Alaria](Alaria) today. However, their legacy remains, as the [elves](Elves) were created by the druids, from the branches of trees, the stones and mud from the rivers that ran through [Alaria](Alaria), and the life from the druids. The [elves](Elves) were made in the druid's images, and share their pointed ears, slender forms, and graceful movement, and have similar appreciations for nature and beauty as the druids.
 
 The [elves](Elves) were good at everything they did, and quickly grew in population as they covered Alaria. They worked in harmony with the [dragons](Dragons), and together, ruled the land.
 
@@ -72,7 +72,7 @@ Gaea, jealous of the success and intelligence of the [elves](Elves) and the drui
 
 Of the [races](Races) of Gaea, [humans](Humans) were by far the most versatile and ambitious, and it was not long before [humans](Humans) had covered Alaria. This began the Golden Age of Man—125,000 years of flourishing civilization. Technology reached incredible levels that have never been reached since. Flying machines soared across the skies and beyond the [planes](Planes), civilizations stretched from deep within the seas to high in the clouds, and magical knowledge was common and plentiful.
 
-This time also gave rise to the [daemons](Daemons) of Celesté. As Gaea’s children explored the world, the nature of the bond between Celesté, the material realm, and the psyic energy enveloping them both became known. People began moving across the boundary in droves, and the population dramatically shifted away from the material realm to Celesté.
+This time also gave rise to the [daemons](Daemons) of [Celesté](Celesté). As Gaea’s children explored the world, the nature of the bond between Celesté, the material realm, and the psyic energy enveloping them both became known. People began moving across the boundary in droves, and the population dramatically shifted away from the material realm to Celesté.
 
 #### The God War: 75,000 years ago
 
@@ -94,7 +94,7 @@ Over the next thousand years, Craggus’ name became more and more known, and wi
 
 #### Craggus’ Reign: 45,000–30,000 years ago
 
-The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in Celesté, Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. 
+The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in [Celesté](Celesté), Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. 
 
 ### The Lost Ages: 30,000–7,210 years ago
 

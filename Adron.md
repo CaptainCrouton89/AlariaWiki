@@ -19,7 +19,7 @@ Links: [States](States)
 - Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
  is a famous saying among [Naga](Naga) elders. 
 
-- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no Naga at all
+- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
  is a famous saying among Naga elders. 
 
 

@@ -10,7 +10,7 @@ The Eiwissel have blue-gray skin with silvery speckles in it. They are generally
 
 ## Cultural Overview
 
-The [Einwissel](Einwissel) are as rare as the lichen they are named after, and have a shyness to match. Little is known about their culture, though they are believed to hold on to some of the strict matriarchal traditions they had when they left the material plane millenia ago.
+The [Einwissel](Einwissel) are as rare as the lichen they are named after, and have a shyness to match. Little is known about their culture, though they are believed to hold on to some of the strict matriarchal traditions they had when they left the [material plane](Material Plane) millenia ago.
 
 ## History
 

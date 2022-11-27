@@ -58,7 +58,7 @@ Many of the [elves](Elves) still speak their own dialects of [Elven](Elves), whi
 
 ## [Dwarven](Dwarves)
 
-Unlike elven, [dwarven](Dwarves) tongues have mostly died out, as the [dwarves](Dwarves) pick up the languages of their neighboring trade partners. However, some locations still exist where various dialects of [dwarven](Dwarves) are still spoken.
+Unlike [elven](Elves), [dwarven](Dwarves) tongues have mostly died out, as the [dwarves](Dwarves) pick up the [languages](Languages) of their neighboring trade partners. However, some locations still exist where various dialects of [dwarven](Dwarves) are still spoken.
 
 ## Countries of Aboyuinzu
 

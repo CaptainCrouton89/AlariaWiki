@@ -69,7 +69,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 - The inhabitants of Nylos were once an independent nation. They desire their own laws and government, but are kept under the heel of [Roule](Roule).
 - Have historically fought with [Xoth](Xoth), and tensions remain high as ever.
-- Currrently invading Rakite. Those who live there suspect that there may already be people here, but back in Roule, those in charge are unaware. 
+- Currrently invading [Rakite](Rakite). Those who live there suspect that there may already be people here, but back in [Roule](Roule), those in charge are unaware. 
 
 
 ## History

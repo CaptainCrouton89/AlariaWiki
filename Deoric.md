@@ -22,6 +22,6 @@ Once [Deoric](Deoric) text is read by someone other than the author, the text di
 
 ## [Deoric](Deoric), [Daemons](Daemons), & [Celesté](Celesté)
 
-[Deoric](Deoric) is primarily used by the [daemons](Daemons) of Celesté. Having been around for centuries, millennia, or in some rare cases, eons, these beings are frequently at much higher levels of mastery with the Deoric language that mortals can only dream of. By using this [magic](Magic), they serve their followers.
+[Deoric](Deoric) is primarily used by the [daemons](Daemons) of [Celesté](Celesté). Having been around for centuries, millennia, or in some rare cases, eons, these beings are frequently at much higher levels of mastery with the [Deoric](Deoric) language that mortals can only dream of. By using this [magic](Magic), they serve their followers.
 
 There are several different varieties of [magic](Magic) in [Alaria](Alaria). Each come from different sources of energy and have different properties. …**

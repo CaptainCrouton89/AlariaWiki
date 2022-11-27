@@ -2,11 +2,11 @@ Tags: [planes](Planes), [planar stack](Planar Stack)
 
  The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac. Within it lie several [planes](Planes), stacked on top of each other. 
 
-# [Geography](Geography) of the Planes
+# [Geography](Geography) of the [Planes](Planes)
 
-In the very middle is the [Material Plane](Material Plane)—a world of kingdoms and conquest and [magic](Magic), dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies [Celesté](Celesté): the realm of [daemons](Daemons). It is a dream-like mirror image of the material plane. 
+In the very middle is the [Material Plane](Material Plane)—a world of kingdoms and conquest and [magic](Magic), dominated by typical masses of land and ocean. However, on the opposite side of the [Material Plane](Material Plane)—as though on the flip side—lies [Celesté](Celesté): the realm of [daemons](Daemons). It is a dream-like mirror image of the material plane. 
 
-"Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). On the flip side of the Astral Plane is [Astraeva](Astraeva), where...
+"Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva), where...
 
 "Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the [Astral Plane](Astral Plane), it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. On its flip side is [Vindumor](Vindumor), where...
 
@@ -22,9 +22,9 @@ Each plane is a square, meaning that each plane has four sides where the plane e
 
 Likewise, traveling to the border north, south, west, or eastern border of [Malstaris](Malstaris) would take you to Vindumor. 
 
-Traveling between the Material Plane and the Astral Plane or Malstaris requires vertical distance, as opposed to horizontal. The sky of the Material Plane is the furthest abysses of the Astral sea. As you travel up higher and higher, the air becomes ocean, and eventually you reach the Astral Plane. Similarly, to reach Malstaris, one must travel up through the Crags of Geth in Phlethagoras until one eventually reaches the surface again, on Malstaris.
+Traveling between the Material Plane and the Astral Plane or [Malstaris](Malstaris) requires vertical distance, as opposed to horizontal. The sky of the Material Plane is the furthest abysses of the Astral sea. As you travel up higher and higher, the air becomes ocean, and eventually you reach the Astral Plane. Similarly, to reach Malstaris, one must travel up through the Crags of Geth in Phlethagoras until one eventually reaches the surface again, on Malstaris.
 
-Getting to the other [planes](Planes) is more difficult, and usually completely incompatible with one's survival. Although some people can channel power from the [elemental planes](Elemental Planes), and others can see or dream on the Ethereal or Nethereal Planes, none can sustain [spirit](Life and Death), [soul](Life and Death), or [shadow](Life and Death).
+Getting to the other [planes](Planes) is more difficult, and usually completely incompatible with one's survival. Although some people can channel power from the [elemental planes](Elemental Planes), and others can see or dream on the Ethereal or Nethereal [Planes](Planes), none can sustain [spirit](Life and Death), [soul](Life and Death), or [shadow](Life and Death).
 
 # Psyic Energy
 
