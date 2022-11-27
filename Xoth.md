@@ -47,7 +47,7 @@ Super religious, lots of complicated rituals. Formidable opponents—lots of wea
 
 **Biomes**: 
 
-**Named Entities**:
+**Named Entities**: [Pearly Mountains](Pearly Mountains), [Kumi Wood](Kumi Wood), [Pyrgion Forest](Pyrgion Forest), [Dunes of Tithonius](Dunes of Tithonius)
 
 **Rivers & Lakes**: 
 
