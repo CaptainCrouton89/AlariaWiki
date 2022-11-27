@@ -6,7 +6,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Halflings
 
 **Population**: 
 
@@ -43,29 +43,32 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 ## [Geography](Geography)
 
-**Location**: 
+**Location**: 32, 124
 
-**Biomes**: 
+**Biomes**: Plains
 
-**Named Entities**:
+**Named Entities**: [Murder Wood](Murder Wood), [Arins Plains](Arins Plains)
 
-**Rivers & Lakes**: 
+**Rivers & Lakes**: [Hanli River](Hanli River), [Eselemez Lake](Eselemez Lake), [Hakö Lake](Hakö Lake)
 
 **Adjacent Waters**: 
 
 
 ## Political [Geography](Geography)
 
-**Capital**: 
-**Cities**: 
-**Towns**: 
+**Capital**: [Fozyader](Fozyader)
+
+**Cities**: [Alifaki](Alifaki), [Kabilcuz](Kabilcuz), [Tezina](Tezina), [Teldib](Teldib), [Ovabasi](Ovabasi), [Samandoken](Samandoken), [Recnaf](Recnaf)
+
+**Towns**: [Esslekiv](Esslekiv), [Wunipek](Wunipek), [Gavuragili](Gavuragili), [Dikilkaya](Dikilkaya), [Nebil](Nebil), [Boke](Boke), [Dimetoka](Dimetoka), [Gevenlik](Gevenlik), [Atamer](Atamer), [Bachesaray](Bachesaray), [Kyullyuk](Kyullyuk), [Varhal](Varhal), [Karamehmetler](Karamehmetler), [Mahmu](Mahmu)
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
 - The inhabitants of Nylos were once an independent nation. They desire their own laws and government, but are kept under the heel of Roule.
-- 
+- Have historically fought with [Xoth](Xoth), and tensions remain high as ever.
 
 
 ## History
