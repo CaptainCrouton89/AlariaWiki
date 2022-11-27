@@ -19,6 +19,7 @@ Culturally very against confrontation. Disagreements are settled by gift giving.
 **Core Values**: 
 
 - Composed of numerous smaller tribes, each with their own cultures and leadership methods.
+- Tribal leaders convene once a year to discuss important topics 
 
 
 ## Economy
