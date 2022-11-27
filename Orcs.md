@@ -7,4 +7,4 @@
 - [Griebi (Lake Men)](Griebi)
 - [Enti (Northmen)](Enti)
 - [Tytheri (Blood Orcs)](Tytheri)
-- [Pai'i (Divine Orcs)](Pai'i)
+- [Xi'ivrach (Divine Orcs)](Xi'ivrach)
