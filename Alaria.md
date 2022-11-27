@@ -1,5 +1,6 @@
 Tags: [planes](Planes), [planar stack](Planar Stack)
 
+
 ## [Maps](Maps)
 
 The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac/wiki. Within it lie three layers, each consisting of a top side and bottom side: in the middle—the Material Realm and Celesté; above—the Ethereal Plane and [Astral Plane](Astral Plane); and below—the Nethereal Plane and [Malstaris](Malstaris). The flip side of each plane is its counterpart.
