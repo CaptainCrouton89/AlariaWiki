@@ -2,7 +2,7 @@ Tags: [planes](Planes), [planar stack](Planar Stack)
 
 # [Alaria](Alaria)
 
-In the very middle is the Material Plane—a world of kingdoms and conquest and magic, dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies Celesté: the realm of daemons. It is a dream-like mirror image of the material plane. 
+In the very middle is the Material Plane—a world of kingdoms and conquest and magic, dominated by typical masses of land and ocean. However, on the opposite side of the Material Plane—as though on the flip side—lies [Celesté](Celesté): the realm of daemons. It is a dream-like mirror image of the material plane. 
 
 "Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The Astral Plane is home to ghosts, and consists of small desert islands scattered throughout a vast ocean under a bright white sun. On the flip side of the Astral Plane is [Astraeva](Astraeva), where...
 
