@@ -1,12 +1,12 @@
 Tags: [state](States)
 
-Links: [States](States)
+Super religious, lots of complicated rituals. Formidable opponents—lots of wealth and very united nation
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Uline Dwarves
 
 **Population**: 
 
@@ -14,7 +14,7 @@ Links: [States](States)
 
 **Core Values**: 
 
-- 
+- Super religious
 
 
 ## Economy
