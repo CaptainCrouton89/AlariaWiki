@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: [Xi'ivrach Orcs](Xi'ivrach)
+**Primary Inhabitants**: 
 
 **Population**: 
 
@@ -39,7 +39,7 @@ Tags: [state](States)
 - 
 
 
-## [Geography](Geography)
+## Geography
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: [state](States)
 **Adjacent Waters**: 
 
 
-## Political [Geography](Geography)
+## Political Geography
 
 **Capital**: 
 **Cities**: 
