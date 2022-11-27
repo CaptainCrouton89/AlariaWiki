@@ -6,7 +6,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 **Government Type**:
 
-**Primary Inhabitants**: Halflings
+**Primary Inhabitants**: 
 
 **Population**: 
 
@@ -43,7 +43,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 ## [Geography](Geography)
 
-**Location**: 32, 124
+**Location**: 
 
 **Biomes**: 
 
@@ -64,6 +64,7 @@ Home to colonizing [halflings](Halflings). E.g. the british
 
 ## Primary Conflicts
 
+- The inhabitants of Nylos were once an independent nation. They desire their own laws and government, but are kept under the heel of Roule.
 - 
 
 
