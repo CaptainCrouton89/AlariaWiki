@@ -1,0 +1,3 @@
+Tags: [state](States)
+
+Once controlled by [dwarves](Dwarves), these mountains have been taken over by [goblins](Goblins) and [Cirthikin](Cirthikin), large, burrowing, praying mantis-like creatures. The tunnels form an enormous network that travel for hundreds of miles underground. The [dwarves](Dwarves), driven deeper into the ground, have become pale monstrosities below, known as [Surry](Surry) [dwarves](Dwarves). Mines, hidden lairs, and underground fortresses litter the mountains.

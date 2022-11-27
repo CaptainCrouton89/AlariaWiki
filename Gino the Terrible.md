@@ -1,0 +1,3 @@
+Tags: [npc](NPCs)
+
+Gino is a high level [human](Humans) who enchanted himself with eternal life. However, it comes at the cost of life all around him, which begins to rot, even while still alive. Unable to kill him, heroes chained him to live out eternity in the [White Wastes](White Wastes). 

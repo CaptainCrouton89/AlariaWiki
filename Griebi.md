@@ -1,0 +1,1 @@
+Grieb: The Lakemen - Blueish gray skinned [orcs](Orcs), can breathe underwater, and rarely speak. Hunt and fish to survive. Super terrifying long needle like teeth, for swimming and catching fish under water. Ruled over by hag queen.

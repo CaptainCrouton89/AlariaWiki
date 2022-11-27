@@ -1,0 +1,1 @@
+The [Black Citadel](Black Citadel) is a tower built atop. cliffs in the [Breakneck Canyons](Breakneck Canyons) of [Malstaris](Malstaris). Home to a vampire lord. The dead line up outside the citadel for miles, waiting for their turn.

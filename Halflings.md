@@ -1,0 +1,7 @@
+- [Belenstrope (Goldfingers)](Belenstrope)
+- [Fieri (Hellborn)](Fieri)
+- [Dengar (Swampers)](Dengar)
+- [Wispen (Silverskins)](Wispen)
+- [Shaolin](Shaolin)
+- [Windorf (Hobbits)](Windorf)
+- [Whiteling](Whiteling)
