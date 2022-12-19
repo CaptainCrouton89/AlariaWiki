@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
@@ -12,9 +12,9 @@ Tags: state
 
 **Core Values**: Relgion, truth, sacredness, seasons, the cycle of time, duty, fate, determinism
 
-- Avalon is ruled over by the [Grand Imperial Ecclesiarch](Grand Imperial Ecclesiarch), believed to be a walking god. They have not blinked or left their throne for their entire life, and they are said to be able to see the future.
+- [Avalon](Avalon) is ruled over by the [Grand Imperial Ecclesiarch](Grand Imperial Ecclesiarch), believed to be a walking god. They have not blinked or left their throne for their entire life, and they are said to be able to see the future.
 - Multiple fiefdoms are each controlled by a local religious leader. These are all overseen by the Solum Impervium—the hand of the Ecclesiarch. 
-- Many time attuned people live in Avalon. 
+- Many time attuned people live in [Avalon](Avalon). 
 
 
 ## Economy
@@ -27,7 +27,7 @@ Tags: state
 
 **Primary Imports**: None
 
-- Tithes are collected by the church yearly, as foreseen to best suit the needs of Avalon by the Ecclesiarch in dreams.
+- Tithes are collected by the church yearly, as foreseen to best suit the needs of [Avalon](Avalon) by the Ecclesiarch in dreams.
 
 
 ## Military
@@ -41,7 +41,7 @@ Tags: state
 - As with most careers, a career in the military starts at age 8, after being brought before the local priest, who declares their future expertise. Soldiers are chosen for special skill in the forces of time, and are raised and trained in isolation from their families for a decade before entering the force. They are machine-like in their skill, never make mistakes, and are utterly unpredictable and deadly.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 

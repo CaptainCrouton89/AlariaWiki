@@ -28,8 +28,8 @@ Tags: [state](States)
 
 **Primary Imports**: Technology
 
-- Sestros boasts the finest textile production of anywhere in the world, attracting wealthy merchants and nobility form all over to purshase form their fine selection.
-- Most people work as ranchers, herding sheep and other domestic animals across the plains.
+- [Sestros](Sestros) boasts the finest textile production of anywhere in the world, attracting wealthy merchants and nobility form all over to purshase form their fine selection.
+- Most people work as ranchers, herding sheep and other domestic animals across the [plains](Plains).
 
 
 ## Military
@@ -69,9 +69,9 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- As the Sestros military grows, Sestros' neighbors grow wary. They wonder if war is coming.
+- As the [Sestros](Sestros) military grows, Sestros' neighbors grow wary. They wonder if war is coming.
 - Innovation slows, and scholarship remains frozen in the past, as asking questions is fronwned upon, and new ideas are rare.
-- The Shailin are being deluded by a prideful [daemon](Daemons).
+- The [Shailin](Shailin) are being deluded by a prideful [daemon](Daemons).
 
 
 ## History

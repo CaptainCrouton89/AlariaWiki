@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: Strømgodden
+**Primary Inhabitants**: [Strømgodden](Strømgodden)
 
 **Population**: 50,000
 
@@ -39,7 +39,7 @@ Tags: state
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 Links: [States](States)
 
@@ -41,7 +41,7 @@ Links: [States](States)
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

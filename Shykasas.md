@@ -12,9 +12,9 @@ Tags: [state](States)
 
 **Core Values**: Dignity, cunning, strength, perseverence, survival, bluntness
 
-- The King of [Shykasas](Shykasas) rules over the six other noble houses of Shykasas.
-- An egg is selected in the King's brood to be made the next ruler. It is kept at a certain temperature, and watched separately from its siblings. It will grow to become more powerful than any other Alekroin.
-- [Shykasas](Shykasas) has few allies, due to the nonsocial attitudes of the Alekroin.
+- The King of [Shykasas](Shykasas) rules over the six other noble houses of [Shykasas](Shykasas).
+- An egg is selected in the King's brood to be made the next ruler. It is kept at a certain temperature, and watched separately from its siblings. It will grow to become more powerful than any other [Alekroin](Alekroin).
+- [Shykasas](Shykasas) has few allies, due to the nonsocial attitudes of the [Alekroin](Alekroin).
 
 
 ## Economy
@@ -27,7 +27,7 @@ Tags: [state](States)
 
 **Primary Imports**: Metals
 
-- Shykasas interacts very little with the outside world, and thus have few trade partners.
+- [Shykasas](Shykasas) interacts very little with the outside world, and thus have few trade partners.
 
 
 ## Military
@@ -38,7 +38,7 @@ Tags: [state](States)
 
 **Enrollment**: Voluntary
 
-- Few are interested in the [jungles](Jungles) here, so there is little risk of invasion. However, the Alekroin are incredibly capable fighters—each able to take on 4 or more typical soldiers. 
+- Few are interested in the [jungles](Jungles) here, so there is little risk of invasion. However, the [Alekroin](Alekroin) are incredibly capable fighters—each able to take on 4 or more typical soldiers. 
 
 
 ## [Geography](Geography)

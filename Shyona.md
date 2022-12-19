@@ -46,7 +46,7 @@ Links: [States](States)
 
 **Location**: 
 
-**Biomes**: Plains, desert
+**Biomes**: [Plains](Plains), [desert](Deserts)
 
 **Named Entities**:
 

@@ -1,6 +1,6 @@
-Tags: state
+Tags: [state](States)
 
-Links: [States](States)
+Home to [jungle](Jungles) [ogres](Ogres). Peaceful people.
 
 ## Government & Peoples
 
@@ -41,7 +41,7 @@ Links: [States](States)
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

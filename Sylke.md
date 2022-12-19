@@ -1,47 +1,49 @@
-Tags: state
+Tags: [state](States)
 
 Links: [States](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Oznak](Oznak), [Tikhaya](Tikhaya)
 
-**Population**: 
+**Population**: 300,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Duty, privacy, minding one's own business, nihilism
 
-- 
+- Ruled over by [Alisandra the Merciful](Alisandra the Merciful), a cruel queen with no qualms about massive [human](Humans) sacrifice to power [deoric](Deoric) [magic](Magic) for the throne.
+- Recenlty invaded and took over [Tornia](Tornia) in a fairly bloodless war.
+- Eyes and ears are everywhere—the queen knows everything, and then some.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very developed
 
-**Primary Exports**: 
+**Primary Exports**: Lumber
 
-**Primary Imports**: 
+**Primary Imports**: Grain, minerals
 
 - 
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Medium
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,17 +56,20 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- Just invaded [Tornia](Tornia), and now has to subdue revolts and rebellion.
 
 
 ## History

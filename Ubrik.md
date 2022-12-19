@@ -25,6 +25,7 @@ Tags: [state](States)
 
 **Primary Imports**: Food, luxury items for the rich
 
+- [Ubrik](Ubrik) is a member of the [Penola Trade Alliance](Penola Trade Alliance)
 - The lifestyles of the rich is vastly different from the poor—while the rich enjoy cushy lives, the peasants live in relative destitution.
 
 
@@ -65,8 +66,8 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- Ubrik has been horribly fragmented by the discovery of [Slick Silver](Slick Silver), which has driven many of the dwarves insane and into cannabilistic rages. The Ubrik have fled south, but the dwarves left behind continue to terrorize the surrounding country side.
-- Gross wealth disparity among the Ubrik, including somewhat cruel work practices, has led to a lot of tension between the upper and lower classes in Ubrik.
+- [Ubrik](Ubrik) has been horribly fragmented by the discovery of [Slick Silver](Slick Silver), which has driven many of the [dwarves](Dwarves) insane and into cannabilistic rages. The [Ubrik](Ubrik) have fled south, but the [dwarves](Dwarves) left behind continue to terrorize the surrounding country side.
+- Gross wealth disparity among the [Ubrik](Ubrik), including somewhat cruel work practices, has led to a lot of tension between the upper and lower classes in [Ubrik](Ubrik).
 
 
 ## History

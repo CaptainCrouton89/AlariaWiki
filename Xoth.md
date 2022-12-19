@@ -1,12 +1,12 @@
-Tags: state
+Tags: [state](States)
 
-Links: [States](States)
+Super religious, lots of complicated rituals. Formidable opponents—lots of wealth and very united nation
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Uline](Uline) [Dwarves](Dwarves)
 
 **Population**: 
 
@@ -14,7 +14,7 @@ Links: [States](States)
 
 **Core Values**: 
 
-- 
+- Super religious
 
 
 ## Economy
@@ -32,29 +32,30 @@ Links: [States](States)
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: High
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- The [Xoth](Xoth) military is reknown for its heavy use of [magic](Magic) and the aid of [Daemons](Daemons).
+- The military is one of most disciplined of all of [Alaria](Alaria), and religion plays an enormous role in its function
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
 **Biomes**: 
 
-**Named Entities**:
+**Named Entities**: [Pearly Mountains](Pearly Mountains), [Kumi Wood](Kumi Wood), [Pyrgion Forest](Pyrgion Forest), [Dunes of Tithonius](Dunes of Tithonius)
 
 **Rivers & Lakes**: 
 
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

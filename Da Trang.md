@@ -38,7 +38,7 @@ Tags: [state](States)
 **Enrollment**: Voluntary
 
 - Nearly anyone who can fight, wants to fight. 
-- The Ix Tyrann have no organized fighting whatsoever, but what they lack in discipline, they make up for in savagery. They are some of the most efficient killers in [Alaria](Alaria).
+- The [Ix Tyrann](Ix Tyrann) have no organized fighting whatsoever, but what they lack in discipline, they make up for in savagery. They are some of the most efficient killers in [Alaria](Alaria).
 
 
 ## [Geography](Geography)
@@ -67,8 +67,8 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- The Ix Tyrann are struggling to fend off their eastern border with New [Chimea](Chimea), which has given up on [Vystrilik](Vystrilik) and decided to move north instead.
-- It is unclear if the Ix Tyrann will be able to unite in time to keep the Chimeans out.
+- The [Ix Tyrann](Ix Tyrann) are struggling to fend off their eastern border with New [Chimea](Chimea), which has given up on [Vystrilik](Vystrilik) and decided to move north instead.
+- It is unclear if the [Ix Tyrann](Ix Tyrann) will be able to unite in time to keep the Chimeans out.
 
 
 ## History

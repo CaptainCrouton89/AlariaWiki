@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Democracy
 
-**Primary Inhabitants**: Lorean minotaur
+**Primary Inhabitants**: [Lorean](Lorean) [minotaur](Minotaur)
 
 **Population**: 60,000
 
@@ -14,7 +14,7 @@ Tags: state
 
 - A new king is chosen every decade, elected by the population. There are no restrictions on who can become king, only that you step down after 10 years.
 - Some kingships are incredible profitable, while some are disasterous
-- Sailing is a massive aspect of Keletan life, and from a young age, minotaur will venture out at sea in even the nastiest storms.
+- Sailing is a massive aspect of Keletan life, and from a young age, [minotaur](Minotaur) will venture out at sea in even the nastiest storms.
 
 
 ## Economy
@@ -41,7 +41,7 @@ Tags: state
 - Keletus' standing army is small and moderately skilled, but they produce the best naval officers in the world.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -67,7 +67,7 @@ Tags: state
 
 ## Primary Conflicts
 
-- Relations between Keletus and Vetryl are steadily deteriorating, as the Keletan king blatantly disregards the Vetrylian requests for cleared shipping lanes.
+- Relations between [Keletus](Keletus) and [Vetryl](Vetryl) are steadily deteriorating, as the Keletan king blatantly disregards the [Vetrylian](Vetryl) requests for cleared shipping lanes.
 
 
 ## History

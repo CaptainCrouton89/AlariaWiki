@@ -1,1 +1,3 @@
-[Ghosts](Ghosts) and [shades](Shades) are the names for the isolated [soul](Life and Death) and [shadow](Life and Death) respectively. When the soul and [shadow](Life and Death) leave to the Astral Plane and Malstaris, they become lifeless husks of energy, forever wandering their respective [planes](Planes). Millions of ghost and shade drones mill about in astral and malstaric kingdoms of the dead.
+Tags: [monster](Monsters)
+
+[Shades](Shades) are nothing more than shadows without bodies. When the [shadow](Life and Death) leaves to [Malstaris](Malstaris), it becomes a husk of energy. Millions of [shades](Shades) mill about in the Malstaric kingdoms of the dead.

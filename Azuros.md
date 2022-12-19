@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Theocracy
 
-**Primary Inhabitants**: Humans
+**Primary Inhabitants**: [Humans](Humans)
 
 **Population**: 8,000
 
@@ -12,8 +12,8 @@ Tags: state
 
 **Core Values**: Discipline, silence, respect, abstinance from pleasure
 
-- Various subsects of the Shogi Monastery practice there in different monk groups. Each is managed by a head monk, who is part of the [Council of the Silent Elders](Council of the Silent Elders) which looks over the mountain. 
-- Families are raised in simple stone houses built on the side of the mountain.
+- Various subsects of the Shogi Monastery practice there in different monk groups. Each is managed by a head monk, who is part of the [Council of the Silent Elders](Council of the Silent Elders) which looks over the [mountain](Mountains). 
+- Families are raised in simple stone houses built on the side of the [mountain](Mountains).
 - A large percentage of the population have attunements to air, due to the high altitude of the mountains and powerful winds that blow by.
 
 
@@ -27,7 +27,7 @@ Tags: state
 
 **Primary Imports**: None
 
-- Azuros is little more than a couple villages, so there is little economy to speak of.
+- [Azuros](Azuros) is little more than a couple villages, so there is little economy to speak of.
 
 
 ## Military
@@ -38,11 +38,11 @@ Tags: state
 
 **Enrollment**: Forbidden
 
-- The Azuros monks forbid violence. To become involved in a physical atercation is shameful. 
-- There is little wealth to steal from the Azuros, and so no one does.
+- The [Azuros](Azuros) monks forbid violence. To become involved in a physical atercation is shameful. 
+- There is little wealth to steal from the [Azuros](Azuros), and so no one does.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -55,7 +55,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -68,7 +68,7 @@ Tags: state
 
 ## Primary Conflicts
 
-- Traveling to Azuros is like traveling back in time. Azuros interacts so little with the rest of the world that it has somewhat fallen behind.
+- Traveling to [Azuros](Azuros) is like traveling back in time. [Azuros](Azuros) interacts so little with the rest of the world that it has somewhat fallen behind.
 
 
 ## History

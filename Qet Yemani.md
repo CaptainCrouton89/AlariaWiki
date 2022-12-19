@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Stongman tribes
 
-**Primary Inhabitants**: Ulvsjael
+**Primary Inhabitants**: [Ulvsjael](Ulvsjael)
 
 **Population**: 3,000
 
@@ -26,7 +26,7 @@ Tags: state
 
 **Primary Imports**: Beads, trinkets
 
-- Outsiders rarely enter Qet Yemani, and the Ulvsjael rarely trade. However, colorful beads that can be braided into one's coat of fur are seen as symbols of wealth and power, and are popular.
+- Outsiders rarely enter [Qet Yemani](Qet Yemani), and the [Ulvsjael](Ulvsjael) rarely trade. However, colorful beads that can be braided into one's coat of fur are seen as symbols of wealth and power, and are popular.
 
 
 ## Military
@@ -41,7 +41,7 @@ Tags: state
 - There is no discipline or unity across tribes, and they have never had to fight together for a common cause.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -67,8 +67,8 @@ Tags: state
 
 ## Primary Conflicts
 
-- Although infighting is infrequent, skirmishes against the Da Trang are somewhat common.
-- An Ulvsjael man who had left the jungle has now come back. He has quickly taken over a pack, and his pack is growing. He seems to be magically powerful.
+- Although infighting is infrequent, skirmishes against the [Da Trang](Da Trang) are somewhat common.
+- An [Ulvsjael](Ulvsjael) man who had left the [jungle](Jungles) has now come back. He has quickly taken over a pack, and his pack is growing. He seems to be magically powerful.
 
 
 ## History

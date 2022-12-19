@@ -38,7 +38,7 @@ Tags: [state](States)
 
 **Enrollment**: Voluntary
 
-- Kurayt relies heavily on its extreme climate to deter invaders. This has been successful in the past.
+- [Kurayt](Kurayt) relies heavily on its extreme climate to deter invaders. This has been successful in the past.
 
 
 ## [Geography](Geography)

@@ -1,47 +1,48 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Oznak](Oznak), [Glorindian](Glorindian)
 
-**Population**: 
+**Population**: 100,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Tradition, religion, wealth, night/day
 
-- 
+- [Kazül](Kazül) is ruled by [Salomor](Salomor), a powerful king with an even more powerful ring granting him the ability to summon extremely powerful creatures to do his bidding.
+- Society is casted between laborers, merchants, and nobility. Only nobility are allowed to own land, and only merchants and nobility are allowed to make or procure loans.
+- When you marry, your kids inherit the lower caste of their two parents.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Developed
 
-**Primary Exports**: 
+**Primary Exports**: Glass, stained glass, various minerals
 
-**Primary Imports**: 
+**Primary Imports**: Metal, textiles
 
-- 
+- [Kazül](Kazül) is the largest producer of glass in [Alaria](Alaria). The glass artists of [Kazül](Kazül) are world renown.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Very low
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Mandatory
 
-- 
+- [Kazül](Kazül) lacks violent neighbors, and the [desert](Deserts) is not an appetizing prize for would-be attackers.
+- Those of the lower castes are required to join the military for two years. Merchant castes are allowed to, and enter as officers, but are not required.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,17 +55,20 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
-**Capital**: 
+**Capital**: [Urzahd](Urzahd)
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- The caste system drives wedges between those with power and those without.
 
 
 ## History

@@ -1,4 +1,4 @@
 # Types
-- [Zelidia](Zelidia)
+- [Zelle](Zelle)
 - [Ianovko](Ianovko)
 - [Icehearts](Icehearts)

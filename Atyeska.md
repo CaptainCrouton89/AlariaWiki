@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
@@ -12,7 +12,7 @@ Tags: state
 
 **Core Values**: Raw strength, dominance, athleticism
 
-- Dozens of enti tribes live across Atyeska, in constantly shifting territories. Battle is not uncommon, and taking prisoners is customary.
+- Dozens of enti tribes live across [Atyeska](Atyeska), in constantly shifting territories. Battle is not uncommon, and taking prisoners is customary.
 - Prisoners become slaves to the tribe, and are treated not inhumanely. They grow up in a tribe, and die in the tribe, and have relatively safe lives.
 
 
@@ -26,7 +26,7 @@ Tags: state
 
 **Primary Imports**: Technology
 
-- The Atyeska economy is primarily centered around trade. Lianthan Currency is worth very little here.
+- The [Atyeska](Atyeska) economy is primarily centered around trade. Lianthan [Currency](Currency) is worth very little here.
 
 
 ## Military
@@ -41,7 +41,7 @@ Tags: state
 - Joining the military is not mandatory, but expected
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -67,7 +67,7 @@ Tags: state
 
 ## Primary Conflicts
 
-- Although Atyeskan tribes are always at war with each other, the enti along the western border are stuck fighting a second war against the Danaki.ddddf.
+- Although Atyeskan tribes are always at war with each other, the enti along the western border are stuck fighting a second war against the [Danaki](Danaki).ddddf.
 
 
 ## History

@@ -2,9 +2,9 @@
 
 To see al the markdown syntax you can visit the [markdown cheatsheet](/Markdown%20cheatsheet)
 
-# Homepage
+# [Homepage](homepage)
 
-The homepage is default the "homepage.md" file, this can't be changed. If this file doesn't exist create it in de wiki folder.
+The [homepage](homepage) is default the "homepage.md" file, this can't be changed. If this file doesn't exist create it in de wiki folder.
 
 # Static images
 
@@ -24,7 +24,7 @@ It's possible to use latex syntax inside your markdown because the markdown is f
 ```
 ![\label{test}](https://i.ibb.co/Dzp0SfC/download.jpg){width="50%"}
 
-Inside picture \ref{landscape picture} you can see a nice mountain.
+Inside picture \ref{landscape picture} you can see a nice [mountain](Mountains).
 
 ```
 ![picture \label{landscape picture}](https://i.ibb.co/Dzp0SfC/download.jpg){width="50%"}
@@ -65,13 +65,13 @@ Open the wiki folder of your instance.
 
 In this folder all the markdownfiles are listed. Editing the files will be visible in the web-version.  
 
-|- homepage.md  
-|- How to use the wiki.md  
-|- Markdown cheatsheet.md  
+|- [homepage](homepage).md  
+|- [How to use the wiki](How to use the wiki).md  
+|- [Markdown cheatsheet](Markdown cheatsheet).md  
 
 The advantage is that u can use the commandline to process some data. For example using pandoc:
 ```
-$ pandoc -f markdown -t latex homepage.md How\ to\ use\ the\ wiki.md -o file.pdf --pdf-engine=xelatex
+$ pandoc -f markdown -t latex [homepage](homepage).md How\ to\ use\ the\ wiki.md -o file.pdf --pdf-engine=xelatex
 ```
 This creates a nice pdf version of your article.  Its possible you have to create a yml header on top of your document to set the margins etc better
 ```

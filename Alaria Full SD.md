@@ -1,0 +1,1 @@
+![Full Map](/img/Alaria_copy.jpg)

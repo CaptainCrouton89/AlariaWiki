@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
@@ -25,7 +25,7 @@ Tags: state
 
 **Primary Imports**: 
 
-- 
+- Members of the [Penola Trade Alliance](Penola Trade Alliance). [Watar](Watar) is currently trying to wrest control of the Telphineas strait from [Bestacia](Bestacia).
 
 
 ## Military
@@ -39,7 +39,7 @@ Tags: state
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

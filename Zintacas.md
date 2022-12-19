@@ -2,42 +2,48 @@ Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**: 
+**Government Type**: Kritarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Gozi ([Goshwen](Goshwen))
 
-**Population**: 
+**Population**: 3
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very stable
 
-**Core Values**: 
+**Core Values**: Universal goodness, afterlife, kindness
 
-- 
+- They fly around on large raptors that hunt the gorges. Tribes are oriented around the upbringing of these birds.
+- The most honored position within society is one as a raptor pilot.
+- Tribal society. Each village is sovereign, but they will frequently come together for celebrations, trade, and diplomacy.
+- No laws, but issues can be brought before tribal council for review and decided by them. Worst punishment is banishment from tribe.
+
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: None
 
-**Primary Imports**: 
+**Primary Imports**: None
 
-- 
+- Very little trade occurs between [Zintacas](Zintacas) and its neighbors.
+- The raptors are not for sale, and to hunt them is strictly forbidden.
+
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Very small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Medium
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- Although [Zintacas](Zintacas) lacks a military, the largish birds make for decent cavalry, and are used to defend the gorges from invaders.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -50,7 +56,7 @@ Tags: [state](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -63,7 +69,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- 
+- The country is very isolated, and has massive prejudice against outside cultures and technology, which it doesn't even understand.
 
 
 ## History

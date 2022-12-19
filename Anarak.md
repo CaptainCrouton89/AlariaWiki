@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Dictatorship
 
-**Primary Inhabitants**: Anori Humans
+**Primary Inhabitants**: [Anori](Anori), [Oznak](Oznak), [Tikhaya](Tikhaya)
 
 **Population**: 300,000
 
@@ -12,7 +12,7 @@ Tags: state
 
 **Core Values**: Patriotism, might, revenge
 
-- Anarak is ruled over by a manipulative black dragon named Tepheranos.
+- [Anarak](Anarak) is ruled over by a manipulative black dragon named [Tepheranos](Tepheranos), brother of [Rothogomos](Rothogomos).
 - People are proud citizens, and few choose to leave, despite poor living conditions.
 
 
@@ -26,8 +26,8 @@ Tags: state
 
 **Primary Imports**: None
 
-- The Anarak economy is largely self-contained, as per orders of Tepheranos, who restricts travel in and out of the country.
-- Many people live in relative poverty, as their income is heavily taxed by Tepheranos, and goes towards the military.
+- The [Anarak](Anarak) economy is largely self-contained, as per orders of [Tepheranos](Tepheranos), who restricts travel in and out of the country.
+- Many people live in relative poverty, as their income is heavily taxed by [Tepheranos](Tepheranos), and goes towards the military.
 
 
 ## Military
@@ -38,10 +38,10 @@ Tags: state
 
 **Enrollment**: Mandatory
 
-- The Anarak military is brutally strict, powerful, and filled with some of the cruelest, most ferocious soldiers that can be found anywhere.
+- The [Anarak](Anarak) military is brutally strict, powerful, and filled with some of the cruelest, most ferocious soldiers that can be found anywhere.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -67,11 +67,12 @@ Tags: state
 
 ## Primary Conflicts
 
-- Anarak is gearing up for war against Drasnia.
-- Underground dissent for Tepheranos is a constantly spreading, despite the dragon’s best efforts.
-- The Griselian goblins are terrorizing villagers in the South.
+- [Anarak](Anarak) is gearing up for a land war against Drasnia.
+- [Tepheranos](Tepheranos) longs for the wealth of [Argysis](Argysis) or even Hephake, but so long as his brother [Rothogomos](Rothogomos) resides in the Argysisean [mountain](Mountains), he cannot leave [Anarak](Anarak) for fear of retaliation.
+- Underground dissent for [Tepheranos](Tepheranos) is a constantly spreading, despite the dragon’s best efforts.
+- The Griselian [goblins](Goblins) are terrorizing villagers in the South.
 
 
 ## History
 
-Anarak used to be a free nation until Tephranos arrived, secretly killed the king, and subjugated the people. Over the last 100 years, he has brainwashed the population from believing he is evil to thinkign he is a saviour.
+[Anarak](Anarak) used to be a free nation until Tephranos arrived, secretly killed the king, and subjugated the people. Over the last 100 years, he has brainwashed the population from believing he is evil to thinkign he is a saviour.

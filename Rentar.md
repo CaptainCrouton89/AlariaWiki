@@ -8,4 +8,4 @@ The [Rentar](Rentar) are prideful, and would be offended if it was suggested tha
 
 ## Physical Appearance
 
-Reddish skin with narrower, curvier horns. 
+Reddish skin with narrower, curvier horns.

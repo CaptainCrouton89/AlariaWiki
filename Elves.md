@@ -12,4 +12,4 @@ Descendents of the [druids](Druids).
 - [Kuzagt (Bone Elves)](Kuzagt)
 - [Nemo (Wandering Ones)](Nemo)
 - [Kryaaji (Sun Selves)](Kryaaji)
-- [Sitiweh (Silver Elves)](Sitiweh)
+- [Istori (Winter Elves)](Istori)

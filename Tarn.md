@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
@@ -39,7 +39,7 @@ Tags: state
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

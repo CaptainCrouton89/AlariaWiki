@@ -1,12 +1,12 @@
-Tags: state
+Tags: [state](States)
 
-Ix Tyrann + Sylthik: Sylthik overlords, power hungry combo with blood thirsty ix tyrant. Fighting on both fronts. Sylthik prepare concoctions that are fed to the ix tyrann. Gorath is encroaching.
+[Ix Tyrann](Ix Tyrann) + Sylthik: [Sylthik](Sylthik) overlords, power hungry combo with blood thirsty ix tyrant. Fighting on both fronts. [Sylthik](Sylthik) prepare concoctions that are fed to the [ix tyrann](Ix Tyrann). [Gorath](Gorath) is encroaching.
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: Ix Tyrann, Sylthik
+**Primary Inhabitants**: [Ix Tyrann](Ix Tyrann), [Sylthik](Sylthik)
 
 **Population**: 
 
@@ -41,7 +41,7 @@ Ix Tyrann + Sylthik: Sylthik overlords, power hungry combo with blood thirsty ix
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Ix Tyrann + Sylthik: Sylthik overlords, power hungry combo with blood thirsty ix
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 

@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 ## Overview
 
@@ -10,7 +10,7 @@ Tags: race
 
 ## Cultural Overview
 
-
+[This Thing](This Thing) 
 
 ## History
 

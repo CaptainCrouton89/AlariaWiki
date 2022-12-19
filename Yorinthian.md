@@ -9,4 +9,4 @@ The [Yorinthians](Yorinthian) are icy cold, cruel, and have corrupted ideas abou
 
 #### Major ability.
 
-By calling on the [magic](Magic) of your winter patron, you may cast winter magic. You may use your action to cast Grasp of the Ice Witch or Chilling Wind. For the next minute, whenever you hit an enemy with a melee weapon, you inflict one level of slowed.
+By calling on the [magic](Magic) of your winter patron, you may cast winter [magic](Magic). You may use your action to cast Grasp of the Ice Witch or Chilling Wind. For the next minute, whenever you hit an enemy with a melee weapon, you inflict one level of slowed.

@@ -4,6 +4,7 @@
 - [Tornia](Tornia)
 - [Sylke](Sylke)
 - [Joswik](Joswik)
+- [Bestacia](Bestacia)
 - [Myorna](Myorna)
 - [Gorath](Gorath)
 - [Kyagos](Kyagos)

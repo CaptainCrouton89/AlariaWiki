@@ -1,10 +1,10 @@
-Tags: [state](States)
+Tags: [state](States), citystate, city
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Orcs
 
 **Population**: 
 

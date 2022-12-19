@@ -148,20 +148,20 @@ Content Cell  | Content Cell | Content Cell
           2. Which is numbered
 ~~~
 
-- [ ] An uncompleted task
-- [x] A completed task
+- [ ]( ) An uncompleted task
+- [x](x) A completed task
 
 ~~~
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+ Markup : - [ ]( ) An uncompleted task
+          - [x](x) A completed task
 ~~~
 
-- [ ] An uncompleted task
-    - [ ] A subtask
+- [ ]( ) An uncompleted task
+    - [ ]( ) A subtask
 
 ~~~
- Markup : - [ ] An uncompleted task
-              - [ ] A subtask
+ Markup : - [ ]( ) An uncompleted task
+              - [ ]( ) A subtask
 ~~~
 
 > Blockquote

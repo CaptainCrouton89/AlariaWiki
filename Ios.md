@@ -1,6 +1,6 @@
-Tags: state
+Tags: [state](States)
 
-Links: [States](States)
+Makes stone dolls which do all labor. Art of stone dolls is lost, no more laborers.
 
 ## Government & Peoples
 
@@ -41,7 +41,7 @@ Links: [States](States)
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,7 +54,7 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 **Cities**: 
@@ -64,7 +64,7 @@ Links: [States](States)
 
 ## Primary Conflicts
 
-- 
+- Society taken care of by porcelain, animated creatures. The secret to crafting them has been forgotten, and they are running out.
 
 
 ## History

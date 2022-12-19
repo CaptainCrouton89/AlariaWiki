@@ -7,7 +7,7 @@ git add . (or the specific file)
 git commit -m "your message" (default date of today)
 ```
 
-or you could just go to the homepage of the wiki, this will do all these automatic.
+or you could just go to the [homepage](homepage) of the wiki, this will do all these automatic.
 
 ## How to go to previous file?
 
@@ -27,4 +27,4 @@ Modify the file
 git checkout b4b580411b -- file.md
 ```
 
-Now reload the homepage or use [git](#git) 
+Now reload the [homepage](homepage) or use [git](#git) 

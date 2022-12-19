@@ -1,0 +1,1 @@
+A special kind of damage that ignores physical resistances and armor, but tears directly into a creature's [spirit](Life and Death).

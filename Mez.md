@@ -12,9 +12,9 @@ Tags: [state](States)
 
 **Core Values**: Revenge, power, pleasure
 
-- [Mez](Mez) is one of multiple outcroppings of Lyzine that have made their ways to the surface. 
-- Lyzine hordes lie in colonies beneath the surface. These hordes survive off of raids on the surrounding land. Hordes are run by a spider queen.
-- A colony reproduces when dozens of male Lyzine attempt to mate with the queen. Any who don't die are granted some of the gene pool of the next generation.
+- [Mez](Mez) is one of multiple outcroppings of [Lyzine](Lyzine) that have made their ways to the surface. 
+- [Lyzine](Lyzine) hordes lie in colonies beneath the surface. These hordes survive off of raids on the surrounding land. Hordes are run by a spider queen.
+- A colony reproduces when dozens of male [Lyzine](Lyzine) attempt to mate with the queen. Any who don't die are granted some of the gene pool of the next generation.
 
 
 ## Economy
@@ -23,7 +23,7 @@ Tags: [state](States)
 
 **Tech**: Developed
 
-**Primary Exports**: Lyzine silk
+**Primary Exports**: [Lyzine](Lyzine) silk
 
 **Primary Imports**: Slaves
 
@@ -38,8 +38,8 @@ Tags: [state](States)
 
 **Enrollment**: Voluntary
 
-- Although the Mez are not well trained, they are naturally quite capable of hunting and killing. They are absolutely terrifying, and a single [Mez](Mez) can easily take on several soldiers.
-- Lyzine exoskeletons provide excellent armor.
+- Although the [Mez](Mez) are not well trained, they are naturally quite capable of hunting and killing. They are absolutely terrifying, and a single [Mez](Mez) can easily take on several soldiers.
+- [Lyzine](Lyzine) exoskeletons provide excellent armor.
 
 
 ## [Geography](Geography)

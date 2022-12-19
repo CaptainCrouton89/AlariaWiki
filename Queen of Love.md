@@ -1,1 +1,1 @@
-The Queen of Love is a interdimensional demon disguised as a mystical, solitary queen. She is insanely powerful. She will trade things you love. If you give up your mother, for example, she may be able to return your sister from the dead. She uses magic not from this world.
+The [Queen of Love](Queen of Love) is a interdimensional demon disguised as a mystical, solitary queen. She is insanely powerful. She will trade things you love. If you give up your mother, for example, she may be able to return your sister from the dead. She uses [magic](Magic) not from this world.

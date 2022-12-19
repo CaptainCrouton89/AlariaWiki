@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Indepdendent nomadic tribes
 
-**Primary Inhabitants**: Sharabha
+**Primary Inhabitants**: [Sharabha](Sharabha)
 
 **Population**: 10,000
 
@@ -13,7 +13,7 @@ Tags: state
 **Core Values**: Honor, duty, self-sufficiency, gift-giving
 
 - Tribes resemble lion prides, with a strong male and his brothers controlling a tribe of up to 50 people. Everyone has a role within the tribe.
-- Hunts are done every few weeks for the massive game that roam Azawahasi lands.
+- Hunts are done every few weeks for the massive game that roam [Azawahasi](Azawahasi) lands.
 
 
 ## Economy
@@ -26,7 +26,7 @@ Tags: state
 
 **Primary Imports**: Furs, textiles, art
 
-- Within tribes, trade is common place. Although currency is understood and recognized, it is rarely used.
+- Within tribes, trade is common place. Although [currency](Currency) is understood and recognized, it is rarely used.
 
 
 ## Military
@@ -37,10 +37,10 @@ Tags: state
 
 **Enrollment**: Voluntary
 
-- The Azawahasi have never faught in a war, and have no standing army. However, those who can fight are competent.
+- The [Azawahasi](Azawahasi) have never faught in a war, and have no standing army. However, those who can fight are competent.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -53,7 +53,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -66,7 +66,7 @@ Tags: state
 
 ## Primary Conflicts
 
-- Different philosophies exist on allowing in outsiders and outside culture to influence traditional Sharabha life. Many youngsters leave their tribes, while elders feel as though their young are being led astray.
+- Different philosophies exist on allowing in outsiders and outside culture to influence traditional [Sharabha](Sharabha) life. Many youngsters leave their tribes, while elders feel as though their young are being led astray.
 
 
 ## History

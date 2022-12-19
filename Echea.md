@@ -1,47 +1,50 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Magocracy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: Echi ([Goshwen](Goshwen))
 
-**Population**: 
+**Population**: 150,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Stable 
 
-**Core Values**: 
+**Core Values**: Knowledge, scholarship, magical prowess, elemental control, skill
 
-- 
+- [Echea](Echea) is controlled by a combination of scholars and elemental masters in a large council. Access is granted by a combination of invitation and majority vote from general population.
+- [Echea](Echea) is largely a meritocracy. If you are smart, you are respected by your peers.
+- Elemental [magic](Magic) is largely valued, as is technical skill. Although the Echi hate the [Cogheads](Cogheads), they begrudgingly respect their skill.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Large
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Very developed
 
-**Primary Exports**: 
+**Primary Exports**: Magitech, education
 
 **Primary Imports**: 
 
-- 
+- [Echea](Echea) is home to some of the largest, most influential universities in all of [Alaria](Alaria). If you wish to master an element, many choose to come to the Echean universities.
+	- They have paragon attuned elementalists within every discipline.
+    - The universities also require you to work on artifacts part time. These are sold and help fund the university.
+- [Echea](Echea) exports a high quantity of magical imbued artifacts, bringing in large quantities of wealth.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
+**Quality**: Extremely high
 
-**Enrollment**: [Voluntary, Mandatory]
+**Enrollment**: Voluntary
 
-- 
+- The Echean military rarely forms, but when it does, it is absolutely terrifying. The universities double as military training academies, and citizens who attend them are required to also take classes in military tactics and combat. This results in highly capable, extremely talented elemental war casters making up the majority of the Echean military forces.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,18 +57,24 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
-**Capital**: 
-**Cities**: 
+**Capital**: Adi Assabehta
+
+**Cities**: Adal
+
 **Towns**: 
+
 **Villages**: 
 
 
 ## Primary Conflicts
 
-- 
+- [Echea](Echea) is frequently the trophy of military endeavors, since it is seen as a wellspring of wealth and education to be harnessed. However, invaders have never made it to the capital.
+- [Echea](Echea) houses many children of foreign royalty who wish to see some of the knowledge of the Echean universities rub off on their offspring, with variable success.
+- Despite hundreds of years passing, the vicious hatred between Echeans and [Cogheads](Cogheads) continues
 
 
 ## History
 
+Two centuries ago, [Cogheads](Cogheads) and Echi worked together in the mountains. The [cogheads](Cogheads) created the machinery, and the Echi created the [magic](Magic). The mountains were jointly ruled over by the two [races](Races). A friendly, but fierce rivarly between the two [races](Races) existed over which technology was better—[magic](Magic) or machines. The Echi declared victory when they had created infinite resources from their elemental artifacts, but the [Cogheads](Cogheads) countered by developing a machine allowing them to steal the very elemental attunement out of another creature's body. They used this to say that they had in fact won. Of course, this was disputed by the [gnomes](Gnomes). In retaliation, the [cogheads](Cogheads) sucked the extremely potent elemental attunement right out of a Echi figurehead. This was seen as an act of war, and the Echi massacred and drove the [Cogheads](Cogheads) out of the mountains. The [Cogheads](Cogheads) have never forgiven the Echi for the brutal massacre, and the Echi believe it was totally justified. This conflict has spread across ethnic lines, and many [gnomes](Gnomes) and [goblins](Goblins) who had nothing to do with the history now have variably extreme views towards the other. 

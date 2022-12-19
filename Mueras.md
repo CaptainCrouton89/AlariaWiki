@@ -27,7 +27,7 @@ Tags: [state](States)
 
 **Primary Imports**: Everything
 
-- The reach of the Mueras economy stretches across the world. 
+- The reach of the [Mueras](Mueras) economy stretches across the world. 
 - [Mueras](Mueras) lacks astral airways above, but makes up for them with its prime maritime location.
 
 

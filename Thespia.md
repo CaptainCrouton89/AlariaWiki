@@ -1,47 +1,45 @@
-Tags: state
-
-Links: [States](States)
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Oznak](Oznak)
 
 **Population**: 
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very unstable
 
 **Core Values**: 
 
-- 
+- The Thespian king was recenlty overthrown by Akta, the newly instated queen. The kingdom remains in chaos.
 
 
 ## Economy
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
-**Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
+**Tech**: Undeveloped
 
-**Primary Exports**: 
+**Primary Exports**: Grains
 
-**Primary Imports**: 
+**Primary Imports**: Textiles, metals
 
-- 
+- Being landlocked and surrounded by mountains, [Thespia](Thespia) struggles to establish profitable, long-distance trade routes.
 
 
 ## Military
 
-**Size**: [None, Very Small, Small, Medium, Large, Very Large, Collosal]
+**Size**: Small
 
 **Quality**: [n/a, Very Low, Low, Medium, High, Very High, Extremely High]
 
 **Enrollment**: [Voluntary, Mandatory]
 
-- 
+- The Thespian army is kept small so as not to upset [Morgnar, King of the Mountains](Morgnar, King of the Mountains), the dragon overlord to the west.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -54,11 +52,14 @@ Links: [States](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
+
 **Cities**: 
+
 **Towns**: 
+
 **Villages**: 
 
 

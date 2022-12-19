@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Democratic republic
 
-**Primary Inhabitants**: Goshwen, Ghouls
+**Primary Inhabitants**: [Goshwen](Goshwen), [Ghouls](Ghouls)
 
 **Population**: 30,000
 
@@ -12,7 +12,7 @@ Tags: state
 
 **Core Values**: Freedom, invention, independence, gratitude
 
-- Bestacia boasts one of the happiest populations on Alaria. There is plentiful food, rewarding lifestyles, and gratitude abound.
+- [Bestacia](Bestacia) boasts one of the happiest populations on [Alaria](Alaria). There is plentiful food, rewarding lifestyles, and gratitude abound.
 
 
 ## Economy
@@ -36,10 +36,10 @@ Tags: state
 
 **Enrollment**: Voluntary
 
-- The Bestacia military is a pitiful group—most want goshwen want nothing to do with war and fighting, and would instead prefer to stay home and work on some new invention.
+- The [Bestacia](Bestacia) military is a pitiful group—most want [goshwen](Goshwen) want nothing to do with war and fighting, and would instead prefer to stay home and work on some new invention.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -52,7 +52,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -65,8 +65,9 @@ Tags: state
 
 ## Primary Conflicts
 
-- Although Bestacia produces many great minds, competition for acclaim has led to intellectual sabotage, with Goshwen stealing research and developments from each other.
+- Although [Bestacia](Bestacia) produces many great minds, competition for acclaim has led to intellectual sabotage, with [Goshwen](Goshwen) stealing research and developments from each other.
 
 
 ## History
 
+![Bestacian forest](/img/Bestacia.jpeg)

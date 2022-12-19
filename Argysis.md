@@ -1,46 +1,46 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
-**Government Type**: Monarchy
+**Government Type**:
 
-**Primary Inhabitants**: Uline
+**Primary Inhabitants**: [Shyka](Shyka)
 
-**Population**: 100,000
+**Population**: 20,000
 
-**Stability**: Very Stable
+**Stability**: Stable
 
-**Core Values**: Family, tradition, strength, spartan lifestyle
+**Core Values**: Killing, vengeance
 
-- Living without pleasure is viewed as incredibly dignifiying and noble. To sacrifice is the utmost honor.
-- Gift giving is a critical component of Agrysisean society.
+- [Argysis](Argysis) is ruled over by the black [dragon](Dragons) [Rothogomos](Rothogomos), enemy brother of [Tepheranos](Tepheranos). 
+- The population worships [Rothogomos](Rothogomos) as patron in their journey to destroy [Tepheranos](Tepheranos) in the south, towards whom [Rothogomos](Rothogomos) has swayed everyone's animosity. 
 
 
 ## Economy
 
-**Size**: Medium
+**Size**: Very Small
 
 **Tech**: Developed
 
-**Primary Exports**: Metal smithing, iron, admantium
+**Primary Exports**: None
 
-**Primary Imports**: Chemicals, textiles
+**Primary Imports**: None
 
-- 
+- The Argysisean economy is totally isolated from the world, as few are willing to trade with the greedy, cutthroat traders of [Argysis](Argysis).
 
 
 ## Military
 
-**Size**: Small
+**Size**: Medium
 
 **Quality**: High
 
 **Enrollment**: Mandatory
 
-- An  elite force within the military are known as axe-bearers. The axe-bearers are an elite force of dwarves, known for being able to break any siege. They are highly capable of tunneling and underground combat.
+- Everyone is enrolled in the military, and trained to a high level of proficiency. You do not leave the military until you reach late middle age.
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -53,7 +53,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -66,8 +66,8 @@ Tags: state
 
 ## Primary Conflicts
 
-- The [Hephakean](Hephake) dragon destroyed Argysisean sibling colony—Hephake.
-- Progress and development has slowed due to the oppressive pressure to remain in tradition rather than innovate.
+- [Argysis](Argysis) is locked in a currently bloodless war of vengeance with [Anarak](Anarak). Neither can commit to a full war against any other neighbor till the other is removed, but neither is strong enough to remove the other. [Argysis](Argysis) is weaker, but is fortified in the [mountain](Mountains), so cannot be pried out. [Anarak](Anarak) is stronger, but hundreds of miles of burnable farmland.
+- [Argysis](Argysis) wants to take over Hephake, which used to be its sibling kingdom, but cannot leave [Argysis](Argysis) ungaurded.
 
 
 ## History

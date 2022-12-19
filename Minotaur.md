@@ -6,7 +6,7 @@ Tags: [race](Races)
 
 ## Physical Appearance
 
-
+They have horns lol
 
 ## Cultural Overview
 
@@ -18,6 +18,6 @@ Tags: [race](Races)
 
 ## Subraces
 
-- [Danaki](Danaki)
-- [Lorean](Lorean)
-- [Rentar](Rentar)
+- [Danaki (Berserkers, Stronghorns)](Danaki)
+- [Lorean (Wisehorns)](Lorean)
+- [Rentar (Autumn Minotaur)](Rentar)

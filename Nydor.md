@@ -1,6 +1,6 @@
 Tags: [race](Races), [dwarf](Dwarves)
 
-Break away sect from the [Aureum](Aureum). Worshipped the darkness and all that it brought. 
+Break away sect from the [Aureum](Aureum). Worshipped the darkness and all that it brought. Come from [Malstaris](Malstaris) where the [black sun](Nydus, the Black Sun) never sets.
 
 Reside in [Emblydium](Emblydium)
 

@@ -1,10 +1,10 @@
-Tags: state
+Tags: [state](States)
 
 ## Government & Peoples
 
 **Government Type**: Confederation of monarch citystates
 
-**Primary Inhabitants**: Kor, Sharbha
+**Primary Inhabitants**: [Kor](Kor), Sharbha
 
 **Population**: 70,000
 
@@ -12,10 +12,10 @@ Tags: state
 
 **Core Values**: Courtesy, policy, law, appearances, calmness
 
-- Several royal families exist within Atriik, each ruling over a different city state
-- Kor culture dictates politeness to levels viewed as absurd by outsiders
+- Several royal families exist within [Atriik](Atriik), each ruling over a different city [state](States)
+- [Kor](Kor) culture dictates politeness to levels viewed as absurd by outsiders
 - Social capital and one’s standing in society is everything
-- One of the royal families is Sharabha, and although culturally similar, they are the source of a lot of strife
+- One of the royal families is [Sharabha](Sharabha), and although culturally similar, they are the source of a lot of strife
 
 
 ## Economy
@@ -42,7 +42,7 @@ Tags: state
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
@@ -55,7 +55,7 @@ Tags: state
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -68,7 +68,7 @@ Tags: state
 
 ## Primary Conflicts
 
-- Although three of the cities are controlled by Kor, the fourth and southernmost city state is a Sharabha monarchy. Although all four states have similar cultures and values, tensions occaiosionally arise along racial lines.
+- Although three of the cities are controlled by [Kor](Kor), the fourth and southernmost city [state](States) is a [Sharabha](Sharabha) monarchy. Although all four [states](States) have similar cultures and values, tensions occaiosionally arise along racial lines.
 
 
 ## History

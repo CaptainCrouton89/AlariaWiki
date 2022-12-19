@@ -1,3 +1,3 @@
-Tags: jungle
+Tags: [jungle](Jungles)
 
-Superduper fucking deadly unless your quite powerful. Lots of nasty monsters.
+Superduper fucking deadly unless your quite powerful. Lots of nasty [monsters](Monsters).

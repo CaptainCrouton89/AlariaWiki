@@ -1,0 +1,3 @@
+Tags: faction
+
+[The Ivory Hand](The Ivory Hand) is an incredibly secretive, and equally powerful organization of people who pull many of the strings behind the scenes across the world. The order seeks to maintain the systems and people involved in the transferral of slaves to be sacrificed for [Deoric](Deoric) [magic](Magic). Members incldue the [Sylke](Sylke) queen, various merchants of [Bonnetaz](Bonnetaz), and several [dragons](Dragons), among others.

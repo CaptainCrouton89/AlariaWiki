@@ -10,7 +10,7 @@ Tags: [state](States)
 
 **Stability**: Somewhat Stable
 
-**Core Values**: Kindness, strength, toughness, grit, connection to the plains
+**Core Values**: Kindness, strength, toughness, grit, connection to the [plains](Plains)
 
 - 
 
@@ -36,7 +36,7 @@ Tags: [state](States)
 
 **Enrollment**: Voluntary
 
-- The [Silzar](Silzar) employ elephants in their raids. All it takes is a dozen Silzar on elephants to destroy a village and make off with the loot
+- The [Silzar](Silzar) employ elephants in their raids. All it takes is a dozen [Silzar](Silzar) on elephants to destroy a village and make off with the loot
 - [Silwyn](Silwyn) makes most of its money from raids performed on [Ilyovia](Ilyovia). They wear special ear protection and rely on the trumpeting elephants to drown out the suggestions made by the [Gyv](Gyv).
 
 
@@ -66,7 +66,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- [Silwyn](Silwyn) and [Ilyovia](Ilyovia) are in a nigh-constant [state](States) of war, as the Silzar make raids, and the [Gyv](Gyv) try to fend them off.
+- [Silwyn](Silwyn) and [Ilyovia](Ilyovia) are in a nigh-constant [state](States) of war, as the [Silzar](Silzar) make raids, and the [Gyv](Gyv) try to fend them off.
 - The struggle to procure new cannons and more gunpowder are eternal. There are never enough resources, and everything they steal goes into trading for iron.
 - Some people want to make an alliance with the [Gyv](Gyv).
 

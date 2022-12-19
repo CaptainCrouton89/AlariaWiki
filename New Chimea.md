@@ -39,11 +39,11 @@ Tags: [state](States)
 - 
 
 
-## Geography
+## [Geography](Geography)
 
 **Location**: 
 
-**Biomes**: Jungle
+**Biomes**: [Jungle](Jungles)
 
 **Named Entities**:
 
@@ -52,7 +52,7 @@ Tags: [state](States)
 **Adjacent Waters**: 
 
 
-## Political Geography
+## Political [Geography](Geography)
 
 **Capital**: 
 
@@ -65,7 +65,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- Currently at war with Vystrilik.
+- Currently at war with [Vystrilik](Vystrilik).
 - Upset with their subjugated position towards [Chimea](Chimea). Those in power feel snubbed, and wish to control their new country themselves.
 
 

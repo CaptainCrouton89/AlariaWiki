@@ -12,8 +12,8 @@ Tags: [state](States)
 
 **Core Values**: Purity, law, order
 
-- All varieties of [Deoric](Deoric) [magic](Magic) is banned in [Camaran](Camaran). It is seen as corrupting. If seen with hand magic, your hand is cut off. Elemental magic is perimtted.
-- The High Camarik Council makes all laws and determines policy in Camaran
+- All varieties of [Deoric](Deoric) [magic](Magic) is banned in [Camaran](Camaran). It is seen as corrupting. If seen with hand [magic](Magic), your hand is cut off. Elemental [magic](Magic) is perimtted.
+- The High Camarik Council makes all laws and determines policy in [Camaran](Camaran)
 
 
 ## Economy
@@ -26,7 +26,8 @@ Tags: [state](States)
 
 **Primary Imports**: Raw materials
 
-- Camaran has a highly educated and industrious population, and are the source of many non-magical manufactured goods used all over the world.
+- Members of the [Penola Trade Alliance](Penola Trade Alliance)
+- [Camaran](Camaran) has a highly educated and industrious population, and are the source of many non-magical manufactured goods used all over the world.
 - Some of the best schools are located in [Camaran](Camaran), and although strict, they are rigorous. 
 
 
@@ -67,8 +68,8 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- There are council members who want to see the reintroduction of magic into society.
-- Greed and power ambition are rampant in Camaran, and lead to large disparities in power between the upper and lower classes.
+- There are council members who want to see the reintroduction of [magic](Magic) into society.
+- Greed and power ambition are rampant in [Camaran](Camaran), and lead to large disparities in power between the upper and lower classes.
 
 
 ## History

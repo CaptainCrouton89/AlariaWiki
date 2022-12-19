@@ -25,9 +25,9 @@ Tags: [state](States)
 
 **Primary Exports**: Gems, jewels, metals
 
-**Primary Imports**: Drasnian [dwarves](Dwarves) from [Tamadrez](Tamadrez)
+**Primary Imports**: [Drasnian](Drasnian) [dwarves](Dwarves) from [Tamadrez](Tamadrez)
 
-- Kyagos' entire economy rests on the shoulders of their massive slave population that works in the mines. Nowhere is this more prevalant than in Syvlius, the largest city, nested on Syvlius [mountain](Mountains).
+- Kyagos' entire economy rests on the shoulders of their massive slave population that works in the mines. Nowhere is this more prevalant than in [Syvlius](Syvlius), the largest city, nested on [Syvlius](Syvlius) [mountain](Mountains).
 
 
 ## Military
@@ -67,10 +67,10 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- The lower class do not love their subjugated position within Kyagos society.
+- The lower class do not love their subjugated position within [Kyagos](Kyagos) society.
 - Many dislike the disrespect they receive from their superiors.
-- The Drasnians rarely rebel, but they vastly outnumber the Kyagos armies.
-- For decades, Kyagos has been at war with the [Dead Moon Tribe](Dead Moon Tribe), which lives in the outer [jungle](Jungles). Very little has happened in this time, as both entities remain failry incapable of or unwilling to inflict serious damage on one another.
+- The Drasnians rarely rebel, but they vastly outnumber the [Kyagos](Kyagos) armies.
+- For decades, [Kyagos](Kyagos) has been at war with the [Dead Moon Tribe](Dead Moon Tribe), which lives in the outer [jungle](Jungles). Very little has happened in this time, as both entities remain failry incapable of or unwilling to inflict serious damage on one another.
 
 
 ## History

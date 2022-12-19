@@ -1,3 +1,3 @@
-Tags: jungle
+Tags: [jungle](Jungles)
 
-Inhabited by Neka gnomes.
+Inhabited by [Neka](Neka) [gnomes](Gnomes).

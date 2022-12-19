@@ -1,5 +1,3 @@
-Tags: plains, majorLandFeature
+Tags: [plains](Plains), [major land feature](Major Land Features)
 
-Links: [Plains](Plains), [Major Land Features](Major Land Features)
-
-See [Clueanda](Clueanda)
+You begin to forget everything except long term memories and things from the last year. 

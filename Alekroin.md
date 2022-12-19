@@ -2,7 +2,9 @@ Tags: [race](Races)
 
 ## Overview
 
-Very large alligator people. Short, squat, and absurdly powerfully built. Very capable killers. Reside in [Shykasas](Shykasas).
+Very large alligator people. Short, squat, and absurdly powerfully built. Very capable killers. Reside in [Shykasas](Shykasas). Frozen in tradition. 
+
+Everythingis either predator or prey. Conceited. Ruthless. Curious. Intelligent.
 
 ## Physical Appearance
 
