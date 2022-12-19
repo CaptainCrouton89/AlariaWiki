@@ -13,3 +13,4 @@ Descendents of the [druids](Druids).
 - [Nemo (Wandering Ones)](Nemo)
 - [Kryaaji (Sun Selves)](Kryaaji)
 - [Istori (Winter Elves)](Istori)
+- [Sivakr (Silver Elves)](Sivakr)
