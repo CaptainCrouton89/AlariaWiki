@@ -1,0 +1,1 @@
+When a [soul](Soul [Shadow](Soul Shadow and Spirit) and Spirit) or shadow is prevented from leaving the ethereal and nethereal [planes](Planes)—generally by necromatic [magic](Magic), they become specters and undead. Lacking free will or much substance, they are slaves to their masters.

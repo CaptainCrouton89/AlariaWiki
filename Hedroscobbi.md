@@ -1,0 +1,1 @@
+ - Use iron combined with corrosive algae in rivers and swamp to make super duper heavy iron armor. Abrasive to skin and produces toxic fumes, they are only ones with skin tough enough for it. 
