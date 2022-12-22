@@ -25,7 +25,7 @@ Tags: [state](States)
 
 **Primary Imports**: Food, luxury items for the rich
 
-- [Ubrik](Ubrik) is a member of the [Penola Trade Alliance](Penola Trade Alliance)
+- [Ubrik](Ubrik) is a member of the [Aldriktch Trade Alliance](Aldriktch Trade Alliance)
 - The lifestyles of the rich is vastly different from the poor—while the rich enjoy cushy lives, the peasants live in relative destitution.
 
 
