@@ -25,7 +25,7 @@ Tags: [state](States)
 
 **Primary Imports**: 
 
-- Members of the [Penola Trade Alliance](Penola Trade Alliance). [Watar](Watar) is currently trying to wrest control of the Telphineas strait from [Bestacia](Bestacia).
+- Members of the [Aldriktch Trade Alliance](Aldriktch Trade Alliance). [Watar](Watar) is currently trying to wrest control of the Telphineas strait from [Bestacia](Bestacia).
 
 
 ## Military
