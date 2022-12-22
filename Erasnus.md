@@ -26,7 +26,7 @@ Tags: [state](States)
 
 **Primary Imports**: Everything
 
-- They are members of the [Penola Trade Alliance](Penola Trade Alliance). 
+- They are members of the [Aldriktch Trade Alliance](Aldriktch Trade Alliance). 
 - [Erasnus](Erasnus) is home to the best over-land merchants in [Alaria](Alaria). Their ability to haggle is unparalleled, and their eye for a good deal is uncanny.
 - Lending, business, entreprenuership, and traveling merchant are all extremely common professions in [Erasnus](Erasnus).
 
