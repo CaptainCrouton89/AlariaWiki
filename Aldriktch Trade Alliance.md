@@ -1,6 +1,6 @@
 # Overview
 
-The [Penola Trade Alliance](Penola Trade Alliance) is an agreement between [Erasnus](Erasnus), [Watar](Watar), [Myorna](Myorna), [Camaran](Camaran), [Bestacia](Bestacia), and [Ubrik](Ubrik) that dictates open trade routes between the countries. It sets limits on maximum tariffs for ports and foreign trade, and gives member nations more favorable trading rights.
+The [Aldriktch Trade Alliance](Aldriktch Trade Alliance) is an agreement between [Erasnus](Erasnus), [Watar](Watar), [Myorna](Myorna), [Camaran](Camaran), [Bestacia](Bestacia), and [Ubrik](Ubrik) that dictates open trade routes between the countries. It sets limits on maximum tariffs for ports and foreign trade, and gives member nations more favorable trading rights.
 
 Currently, the entie alliance is under threat, as tensions between [Myorna](Myorna) and its neighbors continue to rise. Allowing [Myorna](Myorna) into the trade alliance was only barely permitted (spear headed by phenomenal diplomats from both [Myorna](Myorna), [Ubrik](Ubrik), and Bestacia), and now it's causing trouble.
 
