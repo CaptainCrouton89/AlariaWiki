@@ -26,7 +26,7 @@ Tags: [state](States)
 
 **Primary Imports**: Raw materials
 
-- Members of the [Penola Trade Alliance](Penola Trade Alliance)
+- Members of the [Aldriktch Trade Alliance](Aldriktch Trade Alliance)
 - [Camaran](Camaran) has a highly educated and industrious population, and are the source of many non-magical manufactured goods used all over the world.
 - Some of the best schools are located in [Camaran](Camaran), and although strict, they are rigorous. 
 
