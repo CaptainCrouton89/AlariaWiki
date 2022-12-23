@@ -1,6 +1,6 @@
 Tags: mountains
 
-There are several titanwurm [mountain](Mountains) ranges in Alaria:
+There are several [titanwurm](Titanwurm) [mountain](Mountains) ranges in Alaria:
 
 - [Melrin Mountains](Melrin Mountains)
 - [Gwyndolsong Mountains](Gwyndolsong Mountains)
