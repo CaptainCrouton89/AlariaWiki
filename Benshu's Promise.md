@@ -1,0 +1,3 @@
+Tags: lake
+
+This oasis is located in the [Dunes of Kunagi](Dunes of Kunagi), and is the only source of freshwater for hundreds of miles. It is guarded by [Benshu](Benshu), a large, incredibly deadly sphinx. To drink from the water, you must answer at least one of the sphinx's three questions correctly. If you drink from the oasis before asking the sphinx for permission, the sphinx captures you (all your muscles go limp) and gives you choice for doing maze or being eaten. 
