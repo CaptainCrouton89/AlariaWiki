@@ -6,7 +6,7 @@ Links: [States](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Gnomes](Gnomes)
 
 **Population**: 
 
@@ -14,7 +14,7 @@ Links: [States](States)
 
 **Core Values**: 
 
-- 
+- Up until recently, [Mkinti](Mkinti) has been controlled by five major houses of [gnomes](Gnomes). Then all of but one of the heads of all the houses died in quick succession—assassinated. Now only Wizzik remains.
 
 
 ## Economy
@@ -64,7 +64,7 @@ Links: [States](States)
 
 ## Primary Conflicts
 
-- 
+- R
 
 
 ## History
