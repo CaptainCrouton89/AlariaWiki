@@ -20,7 +20,7 @@ Northern Commonfolk is the most used language across [Alaria](Alaria). The langu
 - [Bestacia](Bestacia)
 - [Echea](Echea)
 - [Lier](Lier)
-- [Dornus](Dornus)
+- [Mkinti](Mkinti)
 - [Azuros](Azuros)
 - [Tornia](Tornia)
 - [Sylke](Sylke)
