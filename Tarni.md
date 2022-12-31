@@ -1,2 +1,2 @@
 [Orcs](Orcs)
-Tarn: Dark eyes, muddy green skin, and are one with nature. They regenerate when in contact with nature. Wield spears (defense against shazuihn).
+Tarn: Dark eyes, muddy green skin, and are one with nature. They live on the [Grand Tolkarsus](Grand Tolkarsus), which regenerates those who bathe in it. Wield spears (defense against shazuihn).
