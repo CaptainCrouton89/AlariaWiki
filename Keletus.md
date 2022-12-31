@@ -67,7 +67,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- Relations between [Keletus](Keletus) and [Vetral](Vetral) are steadily deteriorating, as the Keletan king blatantly disregards the [Vetrylian](Vetryl) requests for cleared shipping lanes.
+- Relations between [Keletus](Keletus) and [Vetral](Vetral) are steadily deteriorating, as the Keletan king blatantly disregards the [Vetralian](Vetryl) requests for cleared shipping lanes.
 
 
 ## History
