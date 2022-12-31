@@ -68,7 +68,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- [Ta Linn](Ta Linn) is facing increasingly violent and bloody skirmishes against [Anarak](Anarak), as both try to expand.
+- [Ta inn](Ta Linn) is facing increasingly violent and bloody skirmishes against [Anarak](Anarak), as both try to expand.
 
 
 ## History
