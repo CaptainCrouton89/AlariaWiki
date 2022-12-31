@@ -6,7 +6,7 @@ Links: [States](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Glivornaxi](Glivornaxi)
 
 **Population**: 
 
