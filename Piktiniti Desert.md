@@ -7,3 +7,11 @@ Beneath the desert are the ruins of the [Postronamas Empire](Postronamas Empire)
 The desert is dominated by giant insects, which flourish in the oxygen rich environment. Every 7 years, the locusts hatch and ravage the surface of anything edible. Large scorpions hunt the insects.
 
 Desert also contains [Sand Dragons](Sand Dragons), not true [dragons](Dragons), but still quite dangerous.
+
+Most of the plants are filled with parasites and will fuck you up.
+
+Tumbleweeds of massive wasp nests roll across the desert.
+
+Sidewinders will fuck you up
+
+Plants that give off the smell of "clean water". Fools water attunement too. Very large, sub-sand venus-fly trap.
