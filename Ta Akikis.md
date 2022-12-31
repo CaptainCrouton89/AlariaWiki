@@ -1,3 +1,3 @@
 Tags: 
 
-Burial grounds for great chiefs of Ta Minn
+Burial grounds for great chiefs of [Ta Minn](Ta Minn).
