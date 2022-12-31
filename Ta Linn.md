@@ -68,9 +68,9 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- [Ta inn](Ta Linn) is facing increasingly violent and bloody skirmishes against [Anarak](Anarak), as both try to expand.
+- [Ta Minn](Ta Minn) is facing increasingly violent and bloody skirmishes against [Anarak](Anarak), as both try to expand.
 
 
 ## History
 
-The [Ta Linn](Ta Linn) live on the prairie, a grassy steppe with occasional hills and rivers. They arrived from the West, and speak Ashakri, as do many of the other Western [states](States). The [Ta Linn](Ta Linn) once aggressively expanded, but have since run into other civilizations and have paused due to heavy aggression from their neighbors.
+The [Ta Minn](Ta Minn) live on the prairie, a grassy steppe with occasional hills and rivers. They arrived from the West, and speak Ashakri, as do many of the other Western [states](States). The [Ta Minn](Ta Minn) once aggressively expanded, but have since run into other civilizations and have paused due to heavy aggression from their neighbors.
