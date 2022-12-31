@@ -38,17 +38,17 @@
 - [Qet Yemani](Qet Yemani)
 - [Movasi](Movasi)
 - [Ilyovia](Ilyovia)
-- [Ta Linn](Ta Linn)
+- [Ta Minn](Ta Minn)
 - [Tamadrez](Tamadrez)
 - [Ubrik](Ubrik)
 - [Atriik](Atriik)
 
 
 # Citystates
-- [Al Maqlubah](Al%20Maqlubah)
-- [Dar Qisu](Dar%20Qisu)
-- [Al Iwash](Al%20Iwash)
-- [El Djele](El%20Djele)
+- [Al Maqlubah](Al Maqlubah)
+- [Dar Qisu](Dar Qisu)
+- [Al Iwash](Al Iwash)
+- [El Djele](El Djele)
 - [Üod](Üod)
 - [Blvnird](Blvnird)
 - [Melaia](Melaia)
