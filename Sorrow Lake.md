@@ -1,0 +1,3 @@
+Tags: lake
+
+Upon stepping into the lake, your sad memories are wiped from your mind. Enchanted by a wizard who was mourning the loss of his wife, and was driven crazy because he know longer knew that she had been dying and then died. He conjectured that she must have left him, which made him doubt even his happy memories with her. As those became sad, he forgot those, until he was left with nothing. No memories, just an old husk. Not sad, just totally calmly apathetic.
