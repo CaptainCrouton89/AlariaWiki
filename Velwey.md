@@ -8,6 +8,8 @@ The [Velwey](Velwey) are some of the few beings who know how to unlock a creatur
 
 This knowledge does not come for free, however. You must give up 1 year of lived memories, which flow into the pool of experience that fuels the [magic](Magic) of the [Velwey](Velwey) city, or else pay 1000 ducat.
 
+Dream weavers are divine, secret priests. Will travel around at night and kill you in your sleep, freeing you to live forever in dream world. Huge honor. Happens to peoeple who are ready. They always know.
+
 ## Physical Appearance
 
 
