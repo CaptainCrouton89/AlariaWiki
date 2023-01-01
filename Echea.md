@@ -73,7 +73,7 @@ Tags: [state](States)
 - [Echea](Echea) is frequently the trophy of military endeavors, since it is seen as a wellspring of wealth and education to be harnessed. However, invaders have never made it to the capital.
 - [Echea](Echea) houses many children of foreign royalty who wish to see some of the knowledge of the Echean universities rub off on their offspring, with variable success.
 - Despite hundreds of years passing, the vicious hatred between Echeans and [Cogheads](Cogheads) continues
-
+- A mad scientist scholar hypothesized about the existance of a flip site of the [Material Plane](Material Plane). Unbeknownst to anyone else, he managed to open a portal to the other side, binding the entire city of [Adi Assabehta](Adi Assabehta) to [Zylogmus Eternus](Zylogmus Eternus). Now, people are mysteriously dying throughout the city, and some people are fleeing. Many people don't think this mysterious death thing is real (or think it's caused by other reasons), so most stay. The scholar was the first to die (freak coincidence), and no one suspects anything. Portal undiscovered. The capital will slowly empty out over the next few years as people realize that there is something causing people to mysteriously die.
 
 ## History
 
