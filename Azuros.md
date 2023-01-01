@@ -15,6 +15,7 @@ Tags: [state](States)
 - Various subsects of the Shogi Monastery practice there in different monk groups. Each is managed by a head monk, who is part of the [Council of the Silent Elders](Council of the Silent Elders) which looks over the [mountain](Mountains). 
 - Families are raised in simple stone houses built on the side of the [mountain](Mountains).
 - A large percentage of the population have attunements to air, due to the high altitude of the mountains and powerful winds that blow by.
+- Demand full devotion. Greatest, most powerful are like jedis. Can walk on air, fly, call forth lightning.
 
 
 ## Economy
@@ -32,7 +33,7 @@ Tags: [state](States)
 
 ## Military
 
-**Size**: NOne
+**Size**: None
 
 **Quality**: n/a
 
