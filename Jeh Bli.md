@@ -4,7 +4,7 @@ Tags: [state](States), citystate, city
 
 **Government Type**:
 
-**Primary Inhabitants**: [Xi'ivrach] [orcs](Orcs)
+**Primary Inhabitants**: [Xi'ivrach](Xi'ivrach) [orcs](Orcs)
 
 **Population**: 
 
