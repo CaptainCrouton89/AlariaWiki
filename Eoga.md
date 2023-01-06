@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Elected council
 
-**Primary Inhabitants**: [Caerine](Caerine), dark skinned, beautiful
+**Primary Inhabitants**: [Caerine](Caerine), dark skinned, beautiful, intimidating
 
 **Population**: 10,000
 
