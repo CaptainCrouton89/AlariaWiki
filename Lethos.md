@@ -4,13 +4,13 @@ Links: [States](States)
 
 ## Government & Peoples
 
-**Government Type**:
+**Government Type**: Open council
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Faeja](Faeja)
 
-**Population**: 
+**Population**: 5,000
 
-**Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
+**Stability**: Very Stable
 
 **Core Values**: 
 
