@@ -14,6 +14,7 @@ Tags: [state](States)
 
 - Numerous, nomadic tribes or "packs" dot the landscape.
 - Pack leadership is determined by strength and leadership skill. Dynamics within a tribe mimic those within a wolfpack.
+- Wisdom is highly valued to. Although the "strongman" is the voicepiece for the pack, and the nominal leader, they will have a partner who is their advisor. The leader is expected to defer to their advisor in all important decisioins
 
 
 ## Economy
