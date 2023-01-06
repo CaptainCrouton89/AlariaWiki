@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Elected council
 
-**Primary Inhabitants**: [Caerine](Caerine)
+**Primary Inhabitants**: [Caerine](Caerine), dark skinned, beautiful
 
 **Population**: 10,000
 
@@ -72,4 +72,4 @@ Tags: [state](States)
 
 ## History
 
-[Eoga](Eoga) and [Vystrilik](Vystrilik) were once one nation, before Hykravones came and destroyed the world. After the titan destroyed the world, the [Eoga](Eoga) broke away from [Vystrilik](Vystrilik), in shame. They were disappointed that they had not died as well, with the [humans](Humans) and other [races](Races) of the world. This shame has remained with them this day. Although they are virtually unfindable within the [jungle](Jungles), should a child of Gaiea find them, the [Caerine](Caerine) would gladly give them anything they wanted.
+[Eoga](Eoga) and [Vystrilik](Vystrilik) were once one nation, before [Hykravones](Hykravones) came and destroyed the world. After the titan destroyed the world, the [Eoga](Eoga) broke away from [Vystrilik](Vystrilik), in shame. They were disappointed that they had not died as well, with the [humans](Humans) and other [races](Races) of the world. This shame has remained with them this day. Although they are virtually unfindable within the [jungle](Jungles), should a child of Gaiea find them, the [Caerine](Caerine) would gladly give them anything they wanted.
