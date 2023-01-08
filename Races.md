@@ -13,7 +13,7 @@
 - [Rusalka](Rusalka): Aquatic shapeshifting women
 - [Dwelyn (Half-elf, half-orc)](Dwelyn): ??
 - [Gyv (Silvertongues)](Gyv): Silvertongued folk of humanoids
-- [Tracers](Tracers): Shy and easily manipulated blue hominids
+- [Blaize](Blaize): Shy and easily manipulated blue hominids
 - [Ayblek (Aliens)](Ayblek): Four-armed aliens
 
 # Beastmen
