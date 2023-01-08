@@ -1,12 +1,10 @@
 Tags: [state](States)
 
-Home to [jungle](Jungles) [ogres](Ogres). Peaceful people.
-
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**:
 
 **Population**: 
 
