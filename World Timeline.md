@@ -42,7 +42,7 @@ Back in [Alaria](Alaria), the influx of Ezz drove the [spirit](Life and Death) p
 
 ### Gaea is Born: 120 million years ago
 
-The new world also gave rise to Gaea, the Earth Mother. Gaea was responsible for turning the sun across the sky, creating the moon, shifting the stars, and looking after all life on [Alaria](Alaria). Her [magic](Magic) came straight from the psyic energy of [Alaria](Alaria), and she channeled it with the language she named as [Kethic](Kethic Elementalism). Her home was everywhere, but she was strongest in the material realm. Gaea also had three sons: [Nagatayora](Nagatayora), the First Dragon; [Ulvma](Ulvma), the First Wolf; and [Shara Bolasi](Shara Bolasi), the First Lion. Together, these were her protectors.
+The new world also gave rise to Gaea, the Earth Mother. Gaea was responsible for bringing emotion to [Alaria](Alaria). Her [magic](Magic) came straight from the psyic energy of [Alaria](Alaria), and she channeled it with the language she named as [Kethic](Kethic Elementalism). Her home was everywhere, but she was strongest in the material realm. Gaea also had three sons: [Nagatayora](Nagatayora), the First Dragon; [Ulvma](Ulvma), the First Wolf; and [Shara Bolasi](Shara Bolasi), the First Lion. Together, these were her protectors.
 
 Gaea also created all manners of life. The mammoths of the northern [plains](Plains), the [dinosaurs](Dinosaurs) of the easter [jungles](Jungles), the scorpions in the deserts, the giant rocs that soared across the skies, and everything else in between. However, intelligent life was absent except for the [druids](Druids).
 
