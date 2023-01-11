@@ -26,14 +26,7 @@ Descendents of the [druids](Druids).
 
 ## Traits
 
-##### Years of Experience
-
 ###### Years of Experience
-
-#### Years of Experience
-
-
-
 *Passive ability.*
 
 Gaining additional or upgrading your aspects costs 2 less XP, for a minimum of 1, and your maximum rank for each of your aspects is increased by 3. 
