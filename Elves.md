@@ -14,3 +14,16 @@ Descendents of the [druids](Druids).
 - [Kryaaji (Sun Selves)](Kryaaji)
 - [Istori (Winter Elves)](Istori)
 - [Sivakr (Silver Elves)](Sivakr)
+
+# Heart Rush
+
+**Essentials**
+
+- Race
+- Medium
+- Height: 
+- Weight: 
+
+**Traits**
+
+- 
