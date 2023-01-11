@@ -27,7 +27,7 @@ All have metals implanted in skin. Usually in cheek bones, forehead, chin, ears,
 - Race
 - Medium
 - Height: 3.5-5 feet
-- 100-200 pounds
+- Weight: 100-200 pounds
 
 **Traits**
 
