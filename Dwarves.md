@@ -19,3 +19,18 @@ All have metals implanted in skin. Usually in cheek bones, forehead, chin, ears,
 - [Velwey (Dream Dwarves)](Velwey)
 - [Einwissel (Celestial Draugr)](Einwissel)
 - [Surry (White Dwarves](Surry)
+
+# Heart Rush
+
+**Essentials**
+
+- Race
+- Medium
+- Height: 3.5-5 feet
+- 100-200 pounds
+
+**Traits**
+
+- You do not get a full night's rest unless you sleep on stone. If that stone is not also part of the ground, subtract 50 from the sleeping challenge number.
+- Gaining hitpoints costs 1 less XP 
+- When standing on solid ground, you have +1 on your A/D rolls.
