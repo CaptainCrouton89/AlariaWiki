@@ -19,7 +19,7 @@ Descendents of the [druids](Druids).
 
 **Essentials**
 
-- Race
+- [Race](Races)
 - Medium
 - Height: 
 - Weight: 
@@ -27,6 +27,12 @@ Descendents of the [druids](Druids).
 ## Traits
 
 ##### Years of Experience
+
+###### Years of Experience
+
+#### Years of Experience
+
+
 
 *Passive ability.*
 
