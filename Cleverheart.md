@@ -4,7 +4,9 @@ Tags: class
 
 Cleverhearts are best at providing help to their teammates—either augmenting their attacks, or debuffing enemies to make their attacks weaker. 
 
-Two types of cleverhearts exist—scoundrels and tacticians.<br>
+Two types of cleverhearts exist—scoundrels and tacticians.
+
+<br>
 
 ###### Above the Fray
 
