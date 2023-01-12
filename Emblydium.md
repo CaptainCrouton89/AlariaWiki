@@ -1,3 +1,3 @@
-Tags: [state](States)
+Tags: state
 
-[Nydor](Nydor) reside here.
+Populated by dwarves
