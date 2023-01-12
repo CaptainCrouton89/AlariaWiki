@@ -36,4 +36,9 @@ Gaining additional or upgrading your aspects costs 2 less XP, for a minimum of 1
 ##### Delicate
 *Passive ability.*
 
-adsf
+Increasing your might die costs 1 more XP, and increasing your HP costs 1 more XP.
+
+##### Druid Blood
+*Passive ability.*
+
+
