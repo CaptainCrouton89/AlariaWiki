@@ -25,12 +25,20 @@ All have metals implanted in skin. Usually in cheek bones, forehead, chin, ears,
 **Essentials**
 
 - Race
-- Medium
+- Size: Medium
 - Height: 3.5-5 feet
 - Weight: 100-200 pounds
 
 **Traits**
 
-- You do not get a full night's rest unless you sleep on stone. If that stone is not also part of the ground, subtract 50 from the sleeping challenge number.
-- Gaining hitpoints costs 1 less XP 
-- When standing on solid ground, you have +1 on your A/D rolls.
+###### Stoneborn
+
+*Passive ability.*
+
+You do not get a full night's rest unless you sleep on stone. If that stone is not also part of the ground, subtract 50 from the sleeping challenge number. However, when standing on solid ground, you have +1 on your A/D rolls.
+
+###### Hearty and Gruff
+
+*Passive ability.*
+
+Gaining hitpoints costs 1 less XP 
