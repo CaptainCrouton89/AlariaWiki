@@ -14,6 +14,8 @@ Two types of cleverhearts exist—scoundrels and tacticians.
 
 Although not necessarily the best at dishing out the damage in a fight, supports excel at everything else. Once per turn, you may make an object interaction, skill check, disengage action, or help action for free.
 
+<br>
+
 ###### Tactics
 
 *Minor ability. Instant. Exemplar.*
