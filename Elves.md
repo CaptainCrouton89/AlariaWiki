@@ -32,6 +32,7 @@ Descendents of the [druids](Druids).
 
 Gaining additional or upgrading your aspects costs 2 less XP, for a minimum of 1, and your maximum rank for each of your aspects is increased by 3. 
 
+
 ##### Delicate
 *Passive ability.*
 
