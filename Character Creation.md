@@ -21,7 +21,7 @@ When the game begins, you will start with some experience (XP). During the game 
 
 Players have four important stats—might, agility, cunning, and presence. These traits define your physical and mental abilities, and are used to determine the outcomes of nearly any difficult task you attempt to do.
 
-	Might is your strength, endurance, and fortitude. High might allows you to push through locked doors, lift heavy gates, resist poison, and run for miles without rest.
+Might is your strength, endurance, and fortitude. High might allows you to push through locked doors, lift heavy gates, resist poison, and run for miles without rest.
 
 Cunning is your intellect, wisdom, and senses. High cunning allows you to recall information you’ve learned, notice the nearly imperceptible, and discern fact from fiction.
 
