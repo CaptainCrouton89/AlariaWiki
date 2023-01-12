@@ -27,9 +27,6 @@ Choose one:
 ##### Delicate
 *Passive ability.*
 
-Increasing your might die costs 1 more XP, and increasing your HP costs 1 more XP.
 
-##### Druid Blood
-*Passive ability.*
 
 
