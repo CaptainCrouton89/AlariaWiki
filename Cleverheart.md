@@ -6,6 +6,7 @@ Cleverhearts are best at providing help to their teammates—either augmenting t
 
 Two types of cleverhearts exist—scoundrels and tacticians.
 
+<br>
 ###### Above the Fray
 
 *Passive ability. Exemplar.*
