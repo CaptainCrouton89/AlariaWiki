@@ -1,6 +1,6 @@
-Tags: desert
+Tags: [desert](Deserts)
 
-A vast, arid desert (less sand, more shrubland). All the water beneath the desert is leeched out by the [Everwood](Everwood) in the north. The sandy soil contians trace amounts of [twyl](Twyl), a crystal that magically produces oxygen.
+A vast, arid [desert](Deserts) (less sand, more shrubland). All the water beneath the [desert](Deserts) is leeched out by the [Everwood](Everwood) in the north. The sandy soil contians trace amounts of [twyl](Twyl), a crystal that magically produces oxygen.
 
 Beneath the desert are the ruins of the [Postronamas Empire](Postronamas Empire), an incredibly powerful civilization that used the powers of [twyl](Twyl) to become incredibly powerful themselves. Large, crystal caves were used for meditation by their leaders, granting them fabulous powers. huge crystal caverns beneath the ground. Tons of crystals available, but can drive you mad from their music. Permeates mind unless you are literally deaf? Literally too dumb to think? 
 

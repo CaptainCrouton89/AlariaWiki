@@ -2,7 +2,7 @@ Tags: [race](Races)
 
 # Overview
 
-Minotaur are mighty, formidable creatures, known for their powerful builds and no-nonsense nature. Although most grow up in minotaur-dominated communities, they have spread out across Alaria, and can be found in great numbers in many large armies.
+[Minotaur](Minotaur) are mighty, formidable creatures, known for their powerful builds and no-nonsense nature. Although most grow up in minotaur-dominated communities, they have spread out across Alaria, and can be found in great numbers in many large armies.
 
 
 # History
@@ -16,7 +16,7 @@ Minotaur are mighty, formidable creatures, known for their powerful builds and n
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 6-7.5 ft  
 Weight: 200-350 lbs  

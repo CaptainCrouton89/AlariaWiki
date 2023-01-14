@@ -4,7 +4,7 @@ You have learned the art of killing silently. As an action, you may make a might
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Once per month, you may declare a humanoid to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
+Once per month, you may declare a [humanoid](Humans) to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
 
 Given you spend one month studying the target of your assassination before attempting to kill them, you learn their weaknesses, and gain the following abilities:
 

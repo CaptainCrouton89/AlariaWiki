@@ -14,7 +14,7 @@ Neth can be found across the North Reach, along the coast, and in the north-east
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6.5 ft  
 Weight: 100-200lbs  

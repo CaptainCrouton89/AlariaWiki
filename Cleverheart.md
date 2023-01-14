@@ -45,7 +45,7 @@ Commander’s Call
 Minor ability. Instant. Luminary.
 You provide tactical aid to a teammate. Choose two creatures and one of the martial talents you know, or one creature and two martial talents you know. Until the end of this round, the chosen creatures may use the basic level of those talents, so long as you are in the same engagement together. If a heart ability or major ability is granted, they cannot be used again by your or them until the next day.
 Rallying Cry
-Major ability. Quick. Hero.
+Major ability. Quick. [Hero](Heroes).
 You rally your companions, inspiring them to fight harder. Choose any number of creatures within 30 feet. For each rush point spent on this ability, choose one of the following effects that is applied to each of the chosen creatures. You cannot choose the same effect an additional time until every effect has been chosen. 
 Gain 10 hitpoints.
 Take the dash action. It does not provoke opportunity attacks. 
@@ -54,12 +54,12 @@ Gain A2 on the next attack.
 Remove all conditions affecting the creature.
 Spelltouched
 Also known as: Gish, Eldritch Knight, Arcane Archer, Spellsword
-A dwarf darts forward, wreathed in flames, fists aglow with fire. With one hand he raises a wall of flames up behind the ogre, and with the other he punches the creature, launching the creature back in a smoldering heap.
-A gnome darts forward—each footstep launching her further as the wind itself carries her toward the giant spider. With a twirl of her blade, she hits the spider in the thorax, sending out a concussive blast of air that knocks it back. 
-An elf beckons her hand back, pulling a tidal wave straight from the ground, carrying the fleeing thugs back towards her. Then, with a stomp of her foot, the ground itself seems to liquify, causing the thugs to begin sinking into the stone cobble street.
+A [dwarf](Dwarves) darts forward, wreathed in flames, fists aglow with fire. With one hand he raises a wall of flames up behind the [ogre](Ogres), and with the other he punches the creature, launching the creature back in a smoldering heap.
+A [gnome](Gnomes) darts forward—each footstep launching her further as the wind itself carries her toward the giant spider. With a twirl of her blade, she hits the spider in the thorax, sending out a concussive blast of air that knocks it back. 
+An [elf](Elves) beckons her hand back, pulling a tidal wave straight from the ground, carrying the fleeing thugs back towards her. Then, with a stomp of her foot, the ground itself seems to liquify, causing the thugs to begin sinking into the stone cobble street.
 Spelltouched use their attunements with the elements to augment their martial ability. By casting spells, they can deny enemies certain areas, cause horrific damage, or otherwise control the power and movements of their foes. 
 Spelltouched gain the following abilities.
-Elemental State
+Elemental [State](States)
 Passive ability. Archetype.
 As a magic user, you have a natural affinity with the elements. You gain a basic attunement to two elements, or an advanced attunement to one. If you choose two different elements, at least one of them must be one of the four primary elements—fire, earth, water, and air.
 You know how to incorporate your knowledge of these elements into your fighting. Choose one of the elements you have an attunement with, and gain one of the following passive abilities corresponding to it. If you have multiple attunements, you must choose only one for which you gain this ability for.
@@ -76,16 +76,16 @@ Subtract 1 from all damage dealt to you.
 Your move speed decreases by 20 feet.
 When you make an attack roll, you may choose to cause a 10-foot tall spire of stone to rise in an unoccupied space within 10 feet of you. The spire has 10 hp and 10 defense and counts as impassable terrain.
 Water: Tempest
-As a free action, you may enter or exit the Tempest state. While in this state, you embody the soul of a storm and gain the following abilities.
+As a free action, you may enter or exit the Tempest state. While in this state, you embody the [soul](Life and Death) of a storm and gain the following abilities.
 You leave puddles of water in your footsteps.
 You are immune to the off-balanced or prone condition.
 You can breathe underwater, and fight underwater without any of the penalties applied due to underwater combat.
 When you make an attack roll, you may choose to knock your target prone if they are no more than one size greater than you. Otherwise, they take two levels of slowed.
 Air: Dance of the Winds
-As a free action, you may enter or exit the Dance of the Winds state. While in this state, you step light as the wind and gain the following abilities.
+As a free action, you may enter or exit the Dance of the Winds [state](States). While in this state, you step light as the wind and gain the following abilities.
 The wind blows wherever you step.
 You move speed increases by 10 feet.
-Unless self inflicted, you are immune to the slowed condition.
+Unless s[elf](Elves) inflicted, you are immune to the slowed condition.
 When you make an attack roll, you may choose to knock your target up to 10 feet away from you. If this would cause them to hit a wall, they take 1d6 damage for every 5 feet of movement prevented in this way.
 Warcaster
 Minor ability. Luminary.

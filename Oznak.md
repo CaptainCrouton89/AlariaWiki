@@ -14,7 +14,7 @@ Oznak can be found across Central North Alaria, though individuals can be found 
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6.5 ft  
 Weight: 100-200 lbs  

@@ -1,6 +1,6 @@
 Tags: [forest](Forests)
 
-Nothing can rot in this [forest](Forests), the trees cannot die, and the entire [forest](Forests) is just one, large organism. The forest is so dense with undergrowth that no light reaches the bottom. 
+Nothing can rot in this [forest](Forests), the trees cannot die, and the entire [forest](Forests) is just one, large organism. The [forest](Forests) is so dense with undergrowth that no light reaches the bottom. 
 
 The entire understory is fungal. [Myushli](Myushli) live in small villages.
 

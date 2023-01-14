@@ -23,7 +23,7 @@ All have metals implanted in skin. Usually in cheek bones, forehead, chin, ears,
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 3.5-5 ft  
 Weight: 100-200 lbs  

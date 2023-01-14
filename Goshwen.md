@@ -11,7 +11,7 @@ Goshwen’s culture of openness and constant change has resulted in numerous fra
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: small  
 Height: 2.5-3.5 ft  
 Weight: 40-100 lbs  

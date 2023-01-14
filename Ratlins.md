@@ -1,4 +1,4 @@
-Tags: monster
+Tags: [monster](Monsters)
 
 A disgusting cross between goblins and rats, these creatures multiply tremendously fast, aren't super bright, and plague cities. They are difficult to get rid of, can wriggle in and out of anywhere. 
 

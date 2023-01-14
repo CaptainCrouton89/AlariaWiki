@@ -2,7 +2,7 @@ Tags: character
 
 # Building Your Character
 
-As you make a character in Heart Rush, remember that at the center of every Heart Rush character is their heart. It is the foundation on which you build your life, your soul; it is the chassis and essence of your decisions and their consequences; and it is what drives you forward. You are building an entire, fictional person. Make them awesome.
+As you make a character in Heart Rush, remember that at the center of every Heart Rush character is their heart. It is the foundation on which you build your life, your [soul](Life and Death); it is the chassis and essence of your decisions and their consequences; and it is what drives you forward. You are building an entire, fictional person. Make them awesome.
 
 ## Your Dream
 With this in mind, build a character that has a vision towards what they want to achieve. You should have a dream of what you want to do in the world, one that is complex and difficult and worthy of the caliber of legend you wish to become. Remember—you determine the direction the story takes. There’s no goal to this game besides the one you set out. So speak with you GM about the world in which the game takes place, and figure out how you want to be remembered. It’s your story, and the stakes are low, so it’s okay to set your sights high. 
@@ -35,11 +35,11 @@ The first step in creating your character is determining which dice you will use
 
 ### Hitpoints
 
-Hitpoints (HP) represents your health and stamina. Humans start with 40 hitpoints. Larger creatures have more, smaller creatures generally have less. As your hitpoints fall, bad things happen, and falling to 0 can result in more long lasting effects, as described in the Combat section. You can gain more hitpoints by expending XP. 
+Hitpoints (HP) represents your health and stamina. [Humans](Humans) start with 40 hitpoints. Larger creatures have more, smaller creatures generally have less. As your hitpoints fall, bad things happen, and falling to 0 can result in more long lasting effects, as described in the Combat section. You can gain more hitpoints by expending XP. 
 
 ### Heart
 
-Besides your core ability stats and hitpoints, you also have a heart die, sometimes shortened to just “heart”. This represents your vigor, health, stamina, and overall wellbeing. Your heart die will usually correspond to your hitpoints. With more hitpoints, you have more heart. Small creatures, like rats, generally have a low heart die, such as a d4, whereas large and powerful creatures, like dragons, typically have larger heart dice, such as a d20. Humans, and any other race you may start the game as, use a d8. 
+Besides your core ability stats and hitpoints, you also have a heart die, sometimes shortened to just “heart”. This represents your vigor, health, stamina, and overall wellbeing. Your heart die will usually correspond to your hitpoints. With more hitpoints, you have more heart. Small creatures, like rats, generally have a low heart die, such as a d4, whereas large and powerful creatures, like dragons, typically have larger heart dice, such as a d20. [Humans](Humans), and any other [race](Races) you may start the game as, use a d8. 
 
 Your heart is important for determining your successes and fails. Nearly every dice roll in this game will require your heart die.
 
@@ -53,9 +53,9 @@ As you spend XP on hitpoints, your heart die will increase. When you have 100 hi
 
 ## Your Niche
 
-### Races & Culture
+### [Races](Races) & Culture
 
-Everyone comes from a different background and has a different upbringing. When you create a character, choose a race from Appendix A: Race & Heritage. You gain the aspects and abilities that come from choosing that race.
+Everyone comes from a different background and has a different upbringing. When you create a character, choose a [race](Races) from Appendix A: Race & Heritage. You gain the aspects and abilities that come from choosing that race.
 
 Many races have multiple heritages within that race. In that case, you gain the aspects and abilities of the race, as well as a chose heritage within that race.
 
@@ -65,7 +65,7 @@ Talents are specialized abilities that you know and can utilize. These act as a 
 
 ### Aspects
 
-Heart Rush is not about ordinary people—it is about people are destined to be remembered, and you are no exception. Over time, you will become either a hero or a villain, until you eventually retire your character, or else fall to the forces working against you.
+Heart Rush is not about ordinary people—it is about people are destined to be remembered, and you are no exception. Over time, you will become either a [hero](Heroes) or a villain, until you eventually retire your character, or else fall to the forces working against you.
 
 When you first create your character, you gain three destiny points (DP). These destiny points can be spent to twist fate in your favor, and to make shine the differences between you and the common rabble. However, they can only be gained by acting out the flaws in your character as well. As your strengths grow, so will your weaknesses. In this way, your successes will become more and more epic, while your failures more and more crushing. This collection of skills, traits, background, habits, and flaws are known as aspects. 
 
@@ -103,7 +103,7 @@ When creating an aspects, it is generally a good idea to have both aspects with 
 
 ## Progress 
 
-There are six different stages of combat power you can start at in Heart Rush: Adventurer, Exemplar, Archetype, Luminary, Hero, and Paragon. With each stage, you have access to more combat abilities. When you first start to play, everyone should agree which stage to begin the game at. Adventurers are barely more than commoners with a desire for excitement; luminaries are incredible combatants, likely known throughout their community; and paragons are nigh-immortal; with everything else falling somewhere in between.
+There are six different stages of combat power you can start at in Heart Rush: Adventurer, Exemplar, Archetype, Luminary, [Hero](Heroes), and Paragon. With each stage, you have access to more combat abilities. When you first start to play, everyone should agree which stage to begin the game at. Adventurers are barely more than commoners with a desire for excitement; luminaries are incredible combatants, likely known throughout their community; and paragons are nigh-immortal; with everything else falling somewhere in between.
 
 Depending on what you choose, you gain different abilities.
 
@@ -130,7 +130,7 @@ When you reach the luminary stage, you unlock more abilities in your subclass.
 
 #### Hero
 
-As with the luminary stage, the hero stage unlocks more abilities from your subclass.
+As with the luminary stage, the [hero](Heroes) stage unlocks more abilities from your subclass.
 
 #### Paragon
 

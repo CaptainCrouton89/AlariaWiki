@@ -19,7 +19,7 @@ You have learned the art of killing silently. As an action, you may make a might
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Once per month, you may declare a humanoid to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
+Once per month, you may declare a [humanoid](Humans) to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
 
 Given you spend one month studying the target of your assassination before attempting to kill them, you learn their weaknesses, and gain the following abilities:
 
@@ -434,7 +434,7 @@ Whenever you make an attack roll against a creature with maximum hitpoints, they
 #### Focused Fire
 *Heart ability. Slow. Cognitive talent.*
 
-By entering a more meditated state, you can become even more efficient at taking out a creature, at the cost of your skill at attacking others. Choose a creature. For the next hour, you have A2 on attacking that creature, and D2 on attacking all other creatures.
+By entering a more meditated [state](States), you can become even more efficient at taking out a creature, at the cost of your skill at attacking others. Choose a creature. For the next hour, you have A2 on attacking that creature, and D2 on attacking all other creatures.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1086,7 +1086,7 @@ You have A4 on all attempts to perform any sort of sleight of hand.
 #### Divine Consult
 *Monthly ability. Slow. Cognitive talent.*
 
-You are capable of limited communication with the daemon you worship. You may ask one yes or no question of the daemon. The GM must either answer it truthfully, or you may put 1 XP into the experience bowl. You cannot use this ability more than once per session, and you cannot ask the same question again, regardless of if the GM answered your question.
+You are capable of limited communication with the [daemon](Daemons) you worship. You may ask one yes or no question of the daemon. The GM must either answer it truthfully, or you may put 1 XP into the experience bowl. You cannot use this ability more than once per session, and you cannot ask the same question again, regardless of if the GM answered your question.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1132,7 +1132,7 @@ You can cause a plant you are touching to slowly change its shape as you command
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-As an action, you can meld with a tree, or other, equally large plant. By doing so, your body and gear disappears, and your spirit inhabits the wood of the tree. You can sense your surroundings out to a range of 45 feet. 
+As an action, you can meld with a tree, or other, equally large plant. By doing so, your body and gear disappears, and your [spirit](Life and Death) inhabits the wood of the tree. You can sense your surroundings out to a range of 45 feet. 
 
 While transformed as a tree, you maintain the stats of your untransformed character, though your defense becomes 8, and you may double your current and maximum hitpoints. You are also incapacitated, and cannot speak. You may transform back to your original form as an action.
 
@@ -1146,7 +1146,7 @@ You can communicate with plants, so long as you are touching them. Plants recogn
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If you speak in an area of dense vegetation, such as a forest, plains, or garden, you may choose for your voice to carry as whispers in the blade of grass or leaves on the trees to everywhere within the reaches of that vegetation, up to a 100 mile radius. Likewise, you may choose to listen to any sounds or voices within 100 miles, so long as you are both in the same larger body of dense vegetation.
+If you speak in an area of dense vegetation, such as a [forest](Forests), plains, or garden, you may choose for your voice to carry as whispers in the blade of grass or leaves on the trees to everywhere within the reaches of that vegetation, up to a 100 mile radius. Likewise, you may choose to listen to any sounds or voices within 100 miles, so long as you are both in the same larger body of dense vegetation.
 
 If you have the destiny level of the Druid’s Touch talent, you may speak while transformed as a plant.
 

@@ -1,3 +1,3 @@
-Tags: monster
+Tags: [monster](Monsters)
 
-Shadow gnolls. Huge, incredibly powerful, and capable of disappearing into shadow. Their linneage touched by shadow.
+[Shadow](Life and Death) gnolls. Huge, incredibly powerful, and capable of disappearing into [shadow](Life and Death). Their linneage touched by shadow.
