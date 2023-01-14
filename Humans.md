@@ -2,6 +2,9 @@ Tags: [race](Races)
 
 # Overview
 
+Humans are resilient and abundant. They are far the most prolific across Alaria, and have the greatest breadth of culture. Contributing to their success as a species is their perseverance; just when you think you’ve knocked one down for good, they’re back up for more.
+
+
 # Subraces
 
 - [Oznak](Oznak): Extremely skilled with horses and blades with a culture built around both
