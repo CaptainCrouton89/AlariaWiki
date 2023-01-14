@@ -2,7 +2,9 @@ Tags: [race](Races)
 
 Descendents of the [druids](Druids). 
 
-# Types
+Elves are a race of fiercely independent, ancient, culturally rich people. With lifespans five times the length of a humans’, elves have a much broader perspective on life and the world around them, and a lot more time to explore and refine their passions. Wars, politics, and the frivolities of other races are far less important to most elven cultures. 
+
+# Subraces
 - [Amverela (High Elves)](Amverela)
 - [Vyko (Starling, Planar Elves)](Vyko)
 - [Eloweir (Sea Elves)](Eloweir)
@@ -17,29 +19,26 @@ Descendents of the [druids](Druids).
 
 # Heart Rush
 
-**Essentials**
+### Vitals
+Type: race  
+Size: medium  
+Height: 5-6.5 ft  
+Weight: 100-200 lbs  
+Max Age: 300  
 
-- Type: [Race](Races)
-- Size: Medium
-- Height: 
-- Weight: 
+### Traits
 
-## Traits
-
-##### Years of Experience
-
+#### Years of Experience
 *Passive ability.*
 
 Gaining additional or upgrading your aspects costs 2 less XP, for a minimum of 1, and your maximum rank for each of your aspects is increased by 3. 
 
-
-##### Delicate
+#### Delicate
 *Passive ability.*
 
-Increasing your might die costs 1 more XP, and increasing your HP costs 1 more XP.
+Increasing your HP costs 1 more XP.
 
-##### Druid Blood
+#### Druidblood
 *Passive ability.*
 
-
-makerace
+?
