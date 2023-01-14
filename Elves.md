@@ -42,3 +42,4 @@ Increasing your might die costs 1 more XP, and increasing your HP costs 1 more X
 *Passive ability.*
 
 
+makerace
