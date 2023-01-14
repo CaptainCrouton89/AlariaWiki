@@ -3,7 +3,7 @@
 | [Daemon](Daemons)    | Domains              | 
 |----------------------|----------------------|
 | [Mjulya](Mjulya) | Goodwill, help |
-| [Guthry](Guthry) | Hunting, tracking |
+| [Gythry](Gythry) | Hunting, tracking |
 | [Dezzy](Dezzy) | Exploration, [planes](Planes) |
 | [Hevdarr](Hevdarr) | Warmth, comfort |
 | [Nodlaus](Nodlaus) | Harvest, prosperity |
