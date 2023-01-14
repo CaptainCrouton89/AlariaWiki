@@ -21,7 +21,7 @@ Tags: [state](States), [elves](Elves), titans
 
 **Tech**: [None, Very Undeveloped, Undeveloped, Somewhat Developed, Developed, Very Developed, Futuristic] 
 
-**Primary Exports**: Hand [magic](Magic), titan bone, hand magic
+**Primary Exports**: Hand [magic](Magic), titan bone, hand [magic](Magic)
 
 **Primary Imports**: Food
 

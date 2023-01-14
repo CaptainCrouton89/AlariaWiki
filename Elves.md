@@ -2,7 +2,7 @@ Tags: [race](Races)
 
 Descendents of the [druids](Druids). 
 
-Elves are a race of fiercely independent, ancient, culturally rich people. With lifespans five times the length of a humans’, elves have a much broader perspective on life and the world around them, and a lot more time to explore and refine their passions. Wars, politics, and the frivolities of other races are far less important to most elven cultures. 
+[Elves](Elves) are a [race](Races) of fiercely independent, ancient, culturally rich people. With lifespans five times the length of a humans’, [elves](Elves) have a much broader perspective on life and the world around them, and a lot more time to explore and refine their passions. Wars, politics, and the frivolities of other [races](Races) are far less important to most [elven](Elves) cultures. 
 
 # Subraces
 - [Amverela (High Elves)](Amverela)
