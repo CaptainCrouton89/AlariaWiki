@@ -6,7 +6,7 @@ Tags: [race](Races)
 
 [Goblins](Goblins) are born in broods, from a single father and up to hundreds of mothers. A single brood-father may sire thousands of [goblin](Goblins) children, who are all raised together, with no knowledge of their specific mother. The brood-father, over the course of his lifetime, will eventually choose exactly one queen, who will mother the next brood-father—the first born son.
 
-Most [goblins](Goblins) live in communities around a single goblin lineage. Therefore, all of their neighbors and friends are one’s half-siblings. This can lead to bickering, but very rarely outright violent conflict. Living among siblings contributes to a camaraderie that many [goblins](Goblins) feel towards their brood-mates.
+Most [goblins](Goblins) live in communities around a single [goblin](Goblins) lineage. Therefore, all of their neighbors and friends are one’s half-siblings. This can lead to bickering, but very rarely outright violent conflict. Living among siblings contributes to a camaraderie that many [goblins](Goblins) feel towards their brood-mates.
 
 [Goblins](Goblins) are roughly the height of [gnomes](Gnomes), but usually slightly stronger. Many have a greenish tint to their skin, but [goblins](Goblins) like [Ruddings](Ruddings) and [Red Devils](Red Devils) have redder skin, and Blitzlings have blueish skin. 
 
@@ -36,4 +36,4 @@ Max Age: 70
 #### Cooperative
 *Passive ability.*
 
-Whenever you help someone on a skill check, or take the help action in combat, you provide two levels of advantage rather than one, and they may add half of any single relevant aspect you have. You do not need to spend DP. If that creature is a goblin, they gain three levels of advantage instead. 
+Whenever you help someone on a skill check, or take the help action in combat, you provide two levels of advantage rather than one, and they may add half of any single relevant aspect you have. You do not need to spend DP. If that creature is a [goblin](Goblins), they gain three levels of advantage instead. 

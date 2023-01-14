@@ -9,7 +9,7 @@ Although their bodies are gone, their [spirit](Life and Death) remains intact, a
 Once you were dead, but now—well, you still are, kind of. [Revenants](Revenants) are semi corporeal versions of their past, living, selves. When a creature dies and rather than leaving its physical form, chooses to remain within, it forfeits its ability to ever leave and is eternally trapped in the material world where they remain as a [revenant](Revenants). There are many reasons [revenants](Revenants) may choose to stay, but the most common involve unfinished business. Whether it’s getting revenge, or fighting for a cause they believe in, this goal is a top priority. While revenants may take detours along the way, they will always come back to their purpose for remaining in the material world.
 
 <br>
-By remaining in the material world, revenants forfeit their rights to an afterlife. Once a revenant has completed whatever business kept them in this world, they generally slowly go crazy and are eventually hunted down and killed by [children of Anubis](Children of Anubis) or other specialized killers. 
+By remaining in the material world, revenants forfeit their rights to an afterlife. Once a [revenant](Revenants) has completed whatever business kept them in this world, they generally slowly go crazy and are eventually hunted down and killed by [children of Anubis](Children of Anubis) or other specialized killers. 
 Due to revenant’s near immortality, they are forced to watch as everyone they love inevitably grows old and dies, which contributes to the slow decaying of their sanity.
 
 ## History
@@ -18,7 +18,7 @@ Due to revenant’s near immortality, they are forced to watch as everyone they 
 
 ### Vitals
 Type: [race](Races)  
-Depends on the race of whichever body you inhabit
+Depends on the [race](Races) of whichever body you inhabit
 
 ### Traits
 
@@ -36,7 +36,7 @@ Also, your physical body is no longer fully alive, and it will slowly decay with
 #### Detached [Spirit](Life and Death)
 *Passive ability.*
 
-You have a [soul](Life and Death), [shadow](Life and Death), and spirit—all necessary for true life, but they are no longer bound to your corporal body in the same way—instead, it is through willpower alone that you keep them attached to your physical form. This is a constant struggle, and when you waver, your form flickers as your spirit sloughs away from your skin. This, however, comes with benefits. 
+You have a [soul](Life and Death), [shadow](Life and Death), and [spirit](Life and Death)—all necessary for true life, but they are no longer bound to your corporal body in the same way—instead, it is through willpower alone that you keep them attached to your physical form. This is a constant struggle, and when you waver, your form flickers as your [spirit](Life and Death) sloughs away from your skin. This, however, comes with benefits. 
 
 As an action, you may let your concentration fall, causing you to dissolve into a pool of light and [shadow](Life and Death). While in this form, you gain the following effects:
 
