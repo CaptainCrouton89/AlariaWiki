@@ -10,3 +10,18 @@ Have to let blood to prevent curse from being too powerful? The curse builds up 
 The less health you have, the more damage you deal? the bigger the bonus? 
 
 Let blood to relieve curse. Old [deoric](Deoric) enchantment—exchange immortality for curse. As curse builds up, if it gets too high, you just die, so you need to sacrifice hp to relieve it. In exchange, you get power. The lower your health is (through your own blood letting only?), the more power you have. 
+
+# Heart Rush
+
+### Vitals
+Type: race  
+Size: medium  
+Height: 5.5-6.5 ft  
+Weight: 100-200 lbs  
+Max Age: 400  
+
+### Traits
+
+#### 
+**
+

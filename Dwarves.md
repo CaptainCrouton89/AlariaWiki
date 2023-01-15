@@ -34,7 +34,9 @@ Max Age: 160
 #### Stoneborn
 *Passive ability.*
 
-You do not get a full night's rest unless you sleep on stone. If that stone is not also part of the ground, subtract 50 from the sleeping challenge number. However, when standing on solid ground, you have +1 on your A/D rolls.
+You do not get a full night's rest unless you sleep on stone. If that stone is not also part of the ground, subtract 50 from the sleeping challenge number.
+
+You gain a basic attunement to stone.
 
 #### Hearty and Gruff
 *Passive ability.*
