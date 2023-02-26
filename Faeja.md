@@ -8,6 +8,6 @@ The [Faeja](Faeja) are fiercely independent and deeply connected to the natural 
 
 Despite their peaceful nature, the [Faeja](Faeja) are not to be underestimated. They are skilled warriors and are able to call upon the power of the [jungle](Jungles) to defend themselves and their homes. They are also fiercely protective of their land and will go to great lengths to defend it from those who would harm it.
 
-The [Faeja](Faeja) are a mysterious and enigmatic [race](Races), and not much is known about them outside of their own villages. They are rarely seen by outsiders, and those who do encounter them are said to be forever changed by the experience. Some believe that the [Faeja](Faeja) are the guardians of the jungle, and that they are the keepers of ancient secrets that have been lost to the rest of the world.
+The [Faeja](Faeja) are a mysterious and enigmatic [race](Races), and not much is known about them outside of their own villages. They are rarely seen by outsiders, and those who do encounter them are said to be forever changed by the experience. Some believe that the [Faeja](Faeja) are the guardians of the [jungle](Jungles), and that they are the keepers of ancient secrets that have been lost to the rest of the world.
 
 

@@ -1,13 +1,13 @@
-Tags: race, gnomes
+Tags: [race](Races), gnomes
 
 Reside near [Old Tolaria](Old Tolaria), primarily in the [Cherry Blossom River Valley](Cherry Blossom River Valley). Teutonic knights.
 
 # Heart Rush
 
-Not every foxborn gnome has a fox. However, it is assumed that you, the player would. In foxborn society, only the nobility have their own foxes, so you must either come from nobility, or found some other way of procuring your fox.
+Not every foxborn [gnome](Gnomes) has a fox. However, it is assumed that you, the player would. In foxborn society, only the nobility have their own foxes, so you must either come from nobility, or found some other way of procuring your fox.
 
 ### Vitals
-Type: gnome subrace  
+Type: [gnome](Gnomes) sub[race](Races)  
 Size: small  
 Height: 3-4 ft  
 Weight: 40-70 lbs  

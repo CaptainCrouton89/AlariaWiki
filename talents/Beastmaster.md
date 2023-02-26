@@ -1,6 +1,6 @@
 *Passive ability. Cognitive talent.*
 
-You have advantage on all checks to tame or befriend animals. Wild animals will never target you to hunt if they are only seeking food.
+You have [advantage](Advantage and Disadvantage) on all checks to tame or befriend animals. Wild animals will never target you to hunt if they are only seeking food.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 

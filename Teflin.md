@@ -14,7 +14,7 @@ Let blood to relieve curse. Old [deoric](Deoric) enchantment—exchange immortal
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 100-200 lbs  

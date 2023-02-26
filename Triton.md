@@ -1,15 +1,15 @@
-Tags: race
+Tags: [race](Races)
 
 # Overview
 
-Proud, theistic, competent, and graceful. The elves of the sea, though more warlike. Super deadly.
+Proud, theistic, competent, and graceful. The [elves](Elves) of the sea, though more warlike. Super deadly.
 
 # History
 
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 4.5-5.5 ft  
 Weight: 100-160 lbs  

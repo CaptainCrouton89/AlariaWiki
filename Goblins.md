@@ -36,4 +36,4 @@ Max Age: 70
 #### Cooperative
 *Passive ability.*
 
-Whenever you help someone on a skill check, or take the help action in combat, you provide two levels of advantage rather than one, and they may add half of any single relevant aspect you have. You do not need to spend DP. If that creature is a [goblin](Goblins), they gain three levels of advantage instead. 
+Whenever you help someone on a skill check, or take the help action in combat, you provide two levels of [advantage](Advantage and Disadvantage) rather than one, and they may add half of any single relevant aspect you have. You do not need to spend DP. If that creature is a [goblin](Goblins), they gain three levels of [advantage](Advantage and Disadvantage) instead. 

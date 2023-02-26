@@ -6,6 +6,8 @@ Tikhaya are generous, quiet, and highly value strength and truth. Some would mis
 
 Tikhaya can be found across central and northern Alaria, as well as the Nautili Archipelago, and are known for their incredible philosophers, mathematicians, and martial warriors.
 
+Reside in [Kyorda](Kyorda).
+
 # History
 
 # Heart Rush

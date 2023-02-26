@@ -1,6 +1,6 @@
 *Passive ability. Oath.*
 
-Whenever you make an attack roll, you may choose to lose 2 hitpoints and add 3 to your roll.
+Whenever you make an [attack roll](Attack and Defense Rolls), you may choose to lose 2 hitpoints and add 3 to your roll.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 

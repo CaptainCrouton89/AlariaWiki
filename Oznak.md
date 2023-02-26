@@ -25,4 +25,4 @@ Max Age: 80
 #### Technical Master
 *Passive ability.*
 
-Choose a weapon or tool. If it is a weapon, you have advantage while wielding it. If it is a tool, you have A2 on all checks requiring the use of this tool. 
+Choose a weapon or tool. If it is a weapon, you have [advantage](Advantage and Disadvantage) while wielding it. If it is a tool, you have A2 on all checks requiring the use of this tool. 

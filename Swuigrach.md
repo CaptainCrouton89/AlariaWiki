@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 # Overview
 
@@ -9,7 +9,7 @@ Large, heavy humanoids with heads of pink, gray, or black pigs. Incredibly greed
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 150-300 lbs  

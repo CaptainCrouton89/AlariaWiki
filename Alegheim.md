@@ -1,3 +1,3 @@
-Tags: [forest](Forests), [jungle](Jungles)
+Tags: [forest](Forests), [jungle](Jungles), [monster](Monsters)
 
-Home to the [Aleghi](Aleghi)—jungle dwelling, big-foot like creatures, kinda like yetis. Relatively peaceful. Occasionally will kidnap people.
+Home to the [Aleghi](Aleghi)—[jungle](Jungles) dwelling, big-foot like creatures, kinda like yetis. Relatively peaceful. Occasionally will kidnap people.

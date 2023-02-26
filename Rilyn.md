@@ -1,12 +1,12 @@
 Tags: [state](States)
 
-Home to the [Splinkreen](Splinkreen), a [race](Races) of woodland plant people. Woody, bark-like skin. Long ago, wizard removed the souls of some trees and put them in people's bodies. Their descendents now live here. They don't care much about their own survival.
+Home to the [Splinkreen](Splinkreen)
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: [Dwelyn](Dwelyn)
+**Primary Inhabitants**: [Splinkreen](Splinkreen)
 
 **Population**: 
 

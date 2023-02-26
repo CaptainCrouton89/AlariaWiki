@@ -21,6 +21,7 @@ Welcome! This is the Almanac of [Alaria](Alaria)—a guide to the world of [Alar
 A collection of different campaign ideas
 
 - [Accidentally invading a sovereign country](Campaign - [Roule](Roule) Invades)
+- [Campaign 2023](Campaign 2023)
 
 # About Alaria
 

@@ -19,3 +19,17 @@ Moons aligning represents cycle of [magic](Magic), whereas new year is cycle of 
 Seasons are more celebrated by commonfolk, less attached to [magic](Magic) and more so to nature. Celebrations on first day of spring, new-year/solstice, last week of fall, and other solstice. Both are celebrated, though winter ones are more about trying to be cheerful in the face of winter.
 
 Moon and [Magic](Magic) divinely intertwined.
+
+### 11 days of the week, starting at new moon, going to full, then waning again:
+
+1. Cautious (new moon): Don't go out at night
+2. Wakeday (waxing crescent): Made it to next week, can come out now
+3. Patrons' Day: Thank your [daemon](Daemons)
+4. Moil
+5. Marketday: Trading happens
+6. Merrynight: Full moon, time to stay up late
+7. Brightlove: More full moon, time for joy
+8. Lazyday
+9. Farewell: People leave to return home
+10. Gather: Prepare (for fireday and cautious, but also just in general)
+11. Fireday (waning crescent): Burn candles during hte night

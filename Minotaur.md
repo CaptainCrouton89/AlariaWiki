@@ -24,7 +24,7 @@ Max Age: 80
 
 ### Traits
 
-#### Minotaur Horns
+#### [Minotaur](Minotaur) Horns
 *Passive ability.*
 
-The horns on your head count as a heavy piercing melee weapon so long as you move at least 15 feet in a straight-line towards an enemy before immediately attacking. You get one level of advantage on your attacks made with your horns for every 15 feet you charged before you attack. This stacks up three times.
+The horns on your head count as a heavy piercing melee weapon so long as you move at least 15 feet in a straight-line towards an enemy before immediately attacking. You get one level of [advantage](Advantage and Disadvantage) on your attacks made with your horns for every 15 feet you charged before you attack. This stacks up three times.

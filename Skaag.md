@@ -13,7 +13,7 @@ Although there is only one true skaag city, skaag can be found dispersed across 
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 4-5 ft  
 Weight: 60-100 lbs  
@@ -31,7 +31,7 @@ You have can see in darkness as though it was dim light to a range of 45 feet, a
 
 As a skaag, you seem to have a sixth sense for finding and taking what’s meant to be kept hidden. You gain the following abilities:
 
-- If you would make a roll to avoid or mitigate the effects of a trap, you have advantage on that roll. If the trap deals damage, you take half as much damage.
+- If you would make a roll to avoid or mitigate the effects of a trap, you have [advantage](Advantage and Disadvantage) on that roll. If the trap deals damage, you take half as much damage.
 - You can perfectly appraise the value of rare artifacts and valuables.
 - Your whiskers tingle if treasure or traps are within 1000 feet. You don't know which, but you can roughly estimate their distance by how much your whiskers tingle.
-- You have advantage on discerning the nature of magical artifacts.
+- You have [advantage](Advantage and Disadvantage) on discerning the nature of magical artifacts.

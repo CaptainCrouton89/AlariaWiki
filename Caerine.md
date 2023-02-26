@@ -8,7 +8,7 @@ Caerene are far more isolating than many other [races](Races), preferring to rem
 
 Most Caerene culture emphasizes finding balance in nature, and preserving that balance. They place a lot of significance on fate, fairness, and immediate justice. There are no second chances in Caerene culture.
 
-
+Primarily reside in Eoga.
 
 ## History
 

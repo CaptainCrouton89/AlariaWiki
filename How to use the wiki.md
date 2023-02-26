@@ -69,7 +69,7 @@ In this folder all the markdownfiles are listed. Editing the files will be visib
 |- [How to use the wiki](How to use the wiki).md  
 |- [Markdown cheatsheet](Markdown cheatsheet).md  
 
-The advantage is that u can use the commandline to process some data. For example using pandoc:
+The [advantage](Advantage and Disadvantage) is that u can use the commandline to process some data. For example using pandoc:
 ```
 $ pandoc -f markdown -t latex [homepage](homepage).md How\ to\ use\ the\ wiki.md -o file.pdf --pdf-engine=xelatex
 ```

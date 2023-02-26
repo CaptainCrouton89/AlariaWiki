@@ -1,4 +1,4 @@
-Tags: monster
+Tags: [monster](Monsters)
 
 # Overview
 

@@ -7,7 +7,7 @@ Renown for poison, soldiers, water magical attunement, quality democracy
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 100-200 lbs  

@@ -8,5 +8,5 @@ Once per month, you may declare a [humanoid](Humans) to be the target of your as
 
 Given you spend one month studying the target of your assassination before attempting to kill them, you learn their weaknesses, and gain the following abilities:
 
-- You have advantage on all attacks against them.
+- You have [advantage](Advantage and Disadvantage) on all attacks against them.
 - If you surprise the creature, you may silence the creature without using your action.

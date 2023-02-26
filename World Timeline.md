@@ -8,15 +8,28 @@ The first eon. Little is known about this time period.
 
 ### The Cyclone of Possibilities: 4–1.3 billion years ago
 
-During this time, nearly nothing is known. It is generally believed that a primordial soup of the cosmos was swirling around, with the period eventually cumulating with the rise of Azus. Azus was the first god, for Azus was the only the thing alive, and was capable of shaping the cosmos around him. 
+During this time, nearly nothing is known. It is generally believed that a primordial soup of the cosmos was swirling around, with the period eventually cumulating with the rise of Azus. Azus and Melera were the first gods, each with differing mindsets. 
+
+- Each created their own system of laws and behaviours of the world. For azus, everything was to be described, things had rules, and there was perfect balance: for creation, there would come destruction
+- Melera, she viewed the world as an instrument, to be played. Creating beauty from nothing—there is no cost to creating somethign wonderful with music. Nobody knows about her, or knows this story.
+- Azus hated the freeform nature of Melera, locked her in a prison of specificity.
+- He creates the world alone. Begins organizing things into categories and boxes. Uses his magic, "Deoric" magic to do so. 
+- Although Melera remains locked away still to this day, she creates her music from her prison, and it resonates across the universe. 
+	- Things attributed to Melera
+    	- Music
+        - Gaea
+        - Gaeic Melodies
+        - Druids (part melody, part deoric origins—true mix)
+        - The alarian planar stack bursting and Ezz spilling in was her. Before that, there was much more strict separation of the planes.
+- Azus is off toying with othr plains—hasn't visited Alaria since the The Wash—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
 
 ### The Contraction: 1,300–235 million years ago
 
-With little direction, and with unknown motivations, Azus began manipulating the cosmos, pulling the cosmic soup closer and closer together. It is believed he used an ancient ancestor of the [Deoric](Deoric) language to do so. Over the course of over a billion years, Azus tightened and tightened the universe, bringing everything closer and closer together.
+Azus began manipulating the cosmos, pulling the cosmic soup closer and closer together. It is believed he used an ancient ancestor of the [Deoric](Deoric) language to do so. Over the course of over a billion years, Azus tightened and tightened the universe, bringing everything closer and closer together.
 
 #### The Death of Azus: 235 million years ago
 
-As the universe contracted, enormous voids began opening up, sucking up everything around them. Some countless number of voids opened up around the cosmos, eating up everything, faster and faster. It is unknown when, exactly, but it is assumed that Azus was sucked into one of these voids.
+As the universe contracted, enormous voids began opening up, sucking up everything around them. Some countless number of voids opened up around the cosmos, eating up everything, faster and faster. 
 
 As these voids filled with more and more of the cosmos, some exploded, while others instead began slowly releasing intense radiant light. These explosions formed rifts in the cosmos, forming the planar stacks of the cosmos, while the voids that began editing light were scattered throughout the universe and now can be found in some of the planar stacks, such as the Alarian sun. This marked the end of the first eon.
 
@@ -32,7 +45,7 @@ With the Lyzarus the first titan was born. Titans were enormous, powerful beings
 
 #### The Wash: 120 million years ago
 
-The reign of titans ended with the Wash—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused Ezz to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with Ezz, titans died in droves, suffocating and wracked with madness. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
+The reign of titans ended with the Wash—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused [Ezz](Ezz) to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with Ezz, titans died in droves, suffocating and wracked with madness. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
 
 This marked the end of the second eon. The dead titan bodies that remain on [Alaria](Alaria) are great sources of magical power, even today, though their scarcity is a source of enormous conflict wherever they are found. 
 

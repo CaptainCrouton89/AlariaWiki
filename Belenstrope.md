@@ -1,19 +1,25 @@
 Tags: [race](Races), [halfling](Halflings)
 
-## Overview
+# Overview
 
-Best merchants are [Belenstrope](Belenstrope)
+Best merchants are [Belenstrope](Belenstrope). Primarily reside in [Erasnus](Erasnus). Huge royal family, lords and ladies in every town, all distantly related through second cousins and the sort.
 
-Primarily reside in [Erasnus](Erasnus)
+Olive skinned, high sheekbones, slender build, intelligent eyes. 
 
-## Physical Appearance
+# History
 
-Olive skinned, high sheekbones, slender, intelligent eyes
+# Heart Rush
 
-## Cultural Overview
+### Vitals
+Type: [halfling](Halflings) subrace  
+Size: medium  
+Height: 4-5.5 ft  
+Weight: 80-130 lbs  
+Max Age: 110  
 
+### Traits
 
+#### Naturally Intelligent
+*Passive ability.*
 
-## History
-
-
+Increasing your cunning die costs 2 less XP. 

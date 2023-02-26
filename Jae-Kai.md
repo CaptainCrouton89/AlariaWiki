@@ -1,4 +1,4 @@
-Tags: race, human
+Tags: [race](Races), [human](Humans)
 
 The [Jae-Kai](Jae-Kai) Entanglers, or simply the [Jae-Kai](Jae-Kai), are a nomadic group of [spirit](Life and Death) wranglers. They herd spirits across the [Plains](Plains) of Oblivion.
 
@@ -7,7 +7,7 @@ The [Jae-Kai](Jae-Kai) Entanglers, or simply the [Jae-Kai](Jae-Kai), are a nomad
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6 ft  
 Weight: 100-170 lbs  

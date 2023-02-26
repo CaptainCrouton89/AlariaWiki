@@ -27,5 +27,5 @@ You may channel your blood of Naga, and transform into a dragon-like form. Your 
 - You gain +1 to defense rolls from your natural, scaly armor.
 - You may belch fire, dealing 2d6 damage in a 10-foot cone. You may only use this ability once per transformation. This counts as a quick ability.
 - Whenever a creature deals damage to you, you gain one level of enraged towards that creature. If a different creature deals damage to you, remove all other levels of enraged gained from this ability, and add one level towards the new creature.
-- You have advantage on skill checks to intimidate others.
+- You have [advantage](Advantage and Disadvantage) on skill checks to intimidate others.
 - You remain in this form until you spend your action to return to your [human](Humans) form.

@@ -9,7 +9,7 @@ Feeding souls to Ammit is dangerous, for ammit is hungry, and sometimes takes mo
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 120-200 lbs  

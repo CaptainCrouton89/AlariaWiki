@@ -1,0 +1,1 @@
+Tags: Gray hags, tattered wings (can't fly), fangs, hunched backs. Make you fall asleep just by being in their presence (sandman). Immensely hard to resist, though you are fully aware that the creature wants to kill you.

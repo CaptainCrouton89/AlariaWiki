@@ -12,7 +12,7 @@ Satyr like creatures that feed on blood and go into frenzies. Normal articles of
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6 ft  
 Weight: 100-200 lbs  

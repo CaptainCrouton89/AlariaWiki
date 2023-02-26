@@ -11,7 +11,7 @@ Ulvsjael can be found across Alaria, and are known for their formidable mercenar
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6 ft  
 Weight: 100-200 lbs  
@@ -27,6 +27,6 @@ You may channel your blood of Ulvsjael, and transform into a wolf-like form. You
 - You gain A2 on all skill checks for perceiving things that can be smelt or heard.
 - Your move speed increases by 40 feet.
 - Your jaws and claws count as light piercing and slashing melee weapons, respectively.
-- Whenever you are in an engagement, choose a valid target for your stance. All creatures have advantage on attack rolls against that creature.
+- Whenever you are in an engagement, choose a valid target for your stance. All creatures have [advantage](Advantage and Disadvantage) on attack rolls against that creature.
 - You cannot hold a weapon or shield or manipulate fine objects.
-- You remain in this form until you spend your action to return to your human form.
+- You remain in this form until you spend your action to return to your [human](Humans) form.

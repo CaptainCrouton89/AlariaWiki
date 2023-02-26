@@ -6,7 +6,7 @@ Tags: [state](States)
 
 **Primary Inhabitants**: 
 
-**Population**: 
+**Population**: [Dwarblin](Dwarblin)
 
 **Stability**: [Anarchy, Very Unstable, Unstable, Somewhat Stable, Stable, Very Stable, Eternal] 
 

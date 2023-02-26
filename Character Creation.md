@@ -55,9 +55,9 @@ As you spend XP on hitpoints, your heart die will increase. When you have 100 hi
 
 ### [Races](Races) & Culture
 
-Everyone comes from a different background and has a different upbringing. When you create a character, choose a [race](Races) from Appendix A: Race & Heritage. You gain the aspects and abilities that come from choosing that race.
+Everyone comes from a different background and has a different upbringing. When you create a character, choose a [race](Races) from Appendix A: [Race](Races) & Heritage. You gain the aspects and abilities that come from choosing that [race](Races).
 
-Many races have multiple heritages within that race. In that case, you gain the aspects and abilities of the race, as well as a chose heritage within that race.
+Many [races](Races) have multiple heritages within that [race](Races). In that case, you gain the aspects and abilities of the race, as well as a chose heritage within that race.
 
 ### Talents
 
@@ -128,7 +128,7 @@ Upon reaching the archetype stage, you will then have to choose a subclass. Each
 
 When you reach the luminary stage, you unlock more abilities in your subclass.
 
-#### Hero
+#### [Hero](Heroes)
 
 As with the luminary stage, the [hero](Heroes) stage unlocks more abilities from your subclass.
 

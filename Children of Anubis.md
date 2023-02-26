@@ -15,7 +15,7 @@ Regardless of which path they follow, all [children of Anubis](Children of Anubi
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 120-200 lbs  

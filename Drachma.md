@@ -30,4 +30,4 @@ When you gain this ability, choose might, agility, cunning, or presence. Wheneve
 #### Second Lid
 *Passive ability.*
 
-You have advantage on perception checks to spot things underwater.
+You have [advantage](Advantage and Disadvantage) on perception checks to spot things underwater.

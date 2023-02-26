@@ -32,6 +32,6 @@ Increasing your presence die costs 2 less XP. You do not need to reach PL2 in or
 #### Memories Passed
 *Major ability. Instant.*
 
-The psyic energy from which you spawned occasionally provides imagery from others’ memories of the past as well, guiding you when you face difficult challenges. You may use this ability to gain advantage on any skill check you make. If the skill check also aligns with your deeper purpose, you instead gain A3. 
+The psyic energy from which you spawned occasionally provides imagery from others’ memories of the past as well, guiding you when you face difficult challenges. You may use this ability to gain [advantage](Advantage and Disadvantage) on any skill check you make. If the skill check also aligns with your deeper purpose, you instead gain A3. 
 
 You also do not have a [soul](Life and Death) or [shadow](Life and Death), and are thus invisible on both the ethereal and nethereal planes. This also excludes you from effects on creatures with souls or shadows.

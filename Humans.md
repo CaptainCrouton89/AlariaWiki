@@ -21,7 +21,7 @@ Tags: [race](Races)
 - [Qord'ik](Qord'ik): Hearty tall seafarers from the Free Isles
 - [Shontobi](Shontobi): Family oriented horseriding samurai
 - [Tarnak](Tarnak): Bloodmagic wielding shamans
-- [Nuun](Nuun): Fire or water attuned desert dwellers
+- [Nuun](Nuun): Fire or water attuned [desert](Deserts) dwellers
 - [Shapers](Shapers): Shapeshifters with silver eyes
 
 # Heart Rush

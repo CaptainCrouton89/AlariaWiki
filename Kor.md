@@ -9,7 +9,7 @@ Regal leopard like people. Complex social order, forbidden to violate it. Social
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 4.5-5.5 ft  
 Weight: 80-160 lbs  
@@ -29,6 +29,6 @@ Your claws and jaws count as light, melee, slashing and piercing weapons, respec
 You permanently gain your choice of two of the following abilities:
 
 - Stealth: Your footsteps make no sound. You automatically succeed stealth checks to move silently. 
-- Manners: You have advantage on all presence checks when interacting with fine company.
+- Manners: You have [advantage](Advantage and Disadvantage) on all presence checks when interacting with fine company.
 - Killer Instinct: At any time, you may ask and be told if a creature is below half their health, or below a quarter of their health.
 - Emotionless: People automatically fail any check to surmise your intentions or truthfulness. This does not mean they believe everything you say—it means they just don't know.

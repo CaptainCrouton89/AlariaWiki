@@ -1,6 +1,6 @@
 Tags: [state](States)
 
-[Ix Tyrann](Ix Tyrann) + Sylthik: [Sylthik](Sylthik) overlords, power hungry combo with blood thirsty ix tyrant. Fighting on both fronts. [Sylthik](Sylthik) prepare concoctions that are fed to the [ix tyrann](Ix Tyrann). [Gorath](Gorath) is encroaching.
+Inhabited by [Ithk'Vasyla](Ithk'Vasyla). Fighting vicious war on two fronts against the [Trømgar](Trømgar) (always) and Gorath.
 
 ## Government & Peoples
 

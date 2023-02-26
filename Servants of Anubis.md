@@ -1,4 +1,4 @@
-Tags: race, servant of anubis
+Tags: [race](Races), servant of anubis
 
 # Overview
 
@@ -7,7 +7,7 @@ Servants of Anubis are loyal to their patron, Anubis himself. They seek to uphol
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 120-200 lbs  

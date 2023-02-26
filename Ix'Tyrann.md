@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races), lizardfolk
 
 # Overview
 
@@ -7,7 +7,7 @@ Lizard like humanoids. Viewed by most of society as savages. Cold, vicious, view
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 100-200 lbs  

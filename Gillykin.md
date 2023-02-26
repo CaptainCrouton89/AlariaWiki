@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 # Overview
 
@@ -11,7 +11,7 @@ Tags: race
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: small  
 Height: 3-4 ft  
 Weight: 40-80 lbs  

@@ -1,4 +1,4 @@
-Tags: [race](Races), dwarf
+Tags: [race](Races), [dwarf](Dwarves)
 
 # Overview
 
@@ -9,7 +9,7 @@ Fire, forges, volcanoes, etc, easily pissed off. Skin is black, with red veins g
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 4-5 ft  
 Weight: 80-180 lbs  

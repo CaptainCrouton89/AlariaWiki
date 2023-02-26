@@ -19,7 +19,7 @@ The [Kuzagt](Kuzagt) place little value on [human](Humans) lives—seeing them a
 # Heart Rush
 
 ### Vitals
-Type: elf subrace  
+Type: [elf](Elves) subrace  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 100-180 lbs  
