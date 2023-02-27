@@ -4,7 +4,7 @@ An incredibly powerful state, as they control the [Tarkhetan Strait](Tarkhetan S
 
 Nektuna is hardly safe, however. They are surrounded on all sides by those interested in taking their wealth and controlling the strait themselves. 
 
-Based loosely on king's landing from GoT.
+Based loosely on king's landing from GoT. Controlled by many lords from different regions.
 
 Nektuna is farily diverse place, home to primarily humans, but with a massive population of [Craven](Craven), and smaller populations of dwarblin, trollkin, and even ayblek. A fair number of [weblin](Weblin) also travel throughout, selling their wares.
 
