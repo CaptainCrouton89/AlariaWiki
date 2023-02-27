@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 Category of lizardfolk creatues. Only distantly related.
 

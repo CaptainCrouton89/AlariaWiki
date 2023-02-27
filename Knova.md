@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 Home to the [Iron Academy](Iron Academy)—the greatest combat school in the world. Knova is composed of quite a few small islands, each of them rich with metals. 
 

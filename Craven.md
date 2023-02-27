@@ -10,7 +10,7 @@ Man's attempt at creating intelligent life. Horrible people. Incapable of direct
 
 # Heart Rush
 
-If you play this [race](Races), your backstory must include why and how you have broken the curse of following orders always. Craven under this category are known as the "Unchained", and are almost universally feared for the incredible desire for vengeance that fills most craven over their lifetimes. This race is not for the feint of heart.
+If you play this [race](Races), your backstory must include why and how you have broken the curse of following orders always. Craven under this category are known as the "Unchained", and are almost universally feared for the incredible desire for vengeance that fills most craven over their lifetimes. This [race](Races) is not for the feint of heart.
 
 ### Vitals
 Type: race  

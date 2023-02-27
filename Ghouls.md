@@ -39,4 +39,4 @@ While flesh is a preferred substitute for standard food, you can still consume n
 
 Gaining oath talents and their destiny levels cost 2 XP less.
 
-As an action, someone with a basic attunement may inflict a wound on you, so long as you are within 45 feet. If they have an advanced attunement, they inflict two wounds instead, and the range increases to 90 feet. With a paragon level attunement, they may inflict three wounds instead, and the range increases to 120 feet. The Infuse option from your Soul Eater can prevent creatures with elemental attunement from doing this.
+As an action, someone with a basic attunement may inflict a wound on you, so long as you are within 45 feet. If they have an advanced attunement, they inflict two wounds instead, and the range increases to 90 feet. With a paragon level attunement, they may inflict three wounds instead, and the range increases to 120 feet. The Infuse option from your [Soul](Life and Death) Eater can prevent creatures with elemental attunement from doing this.

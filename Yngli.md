@@ -11,7 +11,7 @@ Long ago, were helpers of the cyclops. Were their assistants in the cyclops forg
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 4-5 ft  
 Weight: 90-140 lbs  

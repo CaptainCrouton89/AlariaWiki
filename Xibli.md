@@ -1,4 +1,4 @@
-Tags: race, goblin
+Tags: [race](Races), [goblin](Goblins)
 
 All around [Melrox Island](Melrox Island), the [Xibli Islands](Xibli Islands), and [Alkron Tidal Islands](Alkron Tidal Islands), the Xibli have made their home. The Xibli are a race of aquatic creatures, very similar to goblins. Many believe that they descended from goblins.
 

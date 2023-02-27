@@ -65,7 +65,7 @@ R3: A small fire burns, and a razor sharp blae facing up lies over the brazier. 
 
 If you sac wolf limb, wolf relief engravings on walls come to life, and attack you. If you sac yourself, nothing. Walled in by same substance as rock from before.
 
-R4: Gnome chieftain's crypt stacked with personal belongings (illusions) on walls. if you touch it, rune glows. Runes are on the coffin. One out of three dots are filled with glowing light (Shovel (x) wolf blood (x) finger on treasure ( ) and coffin open ( ) )
+R4: [Gnome](Gnomes) chieftain's crypt stacked with personal belongings (illusions) on walls. if you touch it, rune glows. Runes are on the coffin. One out of three dots are filled with glowing light (Shovel (x) wolf blood (x) finger on treasure ( ) and coffin open ( ) )
 
 At 4 checkboxes, chieftain wakes up. Summons [spirit](Life and Death) animals to fight for him. 
 

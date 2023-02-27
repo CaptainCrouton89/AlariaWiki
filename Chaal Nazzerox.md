@@ -1,6 +1,6 @@
-Tags: state
+Tags: [state](States)
 
-The massive, undead empire of the south. Definitely worrisome for everyone in the region. Led by [Xynoth Azkonor](Xynoth Azkonor), undead lich king.
+The massive, undead empire of the south. Definitely worrisome for everyone in the [region](Regions). Led by [Xynoth Azkonor](Xynoth Azkonor), undead lich king.
 
 The undead mill aimlessly when not directed by Xynoth or his henchmen. 95% of population are undead (no spirit), but 5% are still pretty evil, but have free will. Have surivived by pillaging and enslaving. Live slaves tend to fields to provide for few remaining living people. Undead keep watch. Relentless army.
 

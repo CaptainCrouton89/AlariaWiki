@@ -1,4 +1,4 @@
-Tags: villain, npc, lich
+Tags: villain, [npc](NPCs), lich
 
 Leads [Chaal Nazzerox](Chaal Nazzerox). His last name used to be "honor", and used to live honorable life.
 

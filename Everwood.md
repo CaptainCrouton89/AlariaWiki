@@ -10,4 +10,4 @@ Sleeping on the [forest](Forests) floor in any season but winter will cause the 
 
 The leaves all fall in autumn, revealing the sky above. 
 
-Forest is north of the [Piktiniti Desert](Piktiniti Desert)
+[Forest](Forests) is north of the [Piktiniti Desert](Piktiniti Desert)

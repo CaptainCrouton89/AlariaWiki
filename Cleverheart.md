@@ -90,7 +90,7 @@ As a free action, you may enter or exit the spontaneous combustion [state](State
 - When you deal damage with an attack, if you dealt 3 or more damage, you may choose for the attack to deal 3 less damage, to a minimum of 0. If you do, the enemy takes one level of on-fire. You may repeat this process up to three times.
 
 ##### Earth: Heart of Stone
-As a free action, you may enter or exit the Heart of Stone [state](States). While in this state, you are imbued with the fortitude of the very ground beneath you and gain the following abilities.
+As a free action, you may enter or exit the Heart of Stone [state](States). While in this [state](States), you are imbued with the fortitude of the very ground beneath you and gain the following abilities.
 
 - The ground shudders with each footstep, making your presence known in a 100 foot radius.
 - Subtract 1 from all damage dealt to you.

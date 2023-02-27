@@ -170,7 +170,7 @@ You have [advantage](Advantage and Disadvantage) on A/D rolls against your sworn
 #### Bloodlust
 *Passive ability. Martial talent.*
 
-Whenever you make an attack roll against an enemy that is not at its maximum heart die, you may give it three levels of dazed, off-balanced, or weakened.
+Whenever you make an [attack roll](Attack and Defense Rolls) against an enemy that is not at its maximum heart die, you may give it three levels of dazed, off-balanced, or weakened.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -272,7 +272,7 @@ You cannot choke creatures that do have a throat.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on checks to choke. When it attempts to break free, it has [disadvantage](Advantage and Disadvantage).
+You have [advantage](Advantage and Disadvantage) on checks to choke. When it attempts to break free, it has [disadvantage](Advantage and Disadvantage).
 
 <br>
 <hr>
@@ -582,7 +582,7 @@ You have A3 on attack rolls for every 10 feet instead.
 #### Juggernaut
 *Passive ability. Martial talent.*
 
-Your move speed cannot be reduced below 40 by nonmagical means. Additionally, your encumbrance score increases to 10 times your might die, and your maximum carrying capacity increase to double that. You must choose the disadvantage on athletics and A/D rolls option when you take penalties for being over-encumbered.
+Your move speed cannot be reduced below 40 by nonmagical means. Additionally, your encumbrance score increases to 10 times your might die, and your maximum carrying capacity increase to double that. You must choose the [disadvantage](Advantage and Disadvantage) on athletics and A/D rolls option when you take penalties for being over-encumbered.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -630,7 +630,7 @@ Once per engagement, you may increase or decrease the result of an A/D roll by 1
 #### Master Wrestler
 *Passive ability. Martial talent.*
 
-Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. If the creature is smaller, you have [advantage](Advantage and Disadvantage) for each level of size difference. On a success, the creature gains a level of restrained. Your movement is decreased by half of its move speed so long as you are grappling it.
+Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. If the creature is smaller, you have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. On a success, the creature gains a level of restrained. Your movement is decreased by half of its move speed so long as you are grappling it.
 
 The creature may attempt to break free of the grapple by spending an action to make a might or agility check versus your might or agility challenge number (your choice). Size has the same effects on [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) and [disadvantage](Advantage and Disadvantage), but in reverse. On a success, they are no longer restrained. You may let go of them at any time. You must have at least one hand free to use this ability.
 
@@ -784,7 +784,7 @@ Roll an additional 4d6 instead.
 #### Reckless Attack
 *Passive ability. Martial talent.*
 
-Upon entering an engagement or making an opportunity attack, but before choosing stances, you may declare this to be a reckless attack. You may add 1d4 to each of your attack rolls until the end of the round. Enemies have [advantage](Advantage and Disadvantage) on their next attack roll against you until the beginning of your next turn.
+Upon entering an engagement or making an opportunity attack, but before choosing stances, you may declare this to be a reckless attack. You may add 1d4 to each of your attack rolls until the end of the round. Enemies have [advantage](Advantage and Disadvantage) on their next [attack roll](Attack and Defense Rolls) against you until the beginning of your next turn.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -860,7 +860,7 @@ You may use this ability once stances are revealed, but before attack and defens
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If a creature chooses the same stance a second time, that creature has dis[advantage](Advantage and Disadvantage) on AD rolls.
+If a creature chooses the same stance a second time, that creature has dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on AD rolls.
 
 <br>
 <hr>
@@ -873,7 +873,7 @@ Whenever you make a skill check or saving throw to avoid or escape being restrai
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Once per round, if you roll doubles on a defense roll, you may  choose to move 5 feet. If you are no longer a valid target for your attacker, you do not take damage. This movement does not provoke opportunity attacks from your attacker. 
+Once per round, if you roll doubles on a [defense roll](Attack and Defense Rolls), you may  choose to move 5 feet. If you are no longer a valid target for your attacker, you do not take damage. This movement does not provoke opportunity attacks from your attacker. 
 
 <br>
 <hr>
@@ -1049,7 +1049,7 @@ You can suss out information from someone even without them knowing. If you spen
 - Childhood
 - Moral compass
 
-If you wish, you may press further and make a presence check contested by their cunning challenge number. This check is made with dis[advantage](Advantage and Disadvantage) if they are unfriendly or hostile towards you. On a success, you learn any one specific piece of information that the target knows and is not actively hiding. On a fail, they know that you are fishing for information about your topic.
+If you wish, you may press further and make a presence check contested by their cunning challenge number. This check is made with dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) if they are unfriendly or hostile towards you. On a success, you learn any one specific piece of information that the target knows and is not actively hiding. On a fail, they know that you are fishing for information about your topic.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1260,7 +1260,7 @@ You may mark up to three objects at a time, and the source of your senses can or
 #### Hate
 *Passive ability. Cognitive talent.*
 
-You feel a deep loathing towards a certain type of creature or individual. You have A2 on all checks to find and learn more information about this type of creature or individual, and you have [advantage](Advantage and Disadvantage) on attack rolls against them if they are an individual.
+You feel a deep loathing towards a certain type of creature or individual. You have A2 on all checks to find and learn more information about this type of creature or individual, and you have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on attack rolls against them if they are an individual.
 If the creature is an individual, you may exchange this talent for any other talent when you kill the individual.
 You may take this talent any number of times, though you must choose a different target each time.
 
@@ -1419,7 +1419,7 @@ In addition, so long as you can see someone’s lips and understand the language
 
 Hidden attackers cannot make opportunity attacks against you, you do not suffer any penalty from attacking an obscured enemy, and obscured enemies gain no advantage when attacking you. 
 
-In addition, if you spend your action watching a creature fight for there rounds or more, you learn the creature’s strengths and weaknesses, and have [advantage](Advantage and Disadvantage) on all A/D rolls made against that creature.
+In addition, if you spend your action watching a creature fight for there rounds or more, you learn the creature’s strengths and weaknesses, and have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on all A/D rolls made against that creature.
 
 <br>
 <hr>

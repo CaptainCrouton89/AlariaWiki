@@ -1,4 +1,4 @@
-Tags: race, elves
+Tags: [race](Races), [elves](Elves)
 
 Agents of water and darkness. Make up the [Bynü Island Tribes](Bynü Island Tribes). Those closest to the leyline of darkness exhibit more darkness traits, while the rest are mostly water. Not super interested in trade or involvement, though their sea-tech is quite advanced.
 
