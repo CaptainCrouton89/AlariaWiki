@@ -1,4 +1,4 @@
-Tags: race, dwarf
+Tags: [race](Races), [dwarf](Dwarves)
 
 The Gruynmar travel in collosal iron ships on the sea. Entire clans permanently reside in a single ship. These ships will park outside a new harbor every few months, trade for the duration, and then move on.
 

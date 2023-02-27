@@ -1,4 +1,4 @@
-Tags: race, goblin
+Tags: [race](Races), [goblin](Goblins)
 
 Live in the [Copper Hills](CopperHills)
 

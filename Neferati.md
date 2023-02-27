@@ -4,7 +4,7 @@ Tags: [race](Races)
 
 A [race](Races) of people born when fire interacted with the pouring in of Ez and Gaea's song. Red skinned, curling ram horns, dark eyes, dark hair. Very much in touch with the music of life. Fire dancers. Passionate, fiery lives. Experimenters, explorers, courageous. 
 
-Regularly will have fires out in the desert, and will bask in the heat.
+Regularly will have fires out in the [desert](Deserts), and will bask in the heat.
 
 Most reside in the four Neferati [Kingdoms of Fire](Kingdoms of Fire).
 
