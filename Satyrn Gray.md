@@ -1,0 +1,3 @@
+Tags: poi
+
+Palace of the mourning [Queen Eranes](Queen Eranes), an extremely powerful, half-titan queen who lost her love when the plains split. She tried to forget her love, and enchanted her entire home in powerful spells that hide one's memories. Although she's forgotten, she still feels a deep sense of sorrow, and somehow connected to these plains, and will never leave. She will handsomely reward anyone who explains to her what has happened.
