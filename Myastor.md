@@ -1,12 +1,12 @@
 Tags: [state](States)
 
-Links: [States](States)
+Very poor. Owned by the three kingdoms, though post fragmentation it was granted to the queen of Sylke. She sees it as a dump, and uses it for political prisoners and as an unofficial exile.
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: humans
 
 **Population**: 
 
