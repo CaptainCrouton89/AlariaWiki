@@ -5,14 +5,14 @@ The Tarkhon empire is massive, extremely rich empire that controls the sea and l
 Ruled by [King Selron II](King Selron II) from [Tarkhetan](Tarkhetan). Holds a tenous grasp on a large number of nearby kingdoms, through promise of fealty in exchange for cheaper trade.
 
 ## Subsidiary [States](States)
-- Nektuna (home of the Tarkhon Empire)
-- Enymu
-- Kerwin
-- Estrelle (vassal state of Nektuna)
-- Yaif
-- Kabir
-- Gissemari
-- Wadiyah
-- Üod
-- Blvnird
-- Melaia
+- [Nektuna](Nektuna) (home of the Tarkhon Empire)
+- [Enymu](Enymu)
+- [Kerwin](Kerwin)
+- [Estrelle](Estrelle) (vassal state of Nektuna)
+- [Yaif](Yaif)
+- [Kabir](Kabir)
+- [Gissemari](Gissemari)
+- [Wadiyah](Wadiyah)
+- [Üod](Üod)
+- [Blvnird](Blvnird)
+- [Melaia](Melaia)
