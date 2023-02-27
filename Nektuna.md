@@ -11,3 +11,5 @@ Nektuna is farily diverse place, home to primarily humans, but with a massive po
 Also controls the island of [Pyris](Pyris). Pyris is home to an old race of dwarves, who have interbred with humans long enough to be very rough mix of the two. Mostly farmers who want to live simple lives. 
 
 Nektuna also contains the city [Besnoumeru](Besnoumeru), which lies directly on the leyline of time. Besnoumeru is almost as famously wealthy as Tarkhetan for the phenomenol ability of its merchants to predict the changes in supply and demand before they happen.
+
+In possession of [Astrelle](Astrelle).
