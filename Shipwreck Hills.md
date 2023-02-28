@@ -1,3 +1,3 @@
 Tags: hills
 
-Hills dotted with many, many ship wrecks. The hills are full of [rusalka](rusalka) and wyrms, and therefore quite inhospitable.
+Hills dotted with many, many ship wrecks. The hills are full of [rusalka](Rusalka) and wyrms, and therefore quite inhospitable.
