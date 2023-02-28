@@ -1,3 +1,3 @@
 Tags: capital, city
 
-Capital of Iqes. 
+Capital of [Iqes](Iqes). 
