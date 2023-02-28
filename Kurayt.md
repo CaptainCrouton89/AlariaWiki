@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Aristocracy
 
-**Primary Inhabitants**: [Nuun](Nuun)
+**Primary Inhabitants**: [Nuun](Nuun), [Yngli](Yngli)
 
 **Population**: 200,000
 
