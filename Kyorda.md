@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**:
 
-**Primary Inhabitants**: [Tikhaya](Tikhaya)
+**Primary Inhabitants**: [Tikhaya](Tikhaya), [Wytrolape](Wytrolape)
 
 **Population**: 
 
