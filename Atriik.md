@@ -1,5 +1,7 @@
 Tags: [state](States)
 
+pronounced "at-try(spanish "r")-**ike**"
+
 ## Government & Peoples
 
 **Government Type**: Confederation of monarch citystates
