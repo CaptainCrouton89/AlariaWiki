@@ -4,4 +4,4 @@ Blisteringly hot desert filled with the skeletons of the deceased. At night, the
 
 When the ghosts of Deadwalk possess your space, you burst into flame. The only protection is the river that passes through. The ghosts also can't travel quickly, so if you keep walking, you can stay ahead of them
 
-Dungeons beneath are prison for cyclops. He will craft for you if you free him.
+Dungeons beneath are prison for cyclops. He will craft for you if you free him. His soul is trapped outside his body, can be tortured to craft things for previous owner.
