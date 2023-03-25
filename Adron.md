@@ -29,7 +29,7 @@ Tags: [state](States)
 **Primary Imports**: animal products, luxury goods
 
 - The Adrak economy relies heavily on the Royal Adrak Bank, famous for funding both sides of foreign wars and coming out on top regardless of the victor.
-- A steady stream of [red gold](Red Gold) mined out of the Gozwin Mountains has provided insane wealth to the nobility of Adrak, and is the source of the famous Adrak jewelry.
+- A steady stream of [red gold](Red Gold) mined out of the Gozwin and Majesty Mountains has provided insane wealth to the nobility of Adrak, and is the source of the famous Adrak jewelry.
 
 
 ## Military
