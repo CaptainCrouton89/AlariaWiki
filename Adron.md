@@ -71,7 +71,7 @@ Tags: [state](States)
 
 ## Primary Conflicts
 
-- The [Dwarf](Dwarves) King continues to steal from travelers through the Majesty Mountains.
+- The [Dwarf](Dwarves) King continues to steal from travelers through the Majesty Mountains. He is descendant of the dwarves who used to live there, believes the resources of the mountains belong to him.
 - The Royal Adrak Bank is rumored to be funding all three sides of the War of Three Kingdoms.
 - A large influx of [Danaki](Danaki) refugees from the Danak-Atyeska war is angering citizens of the northern settlements.
 
