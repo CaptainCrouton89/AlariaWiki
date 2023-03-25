@@ -66,7 +66,7 @@
 - [Zaelian](Zaelian) (Icy, deoric, good moon-elves)
 - [Kryaaji](Kryaaji) (Aloof sun-elves)
 - [Cyclops](Cyclops) (Large mythically skilled smiths and enchanters)
-- [Tykreen](Tykreen) (Vulture guardians of undead giant)
+- [Tythvuln](Tythvuln) (Vulture guardians of undead giant)
 - [Bfaspeen](Bfaspeen) (Gross eel-tailed ship-sinkers)
 - [Aciabro](Aciabro) (Cyborg goblins)
 - [Cogheads](Cogheads) (Tinker goblins)
