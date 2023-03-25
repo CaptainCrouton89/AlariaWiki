@@ -1,0 +1,1 @@
+Massive fortress built for [Filgerran II](Filgerran II), king of the [Güli](Güli) giants. The fortress is only really big enough for him, and is magically enabled to provide for his needs. It is his throne from which he looks out upon his mountains. One day, he may decide to look to the West and take Camaran, though that day has not yet arrived.
