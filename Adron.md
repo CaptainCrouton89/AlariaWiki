@@ -76,7 +76,6 @@ Links: [States](States)
 
 ## Primary Conflicts
 
-- The Blades are being terrorized by an adult, green dragon. This dragon is known to snatch people off passing boats, forcing merchants to sail out of their way around the hunting range of the dragon.
 - The [Dwarf](Dwarves) King continues to steal from travelers through the Majesty Mountains.
 - The Royal Adrak Bank is rumored to be funding all three sides of the War of Three Kingdoms.
 - A large influx of [Danaki](Danaki) refugees from the Danak-Atyeska war is angering citizens of the northern settlements.
