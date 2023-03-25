@@ -8,7 +8,7 @@ Used to be close with [Argysis](Argysis). See [Sennos](Sennos).
 
 **Government Type**:
 
-**Primary Inhabitants**: dwarves
+**Primary Inhabitants**: dwarves, [kimril](kimril)
 
 **Population**: 
 
