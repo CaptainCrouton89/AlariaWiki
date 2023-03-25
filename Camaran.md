@@ -14,7 +14,8 @@ Tags: [state](States)
 
 - All varieties of [Deoric](Deoric) [magic](Magic) is banned in [Camaran](Camaran). It is seen as corrupting. If seen with hand [magic](Magic), your hand is cut off. Elemental [magic](Magic) is perimtted.
 - The High Camarik Council makes all laws and determines policy in [Camaran](Camaran)
-
+- If you wish to travel while with handmagic, you can write a formal letter to Rathscar (or if you arrive by ship, you can voluntarily quarantine until approved), requesting approval. You are registered and granted a license for your particular variety of magic.
+- Without a license, depending on the type of magic, you can be sentenced to quite enormous fines (or jail time, if you refuse).
 
 ## Economy
 
