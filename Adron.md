@@ -1,7 +1,5 @@
 Tags: [state](States)
 
-Links: [States](States)
-
 ## Government & Peoples
 
 **Government Type**: Monarchy
@@ -18,9 +16,6 @@ Links: [States](States)
 
 - Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
  is a famous saying among [Naga](Naga) elders. 
-
-- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
- is a famous saying among Naga elders. 
 
 
 ## Economy
