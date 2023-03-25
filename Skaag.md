@@ -2,6 +2,8 @@ Tags: [race](Races)
 
 # Overview
 
+Reside in the ruins beneath the western cities and towns of [Adron](Adron).
+
 Commonly referred to as “the rat people”, skaag are humanoids with the heads of rats. Largely viewed with disgust, they are believed to carry virulent diseases, feed on their own young, and spread corruption wherever they go.
 
 Despite all of the beliefs surrounding skaag, few live up to their despicable standards. Skaag generally live in large families, frequently isolated from the rest of society. Although the infamous Glathkus the Cruel (a.k.a. The Rat King) is believed to have eaten his own young (in order to gain the strength they had been granted by being dipped in the Nyxthos River), most skaag families are fairly “normal”, except for a perhaps more rowdy and fend-for-yourself upbringing. 
