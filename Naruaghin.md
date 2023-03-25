@@ -4,7 +4,7 @@ Tags: [monster](Monsters), [race](Races), [dwarf](Dwarves)
 
 Half-dwarf, half-Ix'Tyrann, these creatures are terrifying. Very strong, reptilian, live in the [jungle](Jungles) mountains. Scaley-skinned [dwarves](Dwarves), gray/green skin, brown/reddish hair, slit noses. Females are much more lizard like, and have no beards, and lizardy spines on head. 
 
-Live in 
+Live in hill caves and temples throughout the jungle. Frequently at war with each other. 
 
 Reside in [Ishnit Jungle](Ishnit Jungle)
 
