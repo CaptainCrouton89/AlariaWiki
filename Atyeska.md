@@ -27,6 +27,7 @@ Tags: [state](States)
 **Primary Imports**: Technology
 
 - The [Atyeska](Atyeska) economy is primarily centered around trade. Lianthan [Currency](Currency) is worth very little here.
+- Will leave on boats, sail for hundreds of miles, and perform massive raids on the neth who live even further north.
 
 
 ## Military
