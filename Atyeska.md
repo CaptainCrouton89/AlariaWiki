@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Sedentary tribes
 
-**Primary Inhabitants**: Enti
+**Primary Inhabitants**: [Enti](Enti)
 
 **Population**: 90,000
 
