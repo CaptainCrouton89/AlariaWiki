@@ -78,7 +78,7 @@
 - [Sarakiel](Sarakiel) (Evil angels of light)
 - [Drasnian](Drasnian) (Paranoid, distrusting dwarves)
 - [Valkyries](Valkyries) (Winged militants)
-- [Swuigrach](Swuigrach) (Shrewd pig-merchants)
+- [Swuigach](Swuigach) (Shrewd pig-merchants)
 - [Xi'ivrach](Xi'ivrach) (Religious orcs)
 - [Icehearts](Icehearts) (Nabuhe worshipping pixies)
 - [Wytrolape](Wytrolape) (Large, friendly yetis)
