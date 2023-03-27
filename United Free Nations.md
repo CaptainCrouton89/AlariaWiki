@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Confederate city [states](States)
 
-**Primary Inhabitants**: [Halfling](Halflings), [gnomes](Gnomes), [goblins](Goblins), [dwarves](Dwarves), [Swigach](Swigach)
+**Primary Inhabitants**: [Halfling](Halflings), [gnomes](Gnomes), [goblins](Goblins), [dwarves](Dwarves), [Swuigrach](Swuigrach)
 
 **Population**: 25,000
 
