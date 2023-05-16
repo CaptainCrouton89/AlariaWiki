@@ -18,7 +18,9 @@ All have metals implanted in skin. Usually in cheek bones, forehead, chin, ears,
 - [Nydor (Dwarves of the Black Sun)](Nydor)
 - [Velwey (Dream Dwarves)](Velwey)
 - [Einwissel (Celestial Draugr)](Einwissel)
-- [Surry (White Dwarves](Surry)
+- [Surry (White Dwarves)](Surry)
+- [Gruynmar (Sea Dwarves)](Gruynmar)
+
 
 # Heart Rush
 
