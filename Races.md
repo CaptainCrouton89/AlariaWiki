@@ -178,3 +178,4 @@
 - [Tuktuk](Tuktuk) (Rugged, disciplined and war-happy turtle-people)
 - [Mudzwiti](Mudzwiti) (Dinosaur riding goblins of the jungle)
 - [Nuun](Nuun) (Dark-skinned, fire or water attuned [desert](Deserts) traders)
+- [Gruynmar](Gruynmar) (Fair skinned sea dwarves in giant iron juggernaut ships)
