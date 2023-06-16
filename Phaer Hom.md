@@ -1,1 +1,1 @@
-Home to [Dead Claws](Dead Claws).
+Home to [Dead Claws](Dead Claw).
