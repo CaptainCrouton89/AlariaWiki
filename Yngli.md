@@ -4,7 +4,7 @@ Tags: [race](Races)
 
 Squat, single eyed creatures, a bit shorter than [humans](Humans). Single, very large eye on heads, bulges slightly from head. Force attuned, born from plane of force and ezz. Have spindly arms, and slightly pot bellied. Not creepy levels, but definitely weird. Incapable of speaking, which has led them to become a second-class [race](Races) nearly everywhere. Can't negotiate, totally screwed. Will union under one Yngi which has picked up some telepathic abilities. However, still easy to exploit by isolating them.
 
-Live in the [Western Isles](Western Isles) and [Kurayt](Kurayt).
+Live in the [Western Isles](Western Isles) and [Kura](Kura).
 
 # History
 
