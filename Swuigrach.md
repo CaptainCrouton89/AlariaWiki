@@ -4,7 +4,7 @@ Tags: [race](Races)
 
 pronounced "SWEE-grok"
 
-Live in united free nations as force of conflcit
+Live in united free nations as force of conflcit and free isles
 
 Large, heavy humanoids with heads of pink, gray, or black pigs. Incredibly greedy and cunning. Many become merchants, slavers, and aristocrats. They're generally up to no good, especially if they have a lot of money.
 
