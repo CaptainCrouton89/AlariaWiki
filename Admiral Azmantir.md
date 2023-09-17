@@ -1,0 +1,1 @@
+Killed by [Gyash](Gyash). Led armada to their death in nasty fight. Fought for [Iqes](Iqes)
