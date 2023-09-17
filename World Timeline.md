@@ -213,7 +213,7 @@ World burns down
 
 #### 16th Century
 
-- Tiira ascends to godhood
+- [Tiira](Tiira) ascends to godhood
 
 #### 17th Century
 
