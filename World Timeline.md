@@ -209,7 +209,11 @@ World burns down
 
 #### 15th Century
 
+- The [Sivakr](Sivakr) are driven underground.
+
 #### 16th Century
+
+- Tiira ascends to godhood
 
 #### 17th Century
 
@@ -237,7 +241,7 @@ World burns down
 
 #### 29th Century
 
-[Chimea](Chimea) crosses the Pelakan Sea, invading Gyendoveir and Yystrilik. A bloody war continues to this day.
+- [Chimea](Chimea) crosses the Pelakan Sea, invading Gyendoveir and Yystrilik. A bloody war continues to this day.
 
 #### 30th Century
 
