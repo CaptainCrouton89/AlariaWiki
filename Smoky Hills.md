@@ -2,7 +2,7 @@ Tags: hills
 
 A range of hills that have ceaselessly billowed smoke and ash for decades. 
 
-Inhabited by the Firesworn
+Inhabited by the [Firesworn](Firesworn).
 
 Explained by...
 
