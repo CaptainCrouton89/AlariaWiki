@@ -1,3 +1,3 @@
 Tags: hills
 
-Home to the [Thrygu](Thrygu) orcs.
+Home to the [Thrygun](Thrygun) orcs.
