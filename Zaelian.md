@@ -2,6 +2,8 @@ Tags: [race](Races), [elf](Elves)
 
 ## Overview
 
+Reside among the [Nirvanis Mountains](Nirvanis Mountains)
+
 Even among the already graceful [elves](Elves), the Zaelian stand out. Slender, tall, and starkly beautiful, the Zaelian are renown for their enchanting appearance, and disarming character. 
 
 Through powerful magic performed eons ago, the Zaelian found a way to channel the light from the moon into their bodies, allowing them to perform some Deoric magic without the cost of their own life. Although their capacity is limited, it allows them to perform even more magic. 
