@@ -51,7 +51,7 @@
 
 # All [Races](Races)
 - [Skree](Skree) (Dumb but vicious hyena people)
-- [Scale Riders](Scale Riders) (Lizard-riding naga conquerers)
+- [Lyndwyrmspren](Lyndwyrmspren) (Lizard-riding naga conquerers)
 - [Aureum](Aureum) (Sun dwarves)
 - [Blaize](Blaize) (Flicker skinned, too fast, emotion-feeding suggestible humanoids)
 - [Murazi](Murazi) (Underground [desert](Deserts) stream dwelling merfolk)
