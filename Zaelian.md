@@ -2,7 +2,7 @@ Tags: [race](Races), [elf](Elves)
 
 ## Overview
 
-Reside among the [Nirvanis Mountains](Nirvanis Mountains)
+Reside in [Sweivyon](Sweivyon) within the [Silver Slopes](Silver Slopes). Lots of astral activity nearby.
 
 Even among the already graceful [elves](Elves), the Zaelian stand out. Slender, tall, and starkly beautiful, the Zaelian are renown for their enchanting appearance, and disarming character. 
 
