@@ -4,7 +4,7 @@ The eastern-most continent of [Alaria](Alaria).
 
 [Ve](Ve) contains the following states:
 
-- Edari
+- [Edari](Edari)
 - [Shyona](Shyona)
 - [Sestros](Sestros)
 - [Thorum](Thorum)
