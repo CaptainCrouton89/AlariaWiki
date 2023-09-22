@@ -6,7 +6,7 @@ pronounced "at-try(spanish "r")-**ike**"
 
 **Government Type**: Confederation of monarch citystates
 
-**Primary Inhabitants**: [Kor](Kor), Sharbha
+**Primary Inhabitants**: [Kor](Kor), Sharabha
 
 **Population**: 70,000
 
