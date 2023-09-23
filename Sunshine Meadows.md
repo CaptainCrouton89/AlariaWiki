@@ -1,3 +1,3 @@
 Tags: hills, meadows
 
-Filled with monsters of sunlight. Blind you, burn your eyes out. Insanely nasty.
+Filled with monsters of time. Fuck with your idea of when stuff happens. Dungeons galore.
