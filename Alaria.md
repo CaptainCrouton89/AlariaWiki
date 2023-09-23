@@ -2,7 +2,7 @@
 
 - Surround a word in brackets to turn it into a link, like this: \[wiki page\]. It will automatically turn the text into a link when you save, and the link will be capitilized correctly.
 - Command/Control + E to edit a page, Command/Control + S to save a page
-- Uses markdown format
+- Use markdown format to format text in the editor.
 
 
 # Alaria
