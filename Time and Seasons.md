@@ -10,7 +10,7 @@ Stars are viewports for the gods. They can look down upon their subjects. Usuall
 
 Moon cycles: Two main moons, one has 11 day cycles, is used to tell what day of the week it is. Full moon once a week, on the start of the week. The other goes through a 23 day cycle, meaning about once every year there is one double full moon, and one moonless night, each important holidays. The year is 200 days long, split into eight, 25 day quarters, beginning on the northern summer solstice (no summer v winter with two hemispheres). 2 quarters spring, 2 quarters summer, 2 quarters fall, 2 quarters winter. When solstice (new year) coincides with a double full moon, or a double empty, it signals the beginning of a new age, occurring once every 25,300 years (~18,000 Earth Years). Smaller ages occur every 11, 23, and 253 years. 
 
-Moon phase is determined by location of Aurus and Nydus, the light and dark suns respectively. Moons tied to magic of Malstaric and Astral planes.  
+Moon phase is determined by location of [Aurus](Aurus, the White Sun) and [Nydus](Nydus, the Black Sun), the light and dark suns respectively. Moons tied to magic of Malstaric and Astral planes.  
 
 Third, rogue moon, known as the Killing Moon. Looking upon it kills you. Comes up once every 8,000 years or so, but isn't consistent. Remains up for same duration, so can mean ~8,000 years of death. 
 
