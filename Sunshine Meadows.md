@@ -1,3 +1,3 @@
 Tags: hills, meadows
 
-Filled with monsters of time. Fuck with your idea of when stuff happens. Dungeons galore.
+Cursed meadowy hills. Filled with animals that can blind and burn your eyes. 
