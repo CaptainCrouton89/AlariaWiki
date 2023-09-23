@@ -3,6 +3,7 @@ Tags: sun, moon, stars
 Sun passes around center strip every day, all year. No Tilt. 
 
 Three moons pass over at various times throughout month.
+
 Seasons come and go when followers convince [Bryn](Bryn) to traverse a different trail across Alaria.
 
 Stars are viewports for the gods. They can look down upon their subjects. Usually located above some place of importance to them.
