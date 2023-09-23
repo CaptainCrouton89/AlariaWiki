@@ -1,3 +1,10 @@
+# Note on Using the Wiki
+
+- Surround a word in brackets to turn it into a link: `[link](link)`. It will automatically make the linked site title-case
+- Command/Control + E to edit a page, Command/Control + S to save a page
+- Uses markdown format
+
+
 # Alaria
 
 Tags: [planes](Planes), [planar stack](Planar Stack)
