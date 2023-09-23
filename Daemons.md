@@ -13,3 +13,7 @@
 | [Daemon](Daemons)    | Worshippers          | 
 |----------------------|----------------------|
 | [Talresses](Talresses) | [Shailin](Shailin) |
+| [Loyera](Loyera) | [Qindu](Qindu) |
+| [Rodton](Rodton) | [Qindu](Qindu) |
+| [Thaes](Thaes) | [Qindu](Qindu) |
+| [Tuskeselom](Tuskeselom) | Mjika Natives |
