@@ -1,6 +1,6 @@
 # Humanoids
 
-[hum](hum)
+[hum](Hum)
 
 - [Humans](Humans): Versatile in all regards
 - [Elves](Elves): Tend to be proud
