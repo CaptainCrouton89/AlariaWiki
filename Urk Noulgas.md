@@ -1,0 +1,2 @@
+Tags: poi, fortress, ruin
+
