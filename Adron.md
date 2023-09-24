@@ -80,6 +80,4 @@ Tags: [state](States)
 
 [Adron](Adron) used to raise [dragons](Dragons), and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.
 
-![Adronic countryside](/img/Adron.jpg)
-
 [Adron](Adron) used to raise [dragons](Dragons), and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.
