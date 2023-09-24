@@ -2,6 +2,7 @@
 
 - Surround a word in brackets to turn it into a link, like this: \[wiki page\]. It will automatically turn the text into a link when you save, and the link will be capitilized correctly.
 - Command/Control + E to edit a page, Command/Control + S to save a page
+- The first line of every document should be `Tags: <tags>, <tags>, etc` which will allow tagging software to work. Tags can be searched in the searchbar by searching for `tag: <search terms>`
 - Use markdown format to format text in the editor.
 
 
