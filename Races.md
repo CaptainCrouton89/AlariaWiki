@@ -1,6 +1,6 @@
 # Humanoids
 
-<p class="fizz">testing<p/>
+[hum](hum)
 
 - [Humans](Humans): Versatile in all regards
 - [Elves](Elves): Tend to be proud
