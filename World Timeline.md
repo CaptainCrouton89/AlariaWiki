@@ -121,6 +121,8 @@ The disease ran its course, and left the civilizations of [Alaria](Alaria) in sh
 
 It is rumored that the laughing plague still circulates deep within the ground of [Alaria](Alaria), and harbored among the Odera, who frequently live isolated lives, and seem immune to its psychic effects. 
 
+Ends with the [Killing Moon](Killing Moon).
+
 #### Rise of the False God: 28,700–28,000 years ago
 
 #### Blight of Arcanus: 10,000 years ago
@@ -131,13 +133,15 @@ It is rumored that the laughing plague still circulates deep within the ground o
 
 A 500 year long night
 
-#### The Oblivion Years: 9,500–8,400 million years ago
+#### The Oblivion Years: 9,500–8,400 years ago
 
 Lost all information. Starting over.
 
 #### The Hel Dynasties: 8,400–7,900 years ago
 
 Series of tryannical dynasties, complete overlords over world
+
+Ends with the [Killing Moon](Killing Moon).
 
 #### The Blood War: 7,900 years ago
 
