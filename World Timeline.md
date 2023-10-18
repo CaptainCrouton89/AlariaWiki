@@ -175,6 +175,7 @@ Lots of other [races](Races) arrive?
 ## The Seventh Dawn: 3,277 years ago–Now
 
 ### The Dark Ages: 0–231 SD
+- Ends with war with the [titansworn](Titansworn). [Athatgarun](Athatgarun) and [Raiyurna](Raiyurna) involved.
 
 #### 300 SD
 **312 SD: The Time Puzzle** - 
