@@ -175,7 +175,8 @@ Lots of other [races](Races) arrive?
 ## The Seventh Dawn: 3,277 years ago–Now
 
 ### The Dark Ages: 0–231 SD
-- Ends with war with the [titansworn](Titansworn). [Athatgarun](Athatgarun) and [Raiyurna](Raiyurna) involved.
+- Titansworn are deoric cultists (believed to be related to [Vyanoweir](Vyanoweir)), who sought to reawaken the titan [Hykravones](Hykravones). Formed temples and research studies in the ruins of the titans. They were everywhere. Believed the titans could save the world after it burned. 
+- Ends with war with the [titansworn](Titansworn). [Athatgarun](Athatgarun) and [Raiyurna](Raiyurna) involved. 
 
 #### 300 SD
 **312 SD: The Time Puzzle** - 
