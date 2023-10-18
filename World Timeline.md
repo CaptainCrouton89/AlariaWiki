@@ -165,88 +165,27 @@ Lots of other [races](Races) arrive?
 
 #### The Binding of Ghet: 5,023 years ago
 
-#### The World Fire: 5,010 years ago
-
-World burns down
+#### The World Fire: 10 BSD
+- Marked as zero on many calendars
 
 ## The Seventh Dawn: 3,277 years ago–Now
 
-### The Dark Ages: 3,277–1,890 years ago
+### The Dark Ages: 0–231 SD
 
-#### The Time Puzzle: 3,277 years ago
+#### 300 SD
+**312 SD: The Time Puzzle** - 
 
-#### The Swarm (hive elves)
+#### 400 SD
+- Hive elves at their peak power
 
-### The Age of New Law: 1,890 years ago–Now
-
-#### 1st Century
-
-#### 2nd Century
-
-#### 3rd Century
-
-#### 4th Century
-
-#### 5th Century
-
-#### 6th Century
-
-#### 7th Century
-
-#### 8th Century
-
-#### 9th Century
-
-#### 10th Century
-
-#### 11th Century
-
-#### 12th Century
-
-#### 13th Century
-
-#### 14th Century
-
-#### 15th Century
-
+#### 1700 SD
 - The [Sivakr](Sivakr) are driven underground.
 
-#### 16th Century
-
+#### 1800 SD
 - [Tiira](Tiira) ascends to godhood
 
-#### 17th Century
 
-#### 18th Century
-
-#### 19th Century
-
-#### 20th Century
-
-#### 21st Century
-
-#### 22nd Century
-
-#### 23rd Century
-
-#### 24th Century
-
-#### 25th Century
-
-#### 26th Century
-
-#### 27th Century
-
-#### 28th Century
-
-#### 29th Century
+#### 2900 SD
 
 - [Chimea](Chimea) crosses the Pelakan Sea, invading Gyendoveir and Yystrilik. A bloody war continues to this day.
 
-#### 30th Century
-
-#### 31st Century
-
-#### 32nd Century
-
-#### 33rd Century
