@@ -107,7 +107,7 @@ Over the next thousand years, Craggus’ name became more and more known, and wi
 
 #### Craggus’ Reign: 45,000–30,000 years ago
 
-The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in [Celesté](Celesté), Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. 
+The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in [Celesté](Celesté), Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. Fortunate period during which the killing moon remained dormant for the duration.
 
 ### The Lost Ages: 30,000–7,210 years ago
 
@@ -193,3 +193,5 @@ Lots of other [races](Races) arrive?
 
 - [Chimea](Chimea) crosses the Pelakan Sea, invading Gyendoveir and Yystrilik. A bloody war continues to this day.
 
+#### 3376 SD
+- Now
