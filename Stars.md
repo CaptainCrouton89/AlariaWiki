@@ -4,4 +4,4 @@ Built by the titans to illuminate the darkness of the world. The sun did not exi
 
 Most famous among the [Starborn](Starborn) is [Koras](Koras), tender of the sun. Lives and maintains the star that is the sun, propelled by [Bryn](Bryn) across the sky each day. Immune to the extreme heat from the sun. 
 
-Above the star live [Sarakiel](Sarakiel) civilizations—huge towers, usually not more than one per star, filled with Sarakiel. Some stars have gone out due to Xaphriel smashing their cores, and taking them over. Also, among the stars lie super-high density sky-stones, which float incredibly high up.
+Above the star live [Sarakiel](Sarakiel) civilizations—huge towers, usually not more than one per star, filled with Sarakiel. Some stars have gone out due to [Xaphkiel](Xaphkiel) smashing their cores, and taking them over. Also, among the stars lie super-high density sky-stones, which float incredibly high up.
