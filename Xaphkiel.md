@@ -2,7 +2,7 @@ Tags: [race](Races), [monster](Monsters)
 
 # Overview
 
-Beautiful, angelic creatures from the plane of darkness. Midnight dark wings, pure black eyes, dark-gray skin, very symmetrical faces. Like dark angels. Absolutely hate the [Sarakiel](Sarakiel), however, and will stop at nothing to destroy them, regardless of who else gets hurt along the way. Single minded determination, absolute certainty that they are the superior [race](Races) of the entire world. 
+Beautiful, angelic creatures from the plane of darkness. Midnight dark wings, pure black eyes, dark-gray skin, very symmetrical faces. Like dark angels. Absolutely hate the [Sarakiel](Sarakiel), however, and will stop at nothing to destroy them, regardless of who else gets hurt along the way. Single minded determination. Believe strongly in suffering building character (lots of masochistic beliefs). Hate the Sarakiel for forcing the Xaphkiel from the stars and to the [mosodori](Mosodori).
 
 They don't interact much with the rest of the world, because they spend most of their time fighting the Xaphkiel among the [stars](Stars). They generally reside on high-density sky-stones known as [mosodori](Mosodori) high in the sky.
 
