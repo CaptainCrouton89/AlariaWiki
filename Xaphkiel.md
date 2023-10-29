@@ -6,6 +6,8 @@ Beautiful, angelic creatures from the plane of darkness. Midnight dark wings, pu
 
 They don't interact much with the rest of the world, because they spend most of their time fighting the Xaphkiel among the [stars](Stars). They generally reside on high-density sky-stones known as [mosodori](Mosodori) high in the sky.
 
+"you guys were making these super pure, beautiful stars less pure and beautiful, gtfo". Since they couldn't have the stars, they smashed them.
+
 # Heart Rush
 
 ### Vitals
