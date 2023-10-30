@@ -30,3 +30,8 @@ You have brilliant white wings, glowing with light. They emit bright light in a 
 *Passive ability*
 
 You are naturally incredibly beautiful. People who are not hostile to you will do minor favors for you whenever you ask. 
+
+#### Light Attuned
+*Passive ability*
+
+You have light attunement.
