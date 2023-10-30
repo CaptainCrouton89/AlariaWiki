@@ -26,11 +26,6 @@ Max Age: 120
 
 You have brilliant white wings, glowing with light. They emit bright light in a 30 foot radius, and dim light 30 feet beyond that. Your wings are clipped, so you cannot fly, but with some struggle, you can move 10 feet horizontally for every 10 feet you fall. You fall at half speed.
 
-#### Beautiful
-*Passive ability*
-
-You are naturally incredibly beautiful
-
 #### Light Attuned
 *Passive ability*
 
