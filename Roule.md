@@ -2,6 +2,10 @@ Tags: [state](States)
 
 Home to colonizing [halflings](Halflings). E.g. the british
 
+Halflings came to island, disease killed off previous inhabitants. Honey trade is big. Taberthine (+1 cunning) and Zindwatt (euphoria) flowers for honey. Mild slave trade for the rich (small pension). 
+
+Issues colonizing in the west.
+
 ## Government & Peoples
 
 **Government Type**:
