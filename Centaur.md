@@ -2,4 +2,4 @@ Tags: race
 
 Quick to anger, violent. 
 
-Most live in [Siqustrya](Siqustrya).
+Most live in [Siquestrya](Siquestrya)
