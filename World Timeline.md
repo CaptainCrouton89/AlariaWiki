@@ -99,7 +99,7 @@ As everything died, and ice age set in, the small pockets of surviving civilizat
 
 ### The Age of Craggus: 45,000–30,000 years ago
 
-The Age of Craggus began when Craggus, a young man, survived a journey to [Celesté](Celesté) with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair.
+The Age of Craggus began when Craggus, a young man, survived a journey to [Celesté](Celesté) with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair. He was the first Daemon, god of all men.
 
 #### The Rise of the King: 45,000 years ago
 
@@ -109,13 +109,13 @@ Over the next thousand years, Craggus’ name became more and more known, and wi
 
 The next fifteen thousand years were marked by Craggus’ kingship among the [daemons](Daemons) of [Celesté](Celesté). Although society returned to its [state](States) of frequent war and conflict, and others joined Craggus in [Celesté](Celesté), Craggus remained king of all, and Alaria remained relatively stable. Technology climbed back to an industrial level, as people relearned how to harness the power of aetherium. Fortunate period during which the killing moon remained dormant for the duration.
 
-### The Lost Ages: 30,000–7,210 years ago
+### The Lost Ages: 30,000–10,209 years ago
 
-The lost ages was a period of time marked by hardship and despair, beginning with the laughing plague, and continuing until only around 7,000 years ago.
+Less is known about the Lost Ages, as the time was marked by years of hardship and despair. Craggus' reign came to an end with the start of the laughing plague, which destroyed much of the progress made up to this point. 
 
-#### The Laughing Plague: 30,000–28,800 years ago
+#### The Laughing Plague: 30,000–28,800 BSD
 
-Craggus’ reign was brought to an end with the arrival of the laughing plague. The laughing plague was a brutal disease from the plane of Glyssen. How it got to [Alaria](Alaria) remains unknown, but it slowly drove all those exposed to it into a fevering, maniacal madness that incited them to horrible acts of violence, all in a [state](States) of continual laughter. It spread through prolonged exposure to the sound of the laughter, and brought nearly all of [Alaria](Alaria) to a [state](States) of bloodthirsty insanity. A fight for the survival of life on [Alaria](Alaria) began, with creatures forced to turn on their own kin who had been infected. For 1,200 years, the Alarian population dwindled as people went into isolation and trade and progress stopped.
+Craggus’ reign was brought to an end with the arrival of the laughing plague. The laughing plague was a brutal disease from the plane of Glyssen. How it got to [Alaria](Alaria) remains unknown, but it slowly drove all those exposed to it into a fevering, maniacal madness that incited them to horrible acts of violence, all while unconrollably laughing. It spread through prolonged exposure to the sound of the laughter, and brought nearly all of [Alaria](Alaria) to bloodthirsty insanity. A fight for the survival of life on [Alaria](Alaria) began, with creatures forced to turn on their own kin who had been infected. For 1,200 years, the Alarian population dwindled as people went into isolation and trade and progress stopped.
 
 The disease ran its course, and left the civilizations of [Alaria](Alaria) in shambles. Entire cities lay barren—their citizens all dead, at each others’ hands. Only those deep underground or completely isolated survived unaffected. Most written history was lost at this time, and technology once again regressed to a primitive [state](States). 
 
@@ -123,51 +123,59 @@ It is rumored that the laughing plague still circulates deep within the ground o
 
 Ends with the [Killing Moon](Killing Moon).
 
-#### Rise of the False God: 28,700–28,000 years ago
+#### Rise of the False God: 28,700–28,000 BSD
 
-#### Blight of Arcanus: 10,000 years ago
+#### Blight of Arcanus: 12,000 BSD
 
 [Magic](Magic) was cursed, using it killed you. Brought down the entire empire.
 
-#### The Dark Night: 10,000–9,500 years ago
+#### The Dark Night: 12,000–11,500 BSD
 
 A 500 year long night
 
-#### The Oblivion Years: 9,500–8,400 years ago
+#### The Oblivion Years: 11,500–10,400 BSD
 
 Lost all information. Starting over.
 
-#### The Hel Dynasties: 8,400–7,900 years ago
+#### The Hel Dynasties: 11,400–10,900 BSD
 
 Series of tryannical dynasties, complete overlords over world
 
 Ends with the [Killing Moon](Killing Moon).
 
-#### The Blood War: 7,900 years ago
+#### The Blood War: 10,900 BSD
 
 Battle between dynasties, no winners
 
-### Hykravones: 7,210 years ago
+### Hykravones: 10,210–10,209 BSD
 
 Before the titans fled and died, Hykravones, the Gray Prince went into inter dimensional space, only returning millions of years later. The world as he knew it had been destroyed, and he flew into a rage, and began dismantling [Alaria](Alaria).
 
-Gaea’s children, with the help of several other peoples including the [Vystrilik](Vystrilik) fought and lost to the Gray Prince who ultimately destroyed nearly all civilization, setting the world back thousands of years technologically. After ravaging the world, the Gray Prince went dormant, never to be seen again. Legend [states](States) he still lives on Alaria, asleep deep within the ground, one day to reawaken and finish his work.
+Gaea’s children, with the help of several other peoples including the [Vystrilik](Vystrilik) fought the Gray Prince. The daemons across Celesté helped where they could, though efforts were disjointed. Daemons did not want to give up everything they had, at risk of losing followers and influence. By the time they realized they had to, it was too late.
 
-## The Modern Era: 7,200 years ago–Now
+The Gray Prince ultimately destroyed nearly all civilization. Nearly ever daemon died as their base of followers was wiped out. The World was set back thousands of years technologically. After ravaging the world, the Gray Prince went dormant, never to be seen again. Legend is that he still lives on Alaria, asleep deep within the ground, one day to reawaken and finish his work.
+
+#### Rebirth of Gaea's Children
+
+From the blood and soil of gaea's fallen children rose the Sharabha, Ulvsjael, and Naga. 
+
+#### The Greatest Sacrifice
+
+In the final months of Hykavones' destruction, nearly every daemon across Celesté saw that they were about to get completely wiped out. While some faught, others snuck back to the material plane—taking on new forms and going into hiding. These daemons would ultimately go on to found new races—descending from themselves. 
+
+## The Modern Era: 10,209 BSD–Now
 
 The Modern Era makes up the third and current eon.
 
-### The Great Expansion: 7,200–5,104 years ago
+### The Great Expansion: 9,950–0 BSD
 
-#### The Second Arrival: 7,000 years ago
+Not everyone perished, and those who survived began the work of rebuilding. 
 
-Lots of other [races](Races) arrive?
+#### Frost Fall: 8,840–8,695 BSD
 
-#### Frost Fall: 5,840–5,695 years ago
+#### The Return of Dragons: 8,104 BSD
 
-#### The Return of Dragons: 5,104 years ago
-
-#### The Binding of Ghet: 5,023 years ago
+#### The Binding of Ghet: 3,023 BSD
 
 #### The World Fire: 10 BSD
 - Marked as zero on many calendars
