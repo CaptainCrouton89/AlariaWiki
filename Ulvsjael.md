@@ -6,6 +6,8 @@ The ulvsjael are [human](Humans) descendants of Ulvma, the wolf mother and the s
 The Ulvsjael are a pragmatic and fiercely loyal [race](Races) who believe in the natural order of life. Much of life revolves around small, nomadic units which travel as a pack. They will protect their comrades with their own lives, but they also feel no qualms about keeping those who cannot defend themselves alive. If you cannot contribute, you are culled. This harsh outlook is even more brutal towards outsiders, who are usually seen as dead weight until they have proven their worthiness to their pack. However, when the Ulvsjael themselves is the outsider—a rare appearance, due to their tendency to stick with their kind—they are frequently the hardest working, such is their desire to prove their usefulness to a new community.
 Ulvsjael can be found across Alaria, and are known for their formidable mercenary groups, trackers, and explorers. 
 
+Feel an innate aversion to killing Dragons, Naga, Lions, and Sharabha.
+
 # History
 
 # Heart Rush
