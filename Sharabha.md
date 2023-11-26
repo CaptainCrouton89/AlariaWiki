@@ -8,6 +8,8 @@ Sharabha are known for their warmth, compassion, and incredible honor. In Sharab
 
 Outside these communities, Sharabha who have willingly left do not practice many of their more traditional rituals, but maintain their fierce sense of principles and morality.
 
+Feel an innate aversion to killing Wolves, Ulvsjael, Lions, and Sharabha.
+
 ## History
 
 # Heart Rush
