@@ -3,7 +3,10 @@ Tags: [race](Races)
 # Overview
 
 Naga make up a long line of [humans](Humans) with dragon blood running in their veins. Every Naga is a distant descendent of Nagatayora, the almighty dragon-father and first son of Gaia. When Shara Bolasi died to Hykravones, Nagatayora flew into a rage and threw himself at the powerful titan. Such was his ferocity and intensity, Hykravones was nearly defeated. But slowly at first, and then methodically, Hykravones beat Nagatayora back, until finally grabbing ahold of each end of the colossal dragon and tearing him in two. As the fiery blood fell, and heated the lands beneath it, the people below transformed and became the Naga that still exist today.
+
 Naga are passionate and determined in all that they set their minds to, and have an incredibly rich culture of art, religious tradition, and philosophy. They also have a profound sense of pride, both for themselves, their culture, and the things they care about. If they feel that any of those things have been wronged, then they will not back down until amends have been made. Their fury is a terrible force to behold. 
+
+Feel an innate aversion to killing wolves, Ulvesjael, lions, and Sharabha.
 
 # History
 
