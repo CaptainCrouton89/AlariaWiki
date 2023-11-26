@@ -177,7 +177,7 @@ Not everyone perished, and those who survived began the work of rebuilding.
 
 #### The Return of Dragons: 8,104 BSD
 
-#### The Binding of Ghet: 3,023 BSD
+Most sentient creatures did not get along with dragons, who were quickly taking over. This led to a lot of fiery and bloody conflict. 
 
 #### The World Fire: 10 BSD
 - Marked as zero on many calendars
