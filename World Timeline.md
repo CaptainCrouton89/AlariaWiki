@@ -69,7 +69,7 @@ The [druids](Druids) build small villages wherever there was life on [Alaria](Al
 
 Of her three children, [Nagatayora](Nagatayora) was the eldest and proudest, and the species he spawned would prove to become the most powerful creatures since the Age of Titans. During this time, [dragons](Dragons) covered all six [planes](Planes) of [Alaria](Alaria), securely at the top of the social and natural food chain.
 
-[Ulvma](Ulvma) and Shara also became the first of their species, and populated the [forests](Forests) and [plains](Plains) of [Alaria](Alaria).
+[Ulvma](Ulvma) and Shara also became the first of their species, and populated the [forests](Forests) and [plains](Plains) of [Alaria](Alaria). As sibling species, the three groups would never prey on each eachother—something that remains true, even among the Naga, Sharabha, and Ulvsjael today.
 
 #### The Walk of Elves: 10 million years ago
 
@@ -103,7 +103,7 @@ The Age of Craggus began when Craggus, a young man, survived a journey to [Celes
 
 #### The Rise of the King: 45,000 years ago
 
-Over the next thousand years, Craggus’ name became more and more known, and with magnificent effort, he pushed back the ice age, ending millions of years of desolation. He was seen as [hero](Heroes), and became the sole god of the material realm. 
+Over the next thousand years, Craggus’ name became more and more known, and with magnificent effort, he pushed back the ice age, ending millions of years of desolation. He was seen as a [hero](Heroes), and became the sole god of the material realm. 
 
 #### Craggus’ Reign: 45,000–30,000 years ago
 
@@ -119,9 +119,11 @@ Craggus’ reign was brought to an end with the arrival of the laughing plague. 
 
 The disease ran its course, and left the civilizations of [Alaria](Alaria) in shambles. Entire cities lay barren—their citizens all dead, at each others’ hands. Only those deep underground or completely isolated survived unaffected. Most written history was lost at this time, and technology once again regressed to a primitive [state](States). 
 
-It is rumored that the laughing plague still circulates deep within the ground of [Alaria](Alaria), and harbored among the Odera, who frequently live isolated lives, and seem immune to its psychic effects. 
+##### Dwarves
 
-Ends with the [Killing Moon](Killing Moon).
+A few among the population held a natural resistance to this corrupting plague. Although they were immune to it's violence inciting effects, the disease stunted growth and fundamentally and permanently changed those who survived it. These men were known as dwarves. Entire communities of those immune formed—many of which were underground.
+
+It is rumored that the laughing plague still circulates deep underground [Alaria](Alaria), among the [Kackles](Kackles)—held at bay by the Uline dwarves.
 
 #### Rise of the False God: 28,700–28,000 BSD
 
