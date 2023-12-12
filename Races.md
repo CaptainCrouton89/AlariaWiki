@@ -68,6 +68,7 @@
 - [Bfaspeen](Bfaspeen) (Gross eel-tailed ship-sinkers)
 - [Aciabro](Aciabro) (Cyborg goblins)
 - [Cogheads](Cogheads) (Tinker goblins)
+- [Spine Goblins](Spine Goblins)
 - [Sharabha](Sharabha) (Courageous lion-people)
 - [Grayls](Grayls) (Gray skinned, sad, exhausted of people, tree creatures)
 - [Craven](Craven) (Crows that must obey but seek to overthrow)
