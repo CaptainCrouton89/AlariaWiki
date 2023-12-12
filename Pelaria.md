@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 Inhabited by [Kendrel](Kendrel). A member of the [Kendrel Kingdoms](Kendrel Kingdoms).
 

@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 Quick to anger, violent. 
 

@@ -21,6 +21,7 @@ Most [goblins](Goblins) live in communities around a single [goblin](Goblins) li
 - [Red Devils](Red Devils)
 - [Blitzling](Blitzling)
 - [Mudzwiti](Mudzwiti)
+- [Spine Goblins](Spine Goblins)
 
 # Heart Rush
 

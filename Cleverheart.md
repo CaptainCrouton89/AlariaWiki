@@ -98,7 +98,7 @@ As a free action, you may enter or exit the Heart of Stone [state](States). Whil
 - When you make an [attack roll](Attack and Defense Rolls), you may choose to cause a 10-foot tall spire of stone to rise in an unoccupied space within 10 feet of you. The spire has 10 hp and 10 defense and counts as impassable terrain.
 
 ##### Water: Tempest
-As a free action, you may enter or exit the Tempest state. While in this state, you embody the [soul](Life and Death) of a storm and gain the following abilities.
+As a free action, you may enter or exit the Tempest [state](States). While in this state, you embody the [soul](Life and Death) of a storm and gain the following abilities.
 
 - You leave puddles of water in your footsteps.
 - You are immune to the off-balanced or prone condition.

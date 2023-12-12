@@ -1,3 +1,3 @@
-Tags: state
+Tags: [state](States)
 
-Ogre confederacy of city-states.
+[Ogre](Ogres) confederacy of city-states.

@@ -1,6 +1,6 @@
 Tags: goddess
 
-God of the silver elves. 
+God of the silver [elves](Elves). 
 
 Was forced to become goddess of the elves since she was smartest. Tutored from young age by government and professors. Had her memories wiped (she was bullied and mistreated by silver elves). Knew a lot, was somewhat disliked, but the "chosen one". 
 

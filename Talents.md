@@ -186,7 +186,7 @@ Whenever your melee attack causes a creature’s heart die to fall, you may make
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Whenever you reduce a creature to 0 hitpoints, your next attack roll deals an additional 1d10 damage.
+Whenever you reduce a creature to 0 hitpoints, your next [attack roll](Attack and Defense Rolls) deals an additional 1d10 damage.
 
 <br>
 <hr>
@@ -446,7 +446,7 @@ When you use this ability, you may increase the bonus and penalty to A4 and D4 r
 #### Gambit
 *Passive ability. Martial talent.*
 
-You may declare a non-defensive stance before everyone reveals (allowing other people to change theirs in response). Anyone who attacks you has D2 on their defense rolls during this engagement. You have advantage on your [attack roll](Attack and Defense Rolls). 
+You may declare a non-defensive stance before everyone reveals (allowing other people to change theirs in response). Anyone who attacks you has D2 on their defense rolls during this engagement. You have [advantage](Advantage and Disadvantage) on your [attack roll](Attack and Defense Rolls). 
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -760,7 +760,7 @@ You have developed the weapon technique to deliver poison more efficiently. When
 #### Push Off
 *Passive ability. Martial talent.*
 
-Whenever you start your turn adjacent to a wall or other piece of impassable terrain you can immediately take the dash action for free. Whenever you use this ability, you get advantage on your next A/D roll made in the same round.
+Whenever you start your turn adjacent to a wall or other piece of impassable terrain you can immediately take the dash action for free. Whenever you use this ability, you get [advantage](Advantage and Disadvantage) on your next A/D roll made in the same round.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -860,7 +860,7 @@ You may use this ability once stances are revealed, but before attack and defens
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If a creature chooses the same stance a second time, that creature has dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on AD rolls.
+If a creature chooses the same stance a second time, that creature has dis[advantage]([Advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) and Disadvantage) on AD rolls.
 
 <br>
 <hr>
@@ -917,7 +917,7 @@ You instead get a number of levels of advantage on your attack rolls equal to th
 #### Target the weakness
 *Heart ability. Instant. Cognitive talent.*
 
-After entering an engagement, but before anyone declares stances, you may use this ability. Announce a stance, and a creature in the engagement. Once stances are revealed, any attack roll against the creature made using the announced stance ignores half of the target’s defense roll.
+After entering an engagement, but before anyone declares stances, you may use this ability. Announce a stance, and a creature in the engagement. Once stances are revealed, any attack roll against the creature made using the announced stance ignores half of the target’s [defense roll](Attack and Defense Rolls).
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -945,7 +945,7 @@ When you choose the agility stance, if you are allowed to dash, you may do so be
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Whenever you dash in this manner, you can dash through another creature’s space. If you do, you may add 1d8 to your attack roll if you then attack that creature.
+Whenever you dash in this manner, you can dash through another creature’s space. If you do, you may add 1d8 to your [attack roll](Attack and Defense Rolls) if you then attack that creature.
 
 <br>
 <hr>
@@ -1337,7 +1337,7 @@ You may add one detail to whatever thing you notice.
 #### Medic
 *Passive ability. Handmagic.*
 
-You have advantage when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
+You have [advantage](Advantage and Disadvantage) when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 

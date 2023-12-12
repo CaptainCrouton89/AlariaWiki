@@ -1,4 +1,4 @@
-Tags: desert
+Tags: [desert](Deserts)
 
 A massive, white expanse—freezing cold, miserable, and incredibly dangerous.
 

@@ -1,3 +1,3 @@
-Tags: monster, dragon
+Tags: [monster](Monsters), dragon
 
 Sand dragon. Guards the mirrored palace.

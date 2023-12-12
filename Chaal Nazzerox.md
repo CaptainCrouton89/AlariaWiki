@@ -8,4 +8,4 @@ Boxed in by sea and mountains, and armies have dwindled. Needs an influx of shad
 
 Can't get through the smoky mountains cuz the Firesworn are too  well burrowed in. Can't get through mountains cuz treacherous and decently defended. Will cross sea once they can build boats, though they have no way of building boats yet.
 
-The undead are unruly and vicious, barely kept in check by [Xynoth Azkonor](Xynoth Azkonor). Cities are in state of disrepair because everyone is incompetent and selfish. Only know how to steal, not create.
+The undead are unruly and vicious, barely kept in check by [Xynoth Azkonor](Xynoth Azkonor). Cities are in [state](States) of disrepair because everyone is incompetent and selfish. Only know how to steal, not create.

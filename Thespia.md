@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Absolute monarchy
 
-**Primary Inhabitants**: humans
+**Primary Inhabitants**: [humans](Humans)
 
 **Population**: 
 

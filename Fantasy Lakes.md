@@ -1,3 +1,3 @@
 Tags: lakes
 
-Home to many rusalka and dwarven skeletons. Lots of loot at the bottom of the lakes.
+Home to many [rusalka](Rusalka) and [dwarven](Dwarves) skeletons. Lots of loot at the bottom of the lakes.

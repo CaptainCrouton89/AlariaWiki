@@ -6,7 +6,7 @@ Very poor. Owned by the three kingdoms, though post fragmentation it was granted
 
 **Government Type**:
 
-**Primary Inhabitants**: humans
+**Primary Inhabitants**: [humans](Humans)
 
 **Population**: 10,000
 

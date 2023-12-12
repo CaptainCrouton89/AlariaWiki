@@ -1,3 +1,3 @@
-Tags: race, [Lizardfolk](Lizardfolk)
+Tags: [race](Races), [Lizardfolk](Lizardfolk)
 
 Reside in [Dygon Beastlands](Dygon Beastlands).

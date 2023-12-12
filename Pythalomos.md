@@ -1,4 +1,4 @@
-Tags: monster, dragon
+Tags: [monster](Monsters), dragon
 
 Dragon of constrictor snakes. False dragon—self declared god of contstrictor snakes. Hated by the [Naruaghin](Naruaghin), and given a wide birth.
 

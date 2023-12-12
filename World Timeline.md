@@ -99,7 +99,7 @@ As everything died, and ice age set in, the small pockets of surviving civilizat
 
 ### The Age of Craggus: 45,000–30,000 years ago
 
-The Age of Craggus began when Craggus, a young man, survived a journey to [Celesté](Celesté) with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair. He was the first Daemon, god of all men.
+The Age of Craggus began when Craggus, a young man, survived a journey to [Celesté](Celesté) with an avid group of devotees who remained alive in their tribe back on the material realm. The tribe began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair. He was the first [Daemon](Daemons), god of all men.
 
 #### The Rise of the King: 45,000 years ago
 
@@ -119,7 +119,7 @@ Craggus’ reign was brought to an end with the arrival of the laughing plague. 
 
 The disease ran its course, and left the civilizations of [Alaria](Alaria) in shambles. Entire cities lay barren—their citizens all dead, at each others’ hands. Only those deep underground or completely isolated survived unaffected. Most written history was lost at this time, and technology once again regressed to a primitive [state](States). 
 
-##### Dwarves
+##### [Dwarves](Dwarves)
 
 A few among the population held a natural resistance to this corrupting plague. Although they were immune to it's violence inciting effects, the disease stunted growth and fundamentally and permanently changed those who survived it. These men were known as dwarves. Entire communities of those immune formed—many of which were underground.
 
@@ -163,7 +163,7 @@ From the blood and soil of gaea's fallen children rose the Sharabha, Ulvsjael, a
 
 #### The Greatest Sacrifice
 
-In the final months of Hykavones' destruction, nearly every daemon across Celesté saw that they were about to get completely wiped out. While some faught, others snuck back to the material plane—taking on new forms and going into hiding. These daemons would ultimately go on to found new races—descending from themselves. 
+In the final months of Hykavones' destruction, nearly every daemon across Celesté saw that they were about to get completely wiped out. While some faught, others snuck back to the material plane—taking on new forms and going into hiding. These daemons would ultimately go on to found new [races](Races)—descending from themselves. 
 
 ## The Modern Era: 10,209 BSD–Now
 
@@ -192,7 +192,7 @@ Most sentient creatures did not get along with dragons, who were quickly taking 
 **312 SD: The Time Puzzle** - 
 
 #### 400 SD
-- Hive elves at their peak power
+- Hive [elves](Elves) at their peak power
 
 #### 1700 SD
 - The [Sivakr](Sivakr) are driven underground.

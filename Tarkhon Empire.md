@@ -8,7 +8,7 @@ Ruled by [King Selron II](King Selron II) from [Tarkhetan](Tarkhetan). Holds a t
 - [Nektuna](Nektuna) (home of the Tarkhon Empire)
 - [Enymu](Enymu)
 - [Kerwin](Kerwin)
-- [Estrelle](Estrelle) (vassal state of Nektuna)
+- [Estrelle](Estrelle) (vassal [state](States) of Nektuna)
 - [Yaif](Yaif)
 - [Kabir](Kabir)
 - [Gissemari](Gissemari)

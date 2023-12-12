@@ -1,4 +1,4 @@
-Tags: race, orc
+Tags: [race](Races), [orc](Orcs)
 
 Blueskin, red hair, tusks, orcs. 
 

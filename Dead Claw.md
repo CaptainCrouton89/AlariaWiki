@@ -1,4 +1,4 @@
-Tags: race
+Tags: [race](Races)
 
 Reside in [Phaer Hom](Phaer Hom). Cat warriors. Have nine lives. Whiskers are never cut. Fur color determines physical skills/traits.
 

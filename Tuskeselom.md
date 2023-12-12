@@ -1,3 +1,3 @@
 Tags: god
 
-[Qindu](Qindu) Halfling god of liveliness, energy, birds, colors. 
+[Qindu](Qindu) [Halfling](Halflings) god of liveliness, energy, birds, colors. 

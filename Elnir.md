@@ -1,4 +1,4 @@
-Tags: druid, race, monster
+Tags: druid, [race](Races), [monster](Monsters)
 
 The Elnir were once druids, but have since been corrupted by Deoric and Azus. They desire to *control* nature to a degree that is terrifying. 
 

@@ -1,4 +1,4 @@
-Tags: state
+Tags: [state](States)
 
 Multiple, semi-united [Kendrel](Kendrel) monarchies.
 
