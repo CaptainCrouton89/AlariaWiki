@@ -10,6 +10,10 @@ Can't get through the smoky mountains cuz the Firesworn are too  well burrowed i
 
 The undead are unruly and vicious, barely kept in check by [Xynoth Azkonor](Xynoth Azkonor). Cities are in [state](States) of disrepair because everyone is incompetent and selfish. Only know how to steal, not create.
 
+### No Roads
+
+Nearly all travel takes place on the rivers. Ground is very soft—terrible for roads.
+
 ## The War
 
 Armies continue to march south from the capital. People are fleeing, seeking refuge in the [Gray Citadel](Gray Citadel) and [Methrayn](Methrayn). 
