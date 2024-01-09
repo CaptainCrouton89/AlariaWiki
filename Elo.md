@@ -6,9 +6,9 @@ Tags: citystate
 
 [The Four Dragon blades](The Four Dragon Blades) (The Four Dragon Blades)
 
-[The Golden enchanting table](The Golden Enchanting Table) (The Golden Enchanting Table)
+[Golden enchanting table](The Golden Enchanting Table) (The Golden Enchanting Table)
 
-[The Dragon forest](The Dragon Forest) (The Dragon Forest) (predominantly shadow dragons) (dark elf)
+[Dragon Forest](Dragon Forest) (The Dragon Forest) (predominantly shadow dragons) (dark elf)
 
 [The River elf blade master](The River Elf Blade Master) (The River Elf Blade Master)
 
