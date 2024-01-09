@@ -22,7 +22,7 @@ Tags: citystate
 
 [Way watchers](Way Watchers) (The Way Watchers) (human)
 
-[The Ogre blood lord](The Ogre Blood Lord) (The Ogre Blood Lord)
+[Klor, the Blood Lord](Klor, the Blood Lord) (The Ogre Blood Lord)
 
 [The school of summoning](The School Of Summoning) (The School Of Summoning) (high elf)
 
