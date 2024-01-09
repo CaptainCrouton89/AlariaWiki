@@ -4,6 +4,7 @@ Dwarven city of 9 rings, in what is now [Ophyndria](Ophyndria). Ruled by nasty d
 
 Rings:
 Dwarves everywhere
+
 1. Valkyrie
 2. Dwarves
 3. Humans
