@@ -20,7 +20,7 @@ Tags: citystate
 
 [The savage jungle battle priest](The Savage Jungle Battle Priest) (The Savage Jungle Battle Priest) 
 
-[The Way watchers](The Way Watchers) (The Way Watchers) (human)
+[Way watchers](Way Watchers) (The Way Watchers) (human)
 
 [The Ogre blood lord](The Ogre Blood Lord) (The Ogre Blood Lord)
 
