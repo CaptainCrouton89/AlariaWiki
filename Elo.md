@@ -2,7 +2,7 @@ Tags: citystate
 
 [eloen](Eloen) (eloen) eloen 
 
-[The Demon horn of fire](The Demon Horn Of Fire) (The Demon Horn Of Fire)
+[Demon horn of fire](The Demon Horn Of Fire) (The Demon Horn Of Fire)
 
 [The Four Dragon blades](The Four Dragon Blades) (The Four Dragon Blades)
 
