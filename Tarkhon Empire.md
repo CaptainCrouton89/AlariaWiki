@@ -18,4 +18,4 @@ Ruled by [King Selron II](King Selron II) from [Tarkhetan](Tarkhetan). Holds a t
 - [Melaia](Melaia)
 
 
-Mountains south of Tarkhon were cleared out by [Klor, the Blood Lord] 200 years ago.
+Mountains south of Tarkhon were cleared out by [Klor, the Blood Lord](Klor, the Blood Lord) 200 years ago.
