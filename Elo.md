@@ -34,7 +34,7 @@ Tags: citystate
 
 [The undead mummy that carries the huge casket](The Undead Mummy That Carries The Huge Casket) (The Undead Mummy That Carries The Huge Casket)
 
-[Goblin king with super catalysts and goblin waah](Goblin King With Super Catalysts And Goblin Waah) (Goblin King With Super Catalysts And Goblin Waah) (night goblin)
+[Nashk, the Alchemist](Nashk, the Alchemist) (Goblin King With Super Catalysts And Goblin Waah) (night goblin)
 
 [Goblin assasin with super good illusion magic](Goblin Assasin With Super Good Illusion Magic) (Goblin Assasin With Super Good Illusion Magic)
 
