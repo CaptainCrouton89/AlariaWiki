@@ -2,7 +2,7 @@ Tags: citystate
 
 [eloen](Eloen) (eloen) eloen 
 
-[Demon horn of fire](The Demon Horn Of Fire) (The Demon Horn Of Fire)
+[Demon horn of fire](Demon Horn Of Fire) (The Demon Horn Of Fire)
 
 [The Four Dragon blades](The Four Dragon Blades) (The Four Dragon Blades)
 
@@ -14,7 +14,7 @@ Tags: citystate
 
 [The Fallen](The Fallen) (The Fallen) 
 
-[The silver snowflake](The Silver Snowflake) (The Silver Snowflake)
+[Silver snowflake](Silver Snowflake) (The Silver Snowflake)
 
 [The iron orc](The Iron Orc) (The Iron Orc) 
 
