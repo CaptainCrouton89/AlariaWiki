@@ -18,7 +18,7 @@ Klokas is a vast void of empty space filled with huge demonic creatures floating
 
 ## Narglon
 
-Completely dark, nothing can be seen in Narglon. Those who have returned have come back infected with the darkness itself.
+Completely dark, nothing can be seen in Narglon. Those who have returned have come back infected with the darkness itself. Like a horrible, infective liquid of nothingness. 
 
 ## Minor Planar Stacks
 
