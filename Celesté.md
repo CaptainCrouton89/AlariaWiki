@@ -2,6 +2,8 @@ Tags: [planes](Planes)
 
 The core of Celesté was created long before the entire plane was made. A pocket dimension was solidified as a safe haven from Nydus and Aurus, the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new dimension of her own. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
 
+After the Ezz Rift, Ezz accumulated around Celesté, as it was the only location that resonated with Melera's song.
+
 [Celesté](Celesté) is the home of [daemons](Daemons). It is a reflection of the world but lacking any of the typical life that exists in the material realm. Spirits arrive here upon death, and then quickly fade away as they are forgotten. Some, however, remain remembered. Those who do, should they know [Deoric](Deoric), are capable of affecting the material realm, and in return, may be worshipped as gods. These beings are called [daemons](Daemons). 
 
 Since the world is physically unchangeable, the [daemons](Daemons) who seek opulent palaces must encourage their followers to build them in the material realm so their reflections can be enjoyed within [Celesté](Celesté).
