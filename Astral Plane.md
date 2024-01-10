@@ -2,7 +2,7 @@
 
 The [Astral Plane](Astral Plane) consists of a massive sea with floating islands, consisting of a special stone-like material that floats in Astral solution. Like icebergs, larger islands are cliff-edged, and tower into the sky, while smaller islands ride much lower. Huge disasters occur when an island rolls over due to the massiver earthquakes they deal with (due to structural instability). These quakes can cause astral stone to break free, showering down on the earth. 
 
-The Astral Sea is filled with beautiful shining lights, which are the stars on the [material plane](Material Plane). These lights were created by the titans. The Astral Sea is nearly opaque, which is why the giant islands high in the sky are not visible. The [Astral Plane](Astral Plane) is lit up from above by [Aurus, the White Sun], which illuminates all souls on the [Astral Plane](Astral Plane), but cannot penetrate down to the [material plane](Material Plane) through the Astral Sea.
+The Astral Sea is filled with beautiful shining lights, which are the stars on the [material plane](Material Plane). These lights were created by the titans. The Astral Sea is nearly opaque, which is why the giant islands high in the sky are not visible. The [Astral Plane](Astral Plane) is lit up from above by [Aurus, the White Sun](Aurus, the White Sun), which illuminates all souls on the [Astral Plane](Astral Plane), but cannot penetrate down to the [material plane](Material Plane) through the Astral Sea.
 
 No [maps](Maps) chart these lands, as the islands, as their locations are constantly changing.
 
