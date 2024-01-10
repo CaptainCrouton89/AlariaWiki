@@ -10,7 +10,7 @@ The shadow is made of pure negative energy from [Nydus, the Black Sun]. A long, 
 
 ### The Spirit
 
-One's spirit is made of pure Psyic Energy, pulled from the swirling mass throughout the planes.
+One's spirit is made of pure Ezz, pulled from the swirling mass throughout the planes.
 
 ## Astral & Malstaric Thread
 
