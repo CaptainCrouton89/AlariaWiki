@@ -37,9 +37,15 @@ Azus began manipulating the cosmos, building planar stacks everywhere. It is bel
 
 [Alaria](Alaria) was one of the last planar stacks to form. It opened up without any psyic energy, and with only three [planes](Planes)—the material realm, the [Astral Plane](Astral Plane), and [Malstaris](Malstaris).
 
-#### Lyzarian Era: 235–180 million years ago
+#### Lyzaria Era: 235–180 million years ago
 
-With the Lyzarus the first titan was born. Titans were enormous, powerful beings who were responsible for creating most life on [Alaria](Alaria), probably also using [Deoric](Deoric). They populated all three [planes](Planes), though their most epic civilizations were built up in the depths of the Astral Sea and deep in the caves of [Malstaris](Malstaris).
+The first titans were Nydus, Aurus, and Celesté. Three siblings. After them came the first daughter—Lyzaria.
+
+With Lyzaria the first titan was born. Titans were enormous, powerful beings who were responsible for creating most life on [Alaria](Alaria), probably also using [Deoric](Deoric). They populated all three [planes](Planes), though their most epic civilizations were built up in the depths of the Astral Sea and deep in the caves of [Malstaris](Malstaris).
+
+##### Celesté is Formed
+
+Celesté was younger than her twin brothers, Aurus and Nydus, and she was stuck with the Material Plane. Nydus and Aurus faught frequently, and wreaked much destruction, including on the hard work of the other titans. Celesté decided that she could better serve the titans by sacrificing herself and forming Celesté—a source of power for the titans of the Material Plane.
 
 #### Ezz Rift: 120 million years ago
 
