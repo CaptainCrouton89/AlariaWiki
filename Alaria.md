@@ -11,7 +11,7 @@ In the very middle is the [Material Plane](Material Plane)—a world of kingdoms
 
 ### [Celesté](Celesté)
 
-Celesté was created as a safe haven from Nydus and Aurus, the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new plane. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
+Celesté was created when the Alarian Planar Stack fragmented and Ezz poured in from beyond. The material plane peeled apart and a new plane of conceptual existence was born. Emotion, free will, and thought poured into Alaria. Celesté is made of the coalescense  of thought/emotion/etc on the material plane. Where there is thought, there is a counterpart to the material planes.
 
 <hr/>
 ## [Astral Plane](Astral Plane)
