@@ -42,18 +42,23 @@ A collection of different campaign ideas
 
 In the very middle is the [Material Plane](Material Plane)—a world of kingdoms and conquest and [magic](Magic), dominated by typical masses of land and ocean. However, on the opposite side of the [Material Plane](Material Plane)—as though on the flip side—lies [Celesté](Celesté): the realm of [daemons](Daemons). It is a dream-like mirror image of the material plane. 
 
-## Celesté
+### Celesté
 
 Celesté was created as a safe haven from Nydus and Aurus, the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new plane. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
 
-## Astral Plane and Astraeva
+## Astral Plane 
 
 "Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Aurus, living pawns of his will.
 
+### Astraeva
+
 On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. Aurus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest.
 
-## Malstaris and Eindumor
+## Malstaris
+
 "Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the [Astral Plane](Astral Plane), it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Nydus, living pawns of his will.
+
+### Eindumor
 
 On its flip side of Malstaris is [Eindumor](Eindumor). Eindumor mirrors Malstaris but is devoid of shadows. Nydus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. 
 
