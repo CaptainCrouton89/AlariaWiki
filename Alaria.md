@@ -55,6 +55,7 @@ Celesté was created as a safe haven from Nydus and Aurus, the titan gods. It is
 
 On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. Aurus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest.
 
+<hr/>
 ## Malstaris
 
 "Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the [Astral Plane](Astral Plane), it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Nydus, living pawns of his will.
@@ -63,6 +64,7 @@ On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). As
 
 On its flip side of Malstaris is [Eindumor](Eindumor). Eindumor mirrors Malstaris but is devoid of shadows. Nydus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. 
 
+<hr/>
 ## Elemental Planes
 
 In addition to these planes, there are nine planes of the primary elements, known as the [elemental planes](Elemental Planes), each thinly overlayed on the top sides of the three main layers. 
@@ -71,6 +73,7 @@ In addition to these planes, there are nine planes of the primary elements, know
 
 Lastly, there are two very faint planes that overlay all of the rest of the planes—the [Ethereal](Ethereal Plane) and [Nethereal](Nethereal Plane) Planes. Physical objects do not exist in these planes, but elements of ones [spirit](Life and Death), among other types of energy, can be found on these planes. 
 
+<hr/>
 ## Planar Travel
 
 Many of the planes are physically connected to one another, although their connections do not always obey Euclidean laws of geometry. 
