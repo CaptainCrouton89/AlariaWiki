@@ -53,7 +53,7 @@ Celesté was created as a safe haven from Nydus and Aurus, the titan gods. It is
 
 ### Astraeva
 
-On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. Aurus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest.
+On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. Aurus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. Psyic energy still exists here, but it is weak.
 
 <hr/>
 ## Malstaris
@@ -62,7 +62,7 @@ On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). As
 
 ### Eindumor
 
-On its flip side of Malstaris is [Eindumor](Eindumor). Eindumor mirrors Malstaris but is devoid of shadows. Nydus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. 
+On its flip side of Malstaris is [Eindumor](Eindumor). Eindumor mirrors Malstaris but is devoid of shadows. Nydus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. Psyic energy still exists here, but it is weak.
 
 <hr/>
 ## Elemental Planes
