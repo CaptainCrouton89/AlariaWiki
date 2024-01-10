@@ -45,7 +45,7 @@ With Lyzaria the first titan was born. Titans were enormous, powerful beings who
 
 ##### Celesté is Formed
 
-Celesté was younger than her twin brothers, Aurus and Nydus, and she was stuck with the Material Plane. Nydus and Aurus faught frequently, and wreaked much destruction, including on the hard work of the other titans. Celesté decided that she could better serve the titans by sacrificing herself and forming Celesté—a source of power for the titans of the Material Plane.
+Celesté was younger than her twin brothers, Aurus and Nydus, and she was stuck with the Material Plane. She had also been touched with Melera's song. Nydus and Aurus faught frequently, and wreaked much destruction, including on the hard work of the other titans. Celesté decided that she could better serve the titans by sacrificing herself and forming Celesté—a source of power for the titans of the Material Plane.
 
 #### Ezz Rift: 120 million years ago
 
