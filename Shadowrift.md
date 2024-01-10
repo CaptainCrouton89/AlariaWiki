@@ -1,0 +1,3 @@
+Tags: event
+
+Periodically, Nydus comes much closer to the Malstaris surface, and thus the Material Plane as well. During these times, his power is strongest and darkness and cold sweeps across the Material Plane. Creatures from the shadows come forth as the land becomes more habitable for creatures of Malstaris. A land of nightmares and creatures in the dark. Usually quite bad.
