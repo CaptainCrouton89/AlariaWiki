@@ -20,3 +20,10 @@ The [Astral Plane](Astral Plane) is illuminated by the [Aurus, the White Sun](Au
 
 All souls of the living go to the [Astral Plane](Astral Plane) upon death. The [Astral Plane](Astral Plane) is composed of a vast sea, dotted with millions of islands, populated with thousands and thousands of the the souls of the dead. *** is the self declared queen of the souls, though dozens of other powerful figures of the [Astral Plane](Astral Plane) vie for his position.
 
+## Fauna
+
+#### Astral Sentinels
+In the Astral Plane, massive ethereal creatures known as Astral Sentinels roam the islands. These creatures, remnants of forgotten celestial battles, are attracted to disturbances in psychic energy. They serve as both protectors and dangers to astral travelers.
+
+
+
