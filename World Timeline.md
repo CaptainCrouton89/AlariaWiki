@@ -79,7 +79,13 @@ Of her three children, [Nagatayora](Nagatayora) was the eldest and proudest, and
 
 Although the [druids](Druids) never die of natural causes, they have slowly been killed off over time, such that only a few reside in [Alaria](Alaria) today. However, their legacy remains, as the [elves](Elves) were created by the druids, from the branches of trees, the stones and mud from the rivers that ran through [Alaria](Alaria), and the life from the druids. The [elves](Elves) were made in the druid's images, and share their pointed ears, slender forms, and graceful movement, and have similar appreciations for nature and beauty as the druids.
 
-The [elves](Elves) were good at everything they did, and quickly grew in population as they covered Alaria. They worked in harmony with the [dragons](Dragons), and together, ruled the land.
+The [elves](Elves) were good at everything they did, and quickly grew in population as they covered Alaria. They worked in harmony with the [dragons](Dragons) for many years, and together, ruled the land.
+
+#### Eyachria the Dragon Goddess: 2 million years ago
+
+One of the dragons, Eyachria, was Nagatayora's favorite. She was the most noble, most honorable, most trustworthy of the dragons, and held the respect of all of Alaria. However, as she grew in eminence, she grew secretly jealous of Gaea's position as caretaker of the world. She decided that with time, she could replace Gaea. And so she grew and grew and grew for thousands and thousands of years, growing in size. After many thousands of years, her wingspan nearly stretched the planes. Cities grew upon her back. She was like a continent of her own. And it was now that she challenged Gaea as the caretaker of Alaria. Eyachria could move and breathe fire and cast powerful magic, and Gaea was but a song in the ground. And Eyachria was right—Gaea was no match for Eyachria. 
+
+However, Nagatayora saw this, and just as he had given life to all other dragons, he could take it away. And with crushing despair, he ended Eyachria's life right then and there. She crashed to the ground, deceased. Her spine, however, is still visible as the collosal mountain range in the south of Aboyuinzu. 
 
 ### The Birth of Man: 2,500,000–45,000 years ago
 
@@ -137,7 +143,7 @@ It is rumored that the laughing plague still circulates deep underground [Alaria
 
 #### The Dark Night: 12,000–11,500 BSD
 
-A 500 year long night
+A 500 year long night, caused by a [shadowrift](Shadowrift). A time of great fear and loss for the world.
 
 #### The Oblivion Years: 11,500–10,400 BSD
 
