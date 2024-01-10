@@ -8,6 +8,10 @@ The soul is made of pure positive energy from [Aurus, the White Sun]. A long, fa
 
 The shadow is made of pure negative energy from [Nydus, the Black Sun]. A long, faint strand of it stretches all the way back to the sun.
 
+### The Spirit
+
+One's spirit is made of pure Psyic Energy, pulled from the swirling mass throughout the planes.
+
 ## Astral & Malstaric Thread
 
 Binding the [soul](Life and Death) and [shadow](Life and Death) to the [spirit](Life and Death) is a creature’s astral and malstaric thread. If this thread is broken, the creature dies, and their newly freed [soul](Life and Death) and [shadow](Life and Death) float up and sink down to the [Astral Plane](Astral Plane) and [Malstaris](Malstaris) respectively, while their [spirit](Life and Death) fades to [Celesté](Celesté).
