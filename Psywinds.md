@@ -1,3 +1,5 @@
 The flow of all thought and ideas across Alaria. These thoughts pass through all. It is how telepathic creatures communicate. It is also how prayers can be heard from Celesté. You can hear your [true name](True Name) no matter where it is spoken from on Alaria.
 
 The psy winds are made of [ezz](Ezz).
+
+Somewhat related to [Faesong](Faesong).
