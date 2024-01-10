@@ -16,9 +16,9 @@ Glyssen is a spherical ocean of whispers and insanity. Aberrant creatures roam a
 
 Klokas is a vast void of empty space filled with huge demonic creatures floating through the skies. 
 
-## Yogmod
+## Narglon
 
-Completely dark, nothing can be seen in Yogmod. Those who have returned have come back infected with the darkness itself.
+Completely dark, nothing can be seen in Narglon. Those who have returned have come back infected with the darkness itself.
 
 ## Minor Planar Stacks
 
