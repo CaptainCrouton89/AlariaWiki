@@ -25,5 +25,6 @@ All souls of the living go to the [Astral Plane](Astral Plane) upon death. The [
 #### Astral Sentinels
 In the Astral Plane, massive ethereal creatures known as Astral Sentinels roam the islands. These creatures, remnants of forgotten celestial battles, are attracted to disturbances in psychic energy. They serve as both protectors and dangers to astral travelers.
 
-
+#### Symbiots
+Some inhabitants of the Astral Plane have developed a symbiotic relationship with astral creatures. These beings, known as Astral Weavers, use the threads of psychic energy to weave protective barriers or manipulate the weakened free will of other astral entities.
 
