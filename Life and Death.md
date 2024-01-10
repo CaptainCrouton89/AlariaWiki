@@ -2,15 +2,15 @@ A creature’s life is dictated by the health and union of their [soul](Life and
 
 ### The Soul
 
-The soul is made of pure positive energy from [Aurus, the White Sun]. A long, faint strand of it stretches all the way back to the sun.
+The soul is made of pure positive energy from [Aurus, the White Sun](Aurus, the White Sun). A long, faint strand of it stretches all the way back to the sun. It was created by Aurus. Only Alarian creatures are energized with a soul.
 
 ### The Shadow
 
-The shadow is made of pure negative energy from [Nydus, the Black Sun]. A long, faint strand of it stretches all the way back to the sun.
+The shadow is made of pure negative energy from [Nydus, the Black Sun](Nydus, the Black Sun). A long, faint strand of it stretches all the way back to the sun. It was created by Nydus. Only Alarian creatures are energized with a shadow.
 
 ### The Spirit
 
-One's spirit is made of pure Ezz, pulled from the swirling mass throughout the planes.
+One's spirit is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with free will all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have free-will, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with [Aether](Aether).
 
 ## Astral & Malstaric Thread
 
