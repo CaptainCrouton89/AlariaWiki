@@ -21,7 +21,7 @@ During this time, nearly nothing is known. It is generally believed that a primo
         - Gaeic Melodies
         - Druids (part melody, part deoric origins—true mix)
         - The alarian planar stack bursting and Ezz spilling in was her. Before that, there was much more strict separation of the planes.
-- Azus is off toying with othr plains—hasn't visited Alaria since the The Wash—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
+- Azus is off toying with othr plains—hasn't visited Alaria since the the Ezz Rift—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
 
 ### The Contraction: 1,300–235 million years ago
 
@@ -43,9 +43,9 @@ As these voids filled with more and more of the cosmos, some exploded, while oth
 
 With the Lyzarus the first titan was born. Titans were enormous, powerful beings who were responsible for creating most life on [Alaria](Alaria), probably also using [Deoric](Deoric). They populated all three [planes](Planes), though their most epic civilizations were built up in the depths of the Astral Sea and deep in the caves of [Malstaris](Malstaris).
 
-#### The Wash: 120 million years ago
+#### Ezz Rift: 120 million years ago
 
-The reign of titans ended with the Wash—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused [Ezz](Ezz) to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with Ezz, titans died in droves, suffocating and wracked with madness. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
+The reign of titans ended with the Ezz Rift—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused [Ezz](Ezz) to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with Ezz, titans died in droves, suffocating and wracked with madness. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
 
 This marked the end of the second eon. The dead titan bodies that remain on [Alaria](Alaria) are great sources of magical power, even today, though their scarcity is a source of enormous conflict wherever they are found. 
 
