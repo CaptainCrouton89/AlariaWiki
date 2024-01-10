@@ -7,3 +7,5 @@ The [black sun](Nydus, the Black Sun) that illuminates all of [malstaris](Malsta
 What one's shadow is made of.
 
 Slowly bobs around the sky, causing cold temperatures to spike around the Material Plane.
+
+Controls the [Umbral Agents](Umbral Agents)
