@@ -46,6 +46,7 @@ In the very middle is the [Material Plane](Material Plane)—a world of kingdoms
 
 Celesté was created as a safe haven from Nydus and Aurus, the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new plane. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
 
+<hr/>
 ## Astral Plane 
 
 "Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Aurus, living pawns of his will.
