@@ -11,7 +11,8 @@ The first eon. Little is known about this time period.
 During this time, nearly nothing is known. It is generally believed that a primordial soup of the cosmos was swirling around, with the period eventually cumulating with the rise of Azus. Azus and Melera were the first gods, each with differing mindsets. 
 
 - Each created their own system of laws and behaviours of the world. For azus, everything was to be described, things had rules, and there was perfect balance: for creation, there would come destruction
-- Melera, she viewed the world as an instrument, to be played. Creating beauty from nothing—there is no cost to creating somethign wonderful with music. Nobody knows about her, or knows this story.
+- Melera, she viewed the world as an instrument, to be played. Creating beauty from nothing—there is no cost to creating something wonderful with music. Nobody knows about her, or knows this story.
+- Together they created Ezz—an energy embodying both of their beliefs. However, Azus realized that his law and order was impossible—forever tainted by the randomness within the Ezz. He created Planar stacks—little bubbles protected from the Ezz.
 - Azus hated the freeform nature of Melera, locked her in a prison of specificity.
 - He creates the world alone. Begins organizing things into categories and boxes. Uses his magic, "Deoric" magic to do so. 
 - Although Melera remains locked away still to this day, she creates her music from her prison, and it resonates across the universe. 
@@ -21,17 +22,14 @@ During this time, nearly nothing is known. It is generally believed that a primo
         - Gaeic Melodies
         - Druids (part melody, part deoric origins—true mix)
         - The alarian planar stack bursting and Ezz spilling in was her. Before that, there was much more strict separation of the planes.
+    - In a desparate effort to call for aid, Melera sent out a ripple of music. It was weak, but it was just enough to cause the Alarian Planar Stack to fracture, causing Ezz to pour in. 
 - Azus is off toying with othr plains—hasn't visited Alaria since the the Ezz Rift—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
 
 ### The Contraction: 1,300–235 million years ago
 
-Azus began manipulating the cosmos, pulling the cosmic soup closer and closer together. It is believed he used an ancient ancestor of the [Deoric](Deoric) language to do so. Over the course of over a billion years, Azus tightened and tightened the universe, bringing everything closer and closer together.
+Azus began manipulating the cosmos, building planar stacks everywhere. It is believed he used an ancient ancestor of the [Deoric](Deoric) language to do so. Over the course of over a billion years, Azus tightened and sorted the universe, bringing everything closer and closer together and into neater piles.
 
-#### The Death of Azus: 235 million years ago
-
-As the universe contracted, enormous voids began opening up, sucking up everything around them. Some countless number of voids opened up around the cosmos, eating up everything, faster and faster. 
-
-As these voids filled with more and more of the cosmos, some exploded, while others instead began slowly releasing intense radiant light. These explosions formed rifts in the cosmos, forming the planar stacks of the cosmos, while the voids that began editing light were scattered throughout the universe and now can be found in some of the planar stacks, such as the Alarian sun. This marked the end of the first eon.
+#### Azus Creates Alaria: 235 million years ago
 
 ### The Age of Titans 235–100 million years ago
 
