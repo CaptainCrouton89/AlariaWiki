@@ -1,3 +1,3 @@
 Tags: monster
 
-Reside in Malstaris.
+Reside in Malstaris. Shadowy nightmares.
