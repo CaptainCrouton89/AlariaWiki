@@ -49,7 +49,7 @@ Celesté was younger than her twin brothers, Aurus and Nydus, and she was stuck 
 
 #### Ezz Rift: 120 million years ago
 
-The reign of titans ended with the Ezz Rift—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused [Ezz](Ezz) to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with Ezz, titans died in droves, suffocating and wracked with madness. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
+The reign of titans ended with the Ezz Rift—a world flood that began when a leak in the Alarian [Planar Stack](Planar Stack) caused [Ezz](Ezz) to fill up the [planar stack](Planar Stack). As [Alaria](Alaria) filled with [Ezz](Ezz), Melera's music filled the world. Emotions had never been felt by the titans, and they drove them mad. Titans, naturally ageless, killed themselves in droves to escape the unfamiliar and hated feelings. Those who could fled the plane, abandoning their cities, and flew to the cosmos. Where they are, if they are even still alive, remains a mystery. 
 
 This marked the end of the second eon. The dead titan bodies that remain on [Alaria](Alaria) are great sources of magical power, even today, though their scarcity is a source of enormous conflict wherever they are found. 
 
