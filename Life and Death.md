@@ -10,7 +10,7 @@ The shadow is made of pure negative energy from [Nydus, the Black Sun](Nydus, th
 
 ### The Spirit
 
-One's spirit is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with free will all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have free-will, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with [Aether](Aether).
+One's spirit is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with both thought and emotion all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have emotion, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with [Aether](Aether).
 
 ## Astral & Malstaric Thread
 
