@@ -1,6 +1,6 @@
 Tags: sun
 
-Aurus is a still-living, titan god. Along with his brother Nydus, he was the first titan created. They did not have free thought, psyic energy did not yet exist, and he became the White Sun, up above the Astral Plane.
+Aurus is a still-living, titan god. Along with his brother Nydus, he was the first titan created. As a titan god, he could not be truly killed by the Ezz Rift. Instead, he dissolved, leaving nothing behind but his brilliant, bright white spirit. He became the White Sun, up above the Astral Plane.
 
 What the soul is made of.
 
