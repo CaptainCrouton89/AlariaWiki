@@ -17,6 +17,7 @@ In general, [gnomes](Gnomes) are a bit over three feet, have slightly larger tha
 - [Bloodlings (Vampire Gnomes)](Bloodlings)
 - [Neka](Neka)
 - [Ohblex](Ohblex)
+- [Shyoka Saseidi](Shyoka Saseidi)
 
 # Heart Rush
 
