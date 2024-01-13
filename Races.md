@@ -179,3 +179,6 @@
 - [Nuun](Nuun) (Dark-skinned, fire or water attuned [desert](Deserts) traders)
 - [Gruynmar](Gruynmar) (Fair skinned sea [dwarves](Dwarves) in giant iron juggernaut ships)
 - [Mnurvlyon](Mnurvlyon) (Pale, powerfully built, calm, half-giant half-dwarves)
+- [Fengruk](Fengruk) (Forgemaster dwarves)
+- [Bloodreavers](Bloodreavers) (Loyal, blood-stained and misunderstood orcs)
+- [Dark Elves](Dark Elves) (Extinct, malicious dragon riders)
