@@ -1,6 +1,6 @@
 # About Alaria
 
- The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac. Within it lie several [planes](Planes), stacked on top of each other. 
+The Alarian [Planar Stack](Planar Stack), also commonly known as [Alaria](Alaria), is the focus of this almanac. Within it lie several [planes](Planes), stacked on top of each other. 
 
 # [Geography](Geography) of the [Planes](Planes)
 
