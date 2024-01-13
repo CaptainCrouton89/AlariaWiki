@@ -1,50 +1,50 @@
 # Humanoids
 
-- [Humans](Humans): Versatile in all regards
-- [Elves](Elves): Tend to be proud
-- [Dwarves](Dwarves): Staunch traditionalists
-- [Orcs](Orcs): Strong shit is good shit
-- [Goblins](Goblins): Generally impulsive and flighty
-- [Gnomes](Gnomes): Slightly less impulsive and flighty
-- [Halflings](Halflings): Usually pretty loyal
-- [Ogres](Ogres): Old and reliable
-- [Pixies](Pixies): Clever and shortsighted fairies
-- [Trollkin (Half-trolls)](Trollkin): Contemplative bastard children
-- [Rusalka](Rusalka): Aquatic shapeshifting women
-- [Dwelyn (Half-elf, half-orc)](Dwelyn): ??
-- [Gyv (Silvertongues)](Gyv): Silvertongued folk of humanoids
-- [Blaize](Blaize): Shy and easily manipulated blue hominids
-- [Ayblek (Aliens)](Ayblek): Four-armed aliens
+- [Humans](Humans.md): Versatile in all regards
+- [Elves](Elves.md): Tend to be proud
+- [Dwarves](Dwarves.md): Staunch traditionalists
+- [Orcs](Orcs.md): Strong shit is good shit
+- [Goblins](Goblins.md): Generally impulsive and flighty
+- [Gnomes](Gnomes.md): Slightly less impulsive and flighty
+- [Halflings](Halflings.md): Usually pretty loyal
+- [Ogres](Ogres.md): Old and reliable
+- [Pixies](Pixies.md): Clever and shortsighted fairies
+- [Trollkin (Half-trolls)](Trollkin.md): Contemplative bastard children
+- [Rusalka](Rusalka.md): Aquatic shapeshifting women
+- [Dwelyn (Half-elf, half-orc)](Dwelyn.md): ??
+- [Gyv (Silvertongues)](Gyv.md): Silvertongued folk of humanoids
+- [Blaize](Blaize.md): Shy and easily manipulated blue hominids
+- [Ayblek (Aliens)](Ayblek.md): Four-armed aliens
 
 # Beastmen
 
-- [Minotaur](Minotaur): Emotions are unnecessary
-- [Ix Tyrann (Lizardfolk)](Ix Tyrann): Lizarmen with an "eat or be eaten" mindset
-- [Sylthik (Snakefolk)](Sylthik): Snake-headed racial supremacists
-- [Children of Anubis](Children of Anubis): Dog-headed children of [daemon](Daemons) of dead
-- [Chulpe (Hyenamen)](Chulpe): Vicious and selfish hyena people
-- [Skaag (Ratfolk)](Skaag): Rat people populating the underside of cities
-- [Satyr](Satyr): Half-goat reveling merrymakers
-- [Koren (Leapordfolk)](Koren): Excruciatingly polite catfolk 
-- [Lyzine (Spiderlings)](Lyzine): Bitter, eight-legged spider people
-- [Krell (Buggers)](Krell): Insectoid slaves to the hive-queen
-- [Kendrel (Triton)](Kendrel): Proud and unsympathetic merfolk
-- [Chargon (Moray)](Chargon): Sly and intelligent eel-headed people
-- [Nyolci (Octopodi)](Nyolci): Octopus-headed Expert judges of character
-- [Tuktuk (Turtlekin)](Tuktuk): Thoughtful and warlike turtle-men
-- [Alekroin (Allegatorfolk)](Alekroin): Lazy, powerful alligatorfolk
-- [Troenka (Treefolk)](Troenka): ??
+- [Minotaur](Minotaur.md): Emotions are unnecessary
+- [Ix Tyrann (Lizardfolk)](Ix Tyrann.md): Lizarmen with an "eat or be eaten" mindset
+- [Sylthik (Snakefolk)](Sylthik.md): Snake-headed racial supremacists
+- [Children of Anubis](Children of Anubis.md): Dog-headed children of [daemon](Daemons.md):of dead
+- [Chulpe (Hyenamen)](Chulpe.md): Vicious and selfish hyena people
+- [Skaag (Ratfolk)](Skaag.md): Rat people populating the underside of cities
+- [Satyr](Satyr.md): Half-goat reveling merrymakers
+- [Koren (Leapordfolk)](Koren.md): Excruciatingly polite catfolk 
+- [Lyzine (Spiderlings)](Lyzine.md): Bitter, eight-legged spider people
+- [Krell (Buggers)](Krell.md): Insectoid slaves to the hive-queen
+- [Kendrel (Triton)](Kendrel.md): Proud and unsympathetic merfolk
+- [Chargon (Moray)](Chargon.md): Sly and intelligent eel-headed people
+- [Nyolci (Octopodi)](Nyolci.md): Octopus-headed Expert judges of character
+- [Tuktuk (Turtlekin)](Tuktuk.md): Thoughtful and warlike turtle-men
+- [Alekroin (Allegatorfolk)](Alekroin.md): Lazy, powerful alligatorfolk
+- [Troenka (Treefolk)](Troenka.md): ??
 
 # Supernatural
 
-- [Deva (Demigods)](Deva): Spawned by the hopes and needs of their community
-- [Revenants (Lost souls)](Revenants): Souls of the dead who had unfinished business
-- [Ghouls](Ghouls): Flesheating beings of animated flesh
+- [Deva (Demigods)](Deva.md): Spawned by the hopes and needs of their community
+- [Revenants (Lost souls)](Revenants.md): Souls of the dead who had unfinished business
+- [Ghouls](Ghouls.md): Flesheating beings of animated flesh
 
 # Monstrous
 
-- [Giants](Giants): Dense-headed, thoughtful, and enormous
-- [Cyclops](Cyclops): Wary, seclusive smiths
+- [Giants](Giants.md): Dense-headed, thoughtful, and enormous
+- [Cyclops](Cyclops.md): Wary, seclusive smiths
 
 
 # All [Races](Races)
@@ -179,3 +179,133 @@
 - [Nuun](Nuun) (Dark-skinned, fire or water attuned [desert](Deserts) traders)
 - [Gruynmar](Gruynmar) (Fair skinned sea [dwarves](Dwarves) in giant iron juggernaut ships)
 - [Mnurvlyon](Mnurvlyon) (Pale, powerfully built, calm, half-giant half-dwarves)
+- [Skree](Skree.md):(Dumb but vicious hyena people)
+- [Lyndwyrmspren](Lyndwyrmspren.md):(Lizard-riding naga conquerers)
+- [Aureum](Aureum.md):(Sun dwarves)
+- [Blaize](Blaize.md):(Flicker skinned, too fast, emotion-feeding suggestible humanoids)
+- [Murazi](Murazi.md):(Underground [desert](Deserts.md):stream dwelling merfolk)
+- [Druids](Druids.md):(Elven ancestors)
+- [Bogies](Bogies.md):(Simple unadventurous toxic frogs)
+- [Lorean](Lorean.md):(Intelligent tactical minotaur)
+- [Jae-Kai](Jae-Kai.md):(Spirit wranglers)
+- [Caerine](Caerine.md):(Fierce wood elves)
+- [Syngers](Syngers.md):(Airship-borne, vibrant-skinned bards)
+- [Rakiten](Rakiten.md):(Isolated plain-elves)
+- [Troenka](Troenka.md):(Cruel tree people that can easily transform)
+- [Zaelian](Zaelian.md):(Icy, deoric, good moon-elves)
+- [Kryaaji](Kryaaji.md):(Aloof sun-elves)
+- [Cyclops](Cyclops.md):(Large mythically skilled smiths and enchanters)
+- [Tythvuln](Tythvuln.md):(Vulture guardians of undead giant)
+- [Bfaspeen](Bfaspeen.md):(Gross eel-tailed ship-sinkers)
+- [Aciabro](Aciabro.md):(Cyborg goblins)
+- [Cogheads](Cogheads.md):(Tinker goblins)
+- [Sharabha](Sharabha.md):(Courageous lion-people)
+- [Grayls](Grayls.md):(Gray skinned, sad, exhausted of people, tree creatures)
+- [Craven](Craven.md):(Crows that must obey but seek to overthrow)
+- [Shapers](Shapers.md):(Silver eye shape-shifters)
+- [Drachma](Drachma.md):(Swarthy scalawags)
+- [Sarakiel](Sarakiel.md):(Evil angels of light)
+- [Drasnian](Drasnian.md):(Paranoid, distrusting dwarves)
+- [Valkyries](Valkyries.md):(Winged militants)
+- [Swuigrach](Swuigrach.md):(Shrewd pig-merchants)
+- [Xi'ivrach](Xi'ivrach.md):(Religious orcs)
+- [Icehearts](Icehearts.md):(Nabuhe worshipping pixies)
+- [Wytrolape](Wytrolape.md):(Large, friendly yetis)
+- [Terrogones](Terrogones.md):(Massive, intelligent chulpe)
+- [Korel](Korel.md):(Highborn Koren)
+- [Koren](Koren.md):(Regal cheetah people)
+- [Faeja](Faeja.md):(Shimmer-furred, [jungle](Jungles.md):druid helpers)
+- [Hestrube](Hestrube.md):(Deep dwelling stone dwarves)
+- [Neferati](Neferati.md):(Red-skinned fire dancers with ram horns in touch with gaea)
+- [Xaphkiel](Xaphkiel.md):(Cruel angels of darkness)
+- [Revenants](Revenants.md):(Spirits still in their body)
+- [Scalawags](Scalawags.md):(Ferocious [goblin](Goblins.md):tricksters)
+- [Swordsmen](Swordsmen.md):(Talented islander swordsmen)
+- [Vyanoweir](Vyanoweir.md):(Extinct deoric casters)
+- [Ix Tyrann](Ix Tyrann.md):(Ferocious lizard men)
+- [Children of Anubis](Children of Anubis.md):(Dogheaded guardians of the dead)
+- [Yorinthian](Yorinthian.md):(Cruel, ice-dwarves)
+- [Whitelings](Whitelings.md):(Pale skinned, clairvoyant gnomes)
+- [Foresaken of Anubis](Foresaken of Anubis.md):(Dog-headed rogue vigilantes)
+- [Belenstrope](Belenstrope.md):(Talented, adventurous [halfling](Halflings.md):merchants)
+- [Etherweavers](Etherweavers.md):(Elementally attuned, pale-skinned goblins)
+- [Lesser Satyr](Lesser Satyr.md):(Devious, frantic fiends for blood and revelry)
+- [Greater Satyr](Greater Satyr.md):(Warlike, brutal fiends for blood)
+- [The Guiltless](The Guiltless.md):(Cannot do harm, but look like typical humans)
+- [Kor](Kor.md):(Lowborn cheetah people)
+- [Deva](Deva.md):(Agents of hope and powerful emotion)
+- [Nemo](Nemo.md):(Elven ghosts trapped in Eros)
+- [Rhea](Rhea.md):(Gray-blue air-people)
+- [Neka](Neka.md):(Feral [jungle](Jungles.md):gnomes)
+- [Naga](Naga.md):(Dragon-headed humanoids)
+- [Kuru](Kuru.md):(Animal-skulled beastmen)
+- [Neth](Neth.md):(Wind-whispering humans)
+- [Fieri](Fieri.md):(Hateful, underground fire-halflings)
+- [Skaag](Skaag.md):(Disparate rat-people)
+- [Uline](Uline.md):(Chain-dwarves)
+- [Surry](Surry.md):(Cannibalistic, deep-dwelling dwarves)
+- [Ezuri](Ezuri.md):(Tree-gnomes)
+- [Oznak](Oznak.md):(Horse riding, talented swordsmen)
+- [Gezzerin](Gezzerin.md):(Mad-max, water-starved [desert](Deserts.md):people)
+- [Wendi](Wendi.md):(Strawberry-haired drake-riders)
+- [Nydor](Nydor.md):(Tusked, black-sun slaver-dwarves)
+- [Ohblex](Ohblex.md):(Gem-encrusted gnomes)
+- [Silzar](Silzar.md):(Nomadic, mammoth riding raiders)
+- [Sivakr](Sivakr.md):(Memory stealing silver-elves)
+- [Lyzine](Lyzine.md):(Creepy evil spider-people)
+- [Tarnak](Tarnak.md):(Dark skin, blood-tattooed people)
+- [Velwey](Velwey.md):(Short dream-dwarves)
+- [Wispen](Wispen.md):(Silver-skinned halflings that control surroundings with soul)
+- [Ayblek](Ayblek.md):(Four-armed, immortal, blue people)
+- [Teflin](Teflin.md):(Blood-cursed, red-skinned elves)
+- [Triton](Triton.md):(Proud guardians of the sea)
+- [Ythari](Ythari.md):(Forest-skinned, silent [elves](Elves.md):of giving)
+- [Ghouls](Ghouls.md):(Zombie-like menaces)
+- [Nyolci](Nyolci.md):(Octopus headed scholars and shipmen)
+- [Dwelyn](Dwelyn.md):(Half-orc, half-elves, terrifyingly graceful and strong)
+- [Splinkreen](Splinkreen.md):(Apathetic vine-y plant people with no sense of survival)
+- [Istori](Istori.md):(Regal winter-elves)
+- [Dengar](Dengar.md):(Subjugated, simple-lifestyle swamp-halflings)
+- [Kuzagt](Kuzagt.md):(Cruel [elves](Elves.md):with bone protrusions and penchant for skin)
+- [Rentar](Rentar.md):(Religious, rust-skinned minotaur)
+- [Danaki](Danaki.md):(Easily enraged minotaur)
+- [Foxborn](Foxborn.md):(Fox-riding, noble gnomes)
+- [Qord'ik](Qord'ik.md):(Very large [humans](Humans), swarthy fighters and sailors)
+- [Tytheri](Tytheri.md):(Terrifyingly large, violent, white orcs)
+- [Windorf](Windorf.md):(Seafaring hobbit-y halflings)
+- [Goshwen](Goshwen.md):(Clever, standard gnomes)
+- [Myushli](Myushli.md):(Mushroom-folk, will infect you like zombies)
+- [Shailin](Shailin.md):(Yellow eyed, self-important but deceived halflings)
+- [Chargon](Chargon.md):(Sly, mysterious, and kind eel-headed people)
+- [Eloweir](Eloweir.md):(Liberal sea-elves)
+- [Xalahir](Xalahir.md):(Horrible vampire [elves](Elves.md):always looking for next meal)
+- [Husakas](Husakas.md):(Spice-addicted scorpion riders)
+- [Rusalka](Rusalka.md):(Lake-dwelling, shape-shifting humanoid-hunters)
+- [Tikhaya](Tikhaya.md):(Even headed philosophers of the north)
+- [Kendrel](Kendrel.md):(Noble, stunningly beautiful sea-horse-people)
+- [Cendoriln](Cendoriln.md):(Evil, stunningly beautiful sea-horse-people)
+- [Verucan](Verucan.md):(Competent, openminded volcanic dwarves)
+- [Cendelle](Cendelle.md):(Dwarven guardians of Celesté)
+- [Starborn](Starborn.md):(Druidic caretakers of the stars)
+- [Alekroin](Alekroin.md):(Powerful, hungry, courteous alligator people)
+- [Amverela](Amverela.md):(Regal, sophisticated elves)
+- [Wydlings](Wydlings.md):(Icy, fanged goblins of the north)
+- [Temptari](Temptari.md):(Religious time-fanatical humans)
+- [Ulvsjael](Ulvsjael.md):(Wolf-people)
+- [Trollkin](Trollkin.md):(Half-troll, half-human outcasts)
+- [Naruaghin](Naruaghin.md):(Half-Ix’Tyrann, half-dwarf, totally terrifying)
+- [Einwissel](Einwissel.md):(Extremely reclusive [dwarves](Dwarves.md):that know true names)
+- [Bloodlings](Bloodlings.md):(Underground vampire-gnomes)
+- [Gyv](Gyv.md):(Silver-skinned, incredibly glib humanoids)
+- [Shontobi](Shontobi.md):(Griffin riding samurai)
+- [Sylthik](Sylthik.md):(Cruel, arrogant, snake-headed zealots)
+- [Yngli](Yngli.md):(Mute, short cyclops)
+- [Vyko](Vyko.md):(Cosmic elves, have seen beyond)
+- [Gillykin](Gillykin.md):(Hoppy, exuberant frogs)
+- [Blitzling](Blitzling.md):(Easily enraged lightning-goblins)
+- [Qipi](Qipi.md):(Wrinkly skinned, green, curious, isolated [jungle](Jungles.md):gnomes)
+- [Tuktuk](Tuktuk.md):(Rugged, disciplined and war-happy turtle-people)
+- [Mudzwiti](Mudzwiti.md):(Dinosaur riding goblins of the jungle)
+- [Nuun](Nuun.md):(Dark-skinned, fire or water attuned [desert](Deserts.md):traders)
+- [Gruynmar](Gruynmar.md):(Fair skinned sea dwarves in giant iron juggernaut ships)
+- [Mnurvlyon](Mnurvlyon.md):(Pale, powerfully built, calm, half-giant half-dwarves)
