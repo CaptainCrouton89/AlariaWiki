@@ -18,4 +18,4 @@ Specialize in the incorporation of dragon bone into forge-work. For dragon-artif
 Built on a massive deposit of Malstaric ash. Excel at crafting with it.
 
 ## Azanfrain
-A fortress, built to keep watch over the [Pale Peaks](Pale Peaks) in the south. Keeping watch for the frost-walkers and ice wyrms. 
+A fortress, built to keep watch over the [Pale Peaks](Pale Peaks) in the south. Keeping watch for the [frostwalkers](Frostwalkers) and [ice wyrms](Ice Wyrms). 
