@@ -9,3 +9,4 @@
 - [Tytheri (Blood Orcs)](Tytheri)
 - [Xi'ivrach (Divine Orcs)](Xi'ivrach)
 - [Thrygun (Wild Orcs)](Thrygun)
+- [Bloodreavers](Bloodreavers)
