@@ -183,3 +183,4 @@
 - [Bloodreavers](Bloodreavers) (Loyal, blood-stained and misunderstood orcs)
 - [Dark Elves](Dark Elves) (Extinct, malicious dragon riders)
 - [Shyoka Saseidi](Shyoka Saseidi) (Boreal gnomes with profound trust and honesty for each other)
+- [Luma](Luma) (Translucent winged pixies of [Nykotheryx Amberylika](Nykotheryx Amberylika) )
