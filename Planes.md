@@ -1,1 +1,1 @@
-Planes are scattered throughout the universe, in clumps called "[Planar Stacks](Planar Stack)"
+Planes are scattered throughout the universe, in clumps called "[Planar Stacks](Planar Stack)". Planes can be physically connected, but usually have differen't physics.
