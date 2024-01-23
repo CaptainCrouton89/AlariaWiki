@@ -1,3 +1,15 @@
+New Race Ideas
+
+## Half Breeds
+- Elf-gnome, forest dwellers
+- Sylthik Orcs? Buff snakes
+- Pixie Ogres—muscle bound winged creatures
+
+## Element + Non-human race
+- Fire Ogres
+- Sea Trolls—solitary sailors
+- 
+
 # Humanoids
 
 - [Humans](Humans): Versatile in all regards
