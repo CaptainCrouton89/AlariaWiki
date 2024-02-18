@@ -13,6 +13,7 @@ Tags: [state](States)
 **Core Values**: Freedom, invention, independence, gratitude
 
 - [Bestacia](Bestacia) boasts one of the happiest populations on [Alaria](Alaria). There is plentiful food, rewarding lifestyles, and gratitude abound.
+- Notable for producing great scholars in art, philosophy, history, medicine, literature, and law. Fantastic educational instutitions—education is widely valued.
 
 
 ## Economy
