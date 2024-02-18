@@ -159,6 +159,9 @@ Ends with the [Killing Moon](Killing Moon).
 
 Battle between dynasties, no winners
 
+#### Evorkia's Vision: 10,400 BSD
+Evorkia was a powerful, good, lich. She had a vision of catastrophic future when Titans would return, and saw the world falling to them. Realizing the world was screwed if there was no resistance, she created orcs—a race of humanoids incapable of feeling fear. As the founder of their line, she sacrificed some her spirit to become theres, putting her in a dangerous situation—any positive aspects she kept for herself were ones the orcs could not have. Thus, a race of aggressive, fearless, and slow thinking humanoids was born. In giving her race the spirit they needed, she fell into a state of passivity and terror. Her visions were ignored by the wider world, and she eventually fled from her research and work on the orcs out of fear of her creation. The orcs were left directionless and escaped out into the world. Evorkia's fear drove her to further split her spirit, further deteriorating her mind to a state of base desires and evil. She isolated herself completely, and lives to this day, though only a shadow of her once incredible influence.
+
 ### Hykravones: 10,210–10,209 BSD
 
 Before the titans fled and died, Hykravones, the Gray Prince went into inter dimensional space, only returning millions of years later. The world as he knew it had been destroyed, and he flew into a rage, and began dismantling [Alaria](Alaria).
@@ -173,7 +176,22 @@ From the blood and soil of gaea's fallen children rose the Sharabha, Ulvsjael, a
 
 #### The Greatest Sacrifice
 
-In the final months of Hykavones' destruction, nearly every daemon across Celesté saw that they were about to get completely wiped out. While some faught, others snuck back to the material plane—taking on new forms and going into hiding. These daemons would ultimately go on to found new [races](Races)—descending from themselves. 
+In the final months of Hykavones' destruction, nearly every daemon across Celesté saw that they were about to get completely wiped out. While some faught, others snuck back to the material plane—taking on new forms and going into hiding. These daemons would ultimately go on to found new [races](Races)—descending from themselves. These races include:
+- [Gyv](Gyv)
+- [Rusalka](Rusalka)
+- [Pixies](Pixies)
+- [Jae-Kai](Jae-Kai) (Spirit wranglers)
+- [Shapers](Shapers) (Silver eye shape-shifters)
+- [Sarakiel](Sarakiel) (Evil angels of light)
+- [Valkyries](Valkyries) (Winged militants)
+- [Neferati](Neferati) (Red-skinned fire dancers with ram horns in touch with gaea)
+- [Xaphkiel](Xaphkiel) (Cruel angels of darkness)
+- [Children of Anubis](Children of Anubis) (Dogheaded guardians of the dead)
+- [Foresaken of Anubis](Foresaken of Anubis) (Dog-headed rogue vigilantes)
+- [Rhea](Rhea) (Gray-blue air-people)
+- [Sivakr](Sivakr) (Memory stealing silver-elves)
+- [Nuun](Nuun) (Dark-skinned, fire or water attuned [desert](Deserts) traders)
+- [Dark Elves](Dark Elves) (Extinct, malicious dragon riders)
 
 ## The Modern Era: 10,209 BSD–Now
 
@@ -209,6 +227,9 @@ Most sentient creatures did not get along with dragons, who were quickly taking 
 
 #### 1800 SD
 - [Tiira](Tiira) ascends to godhood
+
+#### 1900 SD
+**1905 SD**: Goblins are created by an orcish lich, created as servants to the orcs. Backfired terribly. Goblins are viewed as sub-human, an escaped slave race created by an malicious fool.
 
 
 #### 2900 SD
