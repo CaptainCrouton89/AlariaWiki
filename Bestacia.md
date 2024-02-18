@@ -60,6 +60,7 @@ Tags: [state](States)
 **Cities**: 
 
 **Towns**: 
+- Pastrova: Home to one of the best law schools in Alaria.
 
 **Villages**: 
 
