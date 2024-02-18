@@ -12,12 +12,26 @@ New Race Ideas
 
 # Humanoids
 
-- [Humans](Humans): Versatile in all regards
-- [Elves](Elves): Tend to be proud
-- [Dwarves](Dwarves): Staunch traditionalists
-- [Orcs](Orcs): Strong shit is good shit
-- [Goblins](Goblins): Generally impulsive and flighty
-- [Gnomes](Gnomes): Slightly less impulsive and flighty
+### [Druids](Druids)
+Immortal creators of the elves, extremely powerful. Born from the [Ezz Rift](Ezz Rift).
+
+### [Humans](Humans)
+Versatile in all regards. Created by Gaea out of jealousy of elves.
+
+### [Elves](Elves)
+Tend to be proud. Created by the Druids.
+
+### [Dwarves](Dwarves)
+Staunch traditionalists. Were at one point just humans who were immune to but deeply affected by the [Laughing Plague](Laughing Plague). 
+
+### [Orcs](Orcs)
+A heavy emphasis on strength. Literally cannot feel fear. Created as a race of people to fight [Hykravones](Hykravones) by the good lich [Evorkia](Evorkia).
+
+### [Goblins](Goblins)
+Generally impulsive and flighty. Created by [Mkrogus](Mkrogus), an orich lich. They were a failed attempt at creating a race subservient to the orcs.
+
+### [Gnomes](Gnomes)
+Slightly less impulsive and flighty
 - [Halflings](Halflings): Usually pretty loyal
 - [Ogres](Ogres): Old and reliable
 - [Pixies](Pixies): Clever and shortsighted fairies
@@ -26,7 +40,9 @@ New Race Ideas
 - [Dwelyn (Half-elf, half-orc)](Dwelyn): ??
 - [Gyv (Silvertongues)](Gyv): Silvertongued folk of humanoids
 - [Blaize](Blaize): Shy and easily manipulated blue hominids
-- [Ayblek (Aliens)](Ayblek): Four-armed aliens
+
+### [Ayblek (Aliens)](Ayblek): Four-armed aliens
+Came from another plane, but have made themselves at home here. 
 
 # Beastmen
 
@@ -46,6 +62,7 @@ New Race Ideas
 - [Tuktuk (Turtlekin)](Tuktuk): Thoughtful and warlike turtle-men
 - [Alekroin (Allegatorfolk)](Alekroin): Lazy, powerful alligatorfolk
 - [Troenka (Treefolk)](Troenka): ??
+- [Skree](Skree) (Dumb but vicious hyena people)
 
 # Supernatural
 
