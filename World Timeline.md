@@ -35,7 +35,7 @@ Azus began manipulating the cosmos, building planar stacks everywhere. It is bel
 
 #### [Alaria](Alaria) is Born: 235 million years ago
 
-[Alaria](Alaria) was one of the last planar stacks to form. It opened up without any psyic energy, and with only three [planes](Planes)—the material realm, the [Astral Plane](Astral Plane), and [Malstaris](Malstaris).
+[Alaria](Alaria) was one of the last planar stacks to form. It opened up without any psyic energy, and with only three primary [planes](Planes)—the material realm, the [Astral Plane](Astral Plane), and [Malstaris](Malstaris). 
 
 #### Lyzaria Era: 235–180 million years ago
 
