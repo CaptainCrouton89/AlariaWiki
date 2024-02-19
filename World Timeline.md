@@ -23,7 +23,7 @@ During this time, nearly nothing is known. It is generally believed that a primo
         - Druids (part melody, part deoric origins—true mix)
         - The alarian planar stack bursting and Ezz spilling in was her. Before that, there was much more strict separation of the planes.
     - In a desparate effort to call for aid, Melera sent out a ripple of music. It was weak, but it was just enough to cause the Alarian Planar Stack to fracture, causing Ezz to pour in. 
-- Azus is off toying with othr plains—hasn't visited Alaria since the the Ezz Rift—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
+- Azus is off toying with othr planes—hasn't visited Alaria since the the Ezz Rift—when his project was "ruined" (tainted by Melera's music). Melera has taken special interest in Alaria however, for she sees hope of someone there one day rising up and setting her free.
 
 ### The Contraction: 1,300–235 million years ago
 
