@@ -10,8 +10,8 @@ The first eon. Little is known about this time period.
 
 During this time, nearly nothing is known. It is generally believed that a primordial soup of the cosmos was swirling around, with the period eventually cumulating with the rise of Azus. Azus and Melera were the first gods, each with differing mindsets. 
 
-- Each created their own system of laws and behaviours of the world. For azus, everything was to be described, things had rules, and there was perfect balance: for creation, there would come destruction
-- Melera, she viewed the world as an instrument, to be played. Creating beauty from nothing—there is no cost to creating something wonderful with music. Nobody knows about her, or knows this story.
+- Each created their own system of laws and behaviours of the world. For azus, everything was to be described, things had rules, and there was perfect balance: for creation, there would come destruction. Logic and linearity were important.
+- Melera, she viewed the world as an instrument, to be played. Creating beauty from nothing—there is no cost to creating something wonderful with music. Less logic and linearity, more dynamic and free flowing. Nobody knows about her, or knows this story.
 - Together they created Ezz—an energy embodying both of their beliefs. However, Azus realized that his law and order was impossible—forever tainted by the randomness within the Ezz. He created Planar stacks—little bubbles protected from the Ezz.
 - Azus hated the freeform nature of Melera, locked her in a prison of specificity.
 - He creates the world alone. Begins organizing things into categories and boxes. Uses his magic, "Deoric" magic to do so. 
