@@ -39,7 +39,7 @@ Azus began manipulating the cosmos, building planar stacks everywhere. It is bel
 
 #### Lyzaria Era: 235–180 million years ago
 
-The first titans were Nydus, Aurus, and Celesté. Three siblings. After them came the first daughter—Lyzaria.
+The first titans were Nydus, Aurus, and Celesté. Three siblings. After them came the another daughter—Lyzaria.
 
 With Lyzaria the first titan was born. Titans were enormous, powerful beings who were responsible for creating most life on [Alaria](Alaria), probably also using [Deoric](Deoric). They populated all three [planes](Planes), though their most epic civilizations were built up in the depths of the Astral Sea and deep in the caves of [Malstaris](Malstaris).
 
