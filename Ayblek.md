@@ -2,7 +2,9 @@ Tags: [race](Races), [state](States)
 
 Live in [Pyonokraus](Pyonokraus)
 
-Multi-armed, long lived, completely independent with no family (spawn asexually).
+Multi-armed, long lived, completely independent with no family (spawn asexually). Previously inhabitants of [Instraxofinum](Instraxofinum). Here, they are extremely understimulated, so they seek out places where lots of stuff is going on.
+
+One was brought back by a traveling mage, and all the ones here now are descendent of the first one. They think very fast, and are extremely focused on whatever they set their mind to. They tend to set somewhat arbitrary and nonsensical goals for themselves that tend to not make sense to most mortals.
 
 Multiple arms allow for multiple actions and stuff
 

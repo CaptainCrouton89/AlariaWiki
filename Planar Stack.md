@@ -22,4 +22,4 @@ Completely dark, nothing can be seen in Narglon. Those who have returned have co
 
 ## Minor Planar Stacks
 
-- 
+- [Lanthornia](Lanthornia)
