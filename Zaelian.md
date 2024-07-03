@@ -33,12 +33,3 @@ Size: medium
 Height: 5.5-6.5 ft  
 Weight: 120-200 lbs  
 Max Age: 250    
-
-### Traits
-
-#### Child of the Moon
-*Passive ability.*  
-
-When using an oath, if it would bring you down to 0 hitpoints, you may still use that oath. You instead fall to 1 hitpoint and take a level of weakened, off-balanced, or dazed for every 5 hitpoints that you could not spend on the oath, rounded up. You cannot use this ability again until you are under open moonlight for ten minutes or more.
-
-Additionally, when you take this talent, you may choose one oath from the talent section. You gain this talent as a racial ability (it does not count towards the number of talents you have).
