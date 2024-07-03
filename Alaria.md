@@ -14,6 +14,7 @@ Welcome! This is the Almanac of [Alaria](Alaria)—a guide to the world of [Alar
 - [NPCs](NPCs)
 - [Factions](Factions)
 
+
 # Campaigns
 
 A collection of different campaign ideas
