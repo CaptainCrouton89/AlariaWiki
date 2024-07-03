@@ -2,7 +2,7 @@ Tags: [race](Races)
 
 ## Overview
 
-Half-breeds and outcasts—trollkin are the unwanted children of humans and trolls. Rare is the troll and human couple, and rarer still is the trollkin child that makes it past the first few months in the world. If not surreptitiously smothered or abandoned in a forest, most trollkin end up in orphanages, where they grow up as outsiders amongst their peers. In troll communities, they are viewed as weak and fragile, and in human communities, they are viewed as too stupid and emotionless to be effective members of society.
+Half-breeds and outcasts—trollkin are the unwanted children of [humans](Humans) and trolls. Rare is the troll and [human](Humans) couple, and rarer still is the trollkin child that makes it past the first few months in the world. If not surreptitiously smothered or abandoned in a [forest](Forests), most trollkin end up in orphanages, where they grow up as outsiders amongst their peers. In troll communities, they are viewed as weak and fragile, and in [human](Humans) communities, they are viewed as too stupid and emotionless to be effective members of society.
 
 <br>
 Unfortunately for trollkin, they are perfectly capable of understanding and figuring out many things, but are terrible at expressing it. Some trollkin abandon society to live alone in nature, becoming hermits and befriending the animals around them, who they may feel more comfortable around.
@@ -17,7 +17,7 @@ Still others turn to more violent areas of life. When faced with the constant fr
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: large  
 Height: 7.5-8.5 ft  
 Weight: 200-400 lbs  

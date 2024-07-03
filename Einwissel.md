@@ -4,6 +4,8 @@ Tags: [race](Races)
 
 Founded by the small colony of [dwarves](Dwarves) who traversed from [Celesté](Celesté) back to the [material plane](Material Plane). They are more in touch with the [daemons](Daemons), and they are capable of wielding each other's thoughts for [magic](Magic), but fragments of their true names are still known, putting them at enormous risk. For this reason, few [Einwissel](Einwissel) ever leave their colony, hidden deep within the mountains.
 
+Live in the [Zhorheim Mountains](Zhorheim Mountains) and [Mountains of Miphoris](Mountains of Miphoris).
+
 ## Physical Appearance
 
 The Eiwissel have blue-gray skin with silvery speckles in it. They are generally not as strong as the [Uline](Uline), though they are equally tall.

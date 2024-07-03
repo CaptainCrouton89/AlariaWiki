@@ -1,3 +1,5 @@
 Tags: dragon
 
 [Tepheranos](Tepheranos) is a black dragon, and brother of [Rothogomos](Rothogomos). Long ago, they came to [Argysis](Argysis) to conquer the [mountain](Mountains) and steal the [dwarven](Dwarves) treasure. However, upon entry, [Rothogomos](Rothogomos) betrayed [Tepheranos](Tepheranos), and took the treasure for his own. [Tepheranos](Tepheranos) was forced to retreat, and took over the small, unassuming kingdom of [Anarak](Anarak) nearby. Since then, [Tepheranos](Tepheranos) has made [Anarak](Anarak) much more successful, while [Argysis](Argysis) has stagnated. [Tepheranos](Tepheranos) still wants his revenge, and his relative failure has made [Rothogomos](Rothogomos) bitter, and is likewise now intent on revenge.
+
+Rothogomos is a blood dragon—though not deoric. Drinks nothing but blood (from his own populace), which has turned his scales red. Cruel and mad.

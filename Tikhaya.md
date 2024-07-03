@@ -6,12 +6,14 @@ Tikhaya are generous, quiet, and highly value strength and truth. Some would mis
 
 Tikhaya can be found across central and northern Alaria, as well as the Nautili Archipelago, and are known for their incredible philosophers, mathematicians, and martial warriors.
 
+Reside in [Kyorda](Kyorda).
+
 # History
 
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5.5-6.5 ft  
 Weight: 100-200lbs  

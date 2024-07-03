@@ -1,3 +1,3 @@
 Tags: mountains
 
-Mountainous, tunnel laden glaciers filled with winter [goblins](Goblins).
+Mountainous, tunnel laden glaciers filled with [Wydlings](Wydlings).

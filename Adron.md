@@ -1,7 +1,5 @@
 Tags: [state](States)
 
-Links: [States](States)
-
 ## Government & Peoples
 
 **Government Type**: Monarchy
@@ -19,9 +17,6 @@ Links: [States](States)
 - Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
  is a famous saying among [Naga](Naga) elders. 
 
-- Descendants of the first dragon, [Naga](Naga) have upheld their ancestors values for eons. "A [Naga](Naga) without honor is no [Naga](Naga) at all
- is a famous saying among Naga elders. 
-
 
 ## Economy
 
@@ -34,7 +29,7 @@ Links: [States](States)
 **Primary Imports**: animal products, luxury goods
 
 - The Adrak economy relies heavily on the Royal Adrak Bank, famous for funding both sides of foreign wars and coming out on top regardless of the victor.
-- A steady stream of [red gold](Red Gold) mined out of the Gozwin Mountains has provided insane wealth to the nobility of Adrak, and is the source of the famous Adrak jewelry.
+- A steady stream of [red gold](Red Gold) mined out of the Gozwin and Majesty Mountains has provided insane wealth to the nobility of Adrak, and is the source of the famous Adrak jewelry.
 
 
 ## Military
@@ -76,8 +71,7 @@ Links: [States](States)
 
 ## Primary Conflicts
 
-- The Blades are being terrorized by an adult, green dragon. This dragon is known to snatch people off passing boats, forcing merchants to sail out of their way around the hunting range of the dragon.
-- The [Dwarf](Dwarves) King continues to steal from travelers through the Majesty Mountains.
+- The [Dwarf](Dwarves) King continues to steal from travelers through the Majesty Mountains. He is descendant of the [dwarves](Dwarves) who used to live there, believes the resources of the mountains belong to him.
 - The Royal Adrak Bank is rumored to be funding all three sides of the War of Three Kingdoms.
 - A large influx of [Danaki](Danaki) refugees from the Danak-Atyeska war is angering citizens of the northern settlements.
 
@@ -85,7 +79,5 @@ Links: [States](States)
 ## History
 
 [Adron](Adron) used to raise [dragons](Dragons), and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.
-
-![Adronic countryside](/img/Adron.jpg)
 
 [Adron](Adron) used to raise [dragons](Dragons), and the royal family still holds onto a few dragon eggs. Now, however, the art has died out, and the dragon riders are only a thing of the past.

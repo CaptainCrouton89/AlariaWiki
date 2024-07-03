@@ -10,6 +10,6 @@ In addition, at any time, you may choose to allocate 10 slots of inventory space
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You may choose each option more than once, to grant additional levels of advantage on navigation checks, or give other people the benefits of shelter and a straw bed.
+You may choose each option more than once, to grant additional levels of [advantage](Advantage and Disadvantage) on navigation checks, or give other people the benefits of shelter and a straw bed.
 
 Additionally, you have finely tuned your sense for where there may be more to discover, and what you might find. Once per month, while exploring a location unfamiliar to you, you may declare that there is more to be discovered. Then name either ruin, settlement, or natural wonder, and choose a direction that you have not been in before. Whatever you named is located somewhat closely in the named direction. The GM may ask you to choose a different direction, or a different discovery.

@@ -14,7 +14,7 @@ Drachma are generally found in western regions of Alaria, along the coasts, and 
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6.5 ft  
 Weight: 100-200lbs  
@@ -30,4 +30,4 @@ When you gain this ability, choose might, agility, cunning, or presence. Wheneve
 #### Second Lid
 *Passive ability.*
 
-You have advantage on perception checks to spot things underwater.
+You have [advantage](Advantage and Disadvantage) on perception checks to spot things underwater.

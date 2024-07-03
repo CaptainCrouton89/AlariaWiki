@@ -4,4 +4,4 @@ This [desert](Deserts) was created when a massive meteor struck a [desert](Deser
 
 Over the millenia, this glass has been sandblasted and fractured—resulting in some places being blanketed in huge swaths of glass fragments. 
 
-[Rocs](Rocs) in the nearby mountains now hunt large prey by lifting them up into the sky, and dropping them on the desert to break their bones before bringing them back to their enormous nests in the mountains.
+[Rocs](Rocs) in the nearby mountains now hunt large prey by lifting them up into the sky, and dropping them on the [desert](Deserts) to break their bones before bringing them back to their enormous nests in the mountains.

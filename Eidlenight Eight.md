@@ -1,0 +1,3 @@
+Tags: faction
+
+A coalition of eight major daemons: [Bylzar](Bylzar), [Varn](Varn), [Sainu](Sainu), [Íritiv](Íritiv), [Solas](Solas), [Uun](Uun), [Qoponatai](Qoponatai), and [Azak](Azak). Followers wear an eight-sided, white star, which protects them from various evils. This is because the Eidlenight Eight grant power to those who perform evil against non-members. Rather than grant miracles, they punish non-followers. It is proving incredible effective.

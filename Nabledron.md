@@ -1,0 +1,3 @@
+Tags: fortress, poi
+
+A fortress built by the rich noble [Roysann](Roysann) of the [Free Isles](Free Isles). He sought to gain immense firepower by compressing enormous amounts of fire into spheres of glass, using the confluence of the force and fire leylines. Unfortunately, some of these orbs shattered, causing a catastrophic chain reaction. Not all were destroyed, but Roysann was killed and the project came to an end.

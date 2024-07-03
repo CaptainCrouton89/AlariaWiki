@@ -6,6 +6,6 @@ Tribal [goblins](Goblins). Several subsets. Lots of bone piercings. Build super 
 
 They ride the utahraptors that reside in the [jungle](Jungles). Wear the skulls of the [dinosaurs](Dinosaurs) as helmets.
 
-A new leader has begun to rise who may unite the jungle. [Tuku Agishi](Tuku Agishi) has somehow found a much larger dinosaur (imported from outsider), and has fed it immmortality sauce.
+A new leader has begun to rise who may unite the [jungle](Jungles). [Tuku Agishi](Tuku Agishi) has somehow found a much larger dinosaur (imported from outsider), and has fed it immmortality sauce.
 
 Reside in [Lyoki Ingi Ingi](Lyoki Ingi Ingi) [jungle](Jungles). 

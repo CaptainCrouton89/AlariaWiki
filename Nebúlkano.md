@@ -1,4 +1,4 @@
-Tags: [race](Races), hag
+Tags: [monster](Monsters), hag
 
 ## Overview
 

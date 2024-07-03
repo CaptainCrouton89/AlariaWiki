@@ -17,7 +17,7 @@ Tags: [race](Races)
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 3.5-4.5 ft  
 Weight: 100-180 lbs  

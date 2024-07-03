@@ -1,1 +1,1 @@
-Planes are scattered throughout the universe, in clumps called "[Planar Stacks](Planar Stack)"
+Planes are scattered throughout the universe, in clumps called "[Planar Stacks](Planar Stack)". Planes can be physically connected, but usually have differen't physics. Planes can sometimes have an inverse side. In reality, this is just a different plane. However, when the other plane holds a strong connection with one other plane, sometimes they are refered to as two sides of the same plane—with one being the "positive" side, and the other being "negative". test

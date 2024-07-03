@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**:
 
-**Primary Inhabitants**:
+**Primary Inhabitants**: Home to [Kappa](Kappa)
 
 **Population**: 
 

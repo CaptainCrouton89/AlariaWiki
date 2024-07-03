@@ -1,10 +1,12 @@
 Tags: [state](States)
 
+pronounced "at-try(spanish "r")-**ike**"
+
 ## Government & Peoples
 
 **Government Type**: Confederation of monarch citystates
 
-**Primary Inhabitants**: [Kor](Kor), Sharbha
+**Primary Inhabitants**: [Kor](Kor), Sharabha
 
 **Population**: 70,000
 

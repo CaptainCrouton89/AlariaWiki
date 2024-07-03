@@ -1,17 +1,23 @@
-Tags: [race](Races)
+Tags: [race](Races), [dwarf](Dwarves)
 
-## Overview
+# Overview
 
+Fire, forges, volcanoes, etc, easily pissed off. Skin is black, with red veins going through it. 
 
+# History
 
-## Physical Appearance
+# Heart Rush
 
+### Vitals
+Type: [race](Races)  
+Size: medium  
+Height: 4-5 ft  
+Weight: 80-180 lbs  
+Max Age: 200  
 
+### Traits
 
-## Cultural Overview
+#### Bourne by the Forge
+*Passive ability.*
 
-
-
-## History
-
-
+You gain an advanced attunement to fire.

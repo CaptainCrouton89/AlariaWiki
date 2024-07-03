@@ -1,3 +1,3 @@
 Tags: [state](States)
 
-Sprawling, feudal kingdom of [Istori (Winter Elves)](Istori). Foxes and snowy owls are their servants. The [Istori](Istori) are kind, benevolent, and regal. 
+Feudal kingdom of [Istori (Winter Elves)](Istori). Foxes and snowy owls are their servants. Home to the Istori. At war with their neighbors over recent death of leader. Typically regal and calm, have become much nastier.

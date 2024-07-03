@@ -12,23 +12,21 @@ Those that turn away from their roots are known as the forsaken. The forsaken k
 
 Regardless of which path they follow, all [children of Anubis](Children of Anubis) are capable of weighing the souls of those they touch. 
 
-In exchange, he grants them guidance and help. Others turn away, and although they 
+# Heart Rush
 
-Dog creatures, keep the dead dead, judge souls, very lawful. 
+### Vitals
+Type: [race](Races)  
+Size: medium  
+Height: 5.5-6.5 ft  
+Weight: 120-200 lbs  
+Max Age: 160  
 
-### Aspects
-I am not afraid of death
+### Traits
 
-### Weigher of Souls
-Passive ability.
+#### Weigher of Souls
+*Passive ability.*
+
 As an action, you may place your hand on a creature’s chest to weigh their [soul](Life and Death). When you do so, you learn:
-The weight of the creature’s [soul](Life and Death). If it is heavier than a feather, than the creature is unjust, and deceitful. If it is lighter, than the opposite.
-What the last deceitful thing the creature said was.
 
-## Subclasses
-
-- [Servants of Anubis](Servants of Anubis)
-- [Foresaken](Foresaken)
-
-### [Foresaken](Foresaken)
-
+- The weight of the creature’s [soul](Life and Death). If it is heavier than a feather, than the creature is unjust, and deceitful. If it is lighter, than the opposite.
+- What the last deceitful thing the creature said was.

@@ -1,6 +1,6 @@
 *Passive ability. Handmagic.*
 
-You have advantage when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
+You have [advantage](Advantage and Disadvantage) when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 

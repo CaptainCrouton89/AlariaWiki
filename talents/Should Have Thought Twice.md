@@ -4,4 +4,4 @@ You may use this ability once stances are revealed, but before attack and defens
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If a creature chooses the same stance a second time, that creature has disadvantage on AD rolls.
+If a creature chooses the same stance a second time, that creature has [disadvantage](Advantage and Disadvantage) on AD rolls.

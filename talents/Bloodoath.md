@@ -4,4 +4,4 @@ As an action, you may cut open your hand, taking 20 damage, and utter an oath, s
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on A/D rolls against your sworn enemy. In addition, you do not need to use your action to use this ability.
+You have [advantage](Advantage and Disadvantage) on A/D rolls against your sworn enemy. In addition, you do not need to use your action to use this ability.

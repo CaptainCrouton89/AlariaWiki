@@ -19,11 +19,11 @@ You have learned the art of killing silently. As an action, you may make a might
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Once per month, you may declare a humanoid to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
+Once per month, you may declare a [humanoid](Humans) to be the target of your assassination. So long as that creature is unaware of your existence and never learns you are an assassin, they remain marked.
 
 Given you spend one month studying the target of your assassination before attempting to kill them, you learn their weaknesses, and gain the following abilities:
 
-- You have advantage on all attacks against them.
+- You have [advantage](Advantage and Disadvantage) on all attacks against them.
 - If you surprise the creature, you may silence the creature without using your action.
 
 <br>
@@ -46,7 +46,7 @@ In addition, those effected by the spell gain hitpoints equal to the maximum of 
 #### Backstab
 *Heart ability. Instant. Martial talent.*
 
-If you and another ally are opposite to each other with an enemy directly between you (you can draw a line from a single corner of your space to every corner of the ally’s space such that the line passes completely through the enemy’s space), and the enemy makes an attack roll against your ally, you may add 1d12 to your next melee attack roll against that enemy until end of turn. You must be wielding an ultralight weapon to gain the benefits of this ability.
+If you and another ally are opposite to each other with an enemy directly between you (you can draw a line from a single corner of your space to every corner of the ally’s space such that the line passes completely through the enemy’s space), and the enemy makes an [attack roll](Attack and Defense Rolls) against your ally, you may add 1d12 to your next melee [attack roll](Attack and Defense Rolls) against that enemy until end of turn. You must be wielding an ultralight weapon to gain the benefits of this ability.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -58,7 +58,7 @@ You may add 1d20 instead.
 #### Battlefrenzy
 *Passive ability. Martial talent.*
 
-While there are two or more enemies adjacent to you, you have advantage on your attack roll for each enemy adjacent to you.
+While there are two or more enemies adjacent to you, you have [advantage](Advantage and Disadvantage) on your [attack roll](Attack and Defense Rolls) for each enemy adjacent to you.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -110,7 +110,7 @@ You can see through your companion’s eyes, and hear through its ears. While do
 #### Beastmaster
 *Passive ability. Cognitive talent.*
 
-You have advantage on all checks to tame or befriend animals. Wild animals will never target you to hunt if they are only seeking food.
+You have [advantage](Advantage and Disadvantage) on all checks to tame or befriend animals. Wild animals will never target you to hunt if they are only seeking food.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -146,7 +146,7 @@ So long as you are holding on to someone, they may come with you if they are wil
 #### Bloodblade
 *Passive ability. Oath.*
 
-Whenever you make an attack roll, you may choose to lose 2 hitpoints and add 3 to your roll.
+Whenever you make an [attack roll](Attack and Defense Rolls), you may choose to lose 2 hitpoints and add 3 to your roll.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -162,7 +162,7 @@ As an action, you may cut open your hand, taking 20 damage, and utter an oath, s
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on A/D rolls against your sworn enemy. In addition, you do not need to use your action to use this ability.
+You have [advantage](Advantage and Disadvantage) on A/D rolls against your sworn enemy. In addition, you do not need to use your action to use this ability.
 
 <br>
 <hr>
@@ -170,11 +170,11 @@ You have advantage on A/D rolls against your sworn enemy. In addition, you do no
 #### Bloodlust
 *Passive ability. Martial talent.*
 
-Whenever you make an attack roll against an enemy that is not at its maximum heart die, you may give it three levels of dazed, off-balanced, or weakened.
+Whenever you make an [attack roll](Attack and Defense Rolls) against an enemy that is not at its maximum heart die, you may give it three levels of dazed, off-balanced, or weakened.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If that creature is also dazed, off-balanced, or weakened, you have advantage on your attack, and gain 4 hitpoints.
+If that creature is also dazed, off-balanced, or weakened, you have [advantage](Advantage and Disadvantage) on your attack, and gain 4 hitpoints.
 
 <br>
 <hr>
@@ -186,7 +186,7 @@ Whenever your melee attack causes a creature’s heart die to fall, you may make
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Whenever you reduce a creature to 0 hitpoints, your next attack roll deals an additional 1d10 damage.
+Whenever you reduce a creature to 0 hitpoints, your next [attack roll](Attack and Defense Rolls) deals an additional 1d10 damage.
 
 <br>
 <hr>
@@ -194,7 +194,7 @@ Whenever you reduce a creature to 0 hitpoints, your next attack roll deals an ad
 #### Brutal Criticals
 *Heart ability. Instant. Martial talent.*
 
-Whenever you roll the maximum result on any two dice in an attack roll, you may halve the result of the enemy’s defense roll, rounded down. Both dice must be a d6 or higher.
+Whenever you roll the maximum result on any two dice in an attack roll, you may halve the result of the enemy’s [defense roll](Attack and Defense Rolls), rounded down. Both dice must be a d6 or higher.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -264,15 +264,15 @@ You gain 4 hitpoints at the beginning of each turn instead.
 #### Choke
 *Passive ability. Martial talent.*
 
-If you would make an attack against an adjacent, restrained creature, you may instead attempt to choke that creature. Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have disadvantage for each level of size difference. If the creature is smaller, you have advantage for each level of size difference. On a success, you begin choking the creature, dealing 1d6 damage at the start of each of the creature’s turns, or whenever it moves or takes an action.
+If you would make an attack against an adjacent, restrained creature, you may instead attempt to choke that creature. Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have [disadvantage](Advantage and Disadvantage) for each level of size difference. If the creature is smaller, you have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. On a success, you begin choking the creature, dealing 1d6 damage at the start of each of the creature’s turns, or whenever it moves or takes an action.
 
-The creature may attempt to break free of the grapple by spending an action to make a might or agility check versus your might or agility challenge number (your choice). Size has the same effects on advantage and disadvantage, but in reverse. On a success, they are no longer being choked.
+The creature may attempt to break free of the grapple by spending an action to make a might or agility check versus your might or agility challenge number (your choice). Size has the same effects on [advantage](Advantage and Disadvantage) and [disadvantage](Advantage and Disadvantage), but in reverse. On a success, they are no longer being choked.
 
 You cannot choke creatures that do have a throat.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on checks to choke. When it attempts to break free, it has disadvantage.
+You have [advantage](Advantage and Disadvantage) on checks to choke. When it attempts to break free, it has [disadvantage](Advantage and Disadvantage).
 
 <br>
 <hr>
@@ -374,7 +374,7 @@ You may forgo the +2 bonus that this talent provides, and instead work with your
 #### Dodge and Weave
 *Passive ability. Martial talent.*
 
-Whenever you dash, you get +2 to your next defense roll before the start of your next turn. This can stack multiple times.
+Whenever you dash, you get +2 to your next [defense roll](Attack and Defense Rolls) before the start of your next turn. This can stack multiple times.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -426,7 +426,7 @@ Whenever you make an attack roll against a creature with maximum hitpoints, add 
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Whenever you make an attack roll against a creature with maximum hitpoints, they take your choice of three levels of dazed, weakened, or off-balanced.
+Whenever you make an [attack roll](Attack and Defense Rolls) against a creature with maximum hitpoints, they take your choice of three levels of dazed, weakened, or off-balanced.
 
 <br>
 <hr>
@@ -434,7 +434,7 @@ Whenever you make an attack roll against a creature with maximum hitpoints, they
 #### Focused Fire
 *Heart ability. Slow. Cognitive talent.*
 
-By entering a more meditated state, you can become even more efficient at taking out a creature, at the cost of your skill at attacking others. Choose a creature. For the next hour, you have A2 on attacking that creature, and D2 on attacking all other creatures.
+By entering a more meditated [state](States), you can become even more efficient at taking out a creature, at the cost of your skill at attacking others. Choose a creature. For the next hour, you have A2 on attacking that creature, and D2 on attacking all other creatures.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -446,7 +446,7 @@ When you use this ability, you may increase the bonus and penalty to A4 and D4 r
 #### Gambit
 *Passive ability. Martial talent.*
 
-You may declare a non-defensive stance before everyone reveals (allowing other people to change theirs in response). Anyone who attacks you has D2 on their defense rolls during this engagement. You have advantage on your attack roll. 
+You may declare a non-defensive stance before everyone reveals (allowing other people to change theirs in response). Anyone who attacks you has D2 on their defense rolls during this engagement. You have [advantage](Advantage and Disadvantage) on your [attack roll](Attack and Defense Rolls). 
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -506,11 +506,11 @@ The opportunity attack does not cost an action.
 #### Hit ‘Em Where It Counts
 *Passive ability. Martial talent.*
 
-You may forgo any number of levels of advantage on an attack roll to instead get +1 to your attack roll for each level you forgo.
+You may forgo any number of levels of [advantage](Advantage and Disadvantage) on an attack roll to instead get +1 to your [attack roll](Attack and Defense Rolls) for each level you forgo.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If you have advantage on an attack roll, you gain an additional two levels of advantage.
+If you have advantage on an [attack roll](Attack and Defense Rolls), you gain an additional two levels of [advantage](Advantage and Disadvantage).
 
 <br>
 <hr>
@@ -582,7 +582,7 @@ You have A3 on attack rolls for every 10 feet instead.
 #### Juggernaut
 *Passive ability. Martial talent.*
 
-Your move speed cannot be reduced below 40 by nonmagical means. Additionally, your encumbrance score increases to 10 times your might die, and your maximum carrying capacity increase to double that. You must choose the disadvantage on athletics and A/D rolls option when you take penalties for being over-encumbered.
+Your move speed cannot be reduced below 40 by nonmagical means. Additionally, your encumbrance score increases to 10 times your might die, and your maximum carrying capacity increase to double that. You must choose the [disadvantage](Advantage and Disadvantage) on athletics and A/D rolls option when you take penalties for being over-encumbered.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -630,9 +630,9 @@ Once per engagement, you may increase or decrease the result of an A/D roll by 1
 #### Master Wrestler
 *Passive ability. Martial talent.*
 
-Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have disadvantage for each level of size difference. If the creature is smaller, you have advantage for each level of size difference. On a success, the creature gains a level of restrained. Your movement is decreased by half of its move speed so long as you are grappling it.
+Make a might or agility check versus the creatures agility or might challenge number (it gets to choose). If the creature is larger, you have dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. If the creature is smaller, you have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) for each level of size difference. On a success, the creature gains a level of restrained. Your movement is decreased by half of its move speed so long as you are grappling it.
 
-The creature may attempt to break free of the grapple by spending an action to make a might or agility check versus your might or agility challenge number (your choice). Size has the same effects on advantage and disadvantage, but in reverse. On a success, they are no longer restrained. You may let go of them at any time. You must have at least one hand free to use this ability.
+The creature may attempt to break free of the grapple by spending an action to make a might or agility check versus your might or agility challenge number (your choice). Size has the same effects on [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) and [disadvantage](Advantage and Disadvantage), but in reverse. On a success, they are no longer restrained. You may let go of them at any time. You must have at least one hand free to use this ability.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -696,11 +696,11 @@ You moment speed increases by 20 more feet.
 #### Perfect Defense
 *Passive ability. Martial talent.*
 
-Whenever you roll the maximum result on one of the dice for a defense roll, you may double the result of the other die.
+Whenever you roll the maximum result on one of the dice for a [defense roll](Attack and Defense Rolls), you may double the result of the other die.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on defense rolls.
+You have [advantage](Advantage and Disadvantage) on defense rolls.
 
 <br>
 <hr>
@@ -760,7 +760,7 @@ You have developed the weapon technique to deliver poison more efficiently. When
 #### Push Off
 *Passive ability. Martial talent.*
 
-Whenever you start your turn adjacent to a wall or other piece of impassable terrain you can immediately take the dash action for free. Whenever you use this ability, you get advantage on your next A/D roll made in the same round.
+Whenever you start your turn adjacent to a wall or other piece of impassable terrain you can immediately take the dash action for free. Whenever you use this ability, you get [advantage](Advantage and Disadvantage) on your next A/D roll made in the same round.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -784,7 +784,7 @@ Roll an additional 4d6 instead.
 #### Reckless Attack
 *Passive ability. Martial talent.*
 
-Upon entering an engagement or making an opportunity attack, but before choosing stances, you may declare this to be a reckless attack. You may add 1d4 to each of your attack rolls until the end of the round. Enemies have advantage on their next attack roll against you until the beginning of your next turn.
+Upon entering an engagement or making an opportunity attack, but before choosing stances, you may declare this to be a reckless attack. You may add 1d4 to each of your attack rolls until the end of the round. Enemies have [advantage](Advantage and Disadvantage) on their next [attack roll](Attack and Defense Rolls) against you until the beginning of your next turn.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -860,7 +860,7 @@ You may use this ability once stances are revealed, but before attack and defens
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If a creature chooses the same stance a second time, that creature has disadvantage on AD rolls.
+If a creature chooses the same stance a second time, that creature has dis[advantage]([Advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) and Disadvantage) on AD rolls.
 
 <br>
 <hr>
@@ -873,7 +873,7 @@ Whenever you make a skill check or saving throw to avoid or escape being restrai
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Once per round, if you roll doubles on a defense roll, you may  choose to move 5 feet. If you are no longer a valid target for your attacker, you do not take damage. This movement does not provoke opportunity attacks from your attacker. 
+Once per round, if you roll doubles on a [defense roll](Attack and Defense Rolls), you may  choose to move 5 feet. If you are no longer a valid target for your attacker, you do not take damage. This movement does not provoke opportunity attacks from your attacker. 
 
 <br>
 <hr>
@@ -917,7 +917,7 @@ You instead get a number of levels of advantage on your attack rolls equal to th
 #### Target the weakness
 *Heart ability. Instant. Cognitive talent.*
 
-After entering an engagement, but before anyone declares stances, you may use this ability. Announce a stance, and a creature in the engagement. Once stances are revealed, any attack roll against the creature made using the announced stance ignores half of the target’s defense roll.
+After entering an engagement, but before anyone declares stances, you may use this ability. Announce a stance, and a creature in the engagement. Once stances are revealed, any attack roll against the creature made using the announced stance ignores half of the target’s [defense roll](Attack and Defense Rolls).
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -945,7 +945,7 @@ When you choose the agility stance, if you are allowed to dash, you may do so be
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Whenever you dash in this manner, you can dash through another creature’s space. If you do, you may add 1d8 to your attack roll if you then attack that creature.
+Whenever you dash in this manner, you can dash through another creature’s space. If you do, you may add 1d8 to your [attack roll](Attack and Defense Rolls) if you then attack that creature.
 
 <br>
 <hr>
@@ -1049,11 +1049,11 @@ You can suss out information from someone even without them knowing. If you spen
 - Childhood
 - Moral compass
 
-If you wish, you may press further and make a presence check contested by their cunning challenge number. This check is made with disadvantage if they are unfriendly or hostile towards you. On a success, you learn any one specific piece of information that the target knows and is not actively hiding. On a fail, they know that you are fishing for information about your topic.
+If you wish, you may press further and make a presence check contested by their cunning challenge number. This check is made with dis[advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) if they are unfriendly or hostile towards you. On a success, you learn any one specific piece of information that the target knows and is not actively hiding. On a fail, they know that you are fishing for information about your topic.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You do not make this check with disadvantage against unfriendly creatures, and you make the check with advantage if it’s against a friendly or neutral creature. In addition, if you fail, the creature does not know that you were probing for details on your topic.
+You do not make this check with dis[advantage](Advantage and Disadvantage) against unfriendly creatures, and you make the check with advantage if it’s against a friendly or neutral creature. In addition, if you fail, the creature does not know that you were probing for details on your topic.
 
 <br>
 <hr>
@@ -1086,7 +1086,7 @@ You have A4 on all attempts to perform any sort of sleight of hand.
 #### Divine Consult
 *Monthly ability. Slow. Cognitive talent.*
 
-You are capable of limited communication with the daemon you worship. You may ask one yes or no question of the daemon. The GM must either answer it truthfully, or you may put 1 XP into the experience bowl. You cannot use this ability more than once per session, and you cannot ask the same question again, regardless of if the GM answered your question.
+You are capable of limited communication with the [daemon](Daemons) you worship. You may ask one yes or no question of the [daemon](Daemons). The GM must either answer it truthfully, or you may put 1 XP into the experience bowl. You cannot use this ability more than once per session, and you cannot ask the same question again, regardless of if the GM answered your question.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1132,7 +1132,7 @@ You can cause a plant you are touching to slowly change its shape as you command
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-As an action, you can meld with a tree, or other, equally large plant. By doing so, your body and gear disappears, and your spirit inhabits the wood of the tree. You can sense your surroundings out to a range of 45 feet. 
+As an action, you can meld with a tree, or other, equally large plant. By doing so, your body and gear disappears, and your [spirit](Life and Death) inhabits the wood of the tree. You can sense your surroundings out to a range of 45 feet. 
 
 While transformed as a tree, you maintain the stats of your untransformed character, though your defense becomes 8, and you may double your current and maximum hitpoints. You are also incapacitated, and cannot speak. You may transform back to your original form as an action.
 
@@ -1146,7 +1146,7 @@ You can communicate with plants, so long as you are touching them. Plants recogn
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If you speak in an area of dense vegetation, such as a forest, plains, or garden, you may choose for your voice to carry as whispers in the blade of grass or leaves on the trees to everywhere within the reaches of that vegetation, up to a 100 mile radius. Likewise, you may choose to listen to any sounds or voices within 100 miles, so long as you are both in the same larger body of dense vegetation.
+If you speak in an area of dense vegetation, such as a [forest](Forests), plains, or garden, you may choose for your voice to carry as whispers in the blade of grass or leaves on the trees to everywhere within the reaches of that vegetation, up to a 100 mile radius. Likewise, you may choose to listen to any sounds or voices within 100 miles, so long as you are both in the same larger body of dense vegetation.
 
 If you have the destiny level of the Druid’s Touch talent, you may speak while transformed as a plant.
 
@@ -1204,7 +1204,7 @@ Choose two creatures. They have D2 on attack rolls against each other for the ne
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Instead, only one of those creatures of your choice has disadvantage on its attack rolls.
+Instead, only one of those creatures of your choice has dis[advantage](Advantage and Disadvantage) on its attack rolls.
 
 <br>
 <hr>
@@ -1260,13 +1260,13 @@ You may mark up to three objects at a time, and the source of your senses can or
 #### Hate
 *Passive ability. Cognitive talent.*
 
-You feel a deep loathing towards a certain type of creature or individual. You have A2 on all checks to find and learn more information about this type of creature or individual, and you have advantage on attack rolls against them if they are an individual.
+You feel a deep loathing towards a certain type of creature or individual. You have A2 on all checks to find and learn more information about this type of creature or individual, and you have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on attack rolls against them if they are an individual.
 If the creature is an individual, you may exchange this talent for any other talent when you kill the individual.
 You may take this talent any number of times, though you must choose a different target each time.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-You have advantage on all checks related to hindering your target, and you gain advantage on defense rolls if the target of your hate is a specific individual. If the creature is an individual, you may replace this talent with a new talent and a destiny level for any talent you already have.
+You have [advantage](Advantage and Disadvantage) on all checks related to hindering your target, and you gain advantage on defense rolls if the target of your hate is a specific individual. If the creature is an individual, you may replace this talent with a new talent and a destiny level for any talent you already have.
 
 <br>
 <hr>
@@ -1311,7 +1311,7 @@ Even if a creature is being attacked, or is in danger, it still cannot move more
 *Passive ability. Cognitive talent.*
 
 You have a cause, and you are good at rallying those around you to it. If you spend ten minutes talking to a crowd of ten or more, you convert 1/10th of the people who are at least one level of influence lower than you into followers. 
-You have advantage when trying to persuade your followers to take an action that aligns with your ideology.
+You have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) when trying to persuade your followers to take an action that aligns with your ideology.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1337,7 +1337,7 @@ You may add one detail to whatever thing you notice.
 #### Medic
 *Passive ability. Handmagic.*
 
-You have advantage when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
+You have [advantage](Advantage and Disadvantage) when making cunning checks to treat wounds. Whenever you successfully treat a wound, reduce its rank by one.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -1419,7 +1419,7 @@ In addition, so long as you can see someone’s lips and understand the language
 
 Hidden attackers cannot make opportunity attacks against you, you do not suffer any penalty from attacking an obscured enemy, and obscured enemies gain no advantage when attacking you. 
 
-In addition, if you spend your action watching a creature fight for there rounds or more, you learn the creature’s strengths and weaknesses, and have advantage on all A/D rolls made against that creature.
+In addition, if you spend your action watching a creature fight for there rounds or more, you learn the creature’s strengths and weaknesses, and have [advantage]([Advantage](Advantage and Disadvantage) and Disadvantage) on all A/D rolls made against that creature.
 
 <br>
 <hr>

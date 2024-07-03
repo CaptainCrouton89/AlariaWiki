@@ -1,10 +1,10 @@
-Tags: [race](Races), gnome
+Tags: [race](Races), [gnome](Gnomes)
 
 # Overview
 
 Also known as *tree gnomes*.
 
-The Ezuri, or “tree people” as it translates to from Old Gnomish, stemmed from when Mad Gorehorn disease ravaged what is now known as the Jungles of Titania, transforming many of the forest dwelling creatures into rabid, flesh eating monsters. While many fled the jungle, some were trapped, and forced up and into the trees. By the time the disease had passed, the gnomes were comfortable in their new living situation. Nowadays, the Ezuri live across Alaria, usually living in interconnected houses built among the trees, or if not, in other closely knit, lofty places. 
+The Ezuri, or “tree people” as it translates to from Old [Gnomish](Gnomes), stemmed from when Mad Gorehorn disease ravaged what is now known as the Jungles of Titania, transforming many of the [forest](Forests) dwelling creatures into rabid, flesh eating monsters. While many fled the [jungle](Jungles), some were trapped, and forced up and into the trees. By the time the disease had passed, the gnomes were comfortable in their new living situation. Nowadays, the Ezuri live across Alaria, usually living in interconnected houses built among the trees, or if not, in other closely knit, lofty places. 
 
 The Ezuri also value connection with each other as well as the natural world around them, and are taught the secrets of speaking with animals from a young age. This, combined with their natural affinity for magic, allow them to stand up to the much larger humanoids across Alaria.
 
@@ -13,7 +13,7 @@ The Ezuri also value connection with each other as well as the natural world aro
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: small  
 Height: 2.5-4 ft  
 Weight: 40-100 lbs  

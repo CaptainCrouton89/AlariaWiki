@@ -1,12 +1,14 @@
-Tags: state
+Tags: [state](States)
 
-Links: [States](States)
+(HEH-fake)
+
+Used to be close with [Argysis](Argysis). See [Sennos](Sennos).
 
 ## Government & Peoples
 
 **Government Type**:
 
-**Primary Inhabitants**: 
+**Primary Inhabitants**: [Dwarves](Dwarves), [kimril](Kimril)
 
 **Population**: 
 
@@ -14,7 +16,7 @@ Links: [States](States)
 
 **Core Values**: 
 
-- 
+- Patrilineal monarchy. [Agora](Agora) and [Phorysia](Phorysia) governors are appointed by king for acts of courage/glory/etc. Positions very rarely change.
 
 
 ## Economy

@@ -6,7 +6,7 @@ Neth are thoughtful and inscrutable, and place a high emphasis on community, anc
 
 Neth are best known for their ability to speak with the wind, allowing them to communicate with the deceased members of their communities to gather advice. The advice and secrets of their ancestors is central to the longevity and power of the many Neth-composed tribes that cover the northern tundras. For this reason, maintaining good relation with one’s family, and community are critical to Neth culture, an outlook and behavior that extends to friends they meet who become close.
 
-Neth can be found across the North Reach, along the coast, and in the north-eastern regions above Atyeska, and are famous for their sages, soothsayers, and resilient warriors.
+Neth can be found across the [Amber Coast](Amber Coast), along the coast, and in the north-eastern regions above Atyeska, and are famous for their sages, soothsayers, and resilient warriors.
 
 
 ## History
@@ -14,7 +14,7 @@ Neth can be found across the North Reach, along the coast, and in the north-east
 # Heart Rush
 
 ### Vitals
-Type: race  
+Type: [race](Races)  
 Size: medium  
 Height: 5-6.5 ft  
 Weight: 100-200lbs  

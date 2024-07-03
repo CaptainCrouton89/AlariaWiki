@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Democratic republic, with an elected emperor
 
-**Primary Inhabitants**: [Humans](Humans), many other [races](Races)
+**Primary Inhabitants**: [Humans](Humans), [Shapers](Shapers), [Skaag](Skaag)
 
 **Population**: 1,000,000
 

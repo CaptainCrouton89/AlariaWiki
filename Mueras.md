@@ -4,7 +4,7 @@ Tags: [state](States)
 
 **Government Type**: Oligarchy
 
-**Primary Inhabitants**: [Drachma](Drachma)
+**Primary Inhabitants**: [Drachma](Drachma), [Yngli](Yngli)
 
 **Population**: 100,000
 

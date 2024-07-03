@@ -29,7 +29,7 @@
 - [Xoth](Xoth)
 - [Zelidia](Zelidia)
 - [Mueras](Mueras)
-- [Kurayt](Kurayt)
+- [Kura](Kura)
 - [Glivornax](Glivornax)
 - [Tarn](Tarn)
 - [Uhionai](Uhionai)

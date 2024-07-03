@@ -1,3 +1,3 @@
-Tags: state
+Tags: [state](States)
 
 Populated by [Nydor](Nydor)

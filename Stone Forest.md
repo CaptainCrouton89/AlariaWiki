@@ -1,0 +1,3 @@
+Tags: [forest](Forests)
+
+The entire [forest](Forests) is made of stone, including all of the wildlife. Entry is forbidden by a pact long forgotten, but agreed to by [Enymu](Enymu) and [Nektuna](Nektuna). In the roots of the trees of the [forest](Forests) lie strange crystals, known as [titan crystals](Titan Crystals). When touched by sentient beings, they ring out at a frequency only titans can hear. They may cause [Hykravones](Hykravones) to stir.

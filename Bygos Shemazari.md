@@ -1,3 +1,3 @@
 Tags: [forest](Forests)
 
-home to the bird people.
+Home to the [Frialve](Frialve). Lots of [jungle](Jungles) cliffs, majestic.
