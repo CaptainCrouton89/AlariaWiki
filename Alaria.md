@@ -1,6 +1,5 @@
 Tags: [planes](Planes), [planar stack](Planar Stack)
 
-
 Welcome! This is the Almanac of [Alaria](Alaria)—a guide to the world of [Alaria](Alaria). It aims to provide enough information to answer any of the Big Questions™ ranging all the way from "How does [magic](Magic) work?" down to "Why is this country at war with this other country?" Hopefully you find it useful for whatever your needs may be.
 
 **Common Pages**
