@@ -25,8 +25,6 @@ Gray skinned, white haired, lithe and tall, and pale. Long slender fingers.
 
 ## History
 
-# Heart Rush
-
 ### Vitals
 Type: [race](Races)  
 Size: medium  
