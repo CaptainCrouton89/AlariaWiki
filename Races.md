@@ -8,7 +8,6 @@ New Race Ideas
 ## Element + Non-human race
 - Fire Ogres
 - Sea Trolls—solitary sailors
-- 
 
 # Humanoids
 
