@@ -16,7 +16,7 @@ Old Magic is the original form of magic, created by the primordial gods **Azus**
 ### Gaeic Magic
 - **Source**: Melera, one of the old gods, who embodies harmony, change, and emotion.
 - **Nature**: Practitioners sing or play melodies that resonate with Melera’s power. It is infinite but requires deep emotional connection and understanding. The magic flows naturally, but only when the caster aligns their intentions with Melera’s will. This type of magic is fluid, almost alive, and reacts unpredictably if not handled correctly.
-- **Usage**: Gaeic magic is most commonly used in rituals, blessings, and nature spells. Those attuned to it, called **True Bards**, can do nearly anything, but only in a ways that follow the same sort of strange logic of Melera.
+- **Usage**: Gaeic magic is most commonly used in rituals, blessings, and nature spells. Those attuned to it, called **True Bards**, can do nearly anything, but only in ways that follow the same sort of strange logic of Melera.
 - **Challenges**: The spells often work only if they align with Melera’s vision. Forcing the magic to act against this flow can lead to disastrous consequences, making it unreliable for those with ulterior motives.
 
 ### Creature Magic
