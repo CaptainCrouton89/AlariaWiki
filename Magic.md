@@ -8,13 +8,13 @@ Magic in this world stems from various origins, each with its own rules, sources
 Old Magic is the original form of magic, created by the primordial gods **Azus** and **Melera**. It is known for its immense, almost infinite power, but also for its complexity and difficulty in learning. Mastering Old Magic is a rare feat, reserved for the most devoted practitioners who are willing to dedicate their lives to understanding its nuances. There are three main subtypes of Old Magic:
 
 ### Azyen Magic
-- **Source**: Power from Azus, one of the old gods, who embodies idividualism, patterns, and logic.
+- **Source**: Power from Azus, one of the old gods, who embodies individualism, patterns, and logic.
 - **Nature**: The magic is seemingly random but relies on learning a precise pattern of thoughts. Practitioners must train their minds to replicate a complex, delicate sequence—like a mental form of dance or meditation. Mastering Azyen Magic involves clearing one’s thoughts and then following a strict mental pathway, much like memorizing an impossibly intricate melody.
 - **Usage**: Extremely versatile, but hard to control. Practitioners, known as **Magi**, must learn to think like Azus, and even a minor deviation in the sequence can disrupt the spell.
 - **Challenges**: Learning to manipulate Azyen Magic is akin to mastering an impossibly difficult instrument—one wrong move, and the magic can unravel.
 
 ### Gaeic Magic
-- **Source**: Melera, on of the old gods, who embodies harmony, change, and emotion.
+- **Source**: Melera, one of the old gods, who embodies harmony, change, and emotion.
 - **Nature**: Practitioners sing or play melodies that resonate with Melera’s power. It is infinite but requires deep emotional connection and understanding. The magic flows naturally, but only when the caster aligns their intentions with Melera’s will. This type of magic is fluid, almost alive, and reacts unpredictably if not handled correctly.
 - **Usage**: Gaeic magic is most commonly used in rituals, blessings, and nature spells. Those attuned to it, called **True Bards**, can do nearly anything, but only in a ways that follow the same sort of strange logic of Melera.
 - **Challenges**: The spells often work only if they align with Melera’s vision. Forcing the magic to act against this flow can lead to disastrous consequences, making it unreliable for those with ulterior motives.
