@@ -37,7 +37,7 @@ Spirit Magic operates by channeling energy from spirits, often through rites or 
 - **Challenges**: The use of Deoric Magic requires intense focus and willpower, as it drains the caster. It is also a controversial practice, banned in many regions due to its association with blood magic and sacrifice.
 
 ### Handmagic
-- **Source**: Draws from the regenerative life force of ancient titans, inscribed through Deoric runes with the titan blood and bones.
+- **Source**: Draws from the regenerative life force of ancient titans, inscribed through Deoric runes with titan blood and bones.
 - **Nature**: A specific type of Deoric Magic, involving the tattooing of runes into the caster’s body. These runes tap into the power of long-dead titans, granting all varieties of magic ability. 
 - **Usage**: Handmagic is used by nearly anyone who can afford it.
 - **Challenges**: The process of getting a tattoo is painful, and if the strength of your spirit cannot contain the titan's magic, you will perish.
