@@ -2,6 +2,8 @@
 
 Magic in this world stems from various origins, each with its own rules, sources, and limitations. These can be broadly categorized into three types: **Old Magic**, **Spirit Magic**, and **Avatar Magic**. Each has a distinct source, nature, and historical context, influencing how societies and cultures view and use them.
 
+--- 
+
 ## Old Magic
 Old Magic is the original form of magic, created by the primordial gods **Azus** and **Melera**. It is known for its immense, almost infinite power, but also for its complexity and difficulty in learning. Mastering Old Magic is a rare feat, reserved for the most devoted practitioners who are willing to dedicate their lives to understanding its nuances. There are three main subtypes of Old Magic:
 
@@ -23,6 +25,8 @@ Old Magic is the original form of magic, created by the primordial gods **Azus**
 - **Usage**: This magic is automatic, integrated into the creature’s being. It’s not something they control consciously, but rather an aspect of their nature, like an elf’s longer lifespan or a dragon’s breath.
 - **Challenges**: Because it is inherent, creature magic cannot be taught or transferred. It is simply part of the creature’s essence.
 
+--- 
+
 ## Spirit Magic
 Spirit Magic operates by channeling energy from spirits, often through rites or invocations. Unlike Old Magic, Spirit Magic has roots in the mortal world, born out of the need to harness power from beyond the physical realm. It can be viewed as a more accessible form of magic, though not without its ethical and practical concerns.
 
@@ -43,6 +47,8 @@ Spirit Magic operates by channeling energy from spirits, often through rites or 
 - **Nature**: Unlike the darker forms of Deoric, Divine Magic is considered benevolent. It collects fragments of spirit energy given freely through prayer, which are then used by gods in combination with Deoric methods. Since it is a voluntary exchange, it lacks the cruelty associated with other spirit-based magics.
 - **Usage**: Gods, priests, and holy figures use Divine Magic to do whatever they want. Because the energy comes from willing devotees, the magic is seen as a gift from the gods, rather than a forced exchange.
 - **Challenges**: The power of Divine Magic is tied to the faith and devotion of followers. A god with fewer followers will have less energy to work with, limiting the scope of spells.
+
+---
 
 ## Avatar Magic
 Avatar Magic involves interacting with other planes of existence, channeling energies and entities from these dimensions. Practitioners serve as conduits between the material world and other realms, giving them access to powers that ordinary mortals cannot touch.
