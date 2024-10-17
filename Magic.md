@@ -8,7 +8,7 @@ Old Magic is the original form of magic, created by the primordial gods **Azus**
 ### Azyen Magic
 - **Source**: Power from Azus, one of the old gods, who embodies idividualism, patterns, and logic.
 - **Nature**: The magic is seemingly random but relies on learning a precise pattern of thoughts. Practitioners must train their minds to replicate a complex, delicate sequence—like a mental form of dance or meditation. Mastering Azyen Magic involves clearing one’s thoughts and then following a strict mental pathway, much like memorizing an impossibly intricate melody.
-- **Usage**: Extremely versatile, but hard to control. Practitioners, known as **Azyenians**, must learn to think like Azus, and even a minor deviation in the sequence can disrupt the spell.
+- **Usage**: Extremely versatile, but hard to control. Practitioners, known as **Magi**, must learn to think like Azus, and even a minor deviation in the sequence can disrupt the spell.
 - **Challenges**: Learning to manipulate Azyen Magic is akin to mastering an impossibly difficult instrument—one wrong move, and the magic can unravel.
 
 ### Gaeic Magic
