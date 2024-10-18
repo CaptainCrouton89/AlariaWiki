@@ -36,7 +36,7 @@ Titans were colossal, powerful beings responsible for creating most life on Alar
 
 Celesté, the youngest of the god-titan siblings, was assigned dominion over the Material Plane. Unlike her brothers, she had been touched by Melera's song, granting her a unique perspective on creation. Witnessing the frequent battles between Nydus and Aurus, which often resulted in the destruction of other titans' work, Celesté made a fateful decision.
 
-In an act of supreme sacrifice, Celesté transformed herself into a celestial body that would come to be known as Celesté. This new astral formation became a source of power for the titans of the Material Plane, forever changing the magical landscape of Alaria.
+In an act of supreme sacrifice, Celesté transformed herself into a celestial body that would become her namesake. This new astral formation became a source of power for the titans of the Material Plane, forever changing the magical landscape of Alaria.
 
 ### The Ezz Rift (120 million years ago)
 
@@ -48,13 +48,13 @@ This cataclysmic event marked the end of the second eon. The corpses of the tita
 
 ## The Gaeaic Eon (120 million - 7,210 years ago)
 
-In the aftermath of the Ezz Rift, Alaria underwent profound changes. The influx of Ezz caused the spirit plane to separate from the soul and shadow planes, creating the additional plane known today as Celesté. While many creatures perished alongside the titans, others survived, adapting to the new mixed atmosphere.
+In the aftermath of the Ezz Rift, Alaria underwent profound changes. The influx of Ezz caused the spiritual planes to separate from the soul and shadow planes, creating the additional planes: the Ethereal and the Nethereal planes.  While many creatures perished alongside the titans, others survived, adapting to the new mixed atmosphere.
 
-This new planar configuration gave rise to psyic energy—the substrate that allows magic to flow freely throughout Alaria. The emergence of psyic energy brought new life, thought, and diversity to the world, marking the beginning of the third eon.
+This new planar configuration gave rise to the psywinds and faesong. With Azus and Melera's influence combined, there was a constant whirlwind of exchanging energies among thought and emotion. These were the psywinds and faesong—a roiling sea of thought that permeates all of Alaria, and an ever present melody of every emotion on the planes. These new interactions gave rise to numerous new creatures on Alaria.
 
 ### The Birth of Gaea (120 million years ago)
 
-From the ashes of the old world rose Gaea, the Earth Mother. Gaea brought emotion to Alaria, channeling her magic directly from the psyic energy that now permeated the world. She named her magical language Kethic, which would later form the basis of Kethic Elementalism.
+From the ashes of the old world rose Gaea, the Earth Mother. Gaea was the emotion of the land itself, channeling her magic directly from the faesong that now pervaded the world.
 
 Gaea's domain was everywhere, but her power was strongest in the material realm. She bore three sons who would become her protectors:
 
@@ -68,7 +68,7 @@ Gaea's creative power knew no bounds. She populated Alaria with all manner of li
 
 Alongside Gaea came the druids—an ancient race of beings so attuned to nature that they were believed to be incarnations of the wilderness and life itself. Unlike nearly every other creature born in this period, the druids did not belong to Gaea. Instead, they worked alongside her, their interests often aligning but not always in perfect harmony.
 
-The druids established small villages wherever life flourished on Alaria. They took on the role of caretakers, wielding powerful magic to control and nurture the land. The exact nature of their magic remains a mystery, distinct from both Kethic Elementalism and Deoric magic.
+The druids established small villages wherever life flourished on Alaria. They took on the role of caretakers, wielding powerful magic to control and nurture the land. The exact nature of their magic, like Gaeas, was a powerful combination of Azyen and Gaeic song
 
 ### The Reign of Dragons (100 - 2.5 million years ago)
 
@@ -78,7 +78,7 @@ Ulvma and Shara also became the progenitors of their respective species, populat
 
 #### The Walk of Elves (10 million years ago)
 
-Although the druids were immortal, they slowly dwindled in number over time, victims of accidents and conflicts. However, their legacy lived on through their creation: the elves. The druids crafted the elves from the branches of trees, the stones and mud from Alaria's rivers, and a spark of their own life essence.
+Although the druids were immortal, they slowly dwindled in number over time, victims of accidents and conflicts, and unable to reproduce themselves. However, their legacy lived on through their creation: the elves. The druids crafted the elves from the branches of trees, the stones and mud from Alaria's rivers, and a spark of their own life essence.
 
 The elves were made in the druids' image, sharing their pointed ears, slender forms, and graceful movements. They also inherited the druids' deep appreciation for nature and beauty. Gifted in all their endeavors, the elven population quickly grew and spread across Alaria. For many years, they worked in harmony with the dragons, and together, these two races ruled the land.
 
