@@ -1,5 +1,5 @@
 ## Overview
-Yaif is a verdant, jungle-covered land known for its potent herbs, exotic beasts, and enigmatic ruins. It reluctantly joined the Tarkhon Empire to gain protection from aggressive neighbors.
+Yaif is a arid, somewhat mountainous country known for its potent herbs, exotic beasts, and enigmatic ruins. It reluctantly joined the Tarkhon Empire to gain protection from aggressive neighbors.
 
 ## Government & Peoples
 - **Government Type**: Theocracy led by a council of Druid-Priests
@@ -15,9 +15,6 @@ Yaif is a verdant, jungle-covered land known for its potent herbs, exotic beasts
 - **Primary Imports**: Metal goods, processed foods, and academic knowledge
 
 ## Notable Features
-- The "Emerald Spire": A massive tree-city where the Druid-Priest council convenes, said to be as old as the jungle itself.
-- The "Whispering Ruins": Ancient stone structures scattered throughout the jungle, believed to hold the secrets of a long-lost civilization.
-- The "Mistshroud Basin": A foggy lowland area where reality seems to shift, home to the strangest of Yaif's flora and fauna.
+- The "Whispering Ruins": Ancient stone structures scattered throughout the desert, believed to hold the secrets of a long-lost civilization.
 
 ## History
-Yaif's inclusion in the Tarkhon Empire is recent and tenuous. The empire's influence is mostly limited to coastal trading posts, while the interior remains wild and largely autonomous. Tensions between traditionalists and those who see benefits in empire membership continue to simmer.
