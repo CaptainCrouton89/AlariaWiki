@@ -1,6 +1,16 @@
 Tags: [state](States)
 
-Tags: [state](States)
+Enymu is a nation inhabited primarily by humans and Craven, located to the east of Nektuna and partially separated by the mysterious Stone Forest. Unlike its wealthier neighbor, Enymu lacks access to leylines and a stronghold on trade, leading to a relatively poorer economy. However, it sustains itself through agriculture and trade, primarily exporting grains, vegetables, and livestock.
+
+The capital, Zaru, sits at the mouth of the Shekal River, which flows into the Tarkhon Strait, an important trading route controlled by Nektuna. Despite its challenges, Zaru is a vibrant city where the traditions of the monarchy are upheld, ruled by a long line of honorable kings. These rulers, although well-meaning, have often been viewed as naive, leading to indecision in matters of state.
+
+To the south, Enymu controls Midton Island, which lies centrally in the Tarkhon Strait and features the coastal fort Ekfusy. This fort serves as a first line of defense against potential incursions from Nektuna or opportunistic pirates seeking to exploit the region.
+
+The nation has a rich history, with communities built on cooperation and a deep respect for the land. However, there is an undercurrent of dissent among some factions that believe a more aggressive stance towards Nektuna could improve their fortunes.
+
+While Enymu's loyalty to the monarchy runs deep, the possibility of a shift in allegiances lingers in the air. The kingdom may be persuaded to turn on Nektuna if it can be shown that such an alliance would serve their interests better than the current situation.
+
+Over the years, Enymu has faced economic struggles, skirmishes with banditry, and the ongoing challenge of maintaining its identity in a world dominated by wealthier states. The balance of power remains delicate, with the potential for change always lurking just beneath the surface.
 
 ## Government & Peoples
 
@@ -109,15 +119,3 @@ Zaru serves as the political and economic center of Enymu, with a vibrant market
 - **Threats from Banditry**: The lack of a strong military presence can lead to bandit raids in rural areas, creating fear and instability.
 
 ## History
-----
-Enymu is a nation inhabited primarily by humans and Craven, located to the east of Nektuna and partially separated by the mysterious Stone Forest. Unlike its wealthier neighbor, Enymu lacks access to leylines and a stronghold on trade, leading to a relatively poorer economy. However, it sustains itself through agriculture and trade, primarily exporting grains, vegetables, and livestock.
-
-The capital, Zaru, sits at the mouth of the Shekal River, which flows into the Tarkhon Strait, an important trading route controlled by Nektuna. Despite its challenges, Zaru is a vibrant city where the traditions of the monarchy are upheld, ruled by a long line of honorable kings. These rulers, although well-meaning, have often been viewed as naive, leading to indecision in matters of state.
-
-To the south, Enymu controls Midton Island, which lies centrally in the Tarkhon Strait and features the coastal fort Ekfusy. This fort serves as a first line of defense against potential incursions from Nektuna or opportunistic pirates seeking to exploit the region.
-
-The nation has a rich history, with communities built on cooperation and a deep respect for the land. The Craven population has contributed to the culture and economy, bringing unique herbal knowledge and a penchant for trade. However, there is an undercurrent of dissent among some factions that believe a more aggressive stance towards Nektuna could improve their fortunes.
-
-While Enymu's loyalty to the monarchy runs deep, the possibility of a shift in allegiances lingers in the air. The kingdom may be persuaded to turn on Nektuna if it can be shown that such an alliance would serve their interests better than the current situation.
-
-Over the years, Enymu has faced economic struggles, skirmishes with banditry, and the ongoing challenge of maintaining its identity in a world dominated by wealthier states. The balance of power remains delicate, with the potential for change always lurking just beneath the surface.
