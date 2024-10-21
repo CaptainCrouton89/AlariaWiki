@@ -1,6 +1,6 @@
 Tags: [state](States)
 
-Enymu is a nation inhabited primarily by humans and Craven, located to the east of Nektuna and partially separated by the mysterious Stone Forest. Unlike its wealthier neighbor, Enymu lacks access to leylines and a stronghold on trade, leading to a relatively poorer economy. However, it sustains itself through agriculture and trade, primarily exporting grains, vegetables, and livestock.
+Enymu is a nation inhabited primarily by humans, located to the east of Nektuna and partially separated by the mysterious Stone Forest. Unlike its wealthier neighbor, Enymu lacks access to leylines and a stronghold on trade, leading to a relatively poorer economy. However, it sustains itself through agriculture and trade, primarily exporting grains, vegetables, and livestock.
 
 The capital, Zaru, sits at the mouth of the Shekal River, which flows into the Tarkhon Strait, an important trading route controlled by Nektuna. Despite its challenges, Zaru is a vibrant city where the traditions of the monarchy are upheld, ruled by a long line of honorable kings. These rulers, although well-meaning, have often been viewed as naive, leading to indecision in matters of state.
 
@@ -18,9 +18,9 @@ Over the years, Enymu has faced economic struggles, skirmishes with banditry, an
 
 Enymu is ruled by a long line of kings who are generally considered honorable but somewhat naive. The monarchy maintains traditions and seeks to uphold the welfare of its people, though this can lead to indecisiveness in times of crisis.
 
-**Primary Inhabitants**: Humans and Craven  
+**Primary Inhabitants**: Humans  
 
-The population is primarily human, with a significant presence of Craven who contribute to the cultural and social fabric of the nation. The Craven are often involved in trade and agriculture, with some rising to positions of influence within the community.
+The population is primarily human.
 
 **Population**: Approximately 400,000  
 
