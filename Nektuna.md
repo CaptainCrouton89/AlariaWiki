@@ -1,6 +1,14 @@
 Tags: [state](States)
 
-Tags: [state](States)
+Nektuna is an incredibly powerful state, controlling the Tarkhetan Strait—a very thin passage of water connecting the Shattered Sea to the Gray Sea. They tax all trade that passes through the port, which causes dissatisfaction among traders. However, Tarkhetan is a massive fortress equipped with powerful armaments and a large navy, ensuring the state’s dominance. 
+
+The city is built upon a leyline of fire, allowing powerful firemages to grow up in the city, capable of easily incinerating ships from afar. Despite its strength, Nektuna is hardly safe, surrounded by those interested in seizing its wealth and controlling the strait themselves.
+
+Nektuna is a diverse place, primarily inhabited by humans, but it also has a massive population of Craven and smaller populations of dwarblin, trollkin, and even ayblek. Additionally, a fair number of weblin travel throughout, selling their wares.
+
+Nektuna also controls the island of Pyris, home to an old race of dwarves who have interbred with humans long enough to create a unique mix of the two. The inhabitants are mostly farmers who seek simple lives away from the complexities of the mainland.
+
+Besnoumeru, located directly on the leyline of time, is almost as famously wealthy as Tarkhetan, thanks to its merchants' phenomenal ability to predict changes in supply and demand before they happen. Nektuna is also in possession of Astrelle.
 
 ## Government & Peoples
 
@@ -67,12 +75,3 @@ Tags: [state](States)
 
 ## History
 
-Nektuna is an incredibly powerful state, controlling the Tarkhetan Strait—a very thin passage of water connecting the Shattered Sea to the Gray Sea. They tax all trade that passes through the port, which causes dissatisfaction among traders. However, Tarkhetan is a massive fortress equipped with powerful armaments and a large navy, ensuring the state’s dominance. 
-
-The city is built upon a leyline of fire, allowing powerful firemages to grow up in the city, capable of easily incinerating ships from afar. Despite its strength, Nektuna is hardly safe, surrounded by those interested in seizing its wealth and controlling the strait themselves.
-
-Nektuna is a diverse place, primarily inhabited by humans, but it also has a massive population of Craven and smaller populations of dwarblin, trollkin, and even ayblek. Additionally, a fair number of weblin travel throughout, selling their wares.
-
-Nektuna also controls the island of Pyris, home to an old race of dwarves who have interbred with humans long enough to create a unique mix of the two. The inhabitants are mostly farmers who seek simple lives away from the complexities of the mainland.
-
-Besnoumeru, located directly on the leyline of time, is almost as famously wealthy as Tarkhetan, thanks to its merchants' phenomenal ability to predict changes in supply and demand before they happen. Nektuna is also in possession of Astrelle.
