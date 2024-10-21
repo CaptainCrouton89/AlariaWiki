@@ -27,8 +27,8 @@ Old Magic is the original form of magic, created by the primordial gods **Azus**
 
 --- 
 
-## [Spirit](Life and Death) Magic
-Spirit Magic operates by channeling energy from spirits, often through rites or invocations. Unlike Old Magic, [Spirit](Life and Death) Magic has roots in the mortal world, born out of the need to harness power from beyond the physical realm. It can be viewed as a more accessible form of magic, though not without its ethical and practical concerns.
+## Spirit Magic
+Spirit Magic operates by channeling energy from spirits, often through rites or invocations. Unlike Old Magic, Spirit Magic has roots in the mortal world, born out of the need to harness power from beyond the physical realm. It can be viewed as a more accessible form of magic, though not without its ethical and practical concerns.
 
 ### Deoric Magic
 - **Source**: Magic drawn from the practitioner’s own life energy, or forcibly taken from others.
@@ -53,7 +53,7 @@ Spirit Magic operates by channeling energy from spirits, often through rites or 
 ## Avatar Magic
 Avatar Magic involves interacting with other planes of existence, channeling energies and entities from these dimensions. Practitioners serve as conduits between the material world and other realms, giving them access to powers that ordinary mortals cannot touch.
 
-### [Kethic](Kethic Elementalism) Elementalism
+### Kethic Elementalism
 - **Source**: Elemental planes that represent fire, water, earth, air, and other natural elements.
 - **Nature**: Practitioners, known as **avatars**, attune themselves to the elements, allowing them to bend, shape, and manipulate these forces. It is the most direct and physical form of magic, often requiring the user to channel their own physical energy into spells.
 - **Usage**: Elementalism is used for combat, construction, and even agriculture, depending on the elements being controlled. Some avatars specialize in a single element, while others can manipulate multiple, though this is rare.
@@ -67,7 +67,7 @@ Avatar Magic involves interacting with other planes of existence, channeling ene
 
 ### Fae Magic
 - **Source**: Faesong—resonant energy that taps into the emotions of living beings.
-- **Nature**: This magic allows users to interact with the feelings of others, enhancing, dampening, or even creating emotions. Like Psyic Magic, it requires a delicate touch, but it focuses more on the heart than the mind. Practitioners, also called **syncopates**, are trained to use their own emotional [state](States) as a tuning fork to harmonize with others.
+- **Nature**: This magic allows users to interact with the feelings of others, enhancing, dampening, or even creating emotions. Like Psyic Magic, it requires a delicate touch, but it focuses more on the heart than the mind. Practitioners, also called **syncopates**, are trained to use their own emotional state as a tuning fork to harmonize with others.
 - **Usage**: Fae Magic is often seen in performances, art, and healing, as it can elevate the emotions of an audience or soothe a grieving heart. It is also used in more sinister ways, such as controlling a mob or inciting fear.
 - **Challenges**: Tapping into raw emotions can be dangerous. Syncopates must be careful not to lose themselves in the feelings they manipulate, as the power can be overwhelming and addictive.
 
