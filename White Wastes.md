@@ -1,5 +1,5 @@
 Tags: wasteland
 
-Miscellaneous orc and goblin tribes ravage the desert.
+Miscellaneous [orc](Orcs) and [goblin](Goblins) tribes ravage the [desert](Deserts).
 
 Home to [Nashk, the Alchemist](Nashk, the Alchemist)

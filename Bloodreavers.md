@@ -1,4 +1,4 @@
-Tags: orc, race
+Tags: [orc](Orcs), [race](Races)
 
 The bloodreavers inhabit [Bloodwood](Bloodwood), south of [Misanda Mulu](Misanda Mulu). 
 

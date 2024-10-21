@@ -1,16 +1,16 @@
 A creature’s life is dictated by the health and union of their [soul](Life and Death), [shadow](Life and Death), and [spirit](Life and Death). At the center of their being is their [spirit](Life and Death), which is the spark of free will and personality that defines who they are. Wrapped on either side are the [soul](Life and Death) and [shadow](Life and Death), the astral and malstaric counterbalances of the [spirit](Life and Death), which together give life and movement to the [spirit](Life and Death) they are bound to. While still critical to life, they do not define who the person is.
 
-### The Soul
+### The [Soul](Life and Death)
 
-The soul is made of pure positive energy from [Aurus, the White Sun](Aurus, the White Sun). A long, faint strand of it stretches all the way back to the sun. It was created by Aurus. Only Alarian creatures are energized with a soul.
+The soul is made of pure positive energy from [Aurus, the White Sun](Aurus, the White Sun). A long, faint strand of it stretches all the way back to the sun. It was created by [Aurus](Aurus, the White Sun). Only Alarian creatures are energized with a soul.
 
-### The Shadow
+### The [Shadow](Life and Death)
 
-The shadow is made of pure negative energy from [Nydus, the Black Sun](Nydus, the Black Sun). A long, faint strand of it stretches all the way back to the sun. It was created by Nydus. Only Alarian creatures are energized with a shadow.
+The shadow is made of pure negative energy from [Nydus, the Black Sun](Nydus, the Black Sun). A long, faint strand of it stretches all the way back to the sun. It was created by [Nydus](Nydus, the Black Sun). Only Alarian creatures are energized with a shadow.
 
-### The Spirit
+### The [Spirit](Life and Death)
 
-One's spirit is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with both thought and emotion all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have emotion, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with [Aether](Aether).
+One's [spirit](Life and Death) is made of pure ezz, pulled from the swirling mass throughout the planes. Living things with both thought and emotion all have some spirit-like core consisting mainly of ezz. Life-like things from other planar stacks may not have emotion, and will be "powered" by something other than a soul and shadow. For example, some life on other planar stacks is powered with [Aether](Aether).
 
 ## Astral & Malstaric Thread
 

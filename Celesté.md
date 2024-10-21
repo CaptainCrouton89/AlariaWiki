@@ -1,6 +1,6 @@
 Tags: [planes](Planes)
 
-The core of Celesté was created long before the entire plane was made. A pocket dimension was solidified as a safe haven from Nydus and Aurus, the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new dimension of her own. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
+The core of Celesté was created long before the entire plane was made. A pocket dimension was solidified as a safe haven from [Nydus](Nydus, the Black Sun) and [Aurus](Aurus, the White Sun), the titan gods. It is a plane that the titan Celesté created by sacrificing herself (titans normally can't die). This created a new dimension of her own. She swore that as long as the titans remembered her sacrifice, they would survive. And thus they did, because she granted them power from her plane. None of the titans could ever enter the plane unless they died, which no one else was willing to do. However she still protected them.
 
 After the Ezz Rift, Ezz accumulated around Celesté, as it was the only location that resonated with Melera's song.
 

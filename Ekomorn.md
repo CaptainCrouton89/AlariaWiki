@@ -6,4 +6,4 @@ The [Naruaghin](Naruaghin) who live in the surrounding [jungle](Jungles) are ter
 
 Occasionally, *thinsgs* emerge from the pit. Animals brutally killed and left to rot on outside edge of cliff. a mile down, and 30 miles north-east, is a location where someone has devoted their life to the study of darkness. It is within the rift, but deep, deep inside.
 
-The rift extends at a diagonal much further than you can tell from map—jungle has just grown over it. Shadows sometimes come up from the cracks.
+The rift extends at a diagonal much further than you can tell from map—[jungle](Jungles) has just grown over it. Shadows sometimes come up from the cracks.

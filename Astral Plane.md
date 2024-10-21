@@ -12,7 +12,7 @@ Massive cities are built in these islands.
 
 The mountainous underbelly of the ethereal plane can sometimes be seen from the material realm below. The entire underbelly is covered in colossal mountains which undergo [mountain](Mountains) shaking earthquakes every millennia or so. The rocks that break free and plummet to the material realm during these earthquakes provide the astral stones used for intercontinental travel, due to their strange buoyancy in the Astral Sea. 
 
-## The Soul
+## The [Soul](Life and Death)
 
 The [soul](Life and Death) is slightly influenced by astral currents in the astral sea, and good ship captains can sense them to navigate astral currents well.
 

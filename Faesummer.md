@@ -1,3 +1,3 @@
 Tags: event
 
-Periodically, Aurus comes much closer to the Astral Plane's surface, and thus the Material Plane as well. During these times, his power is strongest and light and warmth sweeps across the Material Plane. Creatures of light come forth as the land becomes more habitable for creatures of the Astral Plane. Faeries, sprites, and all manners of Astral dot Alaria, spreading chaos, confusion, and warmth.
+Periodically, [Aurus](Aurus, the White Sun) comes much closer to the Astral Plane's surface, and thus the Material Plane as well. During these times, his power is strongest and light and warmth sweeps across the Material Plane. Creatures of light come forth as the land becomes more habitable for creatures of the Astral Plane. Faeries, sprites, and all manners of Astral dot Alaria, spreading chaos, confusion, and warmth.

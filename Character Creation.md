@@ -97,7 +97,7 @@ Aspects can also be invoked by the GM. In this case, the GM suggests a course of
 
 #### Creating your Aspects
 
-When you create your character, create two aspects. You will gain two more from your race and heritage and you may gain more throughout the game. You can never have more than seven aspects, and all aspects start at rank one when they are created, unless noted otherwise. No aspect can be greater than rank five.
+When you create your character, create two aspects. You will gain two more from your [race](Races) and heritage and you may gain more throughout the game. You can never have more than seven aspects, and all aspects start at rank one when they are created, unless noted otherwise. No aspect can be greater than rank five.
 
 When creating an aspects, it is generally a good idea to have both aspects with both positive and negative sides to them. Without any negative aspects, you have no way of gaining more destiny points, and therefore cannot spend them on aspects.
 

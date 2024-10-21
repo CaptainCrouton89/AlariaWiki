@@ -1,4 +1,4 @@
-Tags: npc
+Tags: [npc](NPCs)
 
 An extremely well fed tree of knowledge, consumes people. Was once a person, permanently turned into a tree. However, can move slowly. Can't actually predict the future, but knows nearly everything from the past, and will give you advice for a steep price. Give up a limb for knowledge. 
 

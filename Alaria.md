@@ -37,16 +37,16 @@ Celesté was created when the Alarian Planar Stack fragmented and Ezz poured in 
 <hr/>
 ## [Astral Plane](Astral Plane)
 
-"Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Aurus, living pawns of his will.
+"Above" the [Material Plane](Material Plane) is the [Astral Plane](Astral Plane). Although technically connected to the Material Plane, it is quite distant from it, and the laws of physics and nature are different. The [Astral Plane](Astral Plane) is home to [ghosts](Ghosts), and consists of small [desert](Deserts) islands scattered throughout a vast ocean under a bright [white sun](Aurus, the White Sun). The [spirit](Life and Death) cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of [Aurus](Aurus, the White Sun), living pawns of his will.
 
 ### [Astraeva](Astraeva)
 
-On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. Aurus has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. Psyic energy still exists here, but it is weak.
+On the flip side of the [Astral Plane](Astral Plane) is [Astraeva](Astraeva). Astraeva mirrors the Astral Plane but is devoid of souls. [Aurus](Aurus, the White Sun) has no power here—spirits are weaker here—it is nearly barren except for a few notable points of interest. Psyic energy still exists here, but it is weak.
 
 <hr/>
 ## [Malstaris](Malstaris)
 
-"Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the [Astral Plane](Astral Plane), it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of Nydus, living pawns of his will.
+"Below" the Material Plane is [Malstaris](Malstaris)—an intensely dark, mountainous, ashen land filled with caves and covered with black lakes. Like the [Astral Plane](Astral Plane), it is physically connected to the Material Plane, but has different laws of nature, and is fundamentally inhospitable to creatures that live on the Material Plane. The spirit cannot naturally survive here, but creatures exist here—just with weaker free will. They are agents of [Nydus](Nydus, the Black Sun), living pawns of his will.
 
 ### [Eindumor](Eindumor)
 

@@ -28,7 +28,7 @@ Alaria, one of the last planar stacks to form, came into existence without any p
 
 ### The Lyzaria Era (235 - 180 million years ago)
 
-The first titans to emerge were the god-titans: Nydus, Aurus, and Celesté. These siblings possessed power far beyond that of any other beings. From their union came Lyzaria, the first true titan and the namesake of this era.
+The first titans to emerge were the god-titans: [Nydus](Nydus, the Black Sun), [Aurus](Aurus, the White Sun), and Celesté. These siblings possessed power far beyond that of any other beings. From their union came Lyzaria, the first true titan and the namesake of this era.
 
 Titans were colossal, powerful beings responsible for creating most life on Alaria. They likely used Deoric magic in their creations, though the exact methods remain a mystery. Titans populated all three planes, building their most epic civilizations in the depths of the Astral Sea and deep within the caves of Malstaris.
 
@@ -48,7 +48,7 @@ This cataclysmic event marked the end of the second eon. The corpses of the tita
 
 ## The Gaeaic Eon (120 million - 7,210 years ago)
 
-In the aftermath of the Ezz Rift, Alaria underwent profound changes. The influx of Ezz caused the spiritual planes to separate from the soul and shadow planes, creating the additional planes: the Ethereal and the Nethereal planes.  While many creatures perished alongside the titans, others survived, adapting to the new mixed atmosphere.
+In the aftermath of the Ezz Rift, Alaria underwent profound changes. The influx of Ezz caused the spiritual planes to separate from the [soul](Life and Death) and [shadow](Life and Death) planes, creating the additional planes: the Ethereal and the Nethereal planes.  While many creatures perished alongside the titans, others survived, adapting to the new mixed atmosphere.
 
 This new planar configuration gave rise to the psywinds and faesong. With Azus and Melera's influence combined, there was a constant whirlwind of exchanging energies among thought and emotion. These were the psywinds and faesong—a roiling sea of thought that permeates all of Alaria, and an ever present melody of every emotion on the planes. These new interactions gave rise to numerous new creatures on Alaria.
 
@@ -66,7 +66,7 @@ Gaea's creative power knew no bounds. She populated Alaria with all manner of li
 
 ### The Druids (120 million years ago)
 
-Alongside Gaea came the druids—an ancient race of beings so attuned to nature that they were believed to be incarnations of the wilderness and life itself. Unlike nearly every other creature born in this period, the druids did not belong to Gaea. Instead, they worked alongside her, their interests often aligning but not always in perfect harmony.
+Alongside Gaea came the druids—an ancient [race](Races) of beings so attuned to nature that they were believed to be incarnations of the wilderness and life itself. Unlike nearly every other creature born in this period, the druids did not belong to Gaea. Instead, they worked alongside her, their interests often aligning but not always in perfect harmony.
 
 The druids established small villages wherever life flourished on Alaria. They took on the role of caretakers, wielding powerful magic to control and nurture the land. The exact nature of their magic, like Gaeas, was a powerful combination of Azyen and Gaeic song
 
@@ -76,11 +76,11 @@ Of Gaea's three children, Nagatayora was the eldest and proudest. The species he
 
 Ulvma and Shara also became the progenitors of their respective species, populating the forests and plains of Alaria. As sibling species, the three groups—dragons, wolves, and lions—formed a pact to never prey upon each other. This ancient agreement remains honored to this day, even among their descendants: the Naga, Sharabha, and Ulvsjael.
 
-#### The Walk of Elves (10 million years ago)
+#### The Walk of [Elves](Elves) (10 million years ago)
 
 Although the druids were immortal, they slowly dwindled in number over time, victims of accidents and conflicts, and unable to reproduce themselves. However, their legacy lived on through their creation: the elves. The druids crafted the elves from the branches of trees, the stones and mud from Alaria's rivers, and a spark of their own life essence.
 
-The elves were made in the druids' image, sharing their pointed ears, slender forms, and graceful movements. They also inherited the druids' deep appreciation for nature and beauty. Gifted in all their endeavors, the elven population quickly grew and spread across Alaria. For many years, they worked in harmony with the dragons, and together, these two races ruled the land.
+The elves were made in the druids' image, sharing their pointed ears, slender forms, and graceful movements. They also inherited the druids' deep appreciation for nature and beauty. Gifted in all their endeavors, the [elven](Elves) population quickly grew and spread across Alaria. For many years, they worked in harmony with the dragons, and together, these two [races](Races) ruled the land.
 
 #### Eyachria the Dragon Goddess (2 million years ago)
 
@@ -90,17 +90,17 @@ Eyachria devised a plan to replace Gaea, believing that with time, she could sur
 
 It was at the height of her power that Eyachria challenged Gaea for the role of Alaria's caretaker. Eyachria could move mountains, breathe fire that could melt entire landscapes, and cast magic powerful enough to reshape reality. Gaea, in comparison, seemed but a whisper in the ground. Eyachria's assessment proved correct—Gaea was no match for her overwhelming might.
 
-However, Nagatayora witnessed this confrontation. Just as he had given life to all other dragons, he possessed the power to take it away. With crushing despair, Nagatayora ended Eyachria's life. The great dragon goddess crashed to the ground, her life extinguished in an instant. To this day, her colossal spine remains visible as the mountain range in the south of Aboyuinzu, a testament to her immense size and a reminder of the consequences of unchecked ambition.
+However, Nagatayora witnessed this confrontation. Just as he had given life to all other dragons, he possessed the power to take it away. With crushing despair, Nagatayora ended Eyachria's life. The great dragon goddess crashed to the ground, her life extinguished in an instant. To this day, her colossal spine remains visible as the [mountain](Mountains) range in the south of Aboyuinzu, a testament to her immense size and a reminder of the consequences of unchecked ambition.
 
 ### The Birth of Man (2.5 million - 45,000 years ago)
 
-Gaea, impressed by the success and intelligence of the elves and the druids but also somewhat jealous, set about working on her own creation. Although not as meticulously constructed as the elves, the determination that fueled Gaea's craft flowed into her new creations. From her work spawned the beastmen and humans.
+Gaea, impressed by the success and intelligence of the elves and the druids but also somewhat jealous, set about working on her own creation. Although not as meticulously constructed as the elves, the determination that fueled Gaea's craft flowed into her new creations. From her work spawned the beastmen and [humans](Humans).
 
 #### The Golden Age of Man (200,000 - 75,000 years ago)
 
 Of all the races born from Gaea, humans proved to be the most versatile and ambitious. It was not long before they had spread to every corner of Alaria, ushering in the Golden Age of Man—a remarkable period lasting 125,000 years of flourishing civilization.
 
-During this time, technology reached incredible levels that have never been matched since. Flying machines soared across the skies and even beyond the planes. Civilizations stretched from the deepest seas to the highest clouds. Magical knowledge became common and plentiful, with humans mastering various forms of magic, including Old Magic, Spirit Magic, and the emerging Avatar Magic.
+During this time, technology reached incredible levels that have never been matched since. Flying machines soared across the skies and even beyond the planes. Civilizations stretched from the deepest seas to the highest clouds. Magical knowledge became common and plentiful, with humans mastering various forms of magic, including Old Magic, [Spirit](Life and Death) Magic, and the emerging Avatar Magic.
 
 This era also saw the rise of the daemons of Celesté. As Gaea's children explored the world, they began to understand the nature of the bond between Celesté, the material realm, and the psyic energy enveloping them both. People began moving across the planar boundary in droves, dramatically shifting the population away from the material realm to Celesté.
 
@@ -114,15 +114,15 @@ The combination of a desperate competition for survival among the daemons and a 
 
 As life withered and the ice age set in, the small pockets of surviving civilization went into hiding in the mountains. They eked out a meager existence, surviving on lichens and hunting the hardy animals that roamed the frozen surface. No daemons survived this period, as residents of the material realm lost all faith in their gods.
 
-The Long Winter also took a heavy toll on the dragon population. Hundreds perished, unable to adapt to the harsh conditions. Many of those who survived became terrifying predators, terrorizing the skies and hunting anything that could be found. Technology regressed to a primitive state once more, with much of the knowledge from the Golden Age lost to time.
+The Long Winter also took a heavy toll on the dragon population. Hundreds perished, unable to adapt to the harsh conditions. Many of those who survived became terrifying predators, terrorizing the skies and hunting anything that could be found. Technology regressed to a primitive [state](States) once more, with much of the knowledge from the Golden Age lost to time.
 
 ### The Age of Craggus (45,000 - 30,000 years ago)
 
-The Age of Craggus began when a young man named Craggus, along with a group of devoted followers, successfully completed a perilous journey to Celesté. Their tribe, which remained alive in the material realm, began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair. Craggus became the first new Daemon, earning the title of god of all men.
+The Age of Craggus began when a young man named Craggus, along with a group of devoted followers, successfully completed a perilous journey to Celesté. Their tribe, which remained alive in the material realm, began spreading the word of Craggus, who grew in power and slowly began to lift civilization out of despair. Craggus became the first new [Daemon](Daemons), earning the title of god of all men.
 
 #### The Rise of the King (45,000 years ago)
 
-Over the next thousand years, Craggus' name became more and more renowned. Through magnificent effort and the power granted to him by his followers, he managed to push back the ice age, ending millions of years of desolation. Craggus was hailed as a hero and became the sole god of the material realm.
+Over the next thousand years, Craggus' name became more and more renowned. Through magnificent effort and the power granted to him by his followers, he managed to push back the ice age, ending millions of years of desolation. Craggus was hailed as a [hero](Heroes) and became the sole god of the material realm.
 
 #### Craggus' Reign (45,000 - 30,000 years ago)
 
@@ -140,9 +140,9 @@ The laughing plague was a brutal disease that originated from the plane of Glyss
 
 The disease spread through prolonged exposure to the sound of the laughter, bringing nearly all of Alaria to bloodthirsty insanity. A desperate fight for the survival of life on Alaria began, with creatures forced to turn on their own kin who had been infected. For 1,200 years, the Alarian population dwindled as people went into isolation, and trade and progress ground to a halt.
 
-When the plague finally ran its course, it left the civilizations of Alaria in shambles. Entire cities lay barren—their citizens all dead, fallen by each other's hands. Only those deep underground or in complete isolation survived unaffected. Most written history was lost during this time, and technology once again regressed to a primitive state.
+When the plague finally ran its course, it left the civilizations of Alaria in shambles. Entire cities lay barren—their citizens all dead, fallen by each other's hands. Only those deep underground or in complete isolation survived unaffected. Most written history was lost during this time, and technology once again regressed to a primitive [state](States).
 
-##### The Birth of Dwarves
+##### The Birth of [Dwarves](Dwarves)
 
 A few among the population held a natural resistance to the corrupting plague. Although they were immune to its violence-inciting effects, the disease stunted their growth and fundamentally and permanently changed those who survived it. These individuals became known as dwarves.
 
@@ -152,9 +152,9 @@ A few among the population held a natural resistance to this corrupting plague. 
 
 [Continuation of the previous content...]
 
-Entire communities of those immune to the laughing plague formed, many of which were underground. These dwarven societies became known for their resilience and ingenuity, adapting to their subterranean homes with remarkable skill.
+Entire communities of those immune to the laughing plague formed, many of which were underground. These [dwarven](Dwarves) societies became known for their resilience and ingenuity, adapting to their subterranean homes with remarkable skill.
 
-It is rumored that the laughing plague still circulates deep underground in Alaria, among a grotesque race known as the Kackles. The Uline dwarves, a particularly hardy clan, are said to be holding the plague at bay, preventing it from resurging and threatening the surface world once more.
+It is rumored that the laughing plague still circulates deep underground in Alaria, among a grotesque race known as the Kackles. The Uline [dwarves](Dwarves), a particularly hardy clan, are said to be holding the plague at bay, preventing it from resurging and threatening the surface world once more.
 
 #### Rise of the False God (28,700 - 28,000 BSD)
 
@@ -202,7 +202,7 @@ The Killing Moon's appearance triggered a massive conflict known as the Blood Wa
 
 The war earned its grisly name from the unprecedented bloodshed that occurred. Forbidden magics were unleashed, ancient weapons were unearthed, and alliances were made and broken in the blink of an eye. The conflict raged across Alaria, leaving no corner of the world untouched by its violence.
 
-In the end, there were no true winners. The Hel Dynasties were shattered, but so too were many of the rebel factions. The world was left in a state of anarchy, with small, isolated communities becoming the norm as people retreated from the devastation of large-scale conflict.
+In the end, there were no true winners. The Hel Dynasties were shattered, but so too were many of the rebel factions. The world was left in a [state](States) of anarchy, with small, isolated communities becoming the norm as people retreated from the devastation of large-scale conflict.
 
 #### Evorkia's Vision (10,400 BSD)
 
@@ -214,7 +214,7 @@ In giving the orcs their fearless spirit, Evorkia was left in a precarious situa
 
 As Evorkia's mental state deteriorated, her warnings about the return of the Titans went unheeded by the wider world. Eventually, overcome by fear of her own creation, she fled from her research and the orcs, leaving them directionless. The orcs, lacking guidance, escaped into the world, their purpose unfulfilled.
 
-Evorkia's fear drove her to further split her spirit in desperate attempts to regain her former self, but this only served to further deteriorate her mind. She descended into a state dominated by base desires and evil impulses. Today, Evorkia lives in complete isolation, a mere shadow of her once incredible influence, a tragic reminder of the price of unheeded prophecy and good intentions gone awry.
+Evorkia's fear drove her to further split her [spirit](Life and Death) in desperate attempts to regain her former self, but this only served to further deteriorate her mind. She descended into a state dominated by base desires and evil impulses. Today, Evorkia lives in complete isolation, a mere [shadow](Life and Death) of her once incredible influence, a tragic reminder of the price of unheeded prophecy and good intentions gone awry.
 
 ### The Return of Hykravones (10,210 - 10,209 BSD)
 
@@ -251,7 +251,7 @@ This act of self-sacrifice and transformation gave rise to entirely new races, e
 - Forsaken of Anubis: Rogue vigilantes who broke away from their brethren, using their powers for their own ends.
 - Rhea: Gray-blue skinned people with a natural affinity for air and wind magic.
 - Sivakr: Silver-skinned elves with the disconcerting ability to steal and manipulate memories.
-- Nuun: Dark-skinned traders attuned to either fire or water, often found in desert regions.
+- Nuun: Dark-skinned traders attuned to either fire or water, often found in [desert](Deserts) regions.
 - Dark Elves: A now-extinct race of malicious dragon riders, their legacy living on only in myth and legend.
 
 ## The Modern Era (10,209 BSD - Present)
@@ -274,7 +274,7 @@ The Frost Fall also saw the rise of the Winterborn, a group of humans who adapte
 
 After a long absence following Hykravones' destruction, dragons made a dramatic return to Alaria. Their reemergence was met with mixed reactions. While some saw the dragons as majestic beings of power and wisdom, others remembered the tyranny of draconic rule from ages past.
 
-The return of dragons led to significant conflicts as they quickly began to reassert their dominance over large swathes of territory. This period saw a lot of fiery and bloody battles as various sentient races struggled against draconic encroachment. 
+The return of dragons led to significant conflicts as they quickly began to reassert their dominance over large swathes of territory. This period saw a lot of fiery and bloody battles as various sentient [races](Races) struggled against draconic encroachment. 
 
 Some societies formed alliances with certain dragon factions, leading to the rise of dragon riders and dragon-blessed warriors. Others developed sophisticated anti-dragon weaponry and tactics. The presence of dragons once again became a major factor in shaping the political and military landscape of Alaria.
 
@@ -303,7 +303,7 @@ In the year 312 of the Seventh Dawn, a peculiar magical phenomenon occurred that
 This event led to widespread confusion and chaos, but also to significant breakthroughs in the understanding of temporal magic. The effects of the Time Puzzle can still be seen in certain locations where time flows strangely, and in the emergence of chronomancers—mages specializing in time-based magic.
 
 ### The Peak of Hive Elves (400 SD)
-By 400 SD, the Hive Elves had reached the height of their power. This unique subrace of elves was known for their collective mind, which allowed them to operate with unparalleled coordination. Under the guidance of their Matron, they expanded their influence across Alaria, establishing colonies deep in forests, mountains, and even underground. Their society thrived on the principles of unity and harmony, but this also led to an insular nature, making them wary of outsiders.
+By 400 SD, the Hive [Elves](Elves) had reached the height of their power. This unique subrace of [elves](Elves) was known for their collective mind, which allowed them to operate with unparalleled coordination. Under the guidance of their Matron, they expanded their influence across Alaria, establishing colonies deep in forests, mountains, and even underground. Their society thrived on the principles of unity and harmony, but this also led to an insular nature, making them wary of outsiders.
 
 The Hive Elves' dominance was marked by their advanced mastery of Gaeic Magic, which they used to shape their surroundings, creating living structures that were both beautiful and functional. However, their peak also sowed the seeds of their eventual decline, as their rigid social structure struggled to adapt to the changing world beyond their borders.
 
@@ -318,14 +318,14 @@ In 1800 SD, a monumental event shook the world when Tiira, a mortal sorceress of
 Tiira's ascension marked a turning point in magical study, as her newfound divine presence influenced spellcraft and worship across Alaria. She became a deity of knowledge, transformation, and ambition, revered by those who sought to push the boundaries of magic and reality. Her followers, known as the Tiirath, established great academies and temples, spreading her teachings far and wide.
 
 ### The Creation of Goblins (1905 SD)
-In 1905 SD, the orcish lich Vezzarak sought to create a servile race to aid in his dark ambitions. Using forbidden necromantic and alchemical processes, he created the goblins—small, cunning, and resilient beings designed to serve the orcish hordes. However, Vezzarak underestimated his creations.
+In 1905 SD, the [orcish](Orcs) lich Vezzarak sought to create a servile race to aid in his dark ambitions. Using forbidden necromantic and alchemical processes, he created the goblins—small, cunning, and resilient beings designed to serve the orcish hordes. However, Vezzarak underestimated his creations.
 
 The goblins, contrary to his expectations, quickly became unruly, clever, and fiercely independent. They rebelled against their intended masters, escaping into the wilds and forming their own chaotic communities. Though they were initially viewed as mere pests, goblins adapted and survived, carving out a niche in the world. To this day, they are often treated with disdain, seen as an "escaped slave race" born from a misguided experiment.
 
 ### Chimea's Invasion (2900 SD)
 In 2900 SD, the powerful nation of Chimea embarked on a massive military campaign across the Pelakan Sea, launching an invasion of Gyendoveir and Yystrilik. This marked the beginning of a bloody and protracted war that continues to this day. Chimea, known for its disciplined army and mastery of Azyen Magic, sought to expand its territory and control key trade routes.
 
-The invasion triggered a widespread conflict, drawing in numerous allies and enemies. The war has led to widespread devastation, particularly in the contested lands where constant skirmishes have left the region scarred and divided. Despite numerous peace attempts, the conflict persists, driven by political ambitions, ancient grudges, and the strategic importance of the lands at stake.
+The invasion triggered a widespread conflict, drawing in numerous allies and enemies. The war has led to widespread devastation, particularly in the contested lands where constant skirmishes have left the [region](Regions) scarred and divided. Despite numerous peace attempts, the conflict persists, driven by political ambitions, ancient grudges, and the strategic importance of the lands at stake.
 
 ### Present Day (3376 SD)
 The world of Alaria stands on the brink of significant change. Tensions are high as the war between Chimea and the southern nations shows no sign of ending. The Sivakr continue to bide their time underground, and the Hive Elves remain in their secluded domains, wary of external influences. Meanwhile, the followers of Tiira strive to uncover new magics, and the goblins, ever resourceful, thrive in the shadows of larger societies.

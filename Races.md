@@ -1,9 +1,9 @@
-New Race Ideas
+New [Race](Races) Ideas
 
 ## Half Breeds
-- Elf-gnome, forest dwellers
+- Elf-gnome, [forest](Forests) dwellers
 - Sylthik Orcs? Buff snakes
-- Pixie Ogres—muscle bound winged creatures
+- [Pixie](Pixies) Ogres—muscle bound winged creatures
 
 
 ## Element + Non-human race
@@ -13,7 +13,7 @@ New Race Ideas
 # Humanoids
 
 ### [Druids](Druids)
-Immortal creators of the elves, extremely powerful. Born from the [Ezz Rift](Ezz Rift).
+Immortal creators of the [elves](Elves), extremely powerful. Born from the [Ezz Rift](Ezz Rift).
 
 ### [Humans](Humans)
 Versatile in all regards. Created by Gaea out of jealousy of elves.
@@ -22,7 +22,7 @@ Versatile in all regards. Created by Gaea out of jealousy of elves.
 Tend to be proud. Created by the Druids.
 
 ### [Dwarves](Dwarves)
-Staunch traditionalists. Were at one point just humans who were immune to but deeply affected by the [Laughing Plague](Laughing Plague). 
+Staunch traditionalists. Were at one point just [humans](Humans) who were immune to but deeply affected by the [Laughing Plague](Laughing Plague). 
 
 ### [Orcs](Orcs)
 A heavy emphasis on strength. Literally cannot feel fear. Created as a race of people to fight [Hykravones](Hykravones) by the good lich [Evorkia](Evorkia).

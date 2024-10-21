@@ -194,7 +194,7 @@ Whenever you reduce a creature to 0 hitpoints, your next [attack roll](Attack an
 #### Brutal Criticals
 *Heart ability. Instant. Martial talent.*
 
-Whenever you roll the maximum result on any two dice in an attack roll, you may halve the result of the enemy’s [defense roll](Attack and Defense Rolls), rounded down. Both dice must be a d6 or higher.
+Whenever you roll the maximum result on any two dice in an [attack roll](Attack and Defense Rolls), you may halve the result of the enemy’s [defense roll](Attack and Defense Rolls), rounded down. Both dice must be a d6 or higher.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
@@ -510,7 +510,7 @@ You may forgo any number of levels of [advantage](Advantage and Disadvantage) on
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-If you have advantage on an [attack roll](Attack and Defense Rolls), you gain an additional two levels of [advantage](Advantage and Disadvantage).
+If you have [advantage](Advantage and Disadvantage) on an [attack roll](Attack and Defense Rolls), you gain an additional two levels of [advantage](Advantage and Disadvantage).
 
 <br>
 <hr>
@@ -902,7 +902,7 @@ This ability affects enemies that have natural armor as well. If the creature ha
 <br>
 <hr>
 
-#### Take Advantage
+#### Take [Advantage](Advantage and Disadvantage)
 *Passive ability. Cognitive talent.*
 
 Whenever an enemy has two or more levels of weakened, dazed, or off-balanced, or has two or more conditions affecting it, you have A2 on your attacks against them.
@@ -921,7 +921,7 @@ After entering an engagement, but before anyone declares stances, you may use th
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
-Ignore the creature’s entire defense roll instead.
+Ignore the creature’s entire [defense roll](Attack and Defense Rolls) instead.
 
 <br>
 <hr>
@@ -965,7 +965,7 @@ You may use your fists as heavy weapons.
 #### Whirlwind Strike
 *Major ability. Instant. Martial talent.*
 
-When you make an attack roll against an enemy using a melee slashing weapon, you may make the attack a whirlwind attack. If you do, creatures of your choice within melee range must make a defense roll against your attack roll and take the damage as well. This only counts as making one attack.
+When you make an attack roll against an enemy using a melee slashing weapon, you may make the attack a whirlwind attack. If you do, creatures of your choice within melee range must make a defense roll against your [attack roll](Attack and Defense Rolls) and take the damage as well. This only counts as making one attack.
 
 <div class="destiny-level">Destiny Level</div class="destiny-level">
 
