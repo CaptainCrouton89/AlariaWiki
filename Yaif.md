@@ -1,5 +1,5 @@
 ## Overview
-Yaif is a arid, somewhat mountainous country known for its potent herbs, exotic beasts, and enigmatic ruins. It reluctantly joined the Tarkhon Empire to gain protection from aggressive neighbors.
+Yaif is a arid, somewhat mountainous country known for its potent herbs, exotic beasts, and enigmatic ruins. 
 
 ## Government & Peoples
 - **Government Type**: Theocracy led by a council of Druid-Priests
