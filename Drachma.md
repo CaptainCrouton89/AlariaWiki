@@ -1,4 +1,4 @@
-Tags: [race](Races), [human](Human)
+Tags: [race](Races), [humans](Humans)
 
 # Overview
 
