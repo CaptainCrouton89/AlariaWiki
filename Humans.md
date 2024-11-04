@@ -17,7 +17,7 @@ Tags: [race](Races)
 - [Sharabha](Sharabha): Honorable and fierce descendents of Shara Bolasi
 - [Naga](Naga): Easily enraged descendents of Nagatayora
 - [Husakas](Husakas): Scorpion riders of Kunagi [desert](Deserts)
-- [The%20Guiltless](The%20Guiltless): Incapable of doing harm, found throughout bloodlines
+- [The Guiltless](The Guiltless): Incapable of doing harm, found throughout bloodlines
 - [Qord'ik](Qord'ik): Hearty tall seafarers from the Free Isles
 - [Shontobi](Shontobi): Family oriented horseriding samurai
 - [Tarnak](Tarnak): Bloodmagic wielding shamans
