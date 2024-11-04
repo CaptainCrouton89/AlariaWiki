@@ -25,4 +25,4 @@ Max Age: 80
 #### Instinctive
 *Passive ability.*
 
-When you gain this ability, choose might, agility, cunning, or presence. Whenever you roll a 1 while using that ability, you may declare one thing about the result of the roll. You cannot declare success at your intended task.
+When you get a complication on a skill check and choose to reroll, add 3 to the new result. 
