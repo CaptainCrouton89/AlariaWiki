@@ -35,12 +35,8 @@ Max Age: 80
 
 ### Traits
 
-#### Grit
-*Passive ability.*
-
-Whenever you take a wound, you gain an additional rush points at the start of the next round.
-
-#### Diversity
+#### Human Resilience and Diversity
 *Passive ability.*
 
 When you gain this ability, choose one talent. You gain this talent as a racial ability (it does not count towards the number of talents you have). 
+In addition, whenever you take a wound, you gain a rush point at the start of the next round.
