@@ -26,8 +26,3 @@ Max Age: 80
 *Passive ability.*
 
 When you gain this ability, choose might, agility, cunning, or presence. Whenever you roll a 1 while using that ability, you may declare one thing about the result of the roll. You cannot declare success at your intended task.
-
-#### Second Lid
-*Passive ability.*
-
-You have [advantage](Advantage and Disadvantage) on perception checks to spot things underwater.
