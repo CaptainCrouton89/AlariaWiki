@@ -1,1 +1,0 @@
-This is a test note created by Claude on April 22, 2025.
