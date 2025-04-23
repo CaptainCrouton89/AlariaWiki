@@ -1,6 +1,6 @@
-[state](tags/state), [confederation](tags/confederation), [race](tags/race), [culture](tags/culture)
+[faction](tags/faction), [region](tags/region), [politics](tags/politics), [race](tags/race)
 
-A region of diverse races with complex social and political dynamics, characterized by feudal fragmentation, racial tensions, and a rich tradition of warfare, craftsmanship, and espionage.
+The Dalizi Confederation is a patchwork region characterized by fragile alliances, racial diversity, and constant political intrigue. It features a complex tapestry of human, dwarven, gnomish, and minotaur populations, each contributing to the region's culture and conflicts.
 
 ## Racial Composition
 
