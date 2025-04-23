@@ -1,4 +1,6 @@
-[state](tags/state), [confederation](tags/confederation)
+[state](tags/state), [confederation](tags/confederation), [race](tags/race), [culture](tags/culture)
+
+A region of diverse races with complex social and political dynamics, characterized by feudal fragmentation, racial tensions, and a rich tradition of warfare, craftsmanship, and espionage.
 
 ## Racial Composition
 
